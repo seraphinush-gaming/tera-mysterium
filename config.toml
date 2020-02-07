@@ -1,0 +1,16 @@
+baseURL = "http://seraphinush-gaming.github.io/ktera-patch-notes/"
+title = "K TERA patch note translations | seraphinush"
+
+languageCode = "en-us"
+theme = "hugo-notepadium"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[params]
+style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
+dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
+logo = ""  # if you have a logo png
+slogan = "100% JavaScript-free"
+license = "MIT License"  # CC License
