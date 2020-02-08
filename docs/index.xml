@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K TERA patch note translations | seraphinush</title>
+    <link>/ktera-patch-notes/</link>
+    <description>Recent content on K TERA patch note translations | seraphinush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/ktera-patch-notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>/ktera-patch-notes/post/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ktera-patch-notes/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/ktera-patch-notes/about/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ktera-patch-notes/about/</guid>
+      <description>Hi, my name is seraphinush aka. seraph and i translate K TERA patch notes and more. aside from that i&amp;rsquo;m just your average TERA player with subpar DPS while playing my main Archer on Velika, NA TERA and Glory of Arun, K TERA.
+If you have any questions, my discord tag is seraphinush#5417, i&amp;rsquo;ll be happy to answer to the best of my knowledge.</description>
+    </item>
+    
+  </channel>
+</rss>

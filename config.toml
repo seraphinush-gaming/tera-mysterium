@@ -2,6 +2,7 @@ baseURL = "http://seraphinush-gaming.github.io/ktera-patch-notes/"
 title = "K TERA patch note translations | seraphinush"
 
 languageCode = "en-us"
+publishDir = "docs"
 theme = "hugo-notepadium"
 
 [markup.highlight]
