@@ -4,4 +4,4 @@ Blog repository for blog by seraphinush-gaming
 Support seraph via paypal donations, thanks in advance !
 ```
 
-Visit blog at : [https://seraphinush-gaming.github.io/ktera-patch-notes/](https://seraphinush-gaming.github.io/ktera-patch-notes/)
+Visit blog at : [https://seraphinush-gaming.github.io/noctenium/](https://seraphinush-gaming.github.io/noctenium/)
