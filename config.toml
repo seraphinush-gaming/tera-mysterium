@@ -34,3 +34,4 @@ showTags = true
 
 [taxonomies]
 category = "categories"
+tag = "tags"
