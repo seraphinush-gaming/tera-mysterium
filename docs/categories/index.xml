@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on K TERA patch note translations | seraphinush</title>
-    <link>/ktera-patch-notes/categories/</link>
-    <description>Recent content in Categories on K TERA patch note translations | seraphinush</description>
+    <title>Categories on noctenium</title>
+    <link>/noctenium/categories/</link>
+    <description>Recent content in Categories on noctenium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/ktera-patch-notes/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/noctenium/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>patch notes</title>
-      <link>/ktera-patch-notes/categories/patch-notes/</link>
+      <link>/noctenium/categories/patch-notes/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/ktera-patch-notes/categories/patch-notes/</guid>
+      <guid>/noctenium/categories/patch-notes/</guid>
       <description></description>
     </item>
     

@@ -1,5 +1,6 @@
-baseURL = "https://seraphinush-gaming.github.io/ktera-patch-notes/"
-title = "K TERA patch note translations | seraphinush"
+baseURL = "https://seraphinush-gaming.github.io/noctenium/"
+title = "noctenium"
+slogan = "Blog by seraphinush-gaming"
 
 languageCode = "en-us"
 publishDir = "docs"

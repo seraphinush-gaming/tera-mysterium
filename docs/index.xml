@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>K TERA patch note translations | seraphinush</title>
-    <link>/ktera-patch-notes/</link>
-    <description>Recent content on K TERA patch note translations | seraphinush</description>
+    <title>noctenium</title>
+    <link>/noctenium/</link>
+    <description>Recent content on noctenium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/ktera-patch-notes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/noctenium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>/ktera-patch-notes/posts/</link>
+      <link>/noctenium/posts/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/ktera-patch-notes/posts/</guid>
+      <guid>/noctenium/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/ktera-patch-notes/about/</link>
+      <link>/noctenium/about/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/ktera-patch-notes/about/</guid>
+      <guid>/noctenium/about/</guid>
       <description>Hi, my name is seraphinush aka. seraph and i translate K TERA patch notes and more. aside from that i&amp;rsquo;m just your average TERA player with subpar DPS playing my main Archer on Velika, NA TERA and Glory of Arun, K TERA.
 If you have any questions, my discord tag is seraphinush#5417, i&amp;rsquo;ll be happy to answer to the best of my knowledge.</description>
     </item>

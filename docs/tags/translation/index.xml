@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>translation on K TERA patch note translations | seraphinush</title>
-    <link>/ktera-patch-notes/tags/translation/</link>
-    <description>Recent content in translation on K TERA patch note translations | seraphinush</description>
+    <title>translation on noctenium</title>
+    <link>/noctenium/tags/translation/</link>
+    <description>Recent content in translation on noctenium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/ktera-patch-notes/tags/translation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/noctenium/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>v92.01 patch notes | K TERA</title>
-      <link>/ktera-patch-notes/posts/translations/2020/v92.01/</link>
+      <link>/noctenium/posts/translations/2020/v92.01/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/ktera-patch-notes/posts/translations/2020/v92.01/</guid>
+      <guid>/noctenium/posts/translations/2020/v92.01/</guid>
       <description>1. PvP content revision - Added the following rank 1 specific reward ~~per class~~ to the following Battlegrounds (edited 2/7) : - Corsairs&#39; Stronghold : Corsairs&#39; Stronghold Season Rank 1 Trophy - Shorehold : Shorehold Season Rank 1 Trophy - Trophies can be sold to the merchant for 25,000 gold, or collect exchange 6 or 10 trophies to exchange for 6 Time Rank 1 Trophy or 10 Time Rank 1 Trophy (added 2/7) - 6 Time Rank 1 Trophy and 10 Time Rank 1 Trophy can be exchanged from the pop-up merchant via right click (added 2/7) - A custom title will be made to those in possession of 6 Time Rank 1 Trophy (added 2/7) - A custom weapon skin will be made to those in possession of 10 Time Rank 1 Trophy (added 2/7) - The item can be used before Jan 31st, 2021, by 23:59, and will be removed automatically - The rewards will start distributing starting with season 13 (added 2/7) - Battleground Vanguard Request - Adjusted gold reward of the following Vanguard Requests : - Corsairs&#39; Stronghold : from 2,200 gold to 3,000 gold - Shore Hold : from 800 gold to 2,500 gold - Champion&#39;s Skyring : from 200 gold to 500 gold - Added (Random) Skill Advancement Tome Box - (Random) Skill Advancement Tome Box gives a Skill Advancement Tome giving between 30,000 and 200,000 Skill Advance XP - Bellicarium Credit Merchant - Significantly decreased the cost to purchase PvP gear enchanting materials - Decreased resale price to a tenth of the current price as appropriate to the decrease in credit cost - Violet Particle : from 31,250 credit to 3,125 credit - Violet Plate : from 218,750 credit to 21,875 credit - Azure Particle : from 31,250 credit to 3,125 credit - Azure Plate : from 218,750 credit to 21,875 credit - Added the following items to the credit merchant : - Skill Advancement XP Tome IV (200,000 XP) : 1,000,000 credit - Refined Lepidoptera Crystal Dust : 200,000 credit - Refined Lepidoptera Crystal Dust : 200,000 credit - Purified Ring Fragment : 200,000 credit - Purified Ornament Fragment : 200,000 credit - Honed Dark Shard Cohesion Arcane : 1,500,000 credit - Annealed Dark Shard Cohesion Arcane : 1,000,000 credit - Refined Duranium Fragment : 10,000 credit 2.</description>
     </item>
     
     <item>
       <title>2016.07.21 patch notes | K TERA</title>
-      <link>/ktera-patch-notes/posts/translations/2016/2016-07-21/</link>
+      <link>/noctenium/posts/translations/2016/2016-07-21/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ktera-patch-notes/posts/translations/2016/2016-07-21/</guid>
+      <guid>/noctenium/posts/translations/2016/2016-07-21/</guid>
       <description>Update: 2016.07.26 - additional sorcerer pve/pvp buffs
 ## 1. Class renewal: Sorcerer- Removed Ice Needle- Removed Fireblast- Removed Magma Bomb- Removed OverchannelBurst of Celerity- Changed into passive skill- Changed to increase attack speed by 30%Arcane Pulse- Decreased charge by 1 bar, and blast 2 pulses are full charge- Increased number of pulses with Overchanneling effect- Increased speed of pulse- Changed to immediately fire at full charge- Increased damage- Decreased glyph point for Glyph of Power (common) from 4 to 3 - Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3Mana infusion- Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds- Added Glyph of Energy (common) (4 points; decrease cooldown by 30%)Ice Sphere (new)- Replaces Ice Needle- Fires Ice Sphere towards the front.</description>
     </item>
