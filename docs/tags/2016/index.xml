@@ -174,12 +174,30 @@
     </item>
     
     <item>
+      <title>2016.08.30 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-08-30/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-08-30/</guid>
+      <description>## 1. Dungeon - Fixed issue allowing players to enter cleared phases in Destroyed Gateway to God’s Realm (DGGR). - Fixed issue where players could iframe the sphere explosion in phase 3 of DGGR. - Fixed issue where Vergoth’s target pattern would intermittently be stacked twice. - Fixed issue where Breathe attack could be blocked in phase 4 of DGGR. - Fixed issue where players could potentially die from spawning rock pillars in phase 4 of DGGR.</description>
+    </item>
+    
+    <item>
       <title>2016년 08월 30일 업데이트 안내</title>
       <link>/noctenium/posts/raw/2016/2016-08-30/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-08-30/</guid>
       <description>[버그수정 내역] 1. 던전 - 파괴된 신계의 관문 던전에서 클리어한 단계의 페이즈를 다시 입장 가능한 문제를 수정하였습니다. - 파괴된 신계의 관문 3페이즈 속성 구슬 사용 패턴 후 불, 분진 구슬 폭발 시 회피 및 무적 스킬로 대응이 가능한 문제를 수정하였습니다. - 파괴된 신계의 관문 베르고스가 사용하는 베르고스의 주시 패턴이 간헐적으로 2중첩 되는 문제를 수정하였습니다. - 파괴된 신계의 관문 4페이즈 근거리 폭발 후 돌 소환 패턴에서 공중 브레스 스킬을 막기 스킬로 방어 가능한 문제를 수정하였습니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.08.25 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-08-25/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-08-25/</guid>
+      <description>## 1. Dungeon - New dungeon ‘Destroyed Gateway to God’s Realm’ added (referred to as DGGR from here on) - 30 man level 65 raid - Can be entered through teleportal located at Velika Outskirts. - DGGR does not support cross-server instance party matching system. - DGGR holds 4 stages/phases, and each stage/phase will give rewards. - (Rewards can be looted by breaking instantiated reward box upon clearing, and reward will not be given unless player is located within 100m when the reward box is broken).</description>
     </item>
     
     <item>
@@ -198,6 +216,15 @@
       
       <guid>/noctenium/posts/raw/2016/2016-08-18/</guid>
       <description>1. 던전 - 릴리스의 성 일부 패턴의 밸런스가 하향됩니다. - 왁스파이더와 전투 시 생성되는 굳어가는 촛농 게이지가 1초에 1씩 상승하도록 변경 - 릴리스의 원거리 브레스 패턴 데미지 하향 - 광역 밀쳐내기에 피격 시 부여되는 이동속도 감소 이상상태 제거 - 전투공간 제한 패턴의 맵 중앙에 생성되는 도트 장판 제거 - 포악한 베르노의 실험실에서 ‘라켈리스의 목걸이: 치명’, ‘라켈리스의 목걸이: 힘’이 추가 드랍됩니다. - 아래 던전은 서버간 파티매칭으로만 입장할 수 있게 변경됩니다. ※ 일반 던전은 최대 4인 파티 후 매칭, 베르노는 최대 5인 파티 후 매칭 시 입장이 가능합니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.08.11 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-08-11/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-08-11/</guid>
+      <description>## 1. Skill - Berserker - Increased damage against dungeon monsters/BAMs - Sorcerer - Increased casting speed of the following skills - Glacial Retreat by 20% - Painblast by 20% - Nova by 25% - Lightning Bolt by 15% - Increased PvP damage of the following skills - Meteor Fall / Overchanneled Meteor Fall - Void Pulse - Flame Pillar - Lightning Bolt - Decreased damage by 15% - Warp Barrier - Changed MP cost to 0 - Recover a maximum of 5% MP upon casting - Recover a maximum of 5% MP upon taking damage no longer works - Overchanneling does not apply when Warp Barrier is in effect - Ice Sphere - Decreased skill AoE - Meteor Fall / Overchanneled Meteor Fall - Able to use Backstep while casting - Reference: Slayer balance patch will be on the 08/25 update.</description>
     </item>
     
     <item>
@@ -234,7 +261,7 @@
       
       <guid>/noctenium/posts/translations/2016/2016-07-21/</guid>
       <description>Update: 2016.07.26 - additional sorcerer pve/pvp buffs
-## 1. Class renewal: Sorcerer- Removed Ice Needle- Removed Fireblast- Removed Magma Bomb- Removed OverchannelBurst of Celerity- Changed into passive skill- Changed to increase attack speed by 30%Arcane Pulse- Decreased charge by 1 bar, and blast 2 pulses are full charge- Increased number of pulses with Overchanneling effect- Increased speed of pulse- Changed to immediately fire at full charge- Increased damage- Decreased glyph point for Glyph of Power (common) from 4 to 3 - Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3Mana infusion- Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds- Added Glyph of Energy (common) (4 points; decrease cooldown by 30%)Ice Sphere (new)- Replaces Ice Needle- Fires Ice Sphere towards the front.</description>
+## 1. Class renewal: Sorcerer- Removed Skills- Removed Ice Needle- Removed Fireblast- Removed Magma Bomb- Removed Overchannel- Burst of Celerity- Changed into passive skill- Changed to increase attack speed by 30%-Arcane Pulse- Decreased charge by 1 bar, and blast 2 pulses are full charge- Increased number of pulses with Overchanneling effect- Increased speed of pulse- Changed to immediately fire at full charge- Increased damage- Decreased glyph point for Glyph of Power (common) from 4 to 3 - Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3- Mana infusion- Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds- Added Glyph of Energy (common) - 4 points- Decrease cooldown by 30%- Ice Sphere (new)- Replaces Ice Needle- Fires Ice Sphere towards the front.</description>
     </item>
     
     <item>
