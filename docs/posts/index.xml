@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>2020.02.06 patch notes | K TERA</title>
+      <title>2020.02.06 patch notes (v92.01) | K TERA</title>
       <link>/noctenium/posts/translations/2020/v92-01/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>2020년 02월 06일 업데이트 안내</title>
+      <title>2020년 02월 06일 업데이트 안내 (v92.01)</title>
       <link>/noctenium/posts/raw/2020/v92-01/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -35,7 +35,16 @@
       <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-12-29/</guid>
-      <description>1. 성장구간 던전 난이도 개선 - 성장구간 던전 매칭룰에서 [탱커 없이 매칭] 룰이 재적용 됩니다. - 업데이트 이후부터는 탱커 없이 매칭을 시도할 수 있습니다. - 안내 팝업을 통해 탱커 없이 매칭 진행 여부를 선택할 수 있습니다. - 성장구간 [발키온 연합 지령서 : 선택지령]에도 장비 교환 토큰 보상이 추가됩니다. - 장비 교환 토큰 보상 추가 지령서는 아래와 같습니다. - 퀘스트 이름 | 추가템 이름 - 로더크 농장의 괴수 토벌 요청! | Lv.</description>
+      <description>## 1. 성장구간 던전 난이도 개선 - 성장구간 던전 매칭룰에서 [탱커 없이 매칭] 룰이 재적용 됩니다. - 업데이트 이후부터는 탱커 없이 매칭을 시도할 수 있습니다. - 안내 팝업을 통해 탱커 없이 매칭 진행 여부를 선택할 수 있습니다. - 성장구간 [발키온 연합 지령서 : 선택지령]에도 장비 교환 토큰 보상이 추가됩니다. - 장비 교환 토큰 보상 추가 지령서는 아래와 같습니다. - 퀘스트 이름 | 추가템 이름 - 로더크 농장의 괴수 토벌 요청! | Lv.</description>
+    </item>
+    
+    <item>
+      <title>2016.12.22 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-12-22/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-12-22/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -44,7 +53,7 @@
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-12-22/</guid>
-      <description>1. 신규 클래스: 월광무사 - 신규 클래스 월광무사가 추가되었습니다. - 월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. - 액티브 스킬 - [1](/images/2016-12-22-1.png) - 패시브 스킬 - [2(/images/2016-12-22-2.png) - 문장 - [3](/images/2016-12-22-3.png) 2. 성장구간 사냥터 난이도 개선 - 성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. - 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. - 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.</description>
+      <description>## 1. 신규 클래스: 월광무사 - 신규 클래스 월광무사가 추가되었습니다. - 월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. - 액티브 스킬 - [1](/images/2016-12-22-1.png) - 패시브 스킬 - [2(/images/2016-12-22-2.png) - 문장 - [3](/images/2016-12-22-3.png) ## 2. 성장구간 사냥터 난이도 개선 - 성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. - 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. - 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.</description>
     </item>
     
     <item>
@@ -53,7 +62,16 @@
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-12-13/</guid>
-      <description>[버그수정] - 스킬 - 2개의 인술사 캐릭터가 회피 연막술을 함께 사용하였을 때 확률적으로 스킬의 효과가 적용되지 않는 문제 - 권술사의 거인의 힘 사용 시 분노 게이지 차감 속도와 효과 지속시간 싱크가 맞지 않는 문제 - 거인의 힘 사용 시 효과 지속시간보다 분노 게이지의 차감 속도가 느려서 발생한 문제 - 무사 파괴의 기백 스킬을 빠르게 캔슬할 경우 재사용시간이 적용되지 않으며 다른 스킬의 쿨타임 초기화가 이루어지는 문제 - (추가)마공사의 비전 수류탄이 대상에게 폭발 후 계속해서 튕겨 나가는 문제 - UI - MP 외 별도 자원을 필요로 하는 스킬들을 추가 숏컷에 등록한 뒤 자원이 가득 채워졌다가 0이 되면 해당 스킬의 하이라이트 효과가 사라지지 않는 문제 - 문장 - 비검사의 비검 회전 칼날 스킬에 동일한 이름의 문장이 2개 존재하는 문제 - 업적 - 서버간 파티매칭 관련 업적 달성이 불가능한 문제 - 부가서비스 - 갤럭시 탈 것 스킬교본에 ‘획득일시’ 안내 문구가 출력되는 문제 </description>
+      <description>## [버그수정] - 스킬 - 2개의 인술사 캐릭터가 회피 연막술을 함께 사용하였을 때 확률적으로 스킬의 효과가 적용되지 않는 문제 - 권술사의 거인의 힘 사용 시 분노 게이지 차감 속도와 효과 지속시간 싱크가 맞지 않는 문제 - 거인의 힘 사용 시 효과 지속시간보다 분노 게이지의 차감 속도가 느려서 발생한 문제 - 무사 파괴의 기백 스킬을 빠르게 캔슬할 경우 재사용시간이 적용되지 않으며 다른 스킬의 쿨타임 초기화가 이루어지는 문제 - (추가)마공사의 비전 수류탄이 대상에게 폭발 후 계속해서 튕겨 나가는 문제 - UI - MP 외 별도 자원을 필요로 하는 스킬들을 추가 숏컷에 등록한 뒤 자원이 가득 채워졌다가 0이 되면 해당 스킬의 하이라이트 효과가 사라지지 않는 문제 - 문장 - 비검사의 비검 회전 칼날 스킬에 동일한 이름의 문장이 2개 존재하는 문제 - 업적 - 서버간 파티매칭 관련 업적 달성이 불가능한 문제 - 부가서비스 - 갤럭시 탈 것 스킬교본에 ‘획득일시’ 안내 문구가 출력되는 문제 </description>
+    </item>
+    
+    <item>
+      <title>2016.12.08 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-12-08/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-12-08/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -62,7 +80,16 @@
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-12-08/</guid>
-      <description>1. 스킬 - 광전사 - 흡혈 광타, 혼신의 일격 - 높은 HP를 유지한 상태에서 데미지가 과도하게 낮았던 문제가 수정됩니다. - 시전자의 HP에 따른 데미지 비율이 다음과 같이 변경됩니다. - HP 100%~90%: 1배, HP 90%~80%: 1.1배 - 이후 HP 10% 단위로 1.1배 데미지 상승 (최종적으로 HP 10%~0%: 2배) - 무사 - 후려치기 - 진공 3단 베기 1타, 2타 이후에도 후려치기가 연계 되도록 변경됩니다. - 진공 3단 베기 연계 시 지나치게 빠르게 시전 되었던 문제가 수정됩니다.</description>
+      <description>## 1. 스킬 - 광전사 - 흡혈 광타, 혼신의 일격 - 높은 HP를 유지한 상태에서 데미지가 과도하게 낮았던 문제가 수정됩니다. - 시전자의 HP에 따른 데미지 비율이 다음과 같이 변경됩니다. - HP 100%~90%: 1배, HP 90%~80%: 1.1배 - 이후 HP 10% 단위로 1.1배 데미지 상승 (최종적으로 HP 10%~0%: 2배) - 무사 - 후려치기 - 진공 3단 베기 1타, 2타 이후에도 후려치기가 연계 되도록 변경됩니다. - 진공 3단 베기 연계 시 지나치게 빠르게 시전 되었던 문제가 수정됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.12.01 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-12-01/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-12-01/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -71,7 +98,7 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-12-01/</guid>
-      <description>1. 스킬 - 광전사 - 모아치기 - PVE 데미지가 15% 증가합니다. - PVP 데미지가 소폭 증가합니다. - 숙련의 문장(일반) 소모 포인트가 7포인트에서 6포인트로 조정됩니다. - 숙련의 문장(고급) 소모 포인트가 6포인트에서 5포인트로 조정됩니다. - 숙련의 문장(희귀) 소모 포인트가 5포인트에서 4포인트로 조정됩니다. - 차징 단계마다 이펙트가 출력되며, 타격 범위에 대한 가시성이 향상되었습니다. - [1](/images/2016-12-01-1.png) - 광폭화 - [일반] 상태에서는 이동하면서 시전 가능하도록 변경됩니다. - 기합 - 스킬을 삭제하고, 스킬 효과 및 문장을 집념 효과에 추가하였습니다.</description>
+      <description>## 1. 스킬 - 광전사 - 모아치기 - PVE 데미지가 15% 증가합니다. - PVP 데미지가 소폭 증가합니다. - 숙련의 문장(일반) 소모 포인트가 7포인트에서 6포인트로 조정됩니다. - 숙련의 문장(고급) 소모 포인트가 6포인트에서 5포인트로 조정됩니다. - 숙련의 문장(희귀) 소모 포인트가 5포인트에서 4포인트로 조정됩니다. - 차징 단계마다 이펙트가 출력되며, 타격 범위에 대한 가시성이 향상되었습니다. - [1](/images/2016-12-01-1.png) - 광폭화 - [일반] 상태에서는 이동하면서 시전 가능하도록 변경됩니다. - 기합 - 스킬을 삭제하고, 스킬 효과 및 문장을 집념 효과에 추가하였습니다.</description>
     </item>
     
     <item>
@@ -111,6 +138,15 @@
     </item>
     
     <item>
+      <title>2016.10.27 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-10-27/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-10-27/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
       <title>2016년 10월 27일 업데이트 안내</title>
       <link>/noctenium/posts/raw/2016/2016-10-27/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
@@ -126,6 +162,15 @@
       
       <guid>/noctenium/posts/raw/2016/2016-10-20/</guid>
       <description>1. 아이템 - 이벤트 관련 아래 아이템이 삭제되었습니다. (신규/복귀자 이벤트가 일부 캐릭터에 적용되던 오류는 10월 13일(목) 정기점검 시 수정 완료되었습니다.) 삭제 대상 아이템 - [이벤트] 9단계 +12 강화 주문서 (100%) [이벤트] 9단계 +12 강화 주문서 - [이벤트] 베르노 코인 [버그수정 내역] - 업적 - 업적 시즌이 변경되지 않았으나 10월 13일(목) 업데이트 이후 업적 점수가 상승한 문제가 수정되었습니다. </description>
+    </item>
+    
+    <item>
+      <title>2016.10.13 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-10-13/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-10-13/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -147,12 +192,30 @@
     </item>
     
     <item>
+      <title>2016.09.29 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-09-29/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-09-29/</guid>
+      <description>## 1. Dungeon - Added new dungeon [Twisted Lakan’s Altar] Twisted Lakan’s Altar is a 5man party dungeon - Can be entered through teleportal in Arcadia &amp;gt; Oblivion Woods &amp;gt; Deva Silva, and requires iLvl 417 to enter via IMS - Rewards are Tier 2 Demense earring/ring, Imperator Belt, Cleansing Brooch, Goldfinger Token, Eau d&#39;Fascination, Lachelith’s Treasure Box, Imperator designs, Ambush designs, Rare innerwear, Dyad Niveot Structure, and etc - Added [Twisted Lakan’s Altar] to guild quest - Destroyed Gateway to God’s Realm (GDDR) - Adjusted balance per phase - Phase 1 - Decreased Agalith damage by 15% - Decreased Agalith HP by 10% - Phase 2 - Increased Balista skill damage by 20% - Phase 3 - Decreased Vergoth defense by 5% - Phase 4 - Increased attack speed of aerial breathe by 10% - Increased attack speed of stoning attack due to close-range explosion by 15% - Decreased gold drop per phase - Gold Hunter Boost/Internet Cafe/Elite related bonus gold will no longer apply - Increased the upper limit of gold given, and decreased lower limit - Decreased the number of gold item dropped - Exchanged the loot table between Phase 1 and Phase 2 - Clearing Phase 2 gives Phase 1 loot, and clearing Phase 1 gives Phase 2 loot - Changed loot table and loot probability of Vergoth’s Bronze/Silver/Gold Treasure Box - Removed Diamond - Added Goddess’s Tear and Superior Etching Box - 각 페이즈의 기본보상인 베르고스의 전투 주머니에 강화석이 추가로 구성됩니다.</description>
+    </item>
+    
+    <item>
       <title>2016년 09월 29일 업데이트 안내</title>
       <link>/noctenium/posts/raw/2016/2016-09-29/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-09-29/</guid>
-      <description>1. 던전 - 신규 던전 [뒤틀린 라칸의 제단]이 추가됩니다. - 뒤틀린 라칸의 제단은 65레벨 5인 파티 던전입니다. - 아르카니아 가드 &amp;gt; 잊혀진 숲 &amp;gt; 패잔병의 은신처 근방에 위치한 차원의 마법석을 통해 입장할 수 있으며, 아이템 레벨 417 달성 시 서버간 파티매칭을 통해서도 입장할 수 있습니다. - 보상 아이템으로 초월한 라켈리스의 귀걸이/반지, 철기장 복수 허리띠, 정화의 토템(전설), 오르피우스의 메달, 매혹의 향수, 라켈리스의 보물상자, 철기장:복수 제작도안, 철기장:매혹 제작도안, 희귀 잿빛 속옷, 아티팩트 원석 등을 획득할 수 있습니다.</description>
+      <description>## 1. 던전 - 신규 던전 [뒤틀린 라칸의 제단]이 추가됩니다. - 뒤틀린 라칸의 제단은 65레벨 5인 파티 던전입니다. - 아르카니아 가드 &amp;gt; 잊혀진 숲 &amp;gt; 패잔병의 은신처 근방에 위치한 차원의 마법석을 통해 입장할 수 있으며, 아이템 레벨 417 달성 시 서버간 파티매칭을 통해서도 입장할 수 있습니다. - 보상 아이템으로 초월한 라켈리스의 귀걸이/반지, 철기장 복수 허리띠, 정화의 토템(전설), 오르피우스의 메달, 매혹의 향수, 라켈리스의 보물상자, 철기장:복수 제작도안, 철기장:매혹 제작도안, 희귀 잿빛 속옷, 아티팩트 원석 등을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.09.22 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-09-22/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-09-22/</guid>
+      <description>## 1. Civil Unrest - Reopened Civil Unrest - Some comment - Some comment - Changed loot table for bams in CU - Increased the number of Diamond and Emerald - Changed Imperator gear box to Ambush gear box - Added message upon kill or death during CU - Added 5 contribution points upon kill or death during CU - Can only be obtained while Guild Tower exists - Added Guild XP to CU rank 1-10 - Rank : Guild XP - 1 : 340 - 2 : 145 - 3 : 97 - 4 : 82 - 5 : 82 - 6 : 75 - 7 : 75 - 8 : 75 - 9 : 75 - 10 : 75 ## 2.</description>
     </item>
     
     <item>
@@ -161,7 +224,16 @@
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-09-22/</guid>
-      <description>1. 길드대전 - 길드대전이 재오픈됩니다. - 오는 9월 24일 첫 길드대전이 시작됩니다. - 매 주 토요일 2시간씩 운영되며, 해당 시간에만 전초기지에 대한 공격이 가능합니다. - 길드대전 지역에 출현하는 대형 몬스터 보상이 변경됩니다. - 다이아몬드, 에메랄드 드랍 수량이 대폭 증가합니다. - 철기장 복수 상자 보상이 철기장:매혹 상자로 변경됩니다. - 길드대전 적을 죽이거나 죽었을 때 관련 킬/데스 메시지가 출력됩니다. - 길드대전 진행 중 적을 죽이거나 죽었을 때 길드활동에 참여한 공헌도 5점을 획득합니다. - 길드대전 진행 중 전초기지가 존재하는 경우에만 획득할 수 있습니다.</description>
+      <description>## 1. 길드대전 - 길드대전이 재오픈됩니다. - 오는 9월 24일 첫 길드대전이 시작됩니다. - 매 주 토요일 2시간씩 운영되며, 해당 시간에만 전초기지에 대한 공격이 가능합니다. - 길드대전 지역에 출현하는 대형 몬스터 보상이 변경됩니다. - 다이아몬드, 에메랄드 드랍 수량이 대폭 증가합니다. - 철기장 복수 상자 보상이 철기장:매혹 상자로 변경됩니다. - 길드대전 적을 죽이거나 죽었을 때 관련 킬/데스 메시지가 출력됩니다. - 길드대전 진행 중 적을 죽이거나 죽었을 때 길드활동에 참여한 공헌도 5점을 획득합니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.09.13 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-09-13/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-09-13/</guid>
+      <description>## 1. Skill - Archer - Removed Bloodlust effect (additional damage as HP of monster decreases) from Thunderbolt - Adjusted the excessive PvP damage of Thunderbolt - Changed Rapid Fire - Glyph of Power from increase skill damage by 50% to 20% - Changed Rapid Fire - Glyph of Persistence from eliminate cooldown by 30% to 15% ## 2. Item - kTERA exclusive ## 3. Miscellaneous (added) - Rootstock Festival is activated (K TERA exclusive) - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment </description>
     </item>
     
     <item>
@@ -174,12 +246,30 @@
     </item>
     
     <item>
+      <title>2016.09.08 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-09-08/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-09-08/</guid>
+      <description>## 1. Skill - Archer - Added new skill [Pursuit] - Skill description - Added new skill [Foresight] - Skill description - Increased damage of Thunderbolt by 100% - Changed skill display - Added Noctenium effect - Consumes 2 Noctenium Infusion, increases damage by 9-13% - Increased damage of Radiant Arrow by 25% - Changed skill display - Increased damage of Penetrating Arrow by 25% - Changed skill display - Increased damage of Rain of Arrows by 10% - First hit positioning will determine the positioning of the entire skill - Changed skill display - Changed Backstep to be directional input - Changed Breakaway Bolt to be directional input - Increased damage of Rapid Fire - Increased damage of first hit by 3 times - Increased damage of 2~7 hit by 10% - Focus Preparation stacks per hit - Increased casting speed of Poison Arrow - Increased maximum poison stack to 3 - Changed Ensnaring Trap from 1 hit to 2 hit - Re-clicking the skill will trigger the second hit of the trap - Second hit of skill will apply decrease movement speed by 90% effect - Movement speed debuff will be halved in PvP - Time limit to trigger the second hit is 3 seconds - Changed skill sound and display - Changed Eagle’s Eye effect - Before: Increase damage against bams by 5% - After: Increase damage against monsters by 7% - Removed Sniper’s Eye - Renamed Final Salvo to Successive Shot - Combined 5 hits to a single hit - Increased the damage to be 40% more than the sum damage of the original 5 hits - Changed skill display - Broadened the skills that applies Focus Preparation - Changed the skill effect from using Arrow to Focus Preparation - Focus Preparation will stack from Arrow, Successive Shot, and Rapid Fire, and upon 10 stacks Focus effect will apply increasing the charging speed of all charge skills - Changed and added glyphs - Rapid Fire: Glyph of – Chance to eliminate cooldown by 30% (4) - Successive Shot Glyph of – Decrease cooldown by 25% (4) - Successive Shot: Glyph of – Decrease cooldown by 35% (3) - Thunderbolt: Glyph of Carving – Increase crit chance by 2 times (4) - Thunderbolt: Glyph of Carving – Increase crit chance by 3 times (3) - Radiant Arrow: Glyph of Carving – Increased crit chance by 3 times (4) - Berserker - Applies both Fiery Rage effect and Flurry of Blows effect upon using Fiery Rage - Decreased Evasive Roll cooldown by 1 second - Increased Evasive Smash cooldown by 2 seconds - Added a new passive skill which increases crit chance of the next Thunder Strike if the previous Thunder Strike fails to crit - This passive will only apply in PvE situations - Changed glyph effects - Changed Flurry of Blows - Glyph of Lingering (common) to Fiery Rage – Glyph of Lingering (increase effect duration by 30%) - Changed Flurry of Blows – Glyph of Lingering (uncommon) to Fiery Rage – Glyph of Lingering (increase effect duration by 35%) - Changed Evasive Roll – Glyph of Energy to Thunder Strike – Glyph of Energy (decrease cooldown by 20%) - Reaper - Increased damage to dungeon monsters - Increased damage to bams - Gunner - Increased damage to dungeon monsters - Increased damage to bams - Priest - Blessing of Arun, Blessing of Shara, and Kaia’s Shield does not lose effect when teleporting within the same area (dungeon to dungeon, field to field) - Mystic - Vow does not lose effect when teleporting within the same area (dungeon to dungeon, field to field) ## 2.</description>
+    </item>
+    
+    <item>
       <title>2016년 09월 08일 업데이트 안내</title>
       <link>/noctenium/posts/raw/2016/2016-09-08/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-09-08/</guid>
       <description>1. 스킬 - 궁수 - 신규 스킬 [추격]이 추가됩니다. - 짧은 거리를 순간적으로 이동할 수 있습니다. - 신규 스킬 [약점 관찰]이 추가됩니다. - 스킬 사용 후 다음 1회의 타격은 몬스터의 후방에서 공격하는 것과 동일한 효과를 갖습니다. - 뇌룡의 일격 스킬 위력이 100% 증가합니다. - 스킬 이펙트가 변경되었습니다. - 녹테늄 효과가 추가되었습니다. - 녹테늄 강화탄 2개 소모: 공격력 9~13% 증가 - 집중 사격의 스킬 위력이 25% 증가합니다. - 스킬 이펙트가 변경되었습니다. - 관통 사격의 스킬 위력이 25% 증가합니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.09.01 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2016/2016-09-01/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2016/2016-09-01/</guid>
+      <description>## 1. Dungeon - Adjusted Destroyed Gateway to God’s Realm balance. - Phase 3 - Increased Vergoth defense - Increased center breathe damage - Increased HP of attribute sphere - Increased attribute sphere explosion damage - Increased HP of shield for all body parts - Increased periodic damage of lava puddle - Increased defense upon burn phase - Developer’s comment: We have confirmed that phase 3 severely lacks difficulty. Because of this, clearing phase 3 has become meaningless, and it does not accomplish its role as a bridge to phase 4, and thus the difficulty of the phase was significantly increased.</description>
     </item>
     
     <item>
@@ -396,7 +486,7 @@
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-04-28/</guid>
-      <description>1. 스킬 - 창기사 - 전투의 의지 스킬 효과가 파티 버프 스킬로 변경되었습니다. - 전투의 의지I - 20초 동안, 40m 내 파티원과 자신에게 공격 속도 15%, 몬스터 공격 시 5% 추가 데미지 효과가 적용됩니다. - 전투의 의지II - 20초 동안, 40m 내 파티원과 자신에게 공격속도 20%, 몬스터 공격 시 5% 추가 데미지 효과가 적용됩니다. - 창기사 본인에게는 근접 공격 스킬의 재사용 시간이 절반으로 감소하며, 추가적인 적대치를 획득하는 효과가 함께 적용됩니다. - 검투사 - 도발난무 - 적대치 획득량이 50% 증가합니다.</description>
+      <description>## 1. 스킬 - 창기사 - 전투의 의지 스킬 효과가 파티 버프 스킬로 변경되었습니다. - 전투의 의지I - 20초 동안, 40m 내 파티원과 자신에게 공격 속도 15%, 몬스터 공격 시 5% 추가 데미지 효과가 적용됩니다. - 전투의 의지II - 20초 동안, 40m 내 파티원과 자신에게 공격속도 20%, 몬스터 공격 시 5% 추가 데미지 효과가 적용됩니다. - 창기사 본인에게는 근접 공격 스킬의 재사용 시간이 절반으로 감소하며, 추가적인 적대치를 획득하는 효과가 함께 적용됩니다.</description>
     </item>
     
     <item>
@@ -405,7 +495,7 @@
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-04-21/</guid>
-      <description>1. 전장 n 쿠마스의 놀이터 Ø 아기 쿠마스의 기본 이동 속도가 증가하고, 부활 시 부여되는 버프의 이동 속도 증가량이 감소합니다. * 테라팀은 전장 플레이에서 선의의 경쟁을 통한 승리를 목표로 여러분이 플레이 하길 희망합니다. * 그런데 일부 수호자 분들이 특별한 사유 없이 고의로 패배하거나, 적극적으로 참여하지 않는 등 정상적인 플레이를 방해하는 상황이 확인되고 있습니다. * 이런 플레이는 열심히 참여한 다른 팀원들에게 억울한 피해를 입히는 것으로 개선이 시급하다고 판단 했습니다. 그에 따라 아래와 같이 보상 수준을 조정하게 되었습니다.</description>
+      <description>1. 전장 - 쿠마스의 놀이터 - 아기 쿠마스의 기본 이동 속도가 증가하고, 부활 시 부여되는 버프의 이동 속도 증가량이 감소합니다. - 테라팀은 전장 플레이에서 선의의 경쟁을 통한 승리를 목표로 여러분이 플레이 하길 희망합니다. - 그런데 일부 수호자 분들이 특별한 사유 없이 고의로 패배하거나, 적극적으로 참여하지 않는 등 정상적인 플레이를 방해하는 상황이 확인되고 있습니다. - 이런 플레이는 열심히 참여한 다른 팀원들에게 억울한 피해를 입히는 것으로 개선이 시급하다고 판단 했습니다. 그에 따라 아래와 같이 보상 수준을 조정하게 되었습니다.</description>
     </item>
     
     <item>
@@ -414,7 +504,7 @@
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-04-14/</guid>
-      <description>1. 전장 n 쿠마스의 놀이터 Ø 10vs10 신규 전장인 쿠마스의 놀이터가 추가됩니다. Ø 20레벨부터 이용할 수 있으며, 전장 매칭 UI를 통해 입장할 수 있습니다. Ø 개인 매칭 전장(최대 2인 파티 가능)입니다. Ø 플레이어의 장비 수준과 상관 없이 전장에 입장하면 모두 동일한 조건으로 전투에 임하게 됩니다. Ø 20레벨부터 쿠마스의 놀이터 관련 발키온 연합 지령서가 출력되며, 완료 보상으로 각 레벨에 맞는 재화와 경험치 그리고 고속성장 아이템이 함께 지급됩니다. Ø 제한기간이 종료되거나, 한쪽 팀의 대장 쿠마스 사망 시 승/패 판정이 진행됩니다.</description>
+      <description>## 1. 전장 - 쿠마스의 놀이터 - 10vs10 신규 전장인 쿠마스의 놀이터가 추가됩니다. - 20레벨부터 이용할 수 있으며, 전장 매칭 UI를 통해 입장할 수 있습니다. - 개인 매칭 전장(최대 2인 파티 가능)입니다. - 플레이어의 장비 수준과 상관 없이 전장에 입장하면 모두 동일한 조건으로 전투에 임하게 됩니다. - 20레벨부터 쿠마스의 놀이터 관련 발키온 연합 지령서가 출력되며, 완료 보상으로 각 레벨에 맞는 재화와 경험치 그리고 고속성장 아이템이 함께 지급됩니다. - 제한기간이 종료되거나, 한쪽 팀의 대장 쿠마스 사망 시 승/패 판정이 진행됩니다.</description>
     </item>
     
     <item>
@@ -423,7 +513,7 @@
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-04-07/</guid>
-      <description>1. 스킬 n 창기사 Ø 방패 방어 강화 - 지속시간이 15초에서 50초로 변경됩니다. - 다운 발생 시 해제되도록 변경됩니다. 2. 아이템 n 타르스키 코인 상점에서 거짓말쟁이의 응모권이 삭제됩니다. n 거짓말쟁이의 응모권 아이템을 소지 중일 경우 ‘타르스키 코인’으로 변환됩니다. n 이관 기념 이벤트 아이템과 5주년 기념 이벤트 아이템이 삭제됩니다. 3. 이벤트 n 04월 14일(목) 점검 전까지 시험의 던전(황금의 미궁/아카샤의 은신처) 최종 보스 처치 시 [루비 2개]가 추가로 드랍됩니다. [버그 수정 내역] ü 던전 Ø 베르노의 실험실 3네임드에게 인술사 쾌속 베기 사용 시 인술사의 위치가 밀리는 문제를 수정하였습니다.</description>
+      <description>## 1. 스킬 - 창기사 - 방패 방어 강화 - 지속시간이 15초에서 50초로 변경됩니다. - 다운 발생 시 해제되도록 변경됩니다. ## 2. 아이템 - 타르스키 코인 상점에서 거짓말쟁이의 응모권이 삭제됩니다. - 거짓말쟁이의 응모권 아이템을 소지 중일 경우 ‘타르스키 코인’으로 변환됩니다. - 이관 기념 이벤트 아이템과 5주년 기념 이벤트 아이템이 삭제됩니다. ## 3. 이벤트 - 04월 14일(목) 점검 전까지 시험의 던전(황금의 미궁/아카샤의 은신처) 최종 보스 처치 시 [루비 2개]가 추가로 드랍됩니다. ## [버그 수정 내역] - 던전 - 베르노의 실험실 3네임드에게 인술사 쾌속 베기 사용 시 인술사의 위치가 밀리는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
@@ -432,7 +522,7 @@
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-03-31/</guid>
-      <description>1. 던전 n 거짓말쟁이 타르스키의 놀이터 Ø 신규 던전인 거짓말쟁이 타르스키의 놀이터가 추가됩니다. Ø 5인 파티플레이 던전이며, 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. Ø 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. Ø 보스 몬스터 타르스키 처치 시 듀리온의 목걸이, 폭군 듀리온의 반지/귀걸이, 다이아몬드, 강화석 9단계, 아티팩트 원석 VII, 철기장:복수 제작 재료, 철기장 카이락 제작 재료, 철기장:복수 도안, 오르피우스의 메달 등을 획득할 수 있습니다.</description>
+      <description>## 1. 던전 - 거짓말쟁이 타르스키의 놀이터 - 신규 던전인 거짓말쟁이 타르스키의 놀이터가 추가됩니다. - 5인 파티플레이 던전이며, 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. - 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. - 보스 몬스터 타르스키 처치 시 듀리온의 목걸이, 폭군 듀리온의 반지/귀걸이, 다이아몬드, 강화석 9단계, 아티팩트 원석 VII, 철기장:복수 제작 재료, 철기장 카이락 제작 재료, 철기장:복수 도안, 오르피우스의 메달 등을 획득할 수 있습니다.</description>
     </item>
     
     <item>
@@ -441,7 +531,7 @@
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-03-24/</guid>
-      <description>1. 던전 n 폭군 듀리온의 안식처 Ø 3네임드의 광폭화, 네임드 강화 패턴(3중첩), 부하 몬스터 소환 패턴의 발동 조건이 수정되었습니다. 2. 스킬 n 인술사 Ø 연속 공격 - 1~6타 데미지가 30% 하향됩니다. Ø 돌려 베기 - 데미지가 20% 하향됩니다. - 녹테늄 사용량이 2개로 변경됩니다. Ø 폭염술 - 다단히트 별 PVP 데미지가 하향됩니다. - 플레이어 타격 시 1타, 2타 다운 리액션 유발이 삭제됩니다. n 검투사 Ø 무쌍 난무:가르기 - 스킬 데미지가 10% 증가합니다.</description>
+      <description>## 1. 던전 - 폭군 듀리온의 안식처 - 3네임드의 광폭화, 네임드 강화 패턴(3중첩), 부하 몬스터 소환 패턴의 발동 조건이 수정되었습니다. ## 2. 스킬 - 인술사 - 연속 공격 - 1~6타 데미지가 30% 하향됩니다. - 돌려 베기 - 데미지가 20% 하향됩니다. - 녹테늄 사용량이 2개로 변경됩니다. - 폭염술 - 다단히트 별 PVP 데미지가 하향됩니다. - 플레이어 타격 시 1타, 2타 다운 리액션 유발이 삭제됩니다. - 검투사 - 무쌍 난무:가르기 - 스킬 데미지가 10% 증가합니다.</description>
     </item>
     
     <item>
@@ -450,7 +540,7 @@
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-03-17/</guid>
-      <description>1. 던전 n 악인 켈리반의 돌격선 Ø 1네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다. Ø 2네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가, 듀리온의 귀걸이가 추가 드랍됩니다. Ø 3네임드 처치 보상으로 9단계 강화석, 진귀한 단련의 가루 드랍 개수가 증가, 완전한 단련의 가루 및 베르노 장비가 추가 드랍됩니다. Ø 3네임드의 돌진 공격 공격 속도가 20%, 데미지가 30% 하향됩니다. n 번스타인의 악령섬 Ø 1네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다. Ø 2네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다.</description>
+      <description>## 1. 던전 - 악인 켈리반의 돌격선 - 1네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다. - 2네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가, 듀리온의 귀걸이가 추가 드랍됩니다. - 3네임드 처치 보상으로 9단계 강화석, 진귀한 단련의 가루 드랍 개수가 증가, 완전한 단련의 가루 및 베르노 장비가 추가 드랍됩니다. - 3네임드의 돌진 공격 공격 속도가 20%, 데미지가 30% 하향됩니다. - 번스타인의 악령섬 - 1네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다.</description>
     </item>
     
     <item>
@@ -459,7 +549,7 @@
       <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2016/2016-03-10/</guid>
-      <description>1. 던전 n 환영의 탑 Ø 환영의 탑이 새로운 시즌 위상에 맞춰 재오픈 됩니다. Ø 환영의 탑은 Lv.65 5인 파티플레이 던전입니다. Ø 환영의 탑은 [웨스토니아 가드 &amp;gt; 얼어붙은 해안]에 위치한 NPC ‘피슝’ 또는 파티매칭을 통해 입장할 수 있습니다. - 상세 위치는 ‘세계지도(단축키:M)’를 오픈하여 위 경로 대로 지도를 확대해 보시면 ‘환영의 탑 입구’ 위치를 확인해 보실 수 있습니다 Ø 환영의 탑은 1일 1회, VIP 2회 이용할 수 있습니다. - 16층 이상의 입장 제한 횟수가 사라졌으며, 입장권 소지 시 제한 없이 입장 가능합니다.</description>
+      <description>## 1. 던전 n 환영의 탑 Ø 환영의 탑이 새로운 시즌 위상에 맞춰 재오픈 됩니다. Ø 환영의 탑은 Lv.65 5인 파티플레이 던전입니다. Ø 환영의 탑은 [웨스토니아 가드 &amp;gt; 얼어붙은 해안]에 위치한 NPC ‘피슝’ 또는 파티매칭을 통해 입장할 수 있습니다. - 상세 위치는 ‘세계지도(단축키:M)’를 오픈하여 위 경로 대로 지도를 확대해 보시면 ‘환영의 탑 입구’ 위치를 확인해 보실 수 있습니다 Ø 환영의 탑은 1일 1회, VIP 2회 이용할 수 있습니다. - 16층 이상의 입장 제한 횟수가 사라졌으며, 입장권 소지 시 제한 없이 입장 가능합니다.</description>
     </item>
     
     <item>
