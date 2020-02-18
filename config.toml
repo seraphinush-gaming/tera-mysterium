@@ -17,7 +17,7 @@ logo = ""
 
 [params.nav]
 showCategories = true
-showTags = true
+showTags = false
 
 [[params.nav.custom]]
   title = "About"
