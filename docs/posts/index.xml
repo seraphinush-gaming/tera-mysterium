@@ -1,1500 +1,1500 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on noctenium</title>
-    <link>/noctenium/posts/</link>
-    <description>Recent content in Posts on noctenium</description>
+    <title>Posts on mysterium</title>
+    <link>/mysterium/posts/</link>
+    <description>Recent content in Posts on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/noctenium/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/mysterium/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020.02.06 patch notes (v92.01) | K TERA</title>
-      <link>/noctenium/posts/translations/2020/v92-01/</link>
+      <link>/mysterium/posts/translations/2020/v92-01/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2020/v92-01/</guid>
+      <guid>/mysterium/posts/translations/2020/v92-01/</guid>
       <description>1. PvP content revision - Added the following rank 1 specific reward ~~per class~~ to the following Battlegrounds (edited 2/7) : - Corsairs&#39; Stronghold : Corsairs&#39; Stronghold Season Rank 1 Trophy - Shorehold : Shorehold Season Rank 1 Trophy - Trophies can be sold to the merchant for 25,000 gold, or collect exchange 6 or 10 trophies to exchange for 6 Time Rank 1 Trophy or 10 Time Rank 1 Trophy (added 2/7) - 6 Time Rank 1 Trophy and 10 Time Rank 1 Trophy can be exchanged from the pop-up merchant via right click (added 2/7) - A custom title will be made to those in possession of 6 Time Rank 1 Trophy (added 2/7) - A custom weapon skin will be made to those in possession of 10 Time Rank 1 Trophy (added 2/7) - The item can be used before Jan 31st, 2021, by 23:59, and will be removed automatically - The rewards will start distributing starting with season 13 (added 2/7) - Battleground Vanguard Request - Adjusted gold reward of the following Vanguard Requests : - Corsairs&#39; Stronghold : from 2,200 gold to 3,000 gold - Shore Hold : from 800 gold to 2,500 gold - Champion&#39;s Skyring : from 200 gold to 500 gold - Added (Random) Skill Advancement Tome Box - (Random) Skill Advancement Tome Box gives a Skill Advancement Tome giving between 30,000 and 200,000 Skill Advance XP - Bellicarium Credit Merchant - Significantly decreased the cost to purchase PvP gear enchanting materials - Decreased resale price to a tenth of the current price as appropriate to the decrease in credit cost - Violet Particle : from 31,250 credit to 3,125 credit - Violet Plate : from 218,750 credit to 21,875 credit - Azure Particle : from 31,250 credit to 3,125 credit - Azure Plate : from 218,750 credit to 21,875 credit - Added the following items to the credit merchant : - Skill Advancement XP Tome IV (200,000 XP) : 1,000,000 credit - Refined Lepidoptera Crystal Dust : 200,000 credit - Refined Lepidoptera Crystal Dust : 200,000 credit - Purified Ring Fragment : 200,000 credit - Purified Ornament Fragment : 200,000 credit - Honed Dark Shard Cohesion Arcane : 1,500,000 credit - Annealed Dark Shard Cohesion Arcane : 1,000,000 credit - Refined Duranium Fragment : 10,000 credit 2.</description>
     </item>
     
     <item>
       <title>2020년 02월 06일 업데이트 안내 (v92.01)</title>
-      <link>/noctenium/posts/raw/2020/v92-01/</link>
+      <link>/mysterium/posts/raw/2020/v92-01/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2020/v92-01/</guid>
+      <guid>/mysterium/posts/raw/2020/v92-01/</guid>
       <description>[업데이트] 1. PVP 컨텐츠 개선 - 전장 순위표 각 직업 전체 랭킹 1위에게 고유 보상이 추가됩니다. (2/7 수정) - 포화의 전장 : 포화의 전장 시즌 1위 트로피 - 해안 점령지 : 해안 점령지 시즌 1위 트로피 - 고유 보상은 상점에 25만 골드로 판매하거나, 6개/10개를 모아 6관왕/10관왕 트로피로 교환할 수 있습니다. (2/7 수정) - 6관왕/10관왕 트로피는 아이템 우클릭 시 열리는 전용 상점에서 구매가 가능합니다. (2/7 추가) - 6관왕 트로피를 보유하고 있을 경우, 원하는 커스텀 칭호를 제작해 드립니다.</description>
     </item>
     
     <item>
       <title>2017.12.28 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-12-28/</link>
+      <link>/mysterium/posts/translations/2017/2017-12-28/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-12-28/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-12-28/</guid>
       <description>### Bug fixes - Skill - Fixed issue where using Race Change Voucher on certain awakened classes removed awakening skills - This will no longer occur post-update; please contact Support to recover lost skills - Fixed issue where Priest&#39;s Salvation abnormality description displayed Divine Intervention description - Fixed issue where Priest&#39;s Innervate tooltip had a typo - Fixed issue where Berserker&#39;s in their Berserk state and sub-zero HP would have their crystals break if hit by monsters - Fixed issue where Lancer&#39;s Bulwark abnormality had a chance to not disappear under specific circumstances - Fixed issue where Warrior&#39;s Deadly Gamble tooltip had a typo - Fixed issue where Slayer&#39;s Colossus Blade PvP damage was higher than intended - Quest - Fixed issue where players could die during one of awakening quests&#39; debuff - UI - Fixed issue where restarting servers would remove awakened icon in character selection screen source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 12월 28일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-12-28/</link>
+      <link>/mysterium/posts/raw/2017/2017-12-28/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-12-28/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-12-28/</guid>
       <description>### [버그수정] - 스킬 - 일부 클래스가 각성 후 종족 변경권 사용 시 각성 스킬이 사라지는 문제 - 점검 이후에는 더 이상 발생하지 않지만, 스킬이 삭제된 경우 [고객센터] 로 문의 주시면 도움드리겠습니다. - 사제 혼신의 손길 사용 시 부여되는 이상상태 내용이 구원의 손길로 출력되는 문제 - 사제 혼신의 주문 이상상태 툴팁에 오탈자가 있는 문제 - 광전사 폭주 상태에서 HP가 마이너스일 때 몬스터에게 피격 시 크리스탈이 파괴되는 문제 - 창기사가 특정 조건에서 확률적으로 방벽 전개 이상상태가 사라지지 않는 문제 - 검투사 필살의 의지 II 이상상태 툴팁에 오탈자가 있는 문제 - PVP시 무사 거합 스킬 데미지가 의도보다 높은 문제 - 퀘스트 - 각성 퀘스트 ‘세계의 벽’ 퀘스트에서 케마르데아가 사용하는 빈사 패턴에 의해 플레이어가 사망하는 문제 - UI - 서버 재시작 시 캐릭터 선택창/상태바에 각성 아이콘이 사라지는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 12월 22일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-12-22/</link>
+      <link>/mysterium/posts/raw/2017/2017-12-22/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-12-22/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-12-22/</guid>
       <description>### [버그수정] - 각성 퀘스트 - 퀘스트 진행 도중 게임종료 시 내면세계 재진입이 불가능한 문제 - 특정 상황에서 내면세계 진입 후 미스텔의 기운이 출현하지 않는 문제 - 벨리카 기념 주화 아이템을 파괴 시 퀘스트 재진행이 불가능한 문제 (재지급 기능 추가) - 일정 확률로 베르고스 추종자의 문서가 드랍되지 않아 퀘스트 진행이 불가능한 문제 - 스킬 - 미각성한 상태로 종족 변경권 사용 시 각성 스킬이 습득되는 문제 - 해당 문제로 인해 습득된 각성 스킬은 12월 28일 정기점검을 통해 삭제될 예정입니다.</description>
     </item>
     
     <item>
       <title>2017.12.21 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-12-21/</link>
+      <link>/mysterium/posts/translations/2017/2017-12-21/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-12-21/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-12-21/</guid>
       <description>### 1. Class Awakening - Lancer, Warrior, Berserker, Slayer, Brawler, Priest, Mystic - these 7 classes obtain Awakening skills - Can proceed with Awakening via new quest `Velika Banquet` upon ilvl 439 - Can obtain [Awakening skill] upon completing `Velika Banquet` ### 2. Skill and Balance adjustment - Added new skills and changed existing skills according to Class Awakening update - Lancer - [Awakening Skill] New skill (active) : Righteous Step - Leaps high forward to deliver to strike the ground - Targets within 8 meter radius of landing area will take damage, decrease movement speed by 15%, and get lifted in the air - Can be chained after Shield Counter and Wallop for casting casting speed, does not penetrate through monsters, and applies a frontal block effect - [Awakening Skill] New skill (active) : Bulwark - Summons a large shield to reflect melee attacks and protect allies - Can block critical attacks, and cooldown is significantly increased upon successful block - Can move while the large shield is summoned - [Awakening Skill] New skill (active) : Divine Aegis - Blocks damage for self and party members within 20 meters for 10 seconds, and increased combat movement speed is applied - Skill casting is an iframe - [Awakening Skill] New skill (passive) : Walking Fortress - Allows movement while holding Standfast, as well as decreasing resolve consumption by 20% - [Awakening Skill] New skill (passive) : Spiked Shield - Reflects damage upon successful perfect block - Perfect block against monsters applies an effect which recovers 5% of MP, decreases cooldown of Shield Counter by 0.</description>
     </item>
     
     <item>
       <title>2017년 12월 21일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-12-21/</link>
+      <link>/mysterium/posts/raw/2017/2017-12-21/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-12-21/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-12-21/</guid>
       <description>1. 클래스 각성 - 창기사, 검투사, 광전사, 무사, 권술사, 사제, 정령사 7개 클래스에게 각성 스킬이 추가됩니다. - 장비레벨 439 달성 시 신규 미션 퀘스트 `벨리카 연회`를 통해 각성을 진행할 수 있습니다. - 미션 퀘스트 `벨리카 연회` 완료 시 [각성 스킬]을 획득할 수 있습니다. ### 2. 스킬 및 밸런스 조정 - 클래스 각성 업데이트에 따라 신규 스킬이 추가되고 일부 기존 스킬이 변경됩니다. - 창기사 - [각성 스킬] 신규 스킬(Active): 정의의 도약 - 전방으로 높게 도약한 후 지면을 강타합니다.</description>
     </item>
     
     <item>
       <title>2017.12.14 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-12-14/</link>
+      <link>/mysterium/posts/translations/2017/2017-12-14/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-12-14/</guid>
-      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/noctenium/images/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (kTERA exclusive) source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/translations/2017/2017-12-14/</guid>
+      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/mysterium/images/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (kTERA exclusive) source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 12월 14일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-12-14/</link>
+      <link>/mysterium/posts/raw/2017/2017-12-14/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-12-14/</guid>
-      <description>1. 모자 변환 - 모자 액세서리의 크기, 위치를 자유롭게 변경할 수 있는 변환기 기능이 추가됩니다. - 모자 변환은 메인 메뉴 &amp;gt; 스타일 샵 &amp;gt; 모자 변환 메뉴를 통해 이용하실 수 있습니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2017-12-14-1.png) - 아이템 당 최초 1회는 무료로 모자 변환을 시도할 수 있습니다. - 모자 변환은 명품관 &amp;gt; 모자 형태 응고제 아이템을 인벤토리에 보유한 상태여야만 변경된 모자 형태를 유지할 수 있습니다. - 모자 변환은 캐릭터가 착용중인 모자, 리본, 머리띠, 머리핀 형태의 액세서리만 조정할 수 있습니다.</description>
+      <guid>/mysterium/posts/raw/2017/2017-12-14/</guid>
+      <description>1. 모자 변환 - 모자 액세서리의 크기, 위치를 자유롭게 변경할 수 있는 변환기 기능이 추가됩니다. - 모자 변환은 메인 메뉴 &amp;gt; 스타일 샵 &amp;gt; 모자 변환 메뉴를 통해 이용하실 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-12-14-1.png) - 아이템 당 최초 1회는 무료로 모자 변환을 시도할 수 있습니다. - 모자 변환은 명품관 &amp;gt; 모자 형태 응고제 아이템을 인벤토리에 보유한 상태여야만 변경된 모자 형태를 유지할 수 있습니다. - 모자 변환은 캐릭터가 착용중인 모자, 리본, 머리띠, 머리핀 형태의 액세서리만 조정할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2017.12.07 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-12-07/</link>
+      <link>/mysterium/posts/translations/2017/2017-12-07/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-12-07/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-12-07/</guid>
       <description>### 1. Enchanting and upgrading - Significantly decreased gold and talent required for the following gears’ enchanting and upgrading, and increased other required materials - Guardian weapon/armor/boots/gloves/belt - Twistshard weapon/armor/boots/gloves/belt - Low tier necklace - Mid tier necklace - Low tier earring - Mid tier earring - Low tier ring - Mid tier ring - Low tier circlet - Mid tier circlet - Low tier brooch - Simple Brooch ### 2.</description>
     </item>
     
     <item>
       <title>2017년 12월 07일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-12-07/</link>
+      <link>/mysterium/posts/raw/2017/2017-12-07/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-12-07/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-12-07/</guid>
       <description>### 1. 장비 강화 및 승급 - 아래의 장비 강화 및 승급에 필요한 골드와 금빛/은빛 결정체 요구량이 대폭 감소하며, 그 외 재료의 요구량이 증가합니다. - 수호자 무기/갑옷/신발/장갑/허리띠 - 변형된 마석 무기/갑옷/신발/장갑/허리띠 - 기회의 목걸이 - 투지의 목걸이 - 가능성의 귀걸이 - 의지의 귀걸이 - 도전의 반지 - 결의의 반지 - 성장의 서클릿 - 신념의 서클릿 - 아카논의 브로치 - 여신의 토템(희귀) ### 2. 수호자 임무 - 태양의 정원 오칸 3형제의 스킬 공격력이 25% 하향됩니다.</description>
     </item>
     
     <item>
       <title>2017.11.30 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-11-30/</link>
+      <link>/mysterium/posts/translations/2017/2017-11-30/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-11-30/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-11-30/</guid>
       <description>### 1. Halloween - Removed event-related items (bone, candy) ### Bug fixes - Item - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 11월 30일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-11-30/</link>
+      <link>/mysterium/posts/raw/2017/2017-11-30/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-11-30/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-11-30/</guid>
       <description>### 1. 할로윈 이벤트 아이템 삭제 - 사용하지 않은 [이벤트] 뼛조각, 할로윈 사탕이 삭제됩니다. ### [버그수정] - 아이템 - 세미의 랜덤 큐브 합성 결과물에 미출시 아이템이 포함되어 있던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.11.23 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-11-23/</link>
+      <link>/mysterium/posts/translations/2017/2017-11-23/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-11-23/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-11-23/</guid>
       <description>### 1. Human male brawler - Added class [Brawler] to Human male race ### 2. Character slot expansion - Expanded max character slot from 17 to 18 ### 3. Vanguard Initiative quest - Changed location of spawn via clicking [move to merchant] ### 4. Guardian Mission - Applies Guardian Mission specific buff in area (excluding Tuwangi Training Camp) - The buffs are the following : - Blessing of Arun III (Guardian Mission specific) - Blessing of Shara III (Guardian Mission specific) - Titanic Wrath III (Guardian Mission specific) - Aura of Tenacious I (Guardian Mission specific) - Titanic Fury II (Guardian Mission specific) - Guardian Mission buffs do not apply in presence of priest buffs or Mystic auras - Leaving Guardian Mission area will remove buff - Decreased damage of monsters in Guardian Mission area Developer comment - Some comment - Changed Guardian Mission point necessary to receive Guardian Mission reward from 200l to 100kk points - Increased Guardian Mission reward limit from 20 to 40 times Developer comment - Some comment - Changed Guardian Mission credit rewarded by receiving Guardian Mission reward from 1000 to 250 credits - (max 10k credits per day) - No changes have been made to gem box received from receiving Guardian Mission reward.</description>
     </item>
     
     <item>
       <title>2017년 11월 23일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-11-23/</link>
+      <link>/mysterium/posts/raw/2017/2017-11-23/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-11-23/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-11-23/</guid>
       <description>### 1. 휴먼 남자 권술사 - 휴먼 종족 남자로 선택 가능한 직업에 [권술사]가 추가됩니다. ### 2. 캐릭터 소켓 확장 - 캐릭터 생성 소켓이 최대 17개 -&amp;gt; 18개로 확장됩니다. ### 3. 발키온 연합 지령서 - [평판 상점 이동] 버튼 클릭 시 이동 위치가 변경됩니다. ### 4. 수호자 임무 - 수호자 임무 지역 진입 시 전용 버프가 제공됩니다. (후카의 훈련장 제외) - 전용 버프는 아래와 같습니다. - 아룬의 축복 III (수호자 임무 전용) - 샤라의 축복 V (수호자 임무 전용) - 광기의 힘 III (수호자 임무 전용) - 정신의 결계 I (수호자 임무 전용) - 분노의 힘 II (수호자 임무 전용) - 기존 사제, 정령사 버프가 적용된 상태에서는 수호자 임무 전용 버프가 적용되지 않습니다.</description>
     </item>
     
     <item>
       <title>2017.11.16 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-11-16/</link>
+      <link>/mysterium/posts/translations/2017/2017-11-16/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-11-16/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-11-16/</guid>
       <description>### 1. Dungeon - Increased drop rate of &#39;Soulshield Fragment&#39; in RMHM ### 2. Chat - Updated Chat Security source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 11월 16일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-11-16/</link>
+      <link>/mysterium/posts/raw/2017/2017-11-16/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-11-16/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-11-16/</guid>
       <description>### 1. 던전 - 초월한 라켈리스의 폐허 보상 중 &#39;영혼의 벽 조각&#39; 아이템의 드랍률이 상향됩니다. ### 2. 채팅 - 채팅 보안 업데이트가 진행되었습니다. source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.11.09 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-11-09/</link>
+      <link>/mysterium/posts/translations/2017/2017-11-09/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-11-09/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-11-09/</guid>
       <description>### 1. Skill and balance adjustment - Ninja - Skill : Burning Heart - Changed to the following to revise lag phenomenon upon skill usage and maintaining same effect regardless of size of monster - Increase skill damage by 3 times - Changed to hit at most once even if the target is large - Decreased damage to players by 25% - Fixed issue where Burning Heart projectile hit a bigger radi than its actual size - Talent : Burning Heart - Changed the cooldown reduction of Attunement upon successful hit to the following : - Tier 1 : 0.</description>
     </item>
     
     <item>
       <title>2017년 11월 09일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-11-09/</link>
+      <link>/mysterium/posts/raw/2017/2017-11-09/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-11-09/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-11-09/</guid>
       <description>### 1. 스킬 및 밸런스 조정 - 인술사 - 스킬: 화염술 - 화염술 사용 시 발생하는 렉 현상 개선 및 몬스터 크기에 상관없이 동일한 효과를 갖도록 하기 위해 아래와 같이 변경됩니다. - 스킬 위력 3배 증가 - 덩치가 큰 대상에게 사용해도 최대 1회까지만 타격되도록 변경 - 플레이어가 대상일 경우 위력 25% 감소 - 화염술 투사체 크기에 비해 타격 범위가 다소 넓었던 문제 수정 - 특성: 화염술 추진력 - 적중 시 차크라 회복술 재사용 대기시간 감소 효과가 아래와 같이 변경됩니다.</description>
     </item>
     
     <item>
       <title>2017년 11월 02일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-11-02/</link>
+      <link>/mysterium/posts/raw/2017/2017-11-02/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-11-02/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-11-02/</guid>
       <description>### [버그수정] - 스킬 - 광전사 광폭화 상태에서 모아치기 스킬이 HP 4번 감소 후 바로 사용되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.10.26 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-10-26/</link>
+      <link>/mysterium/posts/translations/2017/2017-10-26/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-10-26/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-10-26/</guid>
       <description>### 1. Dungeon - Opened Rakelith&#39;s Manor - Requires ilvl 439 in order to use IMS - Teleportal is located at Popolion - High tier material box, Aristan&#39;s Tools, Hypnotic Device, Ominous Spell Scroll can be obtained - Opened Rakelith&#39;s Manor (hard) - Requires ilvl 446 in order to use IMS - Teleportal is located at Popolion - High tier material box, Pansophic Ash, Dimensional Fragment, Copper Clasp, Artisan&#39;s Tools, Ominous Spell Scroll, Carved Ornament, Soul Shield Fragment can be obtained - Soul Shield Fragment : Item is distributed to all members of the party.</description>
     </item>
     
     <item>
       <title>2017년 10월 26일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-10-26/</link>
+      <link>/mysterium/posts/raw/2017/2017-10-26/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-10-26/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-10-26/</guid>
       <description>### 1. 던전 - 라켈리스의 폐허가 오픈 됩니다. - 장비 레벨 439 도달 시 서버간 파티매칭을 시도할 수 있습니다. - 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 광기의 언덕 &amp;gt; 비명의 언덕]에 위치하고 있습니다. - 상급 강화 재료 상자, 아크데바 장인의 강화 도구, 어둠이 깃든 정신 지배 장치, 불길한 마법 스크롤 등을 획득할 수 있습니다. - 초월한 라켈리스의 폐허가 오픈 됩니다. - 장비 레벨 446 도달 시 서버간 파티매칭을 시도할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2017.10.20 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-10-20/</link>
+      <link>/mysterium/posts/translations/2017/2017-10-20/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-10-20/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-10-20/</guid>
       <description>### Bug fixes - Item - Fixed tooltip for Arborean Guardian credit point item - (Increases Guardian credit by 400, 2 times more while using a reputation boost) - UI - Fixed issue where character creation screen still had ‘new’ mark on Elin Gunner - Fixed issue where OX Quiz UI displayed during loading screen - Services - Fixed issue where only number 1 voice could be selected in character creation and related change voucher - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 10월 20일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-10-20/</link>
+      <link>/mysterium/posts/raw/2017/2017-10-20/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-10-20/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-10-20/</guid>
       <description>### [버그수정] - 아이템 - 아르보레아 수호자 평판 포인트 아이템 툴팁 수정 - (사용 시 평판 포인트 400점이 증가하며, 신뢰의 증표 사용 시 2배로 획득) - UI - 캐릭터 생성 화면에서 엘린 마공사 클래스에 New 마크가 남아있던 문제 - 로딩 화면에서 OX퀴즈 UI가 출력되는 문제 - 부가서비스 - 캐릭터 생성 및 변경권 아이템 사용 시 1번 목소리만 선택할 수 있던 문제 - 하이엘프 여성 무사로 2017 퓨어 화이트 셔츠 착용 시 전투 상태에서 옷이 피부를 뚫고 나오는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.10.19 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-10-19/</link>
+      <link>/mysterium/posts/translations/2017/2017-10-19/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-10-19/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-10-19/</guid>
       <description>### 1. Guardian Mission - Adjusted the additional points earned via combat for Priests - Adjusted the amount of points earned via uncommon quests - Operation Sandstorm - Shellfish Mealtime - Bleakrock Delivery - Tuwangi Training Camp - Changed price of some Guardian credit merchant - Low tier Guardian credit merchant - Wood Scrap : 80 to 50 - Archdevan Catalyst : 80 to 50 - Plain Metallic Piece : 50 to 30 - Guardian low tier reward box : 70 to 50 - Mid tier Guardian credit merchant - Polished Arunic Ore : 300 to 210 - Archdeval Oil : 1000 to 700 - Filtered Essence : 500 to 350 - Guardian mid tier reward box : 500 to 350 !</description>
     </item>
     
     <item>
       <title>2017년 10월 19일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-10-19/</link>
+      <link>/mysterium/posts/raw/2017/2017-10-19/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-10-19/</guid>
-      <description>### 1. 수호자 임무 - 사제 클래스가 전투를 통해 획득할 수 있는 점수의 보정치를 상향 조정하였습니다. - 소규모 임무를 통해 획득할 수 있는 점수를 상향 조정하였습니다. - 작전명 모래바람 - 갑각류의 식사시간 - 콜드락 보급품 배달 - 후카의 훈련장 - 일부 수호자 평판 포인트 상점 가격이 변경됩니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2017-10-19-1.png) ### 2. 복귀자 가이드 - 복귀자 퀘스트가 최신화 되어 현 상황에 알맞은 퀘스트를 안내해 줍니다. ### [버그수정] - 수호자 임무 - 수호자 임무 지역 입장 시 기존에 설정한 옵션 값보다 높은 값으로 전환되는 문제 - 수호자 임무 지역을 이탈 시 채널 이동이 불가능하며, 수호자 임무 UI가 출력되는 문제 수정 - UI - 방향키를 누른 상태에서 사망 시 부활 했을 때 자동으로 이동하는 문제 - 전투 중 UI 숨김모드 사용 시 수호자임무 전용 UI가 숨김처리 되는 문제 - 퀘스트 - 특정 퀘스트 단계에서 복귀 용사 보상을 받아 순간이동 시 공중으로 순간이동 되는 문제 - 아이템 - (구)강화석 11단계 아이템의 툴팁에 분해 가능으로 기재되어 있던 문제 - 부가서비스 - 길리안의 숲에서 길리안을 처치하였는데도 지배된 숲의 거인이 사라지지 않는 문제 - 엘린 종족으로 연합군 정모 착용 시 귀가 모자를 뚫고 나오는 문제 - 비행 탈 것 비행게이지 전량 소모 후 하강 시 탑승이 해제되는 문제 source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/raw/2017/2017-10-19/</guid>
+      <description>### 1. 수호자 임무 - 사제 클래스가 전투를 통해 획득할 수 있는 점수의 보정치를 상향 조정하였습니다. - 소규모 임무를 통해 획득할 수 있는 점수를 상향 조정하였습니다. - 작전명 모래바람 - 갑각류의 식사시간 - 콜드락 보급품 배달 - 후카의 훈련장 - 일부 수호자 평판 포인트 상점 가격이 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-10-19-1.png) ### 2. 복귀자 가이드 - 복귀자 퀘스트가 최신화 되어 현 상황에 알맞은 퀘스트를 안내해 줍니다. ### [버그수정] - 수호자 임무 - 수호자 임무 지역 입장 시 기존에 설정한 옵션 값보다 높은 값으로 전환되는 문제 - 수호자 임무 지역을 이탈 시 채널 이동이 불가능하며, 수호자 임무 UI가 출력되는 문제 수정 - UI - 방향키를 누른 상태에서 사망 시 부활 했을 때 자동으로 이동하는 문제 - 전투 중 UI 숨김모드 사용 시 수호자임무 전용 UI가 숨김처리 되는 문제 - 퀘스트 - 특정 퀘스트 단계에서 복귀 용사 보상을 받아 순간이동 시 공중으로 순간이동 되는 문제 - 아이템 - (구)강화석 11단계 아이템의 툴팁에 분해 가능으로 기재되어 있던 문제 - 부가서비스 - 길리안의 숲에서 길리안을 처치하였는데도 지배된 숲의 거인이 사라지지 않는 문제 - 엘린 종족으로 연합군 정모 착용 시 귀가 모자를 뚫고 나오는 문제 - 비행 탈 것 비행게이지 전량 소모 후 하강 시 탑승이 해제되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.10.12 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-10-12/</link>
+      <link>/mysterium/posts/translations/2017/2017-10-12/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-10-12/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-10-12/</guid>
       <description>### 1. Guardian Mission - Removed event-related rewards for completing Guardian Missions - Pearl, Guardian Ticket - Decreased damage of ranged shots of Dread Reaper in &#39;Kuchart and Black Shadow&#39; - Decreased the number of targets for puddle mechanic from 7 to 5 in &#39;Kuchart and Black Shadow&#39; - Lowered usage frequency of stun pattern of Malakosraka in &#39;Shellfish Mealtime&#39; ### 2. Elin Gunner - Can no longer create Elin Gunner ### Bug fixes - Guardian Mission - Fixed issue where in &#39;Tuwangi Training Camp&#39; getting the correct pattern did not incerase points - Fixed issue where in &#39;Tuwangi Training Camp&#39; the start message would display after completing the mission - Style shop - Fixed issue where skills could be used while Style shop was open source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 10월 12일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-10-12/</link>
+      <link>/mysterium/posts/raw/2017/2017-10-12/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-10-12/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-10-12/</guid>
       <description>### 1. 수호자 임무 - 수호자 임무 완료 보상에서 이벤트 보상이 제거됩니다. - 제거대상: 진주, 수호자 쿠폰 - `쿠차트와 검은 그림자`의 드레드리퍼의 패턴 중 원거리 발사체의 공격력이 하향됩니다. - `쿠차트와 검은 그림자`의 드레드리퍼의 장판 스킬 대상이 7인 è 5인으로 변경됩니다. - `쿠차트와 검은 그림자` 드레드리퍼의 장판 스킬 범위 알람 이펙트가 무조건 표시되도록 변경됩니다. - `갑각류의 식사시간`의 말라코스라카의 강하게 내려치기(스턴공격)의 사용 빈도를 낮췄습니다. 2. 엘린 마공사 - 10월 12일 정기점검 종료 이후 엘린 마공사를 더 이상 생성할 수 없게 됩니다.</description>
     </item>
     
     <item>
       <title>2017.09.28 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-09-28/</link>
+      <link>/mysterium/posts/translations/2017/2017-09-28/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-09-28/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-09-28/</guid>
       <description>### 1. Guardian Mission - Added new field content &#39;Guardian Mission&#39; - Is a special mission in Open World - Guardian Mission spawn/despawn in order on a 24 hr basis - Can be completed without forming a party or raid - Can participate at any time once the missions starts - Monster stats auto adjust in real-time depending on the number of participants - Graphics option auto adjusts depending on the player environment - Added &#39;Guardian Mission mode&#39; toggle on World Map UI - Activating &#39;Guardian Mission mode&#39; displays &#39;Guardian Mission icon&#39; on World Map UI - Can teleport to mission location by clicking the &#39;Guardian Mission icon&#39; - Added &#39;Arborean Guardian Point&#39; - Displays &#39;Arborean Guardian Point UI&#39; on the right while proceeding with a Guardian Mission - When not participating, &#39;Guardian Mission mode toggle&#39; on World Map UI will display it on the the bottom right - Depending on how well you complete the mission will reflect how many Arborean Guardian Points will be rewarded - Combat : Damage dealt to monster will reward Point - Mini-game : Being in the correct area at specific times will reward Point - Rewards can be exchanged with Arborean Guardian Point up to 20 times per character per day, and points earned and rewards earned resets at 7am - Earned points remain until rewards earned reset - Necessary enchanting materials can be purchased with new Credit acquired from Guardian Mission - Guardian Credit Merchant is located at Valkyon Federation Headquarters ### 2.</description>
     </item>
     
     <item>
       <title>2017년 09월 28일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-09-28/</link>
+      <link>/mysterium/posts/raw/2017/2017-09-28/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-09-28/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-09-28/</guid>
       <description>### 1. 수호자 임무 - 신규 필드 컨텐츠 `수호자 임무`가 추가됩니다. - 일반 필드 공간에서 진행되는 특수한 임무입니다. - 수호자 임무는 정해진 로테이션 순서대로 24시간 내내 생성/소멸됩니다. - 파티 혹은 공격대를 맺지 않아도 플레이 가능합니다. - 임무가 시작된 이후에도 언제든지 참여가 가능합니다. - 참여 인원수에 따라 몬스터의 밸런스가 실시간으로 조정됩니다. - 플레이 환경에 따라 클라이언트에서 자동으로 그래픽 옵션이 최적화 됩니다. - 월드맵 UI에 `수호자 모드 전환 버튼`이 추가됩니다. - `수호자 모드 전환 버튼`을 활성화하면 월드맵 UI에 `수호자 임무 아이콘`이 표시됩니다.</description>
     </item>
     
     <item>
       <title>2017.09.21 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-09-21/</link>
+      <link>/mysterium/posts/translations/2017/2017-09-21/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-09-21/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-09-21/</guid>
       <description>### Bug fixes - Dungeon - Fixed issue for 1st boss in RK-9 Hangar (hard) where rotating laser hit box did not match with its effect displayed - Fixed issue for 1st/2nd/3rd boss in RK-9 Hangar (hard) and 1st boss in RK-9 Hangar where dash skills for certain classes did not work at certain combat areas - Fixed issue for 1st boss in Sky Cruiser Endeavor where a certain method allowed to skip eliminating mobs - UI - Fixed Battleground UI issue where battleground description did not display when queuing multiple battlegrounds - Fixed Battleground UI issue where multiple battlegrounds could be queued - Fixed Enchanting/Promoting UI issue where enchanting/promoting would halt when opening a different UI while enchanting/promoting - Fixed issue where UI position would change after relogging - Fixed issue where relogging to a different character would maintain shortcut settings of the previous character - Quest - Some comment - Civil Unrest - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 09월 21일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-09-21/</link>
+      <link>/mysterium/posts/raw/2017/2017-09-21/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-09-21/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-09-21/</guid>
       <description>### [버그수정] - 던전 - 궁극의 RK-9 격납고 1네임드가 레이저 난사 패턴 사용 시 확률적으로 이펙트와 피격 위치가 상이한 문제 - 궁극의 RK-9 격납고 1, 2, 3네임드 및 RK-9 격납고 1네임드 전투공간 특정위치에서 일부 클래스의 이동형 스킬 사용 시 이동되지 않는 문제 - 특정 상황에서 RK-9 격납고 3네임드 컷신의 배경이 출력되지 않는 문제 (추가) - 궁극의 RK-9 1네임드에서 비검사의 반격 스킬과 월광무사 회피 스킬로 포획 패턴을 피할 수 없는 문제 (추가) - 궁극의 RK-9 격납고 2네임드의 코드 실행 패턴에서 이펙트와 타격 싱크가 맞지 않는 문제 (추가) - UI - 전장매칭 창에서 전장 중복 체크 시 전장 상세 설명이 변경되지 않는 문제 - 전장 매칭 UI에서 전장 다중 선택이 가능한 문제 - 장비 및 액세서리 강화/승급 시도 중 다른 UI 오픈 시 강화/승급이 멈추는 문제 - 화면에 출력되는 UI가 재접속 시 고정되지 않는 문제 - 다른 캐릭터로 재 접속 시 스킬 슬롯의 번호가 변경 전 캐릭터와 동일하게 출력되는 문제 - 재접속 및 캐릭터 선택 시 스킬 프리셋 번호는 다르나 무조건 1번 스킬 숏컷UI만 출력되는 문제 - 퀘스트 - 폐허가 된 순찰자 캠프 퀘스트의 목표 몬스터를 다른 플레이어가 처치 시 퀘스트를 진행할 수 없는 문제 - 길드대전 - 길드대전 지역의 특정 장소에서 성벽 위로 올라갈 수 있는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.09.14 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-09-14/</link>
+      <link>/mysterium/posts/translations/2017/2017-09-14/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-09-14/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-09-14/</guid>
       <description>### 1. Security update - Security program update ### Bug fixes - Style shop - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 09월 14일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-09-14/</link>
+      <link>/mysterium/posts/raw/2017/2017-09-14/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-09-14/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-09-14/</guid>
       <description>### 1. 보안 업데이트 - 보안 프로그램 업데이트 ### [버그수정] - 스타일샵 - 스냅백(검정) 이 스타일샵에 누락되었던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.09.07 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-09-07/</link>
+      <link>/mysterium/posts/translations/2017/2017-09-07/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-09-07/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-09-07/</guid>
       <description>### 1. Dungeon - Reopen Broken Prison - 5-man party dungeon, with IMS access from ilvl 439 - Teleportal is located in Arcadia - High-tier enchantment box, and high-tier enchanting materials can be obtained ### 2. Vanguard Initiative - Changed login bonus - Changed login bonus requirement from 3 day, 5 day, 7 day to 2 day, 4 day, and 6 day consecutive login ### 3. Gear upgrade - Changed to disable upgrading gear that is not bound to the character ### 4.</description>
     </item>
     
     <item>
       <title>2017년 09월 07일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-09-07/</link>
+      <link>/mysterium/posts/raw/2017/2017-09-07/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-09-07/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-09-07/</guid>
       <description>### 1. 던전 - 뒤틀린 라칸의 제단이 재오픈 됩니다. - 5인 파티 던전이며, 장비 레벨 439 도달 시 서버간 파티매칭을 시도할 수 있습니다. - 입장용 차원의 마법석은 [아르카니아 가드 &amp;gt; 잊혀진 숲 &amp;gt; 패잔병의 은신처]에 위치하고 있습니다. - 상급 강화 재료 상자, 상급 아크데바 묘약, 정밀하게 세공된 장식 조각, 어둠이 깃든 정신 지배 장치, 미지의 액체 금속 등을 획득할 수 있습니다. ### 2. 발키온 연합 지령서 - 출석 버프의 요구 조건이 변경됩니다.</description>
     </item>
     
     <item>
       <title>2017.08.31 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-08-31/</link>
+      <link>/mysterium/posts/translations/2017/2017-08-31/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-08-31/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-08-31/</guid>
       <description>### 1. Civil Unrest - Changed safezone and tower restricted area back to how it was before 08/17 update ### 2. Security - Blocked packet injecting program &#39;Tera Proxy&#39; ### Bug fixes - Skill - Fixed issue where Elin Gunner when KD&#39;d could not use Retaliate as a chain skill - UI - Fixed issue where presets in Profile did not save certain items - Fixed issue where crit splash did not display when using Refined Noctenium - Effect - Fixed issue where swimming with Gunner, Valkyrie, Ninja, and Brawler did not display swimming animation - Services - Some costume comment - Some costume comment - Dungeon - Fixed issue in RK-9 Hangar where Mystic&#39;s Thrall of Vengeance could attack in mid air - Fixed issue in RK-9 Hangar where the message displayed after defeating the 3rd boss was not appropriate to the situation - Fixed issue in RK-9 Hangar where the 1st boss&#39; HP seemed to increase occasionally source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 08월 31일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-08-31/</link>
+      <link>/mysterium/posts/raw/2017/2017-08-31/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-08-31/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-08-31/</guid>
       <description>### 1. 길드 대전 - 안전지대 및 전초기지 설치불가 지역이 8월 17일 업데이트 이전 사양으로 변경됩니다. ### 2. 보안 - ‘Tera Proxy’ 패킷조작 프로그램이 차단됩니다. ### [버그수정] - 스킬 - 엘린 마공사가 넘어졌을 때 기상 로켓 스킬이 자동으로 연계되지 않는 문제 - 모든 이어지는 스킬 제거 후 마공사 폭격탄 발사 재사용시간이 끝나면 폭격탄 발사가 이어지는 스킬 UI로 출력되는 문제 (09/02 내용 추가) - 검투사 필살의 의지 사용 시 질풍 가르기, 몰아치기, 무쌍난무: 가르기 스킬에 녹테늄 강화탄 효과가 적용되지 않는 문제 (오후 임시점검 수정 내역) - UI - 캐릭터 UI 장비 저장슬롯에 일부 아이템이 저장되지 않는 문제 - 정제된 녹테늄 강화탄 효과가 적용되면 크리티컬 데미지 폰트가 적용되지 않는 문제 - 이펙트 - 마공사, 월광무사, 인술사, 권술사 클래스로 이동 및 수영 시 특정 이펙트가 출력되지 않는 문제 - 스타일샵 - 스타일샵 검색 사용 후 재입장 시 검색 결과가 남아있는 문제 - 부가서비스 - 엘린 종족이 주황색/검은색 야구모자 착용 시 모자 외형이 아이콘과 상이하게 출력되는 문제 - 엘린 종족이 야구모자 장착 시 귀가 모자를 뚫고 나오는 문제 - 던전 - 정령사 번개의 정령이 RK-9 격납고에서 중앙 허공에 공격을 가하는 문제 - Rk-9 격납고 3네임드 처치 후 길찾기 안내 메시지가 상황과 어울리지 않게 출력되는 문제 - 확률적으로 궁극의 RK-9 격납고 1네임드의 HP가 늘어나는 것처럼 보이는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.08.24 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-08-24/</link>
+      <link>/mysterium/posts/translations/2017/2017-08-24/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-08-24/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-08-24/</guid>
       <description>### 1. Civil Unrest - Adjusted Civil Unrest-related rewards - Decreased the reward which was higher relative to other content - The change is due to the act of buying/selling reward items without participating in the conflict ### 2. Guild quest - The 3 rally quests will no longer generate for a while - Anansha - Karagos - Sabriac - Will reopen after revision ### 3. Vanguard Initiative quest - Added gear proficiency to low tier Vanguard Initiative quests - The 3 low-tier IoD BAMs - Echoes of Aranea - Celestial Arena - Ravenous Gorge - Kalivan’s Challenge - Shattered Fleet ### 4.</description>
     </item>
     
     <item>
       <title>2017년 08월 24일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-08-24/</link>
+      <link>/mysterium/posts/raw/2017/2017-08-24/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-08-24/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-08-24/</guid>
       <description>### 1. 길드대전 - 길드대전 지역 네임드 몬스터 보상 및 승리 보상이 조절됩니다. - 다른 컨텐츠 대비 높던 보상 효율을 하향 조정합니다. - 대전에 참가하지 않고 보상을 판매/구매하는 행위가 확인되어 조정하게 되었습니다. ### 2. 길드 임무 - 길드 퀘스트(긴급 임무) 몬스터 3종이 당분간 출몰하지 않습니다. - 탐욕의 아난샤 - 분노의 카르고스 - 학살의 사브라니악 - 개선하여 추후 다시 재오픈 될 예정입니다. ### 3. 발키온 연합 지령서 - 하위 발키온 연합 지령서 완료 보상에 장비 숙련도 경험치가 추가됩니다.</description>
     </item>
     
     <item>
       <title>2017.08.17 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-08-17/</link>
+      <link>/mysterium/posts/translations/2017/2017-08-17/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-08-17/</guid>
-      <description>### 1. Rally quest - Changed spawn location of Rally quest BAM Anansha - - Changed spawn location from Tria to Velika: Civil Unrest - Cannot build Guild Tower nearby Anansha spawn location - Expanded PK safe area near dock inside Civil Unrest ![](https://seraphinush-gaming.github.io/noctenium/images/2016-08-17-1.png) ### 2. Field named (world boss) - Decreased damage and respawn time of world bosses, and adjusted loot accordingly - The affected world bosses are the following : - Tempest Kanash - Divine Reaver - Nyxarras - Linyphi - Yunaras Snaggletooth - Kelthuzad ### 3.</description>
+      <guid>/mysterium/posts/translations/2017/2017-08-17/</guid>
+      <description>### 1. Rally quest - Changed spawn location of Rally quest BAM Anansha - - Changed spawn location from Tria to Velika: Civil Unrest - Cannot build Guild Tower nearby Anansha spawn location - Expanded PK safe area near dock inside Civil Unrest ![](https://seraphinush-gaming.github.io/mysterium/images/2016-08-17-1.png) ### 2. Field named (world boss) - Decreased damage and respawn time of world bosses, and adjusted loot accordingly - The affected world bosses are the following : - Tempest Kanash - Divine Reaver - Nyxarras - Linyphi - Yunaras Snaggletooth - Kelthuzad ### 3.</description>
     </item>
     
     <item>
       <title>2017년 08월 17일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-08-17/</link>
+      <link>/mysterium/posts/raw/2017/2017-08-17/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-08-17/</guid>
-      <description>### 1. 길드 임무 - 길드 긴급 임무 대상 몬스터인 탐욕의 아난샤의 스폰 위치가 변경됩니다. - 스폰 위치가 고대의 숲에서 길드대전으로 변경됩니다. - 탐욕의 아난샤 스폰 위치 주변에는 전초 기지를 설치할 수 없습니다. - 길드 대전 내 PK 안전지대가 선착장 부근에서 주변 일대로 확장됩니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2016-08-17-1.png) ### 2. 필드네임드 - 필드 네임드의 전투력과 리소폰 시간이 감소하고, 이에 알맞은 수준으로 보상이 조정됩니다. - 대상 몬스터는 아래와 같습니다. - 폭풍의 카나쉬 (폭염의 산맥) - 사샤라크 (뱀의 섬) - 퀘스겔렌 (고대 전쟁의 폐허) - 라키누아 (아카디아 협곡) - 스내글투스 (잊혀진 자들의 설원) - 카자스탄 (아메나 콰틀라) ### 3.</description>
+      <guid>/mysterium/posts/raw/2017/2017-08-17/</guid>
+      <description>### 1. 길드 임무 - 길드 긴급 임무 대상 몬스터인 탐욕의 아난샤의 스폰 위치가 변경됩니다. - 스폰 위치가 고대의 숲에서 길드대전으로 변경됩니다. - 탐욕의 아난샤 스폰 위치 주변에는 전초 기지를 설치할 수 없습니다. - 길드 대전 내 PK 안전지대가 선착장 부근에서 주변 일대로 확장됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-08-17-1.png) ### 2. 필드네임드 - 필드 네임드의 전투력과 리소폰 시간이 감소하고, 이에 알맞은 수준으로 보상이 조정됩니다. - 대상 몬스터는 아래와 같습니다. - 폭풍의 카나쉬 (폭염의 산맥) - 사샤라크 (뱀의 섬) - 퀘스겔렌 (고대 전쟁의 폐허) - 라키누아 (아카디아 협곡) - 스내글투스 (잊혀진 자들의 설원) - 카자스탄 (아메나 콰틀라) ### 3.</description>
     </item>
     
     <item>
       <title>2017년 08월 11일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-08-11/</link>
+      <link>/mysterium/posts/raw/2017/2017-08-11/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-08-11/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-08-11/</guid>
       <description>### [버그수정] - 아이템 - 신규 생성된 아이템이 내 정보(P)에 표시되지 않는 문제 - 신규 생성된 아이템 사용 시 효과가 적용되지 않는 문제 - 장비 아이템 승급 이후 강화가 진행되지 않는 문제 - 장비 아이템 승급 이후 각인서가 사용되지 않는 문제 - 엘린 마공사 전용 스타일 아이템이 착용되지 않는 문제 - 인벤토리에 소지하고 있는 이동 주문서를 사용할 수 없는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.08.10 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-08-10/</link>
+      <link>/mysterium/posts/translations/2017/2017-08-10/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-08-10/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-08-10/</guid>
       <description>- 1. Dungeon - New : Ultimate RK-9 Hangar - Added hard mode of RK-9 Hangar - ilvl requirement : 446 - Teleportal location : Spring Valley - Loot table : Crying Rage gear box, Emerald/Diamond, High-tier enchanting material, Rare/Superior Innerwear, Mysterious holy water, Tier 3 accessory etching, Uneven composition, etc ### 2. Elin Gunner - Added new class [gunner] to race Elin - Can be created before October 12th, and cannot be race changed ### 3.</description>
     </item>
     
     <item>
       <title>2017년 08월 10일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-08-10/</link>
+      <link>/mysterium/posts/raw/2017/2017-08-10/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-08-10/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-08-10/</guid>
       <description>### 1. 던전 - 신규: 궁극의 RK-9 격납고 - RK-9 격납고 상급 던전인 궁극의 RK-9 격납고가 추가됩니다. - 장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. - 바라카니아 &amp;gt; 바라카니아 경제인 연합 &amp;gt; 차원의 마법석을 통해 입장할 수 있습니다. - 울부짖는 분노 장비 상자, 에메랄드/다이아몬드, 상위 장비 강화 재료, 희귀/전설 등급 속옷, 신비의 성수, 3단계 장신구 각인서, 불균형의 조화 등을 획득할 수 있습니다. ### 2. 엘린 마공사 - 엘린 종족으로 선택 가능한 직업에 [마공사]가 추가됩니다.</description>
     </item>
     
     <item>
       <title>2017.08.03 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-08-03/</link>
+      <link>/mysterium/posts/translations/2017/2017-08-03/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-08-03/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-08-03/</guid>
       <description>### 1. Dungeon - Decreased difficulty of Alpha Cyrux Research Facility - Decreased damage of certain skills for each boss - Increased stun duration of 1st boss after tackling tree - Decreased penalty/damage of explosive goblins during 3rd boss Developer comment (paraphrased; point form) - Too many players were trying to take advantage of the market by obtaining tradeable items from Token/Mark of Change and eventually trading gold for real money so they changed items to be untradeable.</description>
     </item>
     
     <item>
       <title>2017년 08월 03일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-08-03/</link>
+      <link>/mysterium/posts/raw/2017/2017-08-03/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-08-03/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-08-03/</guid>
       <description>### 1. 던전 - 알파 사이럭스 연구 기지 난이도가 하향됩니다. - 각 네임드가 사용하는 일부 스킬의 데미지가 하향됩니다. - 1네임드가 나무에 머리를 박았을 때 걸리는 스턴의 지속 시간이 늘어납니다. - 3네임드 전투 시 등장하는 고블린이 자폭할 때 주는 패널티가 감소합니다. § 개발자 코멘트 &#39;변화의 잔재&#39;는 수호자님들이 기존 장비 성장 구조에서 획득한 아이템의 가치를 보존해드리기 위한 시스템이며, 부차적으로는 구 장비를 마저 강화/제작하길 원하는 수호자님들이 어려움을 겪지 않도록 보조해드리기 위하여 도입하였습니다. 그러나 아래와 같은 상황이 확인되어 대응을 진행하게 되었습니다.</description>
     </item>
     
     <item>
       <title>2017.07.27 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-07-27/</link>
+      <link>/mysterium/posts/translations/2017/2017-07-27/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-07-27/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-07-27/</guid>
       <description>### 1. Dungeon - New dungeon : Hangar RK-9 - ilvl required : 439 - Portal location : Spring Valley - Items obtainable : High-tier encahnting box, Dark mind-control device, Arch Devan artisan tool, etc. - New dungeon : Alpha Cyrux Research Facility (hard mode) - ilvl required : 439 - Portal location : Savage Reach - Items obtainable : High-tier encahnting box, Unknown liquid metal, Blood-soaked metal, etc. ### 2.</description>
     </item>
     
     <item>
       <title>2017년 07월 27일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-07-27/</link>
+      <link>/mysterium/posts/raw/2017/2017-07-27/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-07-27/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-07-27/</guid>
       <description>### 1. 던전 - 신규: RK-9 격납고 - 상위 던전인 RK-9 격납고가 추가됩니다. - 장비 레벨 439 달성 시 파티매칭을 통해 입장할 수 있습니다. - 바라카니아 &amp;gt; 바라카니아 경제인 연합 &amp;gt; 차원의 마법석을 통해 입장할 수 있습니다. - 상급 강화 재료 상자, 어둠이 깃든 정신 지배 장치, 아크데바 장인의 강화 도구 등을 획득할 수 있습니다. - 신규: 알파 사이럭스 연구 기지 - 상위 던전인 알파 사이럭스 연구 기지가 추가됩니다. - 장비 레벨 439 달성 시 파티매칭을 통해 입장할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2017.07.20 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-07-20/</link>
+      <link>/mysterium/posts/translations/2017/2017-07-20/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-07-20/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-07-20/</guid>
       <description>### 1. Dungeon - Sky Cruiser Endeavor - Decreased the HP of mobs for 1st boss - Significantly decreased the HP of 2nd and 3rd boss - Nightmare Lilith’s Keep - Significantly decreased the HP of 1st, 2nd, and 3rd boss - Harrowhold - Reoponed 20-man raid Harrowhold - Teleportal is located at Velika Outskirts - Harrowhold does not support IMS - Harrowhold proceeds through 4 phases, rewarding loot per phase - (same conditions apply to looting) Reward change comment - Despite our intention for unskilled new and returning players to be self-sufficient through solo contents, it seems as though players were forced to harvest enchanting materials from multiple characters for one character.</description>
     </item>
     
     <item>
       <title>2017년 07월 20일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-07-20/</link>
+      <link>/mysterium/posts/raw/2017/2017-07-20/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-07-20/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-07-20/</guid>
       <description>### 1. 던전 - 엘카라스 호 - 1네임드 일반 몬스터의 HP가 하향 조정됩니다. - 2~3네임드의 HP가 대폭 하향 조정됩니다. - 악녀 릴리스의 성 - 1~3네임드의 HP가 대폭 하향 조정됩니다. - 파괴된 신계의 관문 - 20인 공격대 던전인 파괴된 신계의 관문이 재오픈 됩니다. - 벨리카 근교에 위치한 차원의 마법석을 통해 입장하실 수 있습니다. - 파괴된 신계의 관문은 서버간 파티매칭을 지원하지 않습니다. - 파괴된 신계의 관문은 총 4단계에 걸쳐 진행되며, 각 단계 클리어 시 보상이 지급됩니다.</description>
     </item>
     
     <item>
       <title>2017년 07월 14일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-07-14/</link>
+      <link>/mysterium/posts/raw/2017/2017-07-14/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-07-14/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-07-14/</guid>
       <description>### [버그수정] - 아이템 - 영구제 아이템을 특정 경로로 획득 시 소실되는 문제 - 소실된 아이템에 대해서는 07/20(목) 점검 시 재지급 해드릴 예정입니다. - 던전 - 릴리스의 성 3네임드의 HP가 비정상적으로 낮은 문제 - 사이럭스 연구 기지 1네임드와 전투 중 소환되는 나무를, 패턴 무시 후 처치할 수 있는 문제 - 사이럭스 연구 기지 1네임드와 전투 중 소환되는 나무가 간헐적으로 이동하는 문제 - 장비 성장 시스템 - 명품,각성화 되지 않은 일반 매혹/냉혈 장비 10강 이상에서 승계 시 9강화 이상을 보존해 주지 않는 문제 – [고객센터] 로 문의 접수 해주시면, 도와드리겠습니다.</description>
     </item>
     
     <item>
       <title>2017.07.13 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-07-13/</link>
+      <link>/mysterium/posts/translations/2017/2017-07-13/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-07-13/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-07-13/</guid>
       <description>### 1. Gear progression system - Changed enchantment method of all gear to material enchanting method - Enchanting will proceed not using Feedstock/Alkahest but a different material depending on gear - Removed same gear enchanting system - Added gear upgrade system - UI can be displayed by pressing Shift + T - Fully enchanted gear can be upgraded to +0 enchantment gear of the next tier - Upgrading will proceed by consuming specified material as it is with enchanting - Gear rolls, etching, crystal/dyads, dual option reset upon upgrading - Accessories can also be upgraded - Added gear proficiency system - Proficiency can be obtained through Vanguard Initiative quests - Higher the proficiency, higher the chance of success for enchanting and upgrading - While you can obtain more than the maximum proficiency, the amount of proficiency actually consumed upon enchanting/upgrading is less than the cap, and the chance of success is reinforced up to its max - Changed rerollable system - Can freely select desired options for the first time upon upgrading gear/accessory - Spellbind, Master Enigmatic Scroll/Intricate Identification Scroll and related items are no longer usable - Semi-Enigmatic Scrolls are now used to change all gear rolls - Amount of SES consumed varies depending on the type of options selected - Semi-Enigmatic Scrolls are required to change dual options - Exist dismantling function is removed, and exchanged with a revamped dismantling function - Can be used in the same way as before through the ‘dismantle&#39; icon through inventory - New enchanting materials can be obtained dismantling old enchanting materials - Removed masterworking system - Removed awakening system - Old gear can still use old enchanting materials to enchant - Old enchanting materials can no longer be obtained from boxes (Premiere Box) - New enchanting materials now replace old enchanting materials from existing boxes (Premiere Box) ### 2.</description>
     </item>
     
     <item>
       <title>2017년 07월 13일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-07-13/</link>
+      <link>/mysterium/posts/raw/2017/2017-07-13/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-07-13/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-07-13/</guid>
       <description>### 1. 장비 성장 시스템 - 모든 장비의 강화 방식을 재료 강화 방식으로 변경됩니다. - 강화석/강화제를 통해 강화하는 것이 아닌 장비 종류에 따라 재료를 소모하여 강화를 진행하게 됩니다. - 동일 장비 강화 시스템이 삭제됩니다. - 장비 승급 시스템이 추가됩니다. - Shift+T 버튼 단축키로 호출이 가능합니다. - 최대 강화된 장비를 다음 위상의 +0 강화 장비로 승급할 수 있습니다. - 강화와 같이 승급을 위한 특정 재료를 소모하여 진행하게 됩니다. - 장비 승급 시 옵션, 각인서, 크리스탈/아티팩트, 듀얼 옵션이 초기화됩니다.</description>
     </item>
     
     <item>
       <title>2017.07.06 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-07-06/</link>
+      <link>/mysterium/posts/translations/2017/2017-07-06/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-07-06/</guid>
-      <description>### Premium item end of sale 0 Removed certain cash items in preparation for the upcoming patch ![](https://seraphinush-gaming.github.io/noctenium/images/2017-07-06-1.png) ### Bug fixes - Services - Fixed issue where certain Valkyrie weapon skins did not produce sound source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/translations/2017/2017-07-06/</guid>
+      <description>### Premium item end of sale 0 Removed certain cash items in preparation for the upcoming patch ![](https://seraphinush-gaming.github.io/mysterium/images/2017-07-06-1.png) ### Bug fixes - Services - Fixed issue where certain Valkyrie weapon skins did not produce sound source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 07월 06일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-07-06/</link>
+      <link>/mysterium/posts/raw/2017/2017-07-06/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-07-06/</guid>
-      <description>### 1. 테라샵 및 T-cat 상점 일부 상품 판매종료 - 아래 상품들의 판매가 종료됩니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2017-07-06-1.png) ### [버그수정] - 부가서비스 - 일부 월광무사 프리미엄 무기에서 사운드가 출력되지 않는 문제 source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/raw/2017/2017-07-06/</guid>
+      <description>### 1. 테라샵 및 T-cat 상점 일부 상품 판매종료 - 아래 상품들의 판매가 종료됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-07-06-1.png) ### [버그수정] - 부가서비스 - 일부 월광무사 프리미엄 무기에서 사운드가 출력되지 않는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 06월 29일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-06-29/</link>
+      <link>/mysterium/posts/raw/2017/2017-06-29/</link>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-06-29/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-06-29/</guid>
       <description>### [버그수정] - 던전 - 번스타인의 악령섬 3네임드의 HP가 50%에 맞춰졌을 때 진행이 불가능한 문제 - 용용 죽겠지 업적 달성 조건인 베르고스 30회 처치에 이전 시즌 횟수가 포함되지 않은 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.06.22 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-06-22/</link>
+      <link>/mysterium/posts/translations/2017/2017-06-22/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-06-22/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-06-22/</guid>
       <description>### 1. Achievement - Added achievement with Vergos’ Head as reward - Achievement conditions are to defeat Vergos 30 times in Harrowhold - Players who already have 30 clears will automatically clear the achievement upon logging in ## 2. Skill - Changed Mystic’s/Sorcerer’s Teleport Jaunt to be directional ### Bug fixes - 스킬 - 광전사의 모아치기 스킬 1단계 보다 11단계 범위가 좁은 문제 - 사냥터 - 리카노르 경기장 내로 캐릭터가 진입할 수 있는 문제 - 던전 - 데모로스의 룰렛 주사위 게이지 UI가 위치 설정 후 고정되지 않는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 06월 22일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-06-22/</link>
+      <link>/mysterium/posts/raw/2017/2017-06-22/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-06-22/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-06-22/</guid>
       <description>### 1. 업적 - 베르고스의 머리를 획득할 수 있는 ‘용용 죽겠지’ 업적이 추가 됩니다. - 업적 달성 조건은 파괴된 신계의 관문에서 베르고스를 30회 처치하기 입니다. - 이미 30회를 클리어 하신 수호자님은 접속 시 업적이 자동으로 달성됩니다. ### 2. 스킬 (내용추가) - 조작감 개선을 위해 정령사 / 마법사의 순간이동 스킬이 방향키 입력방향으로 이동되도록 변경됩니다. ### [버그수정] - 스킬 - 광전사의 모아치기 스킬 1단계 보다 11단계 범위가 좁은 문제 - 사냥터 - 리카노르 경기장 내로 캐릭터가 진입할 수 있는 문제 - 던전 - 데모로스의 룰렛 주사위 게이지 UI가 위치 설정 후 고정되지 않는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.06.15 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-06-15/</link>
+      <link>/mysterium/posts/translations/2017/2017-06-15/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-06-15/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-06-15/</guid>
       <description>### 1. Festival of the Sun - Open until July 13th ### 2. Item - Can now exchange Behemoth Belt with 12 Behemoth Essences - Can now exchange Behemoth Belt with 16 Wyvern Essences ### [버그수정] - Dungeon - 데모로스의 룰렛 2네임드 처치와 동시에 전멸 시 보상상자와 네임드가 동시 스폰되던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 06월 15일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-06-15/</link>
+      <link>/mysterium/posts/raw/2017/2017-06-15/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-06-15/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-06-15/</guid>
       <description>### 1. 여름축제 - 07/13(목) 까지 여름 축제가 오픈되며, 여름 축제 홍보용 NPC가 배치됩니다. - 여름 축제 NPC 배치 장소 - 대도시 내부 – 벨리카, 알레만시아, 카이아도르 - 축제 장소 – 태양의 정원, 뱀의 섬 ### 2. 아이템 - 고룡의 금빛 정수 12개로 고룡 베르고스의 허리띠를 구매할 수 있습니다. - 고룡의 금빛 정수 우클릭 시 오픈 되는 상점에 고룡의 허리띠가 등록됩니다. - 악룡의 핏빛 정수 16개로 고룡 베르고스의 허리띠를 구매할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2017년 06월 08일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-06-08/</link>
+      <link>/mysterium/posts/raw/2017/2017-06-08/</link>
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-06-08/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-06-08/</guid>
       <description>### [버그수정] - 스킬 - 낮은 확률로 정령사의 역병 창궐 이상상태가 적용되지 않는 문제 - 방향키를 입력하지 않은 상태에서 물러서기 류의 스킬 사용 시 플레이어가 바라보는 방향으로 이동하는 문제 - 던전 - 데모로스의 룰렛 1네임드의 개인장판과 폭발 이펙트가 비정상적으로 출력되는 문제 - 길리안의 숲에서 낮은 확률로 길리안의 보스 게이지 UI가 출력되지 않는 문제 - 악인 켈리반의 돌격선 3네임드 철장 앞 물이 확률적으로 보이지 않는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 06월 01일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-06-01/</link>
+      <link>/mysterium/posts/raw/2017/2017-06-01/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-06-01/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-06-01/</guid>
       <description>### [버그수정] - 아이템 - 일부 PC방 대여 스타일 아이템이 세미의 랜덤 의상 큐브 재료로 사용 가능 속성이던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.05.25 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-05-25/</link>
+      <link>/mysterium/posts/translations/2017/2017-05-25/</link>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-05-25/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-05-25/</guid>
       <description>### 1. Dungeon - Reopen Kalivan’s Dreadnaught (hard) - 5-man instance, requiring ilvl 423 for IMS - Entrance teleport is located at Cutthroat Harbour, - Via NPC - Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess’s Tear, Superior Etching Box, etc. - Reopen Forsaken Island - 5-man instance, requiring ilvl 423 for IMS - Entrance teleport is located at Cutthroat Harbour, - Via NPC - Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess’s Tear, Superior Etching Box, etc.</description>
     </item>
     
     <item>
       <title>2017년 05월 25일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-05-25/</link>
+      <link>/mysterium/posts/raw/2017/2017-05-25/</link>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-05-25/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-05-25/</guid>
       <description>### 1. 던전 - 악인 켈리반의 돌격선이 재오픈 됩니다. - 5인 파티 던전이며, 장비 레벨 423 도달 시 서버간 파티매칭이 가능합니다. - 입장용 차원의 마법석은 [동부가드 &amp;gt; 거친항구] 에 있습니다. - NPC 제네를 통해 입장하실 수 있습니다. - 탐욕스러운 라칸의 액세서리, 철기장 제작 재료, 아티팩트 원석 VII, 11단계 강화재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물, 전설 각인서 상자 등을 획득할 수 있습니다. - 번스타인의 악령섬이 재오픈 됩니다. - 5인 파티 던전이며, 장비 레벨 423 도달 시 서버간 파티매칭이 가능합니다.</description>
     </item>
     
     <item>
       <title>2017년 05월 18일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-05-18/</link>
+      <link>/mysterium/posts/raw/2017/2017-05-18/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-05-18/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-05-18/</guid>
       <description>### 1. 퀘스트 - 일반퀘스트 : 이케아의 쪽지 - 원활한 퀘스트 진행을 위해 아이템 다시 받기 기능을 추가하였습니다. - 퀘스트 진행 구조를 아이템 사용 및 방문하는 방식으로 변경하였습니다. - 해당 퀘스트는 칸스트리아의 헤카샤 NPC 를 통해 진행할 수 있습니다. - 일반퀘스트 : 달무리 자온의 노트조각 - 원활한 퀘스트 진행을 위해 아이템 다시 받기 기능을 추가하였습니다. - 해당 퀘스트는 연합군 지휘소의 달무리 자온 NPC 를 통해 진행할 수 있습니다. ### 2. 아이템 - 업적으로 획득할 수 있는 펫 스킬교본 속성 변경 - 아래 19종의 펫 스킬교본 속성이 창고보관 불가에서 가능으로 변경됩니다.</description>
     </item>
     
     <item>
       <title>2017년 05월 11일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-05-11/</link>
+      <link>/mysterium/posts/raw/2017/2017-05-11/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-05-11/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-05-11/</guid>
       <description>### 1. 부가서비스 - 2017 웨딩 드레스 색상이 백색으로 변경됩니다. - 어두운 장소에서도 순백의 웨딩 드레스가 잘 표현되도록 색상이 변경됩니다. ### [버그수정] - 스킬 - 아만 여자 궁수 클래스의 화살의 비 스킬 6~9 레벨 데미지가 동일한 문제 - 특성 - 인술사 정신집중 가속이 14단계에서 15단계로 올라갈 때 감소되는 시간이 줄어드는 문제 - 길드 - 길드 스킬을 활성화 한 후 숏컷에 등록 시 스킬이 사용불가로 보이는 문제 - 이벤트 - PC방 보상 중 ‘월광 그림자 쌍검 (1일)’ 아이템이 상점 판매 가능한 문제 - 테라코인 스페셜 탭에서 판매된 [이벤트] Fun 무기상자 구성품이 기간제인 문제 - 던전 - 데모로스의 룰렛 1네임드 이동경로 다리의 좌, 우 난간 위 허공으로 이동할 수 있는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.04.28 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-04-28/</link>
+      <link>/mysterium/posts/translations/2017/2017-04-28/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-04-28/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-04-28/</guid>
       <description>### Bug fixes - Quest - Fixed issue where multiple players could not progress with the starting quest for Demoros’s Roulette - During Demoros’ Roulette quests, qest to follow NPC Diana to the town of San Alema has been fixed for multiple players to complete simultaneously - Skill - Lancer - Fixed issue where crit chance correction on Shield Counter did not work - Archer - Fixed issue where stagger animation for Sequential Fire did not apply - Fixed issue where chance to knockdown for Sequential Fire was too high - Warrior - Fixed issue where enhancement from Rain of Blows did not apply for certain races - Fixed issue where Traverse Cut could not be chained for certain races - Fixed issue where Attack Speed buff from Traverse Cut was applied to the target - Fixed issue where Scythe III~IX did not take effect from Screen Shake Reduction option - Sorcerer - Fixed issue where Meteor Strike VIII~X did not take effect from Screen Shake Reduction option - Brawler - Fixed issue where damage for Ground Pounder XII was low - Other - Damage splash not displaying for certain classes will soon be fixed ### Additional maintenance notes - Skill - Archer - Fixed issue where damage for Radiant Arrow XI was low (Female High Elf) - Fixed issue where damage for Rain of Arrows X triggered Rain of Arrows VI (Female Amani) - Warrior - Fixed issue where damage for Traverse Cut X triggered Traverse Cut IX when chained (Baraka) - Fixed issue where damage for Blade Draw VII did not take effect from Deadly Gamble (Female High Elf) - Priest - Fixed issue where damage for Zenobia’s Vortex II-X triggered Zenobia’s Vortex I (Male Castanic) - Mystic - Fixed issue where Contagion III-IX triggered Contagion I (Female Amani) - Slayer - Fixed issue where Measured Slice damage splash did not display (Female High Elf, Female Human) source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 04월 28일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-04-28/</link>
+      <link>/mysterium/posts/raw/2017/2017-04-28/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-04-28/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-04-28/</guid>
       <description>### [버그수정] - 퀘스트 - 데모로스의 룰렛 퀘스트의 호위 단계에서 다수의 플레이어가 동시 진행하지 못하는 문제 - 데모로스의 룰렛 미션 퀘스트 중 다이애나 NPC를 따라 산 알레마 마을에 진입하는 퀘스트를 여러 플레이어가 동시에 수행할 수 있도록 수정하였습니다. - 스킬 - 창기사 - 반격 찌르기에 치명타 보정이 적용되지 않는 문제 - 궁수 - 연사 스킬의 경직 리액션이 적용되지 않는 문제 - 연사 스킬의 다운 유발이 높아졌던 문제 - 검투사 - 일부 종족의 몰아치기 스킬의 강화효과가 적용되지 않는 문제 - 무쌍난무: 찌르기 스킬의 연계가 일부 종족에게 적용되지 않는 문제 - 무쌍난무: 찌르기 스킬의 공격속도 상승 효과가 몬스터에게 적용되는 문제 - 질풍가르기 III~IX레벨 사용 시 카메라 흔들림 효과가 적용되지 않는 문제 - 마법사 - 운석낙하 VIII~X레벨 사용 시 카메라 흔들림 효과가 적용되지 않는 문제 - 권술사 - 연계로 지면강타 XII레벨 사용 시 비정상적으로 데미지가 약한 문제 - 전적 정보 - 28일 주기로 목요일 새벽4시에 전장 전적 정보가 초기화되지 않던 문제 - 이벤트 - 테라코인 스페셜 탭에 등록된 Fun 무기상자가 기간제인 문제 - 영구제 아이템으로 교체되며, 이미 기간제 아이템을 구매하신 수호자분들은 5월 11일 정기점검 시 영구제로 자동 교체됩니다.</description>
     </item>
     
     <item>
       <title>2017.04.27 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-04-27/</link>
+      <link>/mysterium/posts/translations/2017/2017-04-27/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-04-27/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-04-27/</guid>
       <description>### 1. Dungeon - Added new dungeon &#39;Demoros&#39; Roulette&#39; - Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS - Teleportal is located near Allementheia - Tier 2 Lakan accessories, Visionmaker material (VM8), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork/Extensive Alkahest, Goddess&#39; Tear, Goldfinger Token, Gold Ticket, etc can be obtained. - Removed Manglemire ## 2. Skill - Reaper - Soul Reversal - Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to - Mystic - Volley of Curses (Glyph of Enfeeblement) - Changed endurance debuff from 9% to 10% - Aura of the Merciless - Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
     </item>
     
     <item>
       <title>2017년 04월 27일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-04-27/</link>
+      <link>/mysterium/posts/raw/2017/2017-04-27/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-04-27/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-04-27/</guid>
       <description>### 1. 던전 - 신규 던전 데모로스의 룰렛이 추가 됩니다. - 65레벨 5인 던전이며, 아이템 레벨 423 달성 시 서버간 파티매칭을 시도할 수 있습니다. - 알레만시아 인근 ‘산 알레마 마을’의 게이트를 통해 던전에 입장할 수 있습니다. - 탐욕스러운 라칸의 액세서리, 철기장 재료(냉혈), 아티팩트 원석 VII, 11단계 강화 재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물, 오르피우스의 메달, 황금 티켓 등을 획득할 수 있습니다. - 거짓말쟁이 타르스키의 놀이터 이용이 종료됩니다. ### 2. 스킬 - 비검사 - 위치교환 - 이동 위치에 공간이 없을 경우 몬스터와 이동할 공간 사이의 공간으로 이동하도록 변경됩니다.</description>
     </item>
     
     <item>
       <title>2017년 04월 20일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-04-20/</link>
+      <link>/mysterium/posts/raw/2017/2017-04-20/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-04-20/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-04-20/</guid>
       <description>null source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.04.13 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-04-13/</link>
+      <link>/mysterium/posts/translations/2017/2017-04-13/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-04-13/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-04-13/</guid>
       <description>### 1. Dungeon - Akeron’s Inferno (hard) - Significantly decreased the HP of 1/2/3/4th boss - Significantly decreased the HP of the mobs spawned at 2nd boss ### Bug fixes - Skill - Sorcerer : Fixed issue where changing certain chain skills in the skill UI did not apply - Berserker : Fixed issue where overcharging Thunderstrike and Cyclone resulted in collision with party members - Berserker : Talent fix - Dungeon - Fixed issue in Ruinous Velik’s Temple where Joy of Partying was affected if a member of the party was dead when the 3rd boss was defeated - Cash shop - Fixed issue where Knight set box for Castanics was shown as Cestanics - Character - Fixed issue where the hair of Elin’s 11th hairstyle would slightly fall off while walking or using a teleport scroll source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 04월 13일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-04-13/</link>
+      <link>/mysterium/posts/raw/2017/2017-04-13/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-04-13/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-04-13/</guid>
       <description>### 1. 던전 - 오만한 아케론의 염옥 - 1/2/3/4 네임드의 HP가 대폭 하향됩니다. - 2 네임드와 전투 중 소환되는 부하 몬스터의 HP가 대폭 하향됩니다. ### [버그수정] - 스킬 - 마법사 일부 스킬의 이어지는 스킬의 옵션 설정 후 스킬UI 재 오픈 시 설정된 사항이 유지되지 않는 문제 - 광전사의 소용돌이, 모아치기 스킬을 자동 사용할 때까지 오버차징 후 사용 시 파티원과 충돌하는 문제 - 광전사의 소용돌이 스킬 사용 중 늑골 부수기를 2타까지 사용 시 소용돌기 [가속] 특성이 해제되지 않는 문제 - 던전 - 함락된 벨릭의 신전 3네임드를 일부 파티원이 사망한 상황에서 처치 시 확정 보상이 확정 드랍되지 않는 문제 - 부가서비스 - 나이츠 세트 박스의 구성품 중 케스타닉 전용 아이템 이름이 캐스타닉으로 출력되는 문제 - 캐릭터 - 엘린 종족 11번 프리셋 헤어로 걷기, 이동 주문서 사용 시 머리카락이 떨어져 보이는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 04월 06일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-04-06/</link>
+      <link>/mysterium/posts/raw/2017/2017-04-06/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-04-06/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-04-06/</guid>
       <description>### 1. 길드전 - 리카노르 투기장 내에서 길드전 전투를 할 수 없도록 변경됩니다. ### [버그수정] - 몬스터 - 일부 몬스터가 사망할 때 본래 위치보다 뒤쪽으로 순간이동하며 사망하는 문제 - UI - 파티 후 아이템 획득 시 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 프리셋을 저장하고 캐릭터 선택화면/접속종료 후 재접속 시 저장해둔 프리셋이 사라지는 문제 - 부가서비스 - 비치웨어 다이아몬드 컬렉션에서 획득 가능한 유니크 화이트 니삭스 스쿨린에 이름 변경권 사용이 불가능한 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.03.30 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-03-30/</link>
+      <link>/mysterium/posts/translations/2017/2017-03-30/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-03-30/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-03-30/</guid>
       <description>### 1. Dungeon - Manglemire reopened - 5 man party instance, with Instance Matching System available from ilvl 423 - Teleportal is located in Pora Elinu - Manglemire Teleport Scroll can be purchased from the Specialty Store - Tier 2 Lakan’s jewelry, Visionmaker Rutheless (VM9) material, Dyad Niveot Structure, Tier 11 Feedstock, Masterwork/Personal Premium Alkahest, Goddess’ Tear, Diamond, etc can be obtained ### 2. Skill - Slayer - Combo Attack (1st hit) - Changed hit point to be race-equivalent - Slightly increased casting speed - Knockdown Strike - Changed hit point to be race-equivalent - Slightly increased casting speed - Cahnged to be queue-able before the end of the other [previous] skills - Increased skill damage by 10% - Whirlwind - Changed hit point to be race-equivalent - Slightly increased casting speed - Increased skill damage by 10% - Heart Thrust - Slightly increased skill radius - Changed skill to no longer collide with party members - Measured Slice - Changed skill to no longer collide with party members - Increased skill’s base crit chance from 1.</description>
     </item>
     
     <item>
       <title>2017년 03월 30일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-03-30/</link>
+      <link>/mysterium/posts/raw/2017/2017-03-30/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-03-30/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-03-30/</guid>
       <description>### 1. 던전 - 거짓말쟁이 타르스키의 놀이터가 재오픈 됩니다. - 5인 파티 던전이며, 장비 레벨 423 도달 시 서버간 파티매칭을 시도할 수 있습니다. - 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. - 명품관에서 거짓말쟁이 타르스키의 놀이터 이동주문서를 구입하실 수 있습니다. - 탐욕스러운 라칸의 액세서리, 철기장 재료(냉혈), 아티팩트 원석 VII, 11단계 강화 재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물, 다이아몬드 등을 획득할 수 있습니다. ### 2.</description>
     </item>
     
     <item>
       <title>2017.03.23 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-03-23/</link>
+      <link>/mysterium/posts/translations/2017/2017-03-23/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-03-23/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-03-23/</guid>
       <description>### 1. Dungeon - Changed the reward for one ilvl 429 dungeon - Changed the reward for clearing Ruinous Velik’s Temple - Changed untradeable Visionmaker gear material ‘Proof of Loyalty’ to be guaranteed to drop 2 - Changed untradeable Visionmaker gear material ‘Follower’s Banner’ to be guaranteed to drop 2 - Changed untradeable Visionmaker gear material ‘Lakan’s Might’ to be guaranteed to drop 2 - Added a chance to drop Superior Etching Box - Changed tradeable Visionmaker gear material ‘Mark of Sin’ to no longer drop - Changed tradeable Visionmaker gear material box (Lakan’s Treasure Chest) to no longer drop - Changed the reward for four ilvl 423 dungeons - Velik’s Temple / Velika’s Underground Gateway / Bathysmal Rise (hard) / Akeron’s Inferno - Added a chance to drop Visionmaker gear material box (Lakan’s Treasure Chest) - Added a chance to drop Visionmaker gear material box (Follower’s Treasure Chest) - Added a chance to drop Superior Etching Box - Added a chance to drop Superior Brooch of the previous season - Added a chance to drop Lakan’s Necklace - Increased the chance to drop Tier 2 Lakan’s jewelry - Increased the chance to drop (Bind-on-Equip) Baldegg gear ### Bug fixes - Dungeon - Fixed issue in Phase 4 of Harrowhold where summoned mobs could despawn at a certain location - Fixed issue in Phase 3 of Harrowhold where the phase would clear when the boss’ HP dropped under 20% at the same time the raid wiped - Fixed issue in Akeron’s Inferno (hard) where target mechanic could be i-framed when the boss is enraged - Item - Fixed issue where Baldegg gear options had a chance to become soulbound by changing rerollable lines - System - Fixed issue where the client had a chance to crash upon reaching level 60 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 03월 23일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-03-23/</link>
+      <link>/mysterium/posts/raw/2017/2017-03-23/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-03-23/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-03-23/</guid>
       <description>### 1. 던전 - 매칭 아이템 레벨 429 던전 1종의 보상이 변경됩니다. - 함락된 벨릭의 신전의 보스 몬스터 처치 보상이 변경됩니다. - 거래불가 철기장 재료인 ‘충직한 자의 증거’를 확정적으로 2개 드랍합니다. - 거래불가 철기장 재료인 ‘추종자의 깃발’을 확정적으로 2개 드랍합니다. - 거래불가 철기장 재료인 ‘라칸의 권능’을 확정적으로 2개 드랍합니다. - 위의 확정 드랍은 5인 파티 &#39;파티의 즐거움&#39; 이상상태 적용 기준입니다. - ‘전설 각인서 상자’를 확률적으로 추가 드랍합니다. - 거래가능 철기장 재료를 (악신의 표식) 더 이상 드랍하지 않습니다.</description>
     </item>
     
     <item>
       <title>2017년 03월 16일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-03-16/</link>
+      <link>/mysterium/posts/raw/2017/2017-03-16/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-03-16/</guid>
-      <description>### 1. 발키온 연합 지령서 - 리스트형 발키온 연합 지령서 UI 모드가 추가됩니다. - 지령서 별 이미지를 생략하여 한 화면에 6개 이상의 지령서가 출력됩니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2017-03-16-1.png) ### 2. 던전 - 사악한 오르카의 신전 - 1, 2, 3 네임드의 HP가 대폭 감소됩니다. - 3네임드의 보호막 HP가 대폭 감소됩니다. - 파괴된 신계의 관문 - 3단계 - 특정 패턴이 과도하게 겹쳐서 나오는 문제가 수정됩니다. - 속성 파도 패턴 도중 플레이어의 속성이 변경되는 문제가 수정됩니다. ### [버그수정] - 던전 - 오만한 아케론의 염옥 3네임드의 스킬 이펙트가 정상적으로 출력되지 않는 문제 - 확률적으로 오만한 아케론의 염옥 2네임드 전투공간이 폐쇄되지 않는 문제 - 확률적으로 파괴된 신계의 관문 4단계에서 전투 중 사망 시 용아병이 스폰되지 않는 문제 - 벨릭의 신전 2네임드 전투공간의 외벽에 뒤잡기류 스킬이 사용되는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드가 특정 패턴을 사용하지 않는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드의 광역 공격에 피격 후 공중에서 사망 시 부활 스킬이 적용되지 않는 문제 - 스킬 - 비검사 위치교환 스킬 사용이 불가능한 거리에서 스킬 사용 시 화면이 전환되는 문제 - 마법사 공간 왜곡 스킬의 보호막 이펙트가 출력되지 않는 문제 - UI - 파티 후 아이템 획득 시 출력되는 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 업적 - ‘신들의 수호자’ 칭호가 장착되어 있지만 칭호 목록에 출력되지 않는 문제 - 아이템 - 아이템을 귀속시킨 후 귀속 캐릭터를 삭제 시 귀속 정보가 접속 중인 캐릭터의 닉네임으로 출력되는 문제 - 부가서비스 - 확률적으로 PC방 프리미엄 전용 아이템 사용 횟수가 초기화되지 않는 문제 - 길드대전 - 긴급 임무 몬스터가 출현하지 않는 문제 - 긴급 임무 발생 전체 공지 후 15분 내, 1채널 공지 위치에서 토벌 대상 몬스터가 출현합니다.</description>
+      <guid>/mysterium/posts/raw/2017/2017-03-16/</guid>
+      <description>### 1. 발키온 연합 지령서 - 리스트형 발키온 연합 지령서 UI 모드가 추가됩니다. - 지령서 별 이미지를 생략하여 한 화면에 6개 이상의 지령서가 출력됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-03-16-1.png) ### 2. 던전 - 사악한 오르카의 신전 - 1, 2, 3 네임드의 HP가 대폭 감소됩니다. - 3네임드의 보호막 HP가 대폭 감소됩니다. - 파괴된 신계의 관문 - 3단계 - 특정 패턴이 과도하게 겹쳐서 나오는 문제가 수정됩니다. - 속성 파도 패턴 도중 플레이어의 속성이 변경되는 문제가 수정됩니다. ### [버그수정] - 던전 - 오만한 아케론의 염옥 3네임드의 스킬 이펙트가 정상적으로 출력되지 않는 문제 - 확률적으로 오만한 아케론의 염옥 2네임드 전투공간이 폐쇄되지 않는 문제 - 확률적으로 파괴된 신계의 관문 4단계에서 전투 중 사망 시 용아병이 스폰되지 않는 문제 - 벨릭의 신전 2네임드 전투공간의 외벽에 뒤잡기류 스킬이 사용되는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드가 특정 패턴을 사용하지 않는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드의 광역 공격에 피격 후 공중에서 사망 시 부활 스킬이 적용되지 않는 문제 - 스킬 - 비검사 위치교환 스킬 사용이 불가능한 거리에서 스킬 사용 시 화면이 전환되는 문제 - 마법사 공간 왜곡 스킬의 보호막 이펙트가 출력되지 않는 문제 - UI - 파티 후 아이템 획득 시 출력되는 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 업적 - ‘신들의 수호자’ 칭호가 장착되어 있지만 칭호 목록에 출력되지 않는 문제 - 아이템 - 아이템을 귀속시킨 후 귀속 캐릭터를 삭제 시 귀속 정보가 접속 중인 캐릭터의 닉네임으로 출력되는 문제 - 부가서비스 - 확률적으로 PC방 프리미엄 전용 아이템 사용 횟수가 초기화되지 않는 문제 - 길드대전 - 긴급 임무 몬스터가 출현하지 않는 문제 - 긴급 임무 발생 전체 공지 후 15분 내, 1채널 공지 위치에서 토벌 대상 몬스터가 출현합니다.</description>
     </item>
     
     <item>
       <title>2017.03.08 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-03-08/</link>
+      <link>/mysterium/posts/translations/2017/2017-03-08/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-03-08/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-03-08/</guid>
       <description>### 1. Skill - Brawler - Growing Fury - Increased power gained from 30 to 45 - Increased crit factor gained from 30 to 50 - Decreased rage consumption from 300 to 250 - Quick Dash - Changed skill to be usable for a second time within 8 seconds - After the first use, cooldown is applied if the second use is used within 8 seconds - Increased cooldown from 5 to 8 seconds - Glyph - Quick Dash: Changed Glyph of Persistence to Glyph of Energy - Common glyph: Decrease cooldown by 15% / 3 points - Uncommon glyph: Decrease cooldown by 20% / 3 points Developer comment - In addition to Brawler changes, we will proceed with Slayer, Berserker, Mystic, Archer, Ninja, Reaper, Gunner, Warrior, Valkyrie balance patches.</description>
     </item>
     
     <item>
       <title>2017년 03월 08일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-03-08/</link>
+      <link>/mysterium/posts/raw/2017/2017-03-08/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-03-08/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-03-08/</guid>
       <description>### 1. 스킬 - 권술사 - 거인의 힘 - 힘 증가량이 30에서 45로 증가됩니다. - 치명타 유발 증가량이 30에서 50으로 증가됩니다. - 초당 분노 소모량이 300에서 250으로 변경됩니다. - 순간 돌진 - 순간 돌진 사용 시, 8초안에 한번 더 사용할 수 있도록 변경됩니다. - 1회 사용 후, 8초안에 2회째 사용 시 재사용 대기시간이 적용됩니다. - 재사용 대기 시간이 5초에서 8초로 변경됩니다. - 문장 - 순간 돌진의 기회의 문장(재사용 대기시간 초기화)이 집중의 문장(재사용 대기시간 감소)으로 변경됩니다.</description>
     </item>
     
     <item>
       <title>2017.03.03 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-03-03/</link>
+      <link>/mysterium/posts/translations/2017/2017-03-03/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-03-03/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-03-03/</guid>
       <description>### 1. Dungeon - Adjusted Harrowhold for balance - Phase 1 - Decreased the defense modifier and HP of the shield - Phase 2 - Increased HP of boss ### Bug fixes - Dungeon - Fixed issue in Phase 3 of Harrowhold where ‘Blood Wall’ did not display - Dual-option system - To be fixed source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 03월 03일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-03-03/</link>
+      <link>/mysterium/posts/raw/2017/2017-03-03/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-03-03/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-03-03/</guid>
       <description>### 1. 던전 - 파괴된 신계의 관문 밸런스가 조정됩니다. - 2-1 단계 - 방어력 및 보호막 수치가 상승됩니다. - 2-2 단계 - HP 수치가 상승됩니다. ### [버그수정] - 던전 - 파괴된 신계의 관문 3단계 ‘피의 파도’ 이펙트가 보이지 않는 문제 - 듀얼 옵션(03/09 수정 예정) - 아래 문제들에 대해서는 다음 주 정기점검인 03월 09일(목)에 수정될 예정입니다. - 듀얼 옵션 개방 시 두 번째 옵션이 명품 판정을 받지 않는 문제 - 듀얼 옵션 개방 시 두 번째 옵션이 적용되지 않는 문제 - 보존의 가루를 사용하지 않고 ‘완전한 태고의 재봉인 주문서’를 이용하여 옵션을 1회 변경하면 이후부터는 정상적용 되오니 임시적으로 해당 방법으로 듀얼 옵션 개방 이용을 부탁드립니다.</description>
     </item>
     
     <item>
       <title>2017.03.02 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-03-02/</link>
+      <link>/mysterium/posts/translations/2017/2017-03-02/</link>
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-03-02/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-03-02/</guid>
       <description>### 1. Dual-option - Added a dual-option system allowing 2 set of options on a single gear - Shift+Right-clicking a gear can change the options of the gear - The two options of a dual-option-enabled gear can be confirmed in the gear&#39;s &#39;tooltip&#39; by pressing the control key (Ctrl) - Dual-option is limited to the following items - Behemoth v2 - Behemoth - Visionmaker: Coldblood - Ambush - Valdeg (ie. Guile v2) ### 2.</description>
     </item>
     
     <item>
       <title>2017년 03월 02일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-03-02/</link>
+      <link>/mysterium/posts/raw/2017/2017-03-02/</link>
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-03-02/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-03-02/</guid>
       <description>### 1. 듀얼 옵션 - 하나의 장비에 2개의 옵션을 설정할 수 있는 듀업 옵션 시스템이 추가됩니다. - 변경하고자 하는 장비를 Shift+우클릭하여 옵션 개방, 변경이 가능합니다. - 듀얼 옵션이 활성화된 장비의 &#39;툴팁&#39;에서는 컨트롤 키(Ctrl)를 눌러 두 가지 옵션을 번갈아 가며 확인할 수 있습니다. - 아래 아이템들에 한하여 듀얼 옵션을 설정할 수 있습니다. - 악룡 베르고스 - 고룡 베르고스 - 철기장: 냉혈 - 철기장: 매혹 - 벨데그 ### 2. 던전 - 파괴된 신계의 관문 - 최상위 던전인 파괴된 신계의 관문이 20인 공격대 던전으로 재오픈 됩니다.</description>
     </item>
     
     <item>
       <title>2017.02.23 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-02-23/</link>
+      <link>/mysterium/posts/translations/2017/2017-02-23/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-02-23/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-02-23/</guid>
       <description>### 1. Civil Unrest &amp;amp; Rally Quest bams - Changed the loot of Civil Unrest and Rally Quest bams - Changed from Ambush box to Coldblood box ### 2. Vanguard Initiative Quest - Revised to keep filter settings even after relogging ### 3. Homepage - Added new class illustrations to the fan kit ### Bug fixes - Dungeon - Fixed issue in Celestial Arena where being pulled by devices caused the client to crash - Fixed issue in Velik’s Temple where being hit by the second boss’s push attack resulted in getting pushed off the combat area - Fixed issue in Velik’s Temple where certain third boss mechanics did not affect players on the other side of the combat area - Costume - Fixed issue where Lancer Volcanic weapon skin would penetrate the neck of Elins - Skill - Slayer: Talent fix - Sorcerer: Fixed issue where upon using Warp Barrier, attack speed would decrease even without Mana Boost effect - Ninja: Talent fix - Archer: Fixed issue where Focus would overwrite Glyph of Energy - Berserker: Talent fix - Berserker: Talent fix source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 02월 23일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-02-23/</link>
+      <link>/mysterium/posts/raw/2017/2017-02-23/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-02-23/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-02-23/</guid>
       <description>### 1. 길드대전 &amp;amp; 긴급 임무 네임드 몬스터 - 길드대전 지역 및 긴급 임무의 네임드 몬스터의 드랍 보상이 변경됩니다. - 철기장 장비 ‘매혹’ 드랍에서 à ‘냉혈’ 드랍으로 변경됩니다. - *보상 및 시즌 변경에 따른 가치보존을 위해 상향되었던 드랍률이 원래대로 소폭 하향 됩니다. ### 2. 발키온 연합 지령서 - 설정한 체크박스 필터링 값이 재 접속 시에도 동일하게 출력되도록 개선됩니다. ### 3. 홈페이지(추가) - 테라 홈페이지 자료실 – 팬사이트킷에 신규 캐릭터 일러스트가 추가되었습니다.</description>
     </item>
     
     <item>
       <title>2017.02.16 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-02-16/</link>
+      <link>/mysterium/posts/translations/2017/2017-02-16/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-02-16/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-02-16/</guid>
       <description>### 1. Civil Unrest - Changed the method weekly tax is distributed - Rank 1: 50% of weekly tax - Rank 2: 30% of weekly tax - Rank 3: 10% of weekly tax - Rank 4: 5% of weekly tax - Rank 5: 5% of weekly tax - Added rank rewards - Participants of rank 1 to 20 will receive a participation box (box received from higher rank will be worth more) - Civil Unrest rank reward will only be rewarded to players who participated a certain amount of time - Players who did do not actively participate in Civil Unrest will not receive rank-dependent participation box - Changed Civil Unrest ranking rules - Protecting your own tower while destroying enemy tower can give placement in the rankings - As it gets closer to the deciding moment of Civil Unrest, you can get placement in the rankings ### 2.</description>
     </item>
     
     <item>
       <title>2017년 02월 16일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-02-16/</link>
+      <link>/mysterium/posts/raw/2017/2017-02-16/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-02-16/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-02-16/</guid>
       <description>### 1. 길드대전 - 길드대전 세금보상 지급방식이 변경됩니다(추가) - 1등: 주간 세금의 50% 지급 - 2등: 주간 세금의 30% 지급 - 3등: 주간 세금의 10% 지급 - 4등: 주간 세금의 5% 지급 - 5등: 주간 세금의 5% 지급 - 길드대전 순위 보상이 추가됩니다. - 길드대전에서 달성한 순위에 따라 1위에서 20위까지 참가 기념품 상자를 지급합니다. (상위 순위일수록 획득 보상의 가치가 높습니다.) - 길드대전 순위 보상은 길드대전을 특정 시간이상 플레이한 캐릭터만 지급 받을 수 있습니다.</description>
     </item>
     
     <item>
       <title>2017.02.09 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-02-09/</link>
+      <link>/mysterium/posts/translations/2017/2017-02-09/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-02-09/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-02-09/</guid>
       <description>- 1. Dungeon - New: Ruinous Velik’s Temple - Added new upper tier dungeon Ruinous Velik’s Temple - Instance Matching System can be used to queue Ruinous Velik’s Temple upon reaching ilvl 429 - Tier II Lakan’s jewelry, Visionmaker material (Ruthless), Dyad Niveot Structure, Tier 12 Feedstock, Masterwork/Personal Premium Alkahest, Goddess’s Tear, and etc. can be obtained - The location and teleportal can be confirmed through Vanguard Initiative quest details - Velik’s Temple - Slightly decreased the HP of the 1-3 boss - Slightly decreased the HP of regular monsters - Fixed issue for first boss Darkan where the boss would use charge attack regardless when aggro changes - Slightly decreased the damage of mana surge machines in first boss Darkan’s area, while changing to give a burn debuff upon taking damage - Increased the cooldown of second boss Darkuryon’s main pattern - Increased the cooldown of second boss Darkuryon’s cage pattern, while decreasing the casting speed - Decreased the damage of third boss Lakan’s sword throw skill damage - Decreased the casting speed of third boss Lakan’s inner/outer aoe explosion - Increased the damage of third boss Lakan’s attacks which include rear push attack - Ruinous Velika’s Underground Pathway - Slightly decreased the HP of bosses - Slightly decreased the HP of regular monsters - Revised the lag issue in Velika’s Underground Pathway and Ruinous Velika’s Underground Pathway - Decreased the HP of the following dungeon’s bosses - Bathysmal Rise - Kalivan’s Dreadnaught - Demokron Factory (hard) - Timescape - Adjusted the balance of Demokron Factory (hard)’s first boss - Increased the cooldown of first boss Vera’s puddle - Slightly decreased the damage of first boss Vera and Prima - 2.</description>
     </item>
     
     <item>
       <title>2017년 02월 09일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-02-09/</link>
+      <link>/mysterium/posts/raw/2017/2017-02-09/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-02-09/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-02-09/</guid>
       <description>### 1. 던전 - 신규: 함락된 벨릭의 신전 - 최상위 던전인 함락된 벨릭의 신전이 추가됩니다. - 함락된 벨릭의 신전은 5인 파티 플레이 던전입니다. - 함락된 벨릭의 신전 서버간 파티매칭은 장비레벨 429를 달성해야 이용하실 수 있습니다. - 탐욕스러운 라칸의 액세서리, 철기장 재료(냉혈), 아티팩트 원석 VII, 12단계 강화 재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물 등을 획득할 수 있습니다. - 입장 위치 및 차원의 마법석 이동은 발키온 연합 지령서를 통해 상세히 확인해 보실 수 있습니다.</description>
     </item>
     
     <item>
       <title>2017.02.02 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-02-02/</link>
+      <link>/mysterium/posts/translations/2017/2017-02-02/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-02-02/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-02-02/</guid>
       <description>### 1. Added daily bonus - Added the following rewards to the follow dungeon daily reward - Daily reward I : Added 2 Premium Alkahest - Daily dungeon reward : Added 2 Premium Alkahest ### 2. Dungeon reward - Added the following rewards to Kalivan’s Dreadnaught (hard) - Necklace Resizing Kit - Earring Resizing Kit - Ring Resizing Kit ### 3. Vanguard Initiative quest - All quests below Reaper starting level will automatically complete ###4.</description>
     </item>
     
     <item>
       <title>2017년 02월 02일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-02-02/</link>
+      <link>/mysterium/posts/raw/2017/2017-02-02/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-02-02/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-02-02/</guid>
       <description>### 1. 일일 보너스 보상 추가 - Lv.65 일일 보너스 및 요일 별 던전 지령서에 아래 보상이 추가됩니다. - 일일 보상 I : 진귀한 단련의 가루 2개 추가 - 요일 별 던전 보상 : 진귀한 단련의 가루 2개 추가 ### 2. 던전 보상 - 약화된 켈리반의 돌격선에 아래 보상이 추가됩니다. - 목걸이 세공 키트 - 귀걸이 세공 키트 - 반지 세공 키트 ### 3. 발키온 연합 지령서 - 비검사 시작 레벨보다 낮은 모든 퀘스트가 자동으로 완료됩니다.</description>
     </item>
     
     <item>
       <title>2017.01.25 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-01-25/</link>
+      <link>/mysterium/posts/translations/2017/2017-01-25/</link>
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-01-25/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-01-25/</guid>
       <description>### 1. Dungeon - New dungeon: Velik’s Temple - Added new dungeon Velik’s Temple - Playable as a 5-man party - Instance matching available at ilvl 423 - Tier 2 Lakan’s accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess’ Tear, etc. can be obtained - Entrance or portal can be confirmed through Vanguard Initiative quest details - New dungeon: Ruinous Velika’s Underground Gateway - Added new dungeon Ruinous Velika’s Underground Gateway - Playable as a 7-man raid - Instance matching available at ilvl 423 - Tier 2 Lakan’s accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess’ Tear, etc.</description>
     </item>
     
     <item>
       <title>2017년 01월 25일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-01-25/</link>
+      <link>/mysterium/posts/raw/2017/2017-01-25/</link>
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-01-25/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-01-25/</guid>
       <description>### 1. 던전 - 신규: 벨릭의 신전 - 신규 던전 벨릭의 신전이 추가됩니다. - 벨릭의 신전은 5인 파티 플레이 던전입니다. - 벨릭의 신전 서버간 파티매칭은 장비레벨 423을 달성해야 이용하실 수 있습니다. - 탐욕스러운 라칸의 액세서리, 철기장 재료(냉혈), 아티팩트 원석 VII, 11단계 강화 재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물 등을 획득할 수 있습니다. - 입장 위치 및 차원의 마법석 이동은 발키온 연합 지령서를 통해 상세히 확인해 보실 수 있습니다. - 신규: 무너진 벨리카 지하 관문 - 벨리카 지하 관문 상급 던전인 무너진 벨리카 지하 관문이 추가됩니다.</description>
     </item>
     
     <item>
       <title>2017년 01월 19일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-01-19/</link>
+      <link>/mysterium/posts/raw/2017/2017-01-19/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-01-19/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-01-19/</guid>
       <description>### 1. 아이템 - 인고의 진수 크리스탈의 상점 매입가격이 변경됩니다. - 상점 매입가: 40,000골드 - 릴리스 장비의 강화에 필요한 강화제 수량이 변경됩니다. - 1~9강: 10단계 강화제 16개 à 8개로 변경 ### 2. 전장 - 포화의 전장 성문 레벨 및 체력이 상향됩니다. ### 3. 발키온 연합 지령서 - 60~64레벨 일일 보너스 II 보상이 의도보다 과도하게 지급되고 있어 변경됩니다. - 에메랄드 3개 지급 à 루비 3개 지급 ### [버그수정] - 던전 - 벨리카 지하관문 2네임드 바위 뒤로 숨기 패턴에서 안전구역 진입 시 확률적으로 보호되지 않는 문제 - 벨리카 지하관문 일반 몬스터 공격 시 다운 리액션이 자주 유발되는 문제 - 벨리카 지하관문 네임드의 어그로 대상자가 지속적으로 변경될 시 패턴을 사용하지 않는 문제 - 어둠의 동굴에서 베르노 무기상자가 드랍되는 문제 - 퀘스트 - 불길한 소식 퀘스트 보상아이템을 사용 불가능한 아이템으로 지급하는 문제 - 업적 - 강철의 전장 관련 업적이 시즌 업적에 출력되는 문제 - 발키온 연합 지령서 - 아카샤의 은신처 토벌 지령서의 이미지가 다른 이미지로 출력되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.01.12 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-01-12/</link>
+      <link>/mysterium/posts/translations/2017/2017-01-12/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-01-12/</guid>
+      <guid>/mysterium/posts/translations/2017/2017-01-12/</guid>
       <description>### 1. Dungeon - New: Velika&#39;s Undeground Gateway (VUG) - Added mid-tier dungeon VUG - Instance matching available from ilvl 417 - New gear ‘Baldegg&#39;, Tier 11 Feedstock, Spellbind, Master Enigmatic Scroll, new Visionmaker series &#39;Ruthless&#39; can be obtained - Lower-tier dungeon - The following dungeons are this season&#39;s lower-tier dungeons - Guile gear, Manor and Estate jewelry, Tier 10 enchanting materials (Feedstock, Master Enigmatic Scroll, Spellbind) can be obtained - Kalivan&#39;s Challenge - Channelworks - Abscess - Mid-tier dungeon - The following dungeons are this season&#39;s mid-tier dungeons - Baldegg gear, Lakan&#39;s jewelry, Accessory Crafter&#39;s Kit, Balbatos Circlet, Visionmaker materials (Ambush/Ruthless), Tier 11 enchanting materials can be obtained - VUG - Demokron Factory - Bathysmal Rise - Kalivan&#39;s Dreadnaught - Upper-tier Dungeon - The following dungeons are this season&#39;s upper-tier dungeons - Tier 2 Lakan&#39;s jewelry, Visionmaker materials (Ambush/Ruthless), Tier 11 enchanting materials, Alkahest, Circlet materials can be obtained - Demokron Factory (hm) - Timescape Dev note: While the weapons stats have been continuously strengthened, only the HP of monsters have been adjusted.</description>
     </item>
     
     <item>
       <title>2017년 01월 12일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-01-12/</link>
+      <link>/mysterium/posts/raw/2017/2017-01-12/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-01-12/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-01-12/</guid>
       <description>1. 던전  신규: 벨리카 지하 관문  중위 던전인 벨리카 지하 관문이 추가됩니다. 아이템 레벨 417 달성 시 파티매칭을 통해 입장할 수 있습니다. 신규 장비인 &amp;lsquo;벨데그&amp;rsquo; 시리즈, 11단계 강화석, 보존의 가루, 완전한 태고의 재봉인 주문서, 신규 철기장:냉혈 제작 재료 등을 획득할 수 있습니다.   하위 던전  아래 던전들이 이번 시즌의 하위 던전으로 운영됩니다. &amp;lsquo;릴리스&amp;rsquo; 장비, 라켈리스 액세서리, 10단계 강화 재료 (강화석, 완전한 태고의 재봉인 주문서, 보존의 가루 등)을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 12월 29일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-12-29/</link>
+      <link>/mysterium/posts/raw/2016/2016-12-29/</link>
       <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-12-29/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-12-29/</guid>
       <description>### 1. 성장구간 던전 난이도 개선 - 성장구간 던전 매칭룰에서 [탱커 없이 매칭] 룰이 재적용 됩니다. - 업데이트 이후부터는 탱커 없이 매칭을 시도할 수 있습니다. - 안내 팝업을 통해 탱커 없이 매칭 진행 여부를 선택할 수 있습니다. - 성장구간 [발키온 연합 지령서 : 선택지령]에도 장비 교환 토큰 보상이 추가됩니다. - 장비 교환 토큰 보상 추가 지령서는 아래와 같습니다. - 퀘스트 이름 | 추가템 이름 - 로더크 농장의 괴수 토벌 요청! | Lv.</description>
     </item>
     
     <item>
       <title>2016.12.22 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-12-22/</link>
+      <link>/mysterium/posts/translations/2016/2016-12-22/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-12-22/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-12-22/</guid>
       <description>Translated patch notes by Loriri (idi0ticgenius#4869) and seraphinush (seraphinush#5417) with the help of Sam (sam202s)
  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 12월 22일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-12-22/</link>
+      <link>/mysterium/posts/raw/2016/2016-12-22/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-12-22/</guid>
-      <description>### 1. 신규 클래스: 월광무사 - 신규 클래스 월광무사가 추가되었습니다. - 월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. - 액티브 스킬 ![](https://seraphinush-gaming.github.io/noctenium/images/2016-12-22-1.png) - 패시브 스킬 - [2(/images/2016-12-22-2.png) - 문장 ![](https://seraphinush-gaming.github.io/noctenium/images/2016-12-22-3.png) ### 2. 성장구간 사냥터 난이도 개선 - 성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. - 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. - 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.</description>
+      <guid>/mysterium/posts/raw/2016/2016-12-22/</guid>
+      <description>### 1. 신규 클래스: 월광무사 - 신규 클래스 월광무사가 추가되었습니다. - 월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. - 액티브 스킬 ![](https://seraphinush-gaming.github.io/mysterium/images/2016-12-22-1.png) - 패시브 스킬 - [2(/images/2016-12-22-2.png) - 문장 ![](https://seraphinush-gaming.github.io/mysterium/images/2016-12-22-3.png) ### 2. 성장구간 사냥터 난이도 개선 - 성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. - 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. - 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.</description>
     </item>
     
     <item>
       <title>2016년 12월 13일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-12-13/</link>
+      <link>/mysterium/posts/raw/2016/2016-12-13/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-12-13/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-12-13/</guid>
       <description>### [버그수정] - 스킬 - 2개의 인술사 캐릭터가 회피 연막술을 함께 사용하였을 때 확률적으로 스킬의 효과가 적용되지 않는 문제 - 권술사의 거인의 힘 사용 시 분노 게이지 차감 속도와 효과 지속시간 싱크가 맞지 않는 문제 - 거인의 힘 사용 시 효과 지속시간보다 분노 게이지의 차감 속도가 느려서 발생한 문제 - 무사 파괴의 기백 스킬을 빠르게 캔슬할 경우 재사용시간이 적용되지 않으며 다른 스킬의 쿨타임 초기화가 이루어지는 문제 - (추가)마공사의 비전 수류탄이 대상에게 폭발 후 계속해서 튕겨 나가는 문제 - UI - MP 외 별도 자원을 필요로 하는 스킬들을 추가 숏컷에 등록한 뒤 자원이 가득 채워졌다가 0이 되면 해당 스킬의 하이라이트 효과가 사라지지 않는 문제 - 문장 - 비검사의 비검 회전 칼날 스킬에 동일한 이름의 문장이 2개 존재하는 문제 - 업적 - 서버간 파티매칭 관련 업적 달성이 불가능한 문제 - 부가서비스 - 갤럭시 탈 것 스킬교본에 ‘획득일시’ 안내 문구가 출력되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016.12.08 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-12-08/</link>
+      <link>/mysterium/posts/translations/2016/2016-12-08/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-12-08/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-12-08/</guid>
       <description>### 1. Skill - Berserker - Vampiric Strike, Lethal Strike - Revised issue where damage was significantly low at high HP - The following is the HP and damage ratio: - HP 100-90%: 1.0 times, HP 90-80%: 1.1 times - Damage onward will increase by 1.1 times per 10% HP (Max at HP 10-0%: 2.0 times) - Note: Probably means that each decremenet of 10% HP will result in “additional” 0.</description>
     </item>
     
     <item>
       <title>2016년 12월 08일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-12-08/</link>
+      <link>/mysterium/posts/raw/2016/2016-12-08/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-12-08/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-12-08/</guid>
       <description>### 1. 스킬 - 광전사 - 흡혈 광타, 혼신의 일격 - 높은 HP를 유지한 상태에서 데미지가 과도하게 낮았던 문제가 수정됩니다. - 시전자의 HP에 따른 데미지 비율이 다음과 같이 변경됩니다. - HP 100%~90%: 1배, HP 90%~80%: 1.1배 - 이후 HP 10% 단위로 1.1배 데미지 상승 (최종적으로 HP 10%~0%: 2배) - 무사 - 후려치기 - 진공 3단 베기 1타, 2타 이후에도 후려치기가 연계 되도록 변경됩니다. - 진공 3단 베기 연계 시 지나치게 빠르게 시전 되었던 문제가 수정됩니다.</description>
     </item>
     
     <item>
       <title>2016.12.01 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-12-01/</link>
+      <link>/mysterium/posts/translations/2016/2016-12-01/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-12-01/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-12-01/</guid>
       <description>### 1. Skill - Berserker - Thunder Strike - Increase PvE damage by 15% - Slightly decrease PvP damage - Changed glyph point for Glyph of the Slick (common) from 7 to 6 - Changed glyph point for Glyph of the Slick (uncommon) from 6 to 5 - Changed glyph point for Glyph of the Slick (rare) from 5 to 4 - Added different skill display per charge, and increased visibility of hit radius - Image - Fiery Rage - Changed to be able to move while casting in [normal] stance - Triumphant Shout - Removed skill, and added skill effect to Tenacity - Cyclone - Patch notes do not comment on pulling effect on enemies - Changed glyph effect to increase damage from 12% to 24% from overcharging - Changed skill display hues - Image - Tenacity - Added Triumphant Shout skill effect - Increased MP regen - Bloodlust - Added Flurry of Blows effect for 10 seconds upon casting - Lethal Strike - Changed to increased damage as HP decreases - Added passive to increase crit chance when below 50% HP - Changed glyph point for Glyph of the Slick (common) from 6 to 5 - Vampiric Blow - Changed to increased damage as HP decreases - Added passive to increase crit chance when below 50% HP - Image - Reduced post-skill display delay - Changed glyph point for Glyph of Power (common) from 5 to 4 - Added glyph to increase skill damage of Lethal Strike by 20% - Slayer - Knockdown Strike - Increased PvE damage by 20% - Increased casting speed after 3rd hit of Distant Blade - Added Glyph (common) to decrease damage by 50% while casting - Backstab - Decreased cooldown by 3 seconds - Readjusted grounding effect after using skill - Changed to not take cooldown in case it fails to move - Triumphant Shout - Removed skill, and added skill effect and glyphs to Tenacity - Overhand Strike - Adjusted level requirement and base damage for skill when under level 52 - Removed knockdown to monsters (knockdown still exists for Ultimate Overhand Strike) - Increased casting speed after 3rd hit of Distant Blade and Fury Strike - Heart Thrust - Increased PvE damage by 10% - Startling Kick - Changed to ignore collision during casting - Overpower - Changed to be able to stop animation during casting - Tenacity - Added Triumphant Shout skill effect upon casting - Increased MP regen - Eviscerate - Increased damage by 10% - Increased crit chance by 1.</description>
     </item>
     
     <item>
       <title>2016년 12월 01일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-12-01/</link>
+      <link>/mysterium/posts/raw/2016/2016-12-01/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-12-01/</guid>
-      <description>### 1. 스킬 - 광전사 - 모아치기 - PVE 데미지가 15% 증가합니다. - PVP 데미지가 소폭 증가합니다. - 숙련의 문장(일반) 소모 포인트가 7포인트에서 6포인트로 조정됩니다. - 숙련의 문장(고급) 소모 포인트가 6포인트에서 5포인트로 조정됩니다. - 숙련의 문장(희귀) 소모 포인트가 5포인트에서 4포인트로 조정됩니다. - 차징 단계마다 이펙트가 출력되며, 타격 범위에 대한 가시성이 향상되었습니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2016-12-01-1.png) - 광폭화 - [일반] 상태에서는 이동하면서 시전 가능하도록 변경됩니다. - 기합 - 스킬을 삭제하고, 스킬 효과 및 문장을 집념 효과에 추가하였습니다.</description>
+      <guid>/mysterium/posts/raw/2016/2016-12-01/</guid>
+      <description>### 1. 스킬 - 광전사 - 모아치기 - PVE 데미지가 15% 증가합니다. - PVP 데미지가 소폭 증가합니다. - 숙련의 문장(일반) 소모 포인트가 7포인트에서 6포인트로 조정됩니다. - 숙련의 문장(고급) 소모 포인트가 6포인트에서 5포인트로 조정됩니다. - 숙련의 문장(희귀) 소모 포인트가 5포인트에서 4포인트로 조정됩니다. - 차징 단계마다 이펙트가 출력되며, 타격 범위에 대한 가시성이 향상되었습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-12-01-1.png) - 광폭화 - [일반] 상태에서는 이동하면서 시전 가능하도록 변경됩니다. - 기합 - 스킬을 삭제하고, 스킬 효과 및 문장을 집념 효과에 추가하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 11월 24일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-11-24/</link>
+      <link>/mysterium/posts/raw/2016/2016-11-24/</link>
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-11-24/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-11-24/</guid>
       <description>null source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 11월 17일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-11-17/</link>
+      <link>/mysterium/posts/raw/2016/2016-11-17/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-11-17/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-11-17/</guid>
       <description>### 1. 전장 - 눈싸움 전장이 재오픈 됩니다. - 입장 방법: 전장 매칭 매뉴를 통해 1일 10회 입장 가능합니다. - 해당 전장은 기간 한정으로 운영되며, 추후 전장 종료 시 다시 안내 드리겠습니다. - 64레벨 이하 캐릭터로 눈싸움 전장에서 승리 시, 고속성장 100과 소량의 골드와 경험치를 획득할 수 있습니다. - 65레벨 캐릭터로 눈싸움 전장에서 승리 시에는 MP 회복 물약과 발키온 평판포인트, 서큐버스 마력석을 획득할 수 있습니다. ### 2.아이템 - 할로윈 사탕이 삭제되었습니다.</description>
     </item>
     
     <item>
       <title>2016년 11월 10일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-11-10/</link>
+      <link>/mysterium/posts/raw/2016/2016-11-10/</link>
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-11-10/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-11-10/</guid>
       <description>### [버그수정 내역] - 아이템 - 고룡의 브로치 사용하여 변신한 상태에서 카트라이더 탈 것 탑승 해제 시 안광이 사라지는 문제가 수정되었습니다. - 고룡 베르고스의 수리검 아이템 외형이 아이콘과 상이한 문제가 수정되었습니다. - 길드 - 길드 스킬을 사용한 후 길드장을 변경할 경우 해당 길드 스킬의 쿨타임이 적용되지 않고 연속 사용 가능한 문제가 수정되었습니다. - UI - UI의 위치 변경 후 재접속 시 변경한 위치가 저장되지 않는 문제가 수정되었습니다. - 특정 상황에서 공격대 UI의 스케일을 줄여도 공격대 UI의 위치를 변경할 수 없는 문제가 수정되었습니다.</description>
     </item>
     
     <item>
       <title>2016년 11월 03일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-11-03/</link>
+      <link>/mysterium/posts/raw/2016/2016-11-03/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-11-03/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-11-03/</guid>
       <description>### [버그수정 내역] - 아이템 - 인게임에서 획득할 수 있는 드래곤 탈 것 스킬 교본 2종이 창고 보관 불가로 설정되어 있던 문제가 수정되었습니다. source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016.10.27 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-10-27/</link>
+      <link>/mysterium/posts/translations/2016/2016-10-27/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-10-27/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-10-27/</guid>
       <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster - Image - Stack UI will be display beneath the HP/MP bar - Image - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
     </item>
     
     <item>
       <title>2016년 10월 27일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-10-27/</link>
+      <link>/mysterium/posts/raw/2016/2016-10-27/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-10-27/</guid>
-      <description>### 1. 스킬 - 검투사 - 스택 시스템이 개편됩니다. - 스택이 몬스터에게 쌓이는 것이 아닌 검투사 자신에게 쌓이도록 변경됩니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2016-10-27-1.png) - &amp;lt;스택 UI는 자신의 케릭터 HP/MP바 밑에 표시됩니다.&amp;gt; &amp;lt;위 옵션 설정 시 자신의 HP바 밑에 스택이 표시됩니다.&amp;gt; ![](https://seraphinush-gaming.github.io/noctenium/images/2016-10-27-2.png) - 질풍 가르기 - [필살의 문장] 효과가 치명타 발생 확률 2배에서 몬스터 공격 시 치명타 발생 확률 3배로 변경됩니다. - PVE 스킬 위력이 10% 증가합니다. - 그림자 분신 - 즉시 시전되도록 변경됩니다. - 그림자 분신이 소환되어 있는 동안 검투사가 입는 피해의 50%(PVP 20%)를 그림자가 대신 받습니다.</description>
+      <guid>/mysterium/posts/raw/2016/2016-10-27/</guid>
+      <description>### 1. 스킬 - 검투사 - 스택 시스템이 개편됩니다. - 스택이 몬스터에게 쌓이는 것이 아닌 검투사 자신에게 쌓이도록 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-1.png) - &amp;lt;스택 UI는 자신의 케릭터 HP/MP바 밑에 표시됩니다.&amp;gt; &amp;lt;위 옵션 설정 시 자신의 HP바 밑에 스택이 표시됩니다.&amp;gt; ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-2.png) - 질풍 가르기 - [필살의 문장] 효과가 치명타 발생 확률 2배에서 몬스터 공격 시 치명타 발생 확률 3배로 변경됩니다. - PVE 스킬 위력이 10% 증가합니다. - 그림자 분신 - 즉시 시전되도록 변경됩니다. - 그림자 분신이 소환되어 있는 동안 검투사가 입는 피해의 50%(PVP 20%)를 그림자가 대신 받습니다.</description>
     </item>
     
     <item>
       <title>2016년 10월 20일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-10-20/</link>
+      <link>/mysterium/posts/raw/2016/2016-10-20/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-10-20/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-10-20/</guid>
       <description>### 1. 아이템 - 이벤트 관련 아래 아이템이 삭제되었습니다. (신규/복귀자 이벤트가 일부 캐릭터에 적용되던 오류는 10월 13일(목) 정기점검 시 수정 완료되었습니다.) 삭제 대상 아이템 - [이벤트] 9단계 +12 강화 주문서 (100%) [이벤트] 9단계 +12 강화 주문서 - [이벤트] 베르노 코인 ### [버그수정 내역] - 업적 - 업적 시즌이 변경되지 않았으나 10월 13일(목) 업데이트 이후 업적 점수가 상승한 문제가 수정되었습니다. source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016.10.13 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-10-13/</link>
+      <link>/mysterium/posts/translations/2016/2016-10-13/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-10-13/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-10-13/</guid>
       <description>### 1. Festival - Started Halloween Festival - Details - Some pictures - Many details ### 2. GvG - Increased the font size for kill/death message - Decreased the GvG declaration cost and GvG status maintenance cost - image ### 3. Battleground - Segregated Kumas Royale to level 65 only/level 20-64 - Picture - Level will be adjusted to level 65 upon entering lower level Kumas Royale - Another picture - Changed vote kick rule from majority of 80% to 100% - Removed battleground daily quest from Vanguard Initiative quest ### 4.</description>
     </item>
     
     <item>
       <title>2016년 10월 13일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-10-13/</link>
+      <link>/mysterium/posts/raw/2016/2016-10-13/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-10-13/</guid>
-      <description>### 1. 축제 - 할로윈 축제가 시작됩니다. - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 ‘꼬마 마녀’들이 등장합니다. - 마녀의 성 지상 1층에서 ‘마녀탐정 티티아나’ NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 ‘하르니아’ NPC와 대화하여 게임을 시작할 수 있습니다.</description>
+      <guid>/mysterium/posts/raw/2016/2016-10-13/</guid>
+      <description>### 1. 축제 - 할로윈 축제가 시작됩니다. - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 ‘꼬마 마녀’들이 등장합니다. - 마녀의 성 지상 1층에서 ‘마녀탐정 티티아나’ NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 ‘하르니아’ NPC와 대화하여 게임을 시작할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 10월 06일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-10-06/</link>
+      <link>/mysterium/posts/raw/2016/2016-10-06/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-10-06/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-10-06/</guid>
       <description>### 1. 아이템 - 궁수 이벤트 종료로 지급된 퀘스트 아이템이 삭제되었습니다. ### 2. 퀘스트 - 궁수 이벤트 종료로 아래의 퀘스트들이 삭제 됩니다. - 삭제 대상 퀘스트명 - 병아리급 궁수를 위한 과제 - 참새급 궁수를 위한 과제 - 까마귀급 궁수를 위한 과제 - 올빼미급 궁수를 위한 과제 - 솔개급 궁수를 위한 과제 - 검독수리급 궁수를 위한 과제 ### [버그수정 내역] - 던전 - 뒤틀린 라칸의 제단 3네임드의 속성 차원의 문 패턴을 통해 생성된 독장판이 간혹 비정상적으로 출력되는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016.09.29 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-09-29/</link>
+      <link>/mysterium/posts/translations/2016/2016-09-29/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-09-29/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-09-29/</guid>
       <description>### 1. Dungeon - Added new dungeon [Twisted Lakan’s Altar] Twisted Lakan’s Altar is a 5man party dungeon - Can be entered through teleportal in Arcadia &amp;gt; Oblivion Woods &amp;gt; Deva Silva, and requires iLvl 417 to enter via IMS - Rewards are Tier 2 Demense earring/ring, Imperator Belt, Cleansing Brooch, Goldfinger Token, Eau d&#39;Fascination, Lachelith’s Treasure Box, Imperator designs, Ambush designs, Rare innerwear, Dyad Niveot Structure, and etc - Added [Twisted Lakan’s Altar] to guild quest - Destroyed Gateway to God’s Realm (GDDR) - Adjusted balance per phase - Phase 1 - Decreased Agalith damage by 15% - Decreased Agalith HP by 10% - Phase 2 - Increased Balista skill damage by 20% - Phase 3 - Decreased Vergoth defense by 5% - Phase 4 - Increased attack speed of aerial breathe by 10% - Increased attack speed of stoning attack due to close-range explosion by 15% - Decreased gold drop per phase - Gold Hunter Boost/Internet Cafe/Elite related bonus gold will no longer apply - Increased the upper limit of gold given, and decreased lower limit - Decreased the number of gold item dropped - Exchanged the loot table between Phase 1 and Phase 2 - Clearing Phase 2 gives Phase 1 loot, and clearing Phase 1 gives Phase 2 loot - Changed loot table and loot probability of Vergoth’s Bronze/Silver/Gold Treasure Box - Removed Diamond - Added Goddess’s Tear and Superior Etching Box - 각 페이즈의 기본보상인 베르고스의 전투 주머니에 강화석이 추가로 구성됩니다.</description>
     </item>
     
     <item>
       <title>2016년 09월 29일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-09-29/</link>
+      <link>/mysterium/posts/raw/2016/2016-09-29/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-09-29/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-09-29/</guid>
       <description>### 1. 던전 - 신규 던전 [뒤틀린 라칸의 제단]이 추가됩니다. - 뒤틀린 라칸의 제단은 65레벨 5인 파티 던전입니다. - 아르카니아 가드 &amp;gt; 잊혀진 숲 &amp;gt; 패잔병의 은신처 근방에 위치한 차원의 마법석을 통해 입장할 수 있으며, 아이템 레벨 417 달성 시 서버간 파티매칭을 통해서도 입장할 수 있습니다. - 보상 아이템으로 초월한 라켈리스의 귀걸이/반지, 철기장 복수 허리띠, 정화의 토템(전설), 오르피우스의 메달, 매혹의 향수, 라켈리스의 보물상자, 철기장:복수 제작도안, 철기장:매혹 제작도안, 희귀 잿빛 속옷, 아티팩트 원석 등을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016.09.22 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-09-22/</link>
+      <link>/mysterium/posts/translations/2016/2016-09-22/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-09-22/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-09-22/</guid>
       <description>### 1. Civil Unrest - Reopened Civil Unrest - Some comment - Some comment - Changed loot table for bams in CU - Increased the number of Diamond and Emerald - Changed Imperator gear box to Ambush gear box - Added message upon kill or death during CU - Added 5 contribution points upon kill or death during CU - Can only be obtained while Guild Tower exists - Added Guild XP to CU rank 1-10 - Rank : Guild XP - 1 : 340 - 2 : 145 - 3 : 97 - 4 : 82 - 5 : 82 - 6 : 75 - 7 : 75 - 8 : 75 - 9 : 75 - 10 : 75 ### 2.</description>
     </item>
     
     <item>
       <title>2016년 09월 22일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-09-22/</link>
+      <link>/mysterium/posts/raw/2016/2016-09-22/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-09-22/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-09-22/</guid>
       <description>### 1. 길드대전 - 길드대전이 재오픈됩니다. - 오는 9월 24일 첫 길드대전이 시작됩니다. - 매 주 토요일 2시간씩 운영되며, 해당 시간에만 전초기지에 대한 공격이 가능합니다. - 길드대전 지역에 출현하는 대형 몬스터 보상이 변경됩니다. - 다이아몬드, 에메랄드 드랍 수량이 대폭 증가합니다. - 철기장 복수 상자 보상이 철기장:매혹 상자로 변경됩니다. - 길드대전 적을 죽이거나 죽었을 때 관련 킬/데스 메시지가 출력됩니다. - 길드대전 진행 중 적을 죽이거나 죽었을 때 길드활동에 참여한 공헌도 5점을 획득합니다.</description>
     </item>
     
     <item>
       <title>2016.09.13 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-09-13/</link>
+      <link>/mysterium/posts/translations/2016/2016-09-13/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-09-13/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-09-13/</guid>
       <description>### 1. Skill - Archer - Removed Bloodlust effect (additional damage as HP of monster decreases) from Thunderbolt - Adjusted the excessive PvP damage of Thunderbolt - Changed Rapid Fire - Glyph of Power from increase skill damage by 50% to 20% - Changed Rapid Fire - Glyph of Persistence from eliminate cooldown by 30% to 15% ### 2. Item - K TERA exclusive ### 3. Miscellaneous (added) - Rootstock Festival is activated (K TERA exclusive) - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 09월 13일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-09-13/</link>
+      <link>/mysterium/posts/raw/2016/2016-09-13/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-09-13/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-09-13/</guid>
       <description>### 1. 스킬 - 궁수 - 뇌룡의 일격 스킬의 몬스터의 HP가 줄어듦에 따른 대미지 증가 효과가 사라집니다. - 뇌룡의 일격 스킬의 PVP 대미지가 의도한 수치보다 과도하게 측정된 부분을 조정하였습니다. - 속사 투지의 문장 효과가 스킬 위력 50% -&amp;gt; 20%로 변경됩니다. - 속사 집중의 문장 효과가 30% -&amp;gt; 15% 확률로 재사용 시간 초기화로 변경됩니다. ### 2. 아이템 - 테라 코인상점 아이템 추가 - 스페셜탭에 특성 초기화 물약이 추가되었습니다. - 특성 초기화 물약은 50개의 테라코인을 필요로 합니다.</description>
     </item>
     
     <item>
       <title>2016.09.08 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-09-08/</link>
+      <link>/mysterium/posts/translations/2016/2016-09-08/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-09-08/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-09-08/</guid>
       <description>### 1. Skill - Archer - Added new skill [Pursuit] - Skill description - Added new skill [Foresight] - Skill description - Increased damage of Thunderbolt by 100% - Changed skill display - Added Noctenium effect - Consumes 2 Noctenium Infusion, increases damage by 9-13% - Increased damage of Radiant Arrow by 25% - Changed skill display - Increased damage of Penetrating Arrow by 25% - Changed skill display - Increased damage of Rain of Arrows by 10% - First hit positioning will determine the positioning of the entire skill - Changed skill display - Changed Backstep to be directional input - Changed Breakaway Bolt to be directional input - Increased damage of Rapid Fire - Increased damage of first hit by 3 times - Increased damage of 2~7 hit by 10% - Focus Preparation stacks per hit - Increased casting speed of Poison Arrow - Increased maximum poison stack to 3 - Changed Ensnaring Trap from 1 hit to 2 hit - Re-clicking the skill will trigger the second hit of the trap - Second hit of skill will apply decrease movement speed by 90% effect - Movement speed debuff will be halved in PvP - Time limit to trigger the second hit is 3 seconds - Changed skill sound and display - Changed Eagle’s Eye effect - Before: Increase damage against bams by 5% - After: Increase damage against monsters by 7% - Removed Sniper’s Eye - Renamed Final Salvo to Successive Shot - Combined 5 hits to a single hit - Increased the damage to be 40% more than the sum damage of the original 5 hits - Changed skill display - Broadened the skills that applies Focus Preparation - Changed the skill effect from using Arrow to Focus Preparation - Focus Preparation will stack from Arrow, Successive Shot, and Rapid Fire, and upon 10 stacks Focus effect will apply increasing the charging speed of all charge skills - Changed and added glyphs - Rapid Fire: Glyph of – Chance to eliminate cooldown by 30% (4) - Successive Shot Glyph of – Decrease cooldown by 25% (4) - Successive Shot: Glyph of – Decrease cooldown by 35% (3) - Thunderbolt: Glyph of Carving – Increase crit chance by 2 times (4) - Thunderbolt: Glyph of Carving – Increase crit chance by 3 times (3) - Radiant Arrow: Glyph of Carving – Increased crit chance by 3 times (4) - Berserker - Applies both Fiery Rage effect and Flurry of Blows effect upon using Fiery Rage - Decreased Evasive Roll cooldown by 1 second - Increased Evasive Smash cooldown by 2 seconds - Added a new passive skill which increases crit chance of the next Thunder Strike if the previous Thunder Strike fails to crit - This passive will only apply in PvE situations - Changed glyph effects - Changed Flurry of Blows - Glyph of Lingering (common) to Fiery Rage – Glyph of Lingering (increase effect duration by 30%) - Changed Flurry of Blows – Glyph of Lingering (uncommon) to Fiery Rage – Glyph of Lingering (increase effect duration by 35%) - Changed Evasive Roll – Glyph of Energy to Thunder Strike – Glyph of Energy (decrease cooldown by 20%) - Reaper - Increased damage to dungeon monsters - Increased damage to bams - Gunner - Increased damage to dungeon monsters - Increased damage to bams - Priest - Blessing of Arun, Blessing of Shara, and Kaia’s Shield does not lose effect when teleporting within the same area (dungeon to dungeon, field to field) - Mystic - Vow does not lose effect when teleporting within the same area (dungeon to dungeon, field to field) ### 2.</description>
     </item>
     
     <item>
       <title>2016년 09월 08일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-09-08/</link>
+      <link>/mysterium/posts/raw/2016/2016-09-08/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-09-08/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-09-08/</guid>
       <description>### 1. 스킬 - 궁수 - 신규 스킬 [추격]이 추가됩니다. - 짧은 거리를 순간적으로 이동할 수 있습니다. - 신규 스킬 [약점 관찰]이 추가됩니다. - 스킬 사용 후 다음 1회의 타격은 몬스터의 후방에서 공격하는 것과 동일한 효과를 갖습니다. - 뇌룡의 일격 스킬 위력이 100% 증가합니다. - 스킬 이펙트가 변경되었습니다. - 녹테늄 효과가 추가되었습니다. - 녹테늄 강화탄 2개 소모: 공격력 9~13% 증가 - 집중 사격의 스킬 위력이 25% 증가합니다. - 스킬 이펙트가 변경되었습니다.</description>
     </item>
     
     <item>
       <title>2016.09.01 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-09-01/</link>
+      <link>/mysterium/posts/translations/2016/2016-09-01/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-09-01/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-09-01/</guid>
       <description>### 1. Dungeon - Adjusted Destroyed Gateway to God’s Realm balance. - Phase 3 - Increased Vergoth defense - Increased center breathe damage - Increased HP of attribute sphere - Increased attribute sphere explosion damage - Increased HP of shield for all body parts - Increased periodic damage of lava puddle - Increased defense upon burn phase - Developer’s comment: We have confirmed that phase 3 severely lacks difficulty. Because of this, clearing phase 3 has become meaningless, and it does not accomplish its role as a bridge to phase 4, and thus the difficulty of the phase was significantly increased.</description>
     </item>
     
     <item>
       <title>2016년 09월 01일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-09-01/</link>
+      <link>/mysterium/posts/raw/2016/2016-09-01/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-09-01/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-09-01/</guid>
       <description>### 1. 던전 - 파괴된 신계의 관문 밸런스가 조정됩니다. - 3단계 - 베르고스 방어도 증가 - 중앙 브레스 스킬 데미지 증가 - 화염/분진 구슬 HP 증가 - 화염/분진 폭발 시 데미지 증가 - 보호막 패턴의 부위 별 보호막 HP 증가 - 용암 장판 틱당 데미지 증가 - 광폭화 시 방어도 증가 § 개발자 코멘트 현재 3단계의 난이도가 의도 대비 지나치게 낮게 밸런싱되어 있음을 확인하였습니다. 이로 인해 3단계 클리어 자체에 대한 명예적 의미가 퇴색되고, 4단계를 거쳐가기 위한 중간 다리 역할 조차 제대로 수행하지 못하고 있다 판단하여 이례적으로 난이도를 대폭 상향하게 되었습니다.</description>
     </item>
     
     <item>
       <title>2016.08.30 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-08-30/</link>
+      <link>/mysterium/posts/translations/2016/2016-08-30/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-08-30/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-08-30/</guid>
       <description>### 1. Dungeon - Fixed issue allowing players to enter cleared phases in Destroyed Gateway to God’s Realm (DGGR). - Fixed issue where players could iframe the sphere explosion in phase 3 of DGGR. - Fixed issue where Vergoth’s target pattern would intermittently be stacked twice. - Fixed issue where Breathe attack could be blocked in phase 4 of DGGR. - Fixed issue where players could potentially die from spawning rock pillars in phase 4 of DGGR.</description>
     </item>
     
     <item>
       <title>2016년 08월 30일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-08-30/</link>
+      <link>/mysterium/posts/raw/2016/2016-08-30/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-08-30/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-08-30/</guid>
       <description>### [버그수정 내역] 1. 던전 - 파괴된 신계의 관문 던전에서 클리어한 단계의 페이즈를 다시 입장 가능한 문제를 수정하였습니다. - 파괴된 신계의 관문 3페이즈 속성 구슬 사용 패턴 후 불, 분진 구슬 폭발 시 회피 및 무적 스킬로 대응이 가능한 문제를 수정하였습니다. - 파괴된 신계의 관문 베르고스가 사용하는 베르고스의 주시 패턴이 간헐적으로 2중첩 되는 문제를 수정하였습니다. - 파괴된 신계의 관문 4페이즈 근거리 폭발 후 돌 소환 패턴에서 공중 브레스 스킬을 막기 스킬로 방어 가능한 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016.08.25 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-08-25/</link>
+      <link>/mysterium/posts/translations/2016/2016-08-25/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-08-25/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-08-25/</guid>
       <description>### 1. Dungeon - New dungeon ‘Destroyed Gateway to God’s Realm’ added (referred to as DGGR from here on) - 30 man level 65 raid - Can be entered through teleportal located at Velika Outskirts. - DGGR does not support cross-server instance party matching system. - DGGR holds 4 stages/phases, and each stage/phase will give rewards. - (Rewards can be looted by breaking instantiated reward box upon clearing, and reward will not be given unless player is located within 100m when the reward box is broken).</description>
     </item>
     
     <item>
       <title>2016년 08월 25일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-08-25/</link>
+      <link>/mysterium/posts/raw/2016/2016-08-25/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-08-25/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-08-25/</guid>
       <description>### 1. 던전 - 신규 던전 파괴된 신계의 관문이 추가됩니다. - 65레벨 30인 공격대 던전입니다. - 벨리카 근교에 위치한 차원의 마법석을 통해 입장하실 수 있습니다. - 파괴된 신계의 관문은 서버간 파티매칭을 지원하지 않습니다. - 파괴된 신계의 관문은 총 4단계에 걸쳐 진행되며, 각 단계 클리어 시 보상이 지급됩니다. (보상은 클리어 시 생성되는 보상 상자를 파괴하여 루팅할 수 있으며, 보상 상자가 파괴될 때 던전 안에 위치하고 있더라도 보상 상자 근처(약 100m)에 위치하지 않을 경우 보상을 획득할 수 없습니다) - 1단계 보상: 베르고스의 전투 주머니(하급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 허리띠/뼈조각/뿔조각, 전설 각인서 상자 - 2단계 보상: 베르고스의 전투 주머니(중급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 허리띠/뼈조각/뿔조각, 전설 각인서 상자, 아티팩트 원석 VII, 빛나는 여신의 결정 가루, 베르고스의 구리빛 보물 상자 - 3단계 보상: 베르고스의 전투 주머니(상급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 비늘/이빨, 아티팩트 원석 VII, 빛나는 여신의 결정 가루, 베르고스의 은빛 보물 상자 - 4단계 보상: 베르고스의 전투 주머니(최상급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 비늘/이빨, 아티팩트 원석 VII, 빛나는 여신의 결정 가루, 빛나는 여신의 눈물, 베르고스의 금빛 보물 상자, 고룡의 머리 - 4단계 클리어 보상인 고룡의 머리 획득 시 ‘한이 서린 용의 눈빛’ 퀘스트를 수주할 수 있으며, 퀘스트 완료 시 ‘고룡의 브로치’ 아이템을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 08월 18일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-08-18/</link>
+      <link>/mysterium/posts/raw/2016/2016-08-18/</link>
       <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-08-18/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-08-18/</guid>
       <description>### 1. 던전 - 릴리스의 성 일부 패턴의 밸런스가 하향됩니다. - 왁스파이더와 전투 시 생성되는 굳어가는 촛농 게이지가 1초에 1씩 상승하도록 변경 - 릴리스의 원거리 브레스 패턴 데미지 하향 - 광역 밀쳐내기에 피격 시 부여되는 이동속도 감소 이상상태 제거 - 전투공간 제한 패턴의 맵 중앙에 생성되는 도트 장판 제거 - 포악한 베르노의 실험실에서 ‘라켈리스의 목걸이: 치명’, ‘라켈리스의 목걸이: 힘’이 추가 드랍됩니다. - 아래 던전은 서버간 파티매칭으로만 입장할 수 있게 변경됩니다. ※ 일반 던전은 최대 4인 파티 후 매칭, 베르노는 최대 5인 파티 후 매칭 시 입장이 가능합니다.</description>
     </item>
     
     <item>
       <title>2016.08.11 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-08-11/</link>
+      <link>/mysterium/posts/translations/2016/2016-08-11/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-08-11/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-08-11/</guid>
       <description>### 1. Skill - Berserker - Increased damage against dungeon monsters/BAMs - Sorcerer - Increased casting speed of the following skills - Glacial Retreat by 20% - Painblast by 20% - Nova by 25% - Lightning Bolt by 15% - Increased PvP damage of the following skills - Meteor Fall / Overchanneled Meteor Fall - Void Pulse - Flame Pillar - Lightning Bolt - Decreased damage by 15% - Warp Barrier - Changed MP cost to 0 - Recover a maximum of 5% MP upon casting - Recover a maximum of 5% MP upon taking damage no longer works - Overchanneling does not apply when Warp Barrier is in effect - Ice Sphere - Decreased skill AoE - Meteor Fall / Overchanneled Meteor Fall - Able to use Backstep while casting - Reference: Slayer balance patch will be on the 08/25 update.</description>
     </item>
     
     <item>
       <title>2016년 08월 11일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-08-11/</link>
+      <link>/mysterium/posts/raw/2016/2016-08-11/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-08-11/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-08-11/</guid>
       <description>### 1. 스킬 - 광전사 - 정예/중형 몬스터에 대한 공격 대미지가 상승합니다. - 마법사 - 아래 스킬들의 시전 속도가 상승합니다. - 빙결의 대지: 20% - 오염의 저주: 20% - 마력 폭발: 25% - 뇌격 강타: 15% - 아래 스킬들의 PVP 대미지가 상승합니다. - 운석 낙하/강화 운석 낙하 - 파멸의 광탄 - 화염 기둥 - 뇌격 강타 - 대미지가 15% 하향됩니다. - 공간 왜곡 - 소모 MP가 0으로 변경됩니다. - 시전 시 최대 MP의 5%가 회복됩니다.</description>
     </item>
     
     <item>
       <title>2016년 08월 04일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-08-04/</link>
+      <link>/mysterium/posts/raw/2016/2016-08-04/</link>
       <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-08-04/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-08-04/</guid>
       <description>### 1. 아이템 - [PC방] 기능성 아이템 교환 쿠폰에 다음의 아이템이 추가됩니다. - [PC방] 인던초기화: 라켈리스의 폐허 - 거래가능 속성으로 포함되어 있던 문제가 확인되어 8/1(월) 구성품에서 제거되었던 아이템 입니다. - 테라 코인상점에 신규 아이템 추가 및 일부 아이템 교환 필요 코인수가 변경되었습니다. [관련 공지 바로가기] - 아래 아이템이 테라코인 상점에 추가되었습니다. - 아이템 명 | 코인 수 - 휴먼 남자 얼굴 종이가면 | 100 - 휴먼 여자 얼굴 종이가면 | 100 - 케스타닉 남자 얼굴 종이가면 | 100 - 케스타닉 여자 얼굴 종이가면 | 100 - 아만 남자 얼굴 종이가면 | 100 - 아만 여자 얼굴 종이가면 | 100 - 포포리 얼굴 종이가면 | 100 - 엘린 얼굴 종이가면 | 100 - 바라카 얼굴 종이가면 | 100 - 하이엘프 남자 얼굴 종이가면 | 100 - 하이엘프 여자 얼굴 종이가면 | 100 - 수줍은 검은 얼굴 종이가면 | 100 - 수줍은 노란 얼굴 종이가면 | 100 - 할로윈 후카 가면 | 200 - 붉은 선원 두건 | 200 - [이벤트] 코스모 헤드셋 BSF-14 | 300 - [이벤트] 명인의 요리사 모자 | 200 - [이벤트] 고독을 씹는 짜장면 | 200 - [이벤트] 고독을 씹는 짬뽕 | 200 - [이벤트] 귀요미 헤어 밴드 | 300 - [이벤트] 레드스타 헤어밴드 | 300 - [이벤트] 바이킹 투구 | 300 - [프로모션] 이국의 어둠 복면 | 300 - [프로모션] 복실한 흰 고양이귀 | 300 - [프로모션] 복실한 노랑 고양이귀 | 300 - [프로모션] 복실한 검정 고양이귀 | 300 - [프로모션] 꽃돌이 바람개비 머리띠 | 300 - 아래 아이템의 교환 필요 코인수가 변경되었습니다.</description>
     </item>
     
     <item>
       <title>2016년 07월 28일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-07-28/</link>
+      <link>/mysterium/posts/raw/2016/2016-07-28/</link>
       <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-07-28/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-07-28/</guid>
       <description>### 1. 던전 - 악녀 릴리스의 성 - 신규 던전인 악녀 릴리스의 성이 추가됩니다. - ‘릴리스의 성’ 상위 던전이며, 65레벨 5인 파티 플레이 던전입니다. - 악녀 릴리스의 성은 포포리아 가드 &amp;gt; 광기의 언덕에서 입장 가능하며, 아이템 레벨 417 달성 시 서버간 파티 매칭을 통해 입장이 가능합니다. - 악녀 릴리스의 성에서는 초월한 라켈리스의 반지, 정화의 토템(전설), 철기장: 매혹 제작 재료(현혹의 가루, 매혹의 향수)를 획득할 수 있습니다. - 라켈리스의 폐허 - 신규 던전인 라켈리스의 폐허가 추가됩니다.</description>
     </item>
     
     <item>
       <title>2016.07.21 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2016/2016-07-21/</link>
+      <link>/mysterium/posts/translations/2016/2016-07-21/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2016/2016-07-21/</guid>
+      <guid>/mysterium/posts/translations/2016/2016-07-21/</guid>
       <description>Update: 2016.07.26 - additional sorcerer pve/pvp buffs
 ### 1. Class renewal: Sorcerer - Removed Skills - Removed Ice Needle - Removed Fireblast - Removed Magma Bomb - Removed Overchannel - Burst of Celerity - Changed into passive skill - Changed to increase attack speed by 30% -Arcane Pulse - Decreased charge by 1 bar, and blast 2 pulses are full charge - Increased number of pulses with Overchanneling effect - Increased speed of pulse - Changed to immediately fire at full charge - Increased damage - Decreased glyph point for Glyph of Power (common) from 4 to 3 - Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3 - Mana infusion - Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds - Added Glyph of Energy (common) - 4 points - Decrease cooldown by 30% - Ice Sphere (new) - Replaces Ice Needle - Fires Ice Sphere towards the front.</description>
     </item>
     
     <item>
       <title>2016년 07월 21일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-07-21/</link>
+      <link>/mysterium/posts/raw/2016/2016-07-21/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-07-21/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-07-21/</guid>
       <description>### 1. 클래스 리뉴얼: 마법사 - 스킬 삭제 - 얼음 송곳 스킬이 삭제됩니다. - 지옥불 소환 스킬이 삭제됩니다. - 폭렬탄 투척 스킬이 삭제됩니다. - 파괴의 계약 스킬이 삭제됩니다. - 신속의 계약 - 공격 속도 30% 증가로 변경됩니다. - 패시브 스킬로 변경됩니다. - 폭렬구 - 차지 단계가 한 단계 줄어들며, 풀차지 시 2개의 구체를 발사하도록 변경됩니다. - [마력 강화] 효과가 적용되는 중에는 더 많은 구체를 발사합니다. - 구체의 속도가 더욱 빠르게 변경됩니다.</description>
     </item>
     
     <item>
       <title>2016년 07월 14일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-07-14/</link>
+      <link>/mysterium/posts/raw/2016/2016-07-14/</link>
       <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-07-14/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-07-14/</guid>
       <description>### 1. 아이템 - 일부 이벤트 아이템에 삭제 일정이 추가되었습니다. - 2016년 7월 21일 삭제 내용 일정 추가 아이템 - [이벤트] ‘철기장 : 복수’ 장비 재료 교환 토큰 - [이벤트] 출석 코인 ### 2. 이벤트 - 복귀 수호자 이벤트가 시작됩니다. - 이벤트 기간: 07월 14일(목) 점검 후 ~ 08월 25일(목) 점검 전 - 이벤트 대상: 06월 14일(화) 이후 접속하지 않으셨던 모든 수호자 자세한 내용은 테라 홈페이지 이벤트 탭에서 확인하실 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 07월 07일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-07-07/</link>
+      <link>/mysterium/posts/raw/2016/2016-07-07/</link>
       <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-07-07/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-07-07/</guid>
       <description>### 1. 길드대전 - 전초기지 체력이 대폭 감소됩니다.(수정) - 전초기지 근처 150m 내 기지를 지을 수 없었던 제한거리가 80m로 단축됩니다. - 전초기지의 수호 버프를 이제 사망 후 기지부활 시가 아니라 기지 주변 30m 내에 있을 때 받도록 변경됩니다. - 길드대전 네임드의 체력이 대폭 감소됩니다.(수정) ### 2. 길드 시스템 - 길드 임무 초기화 시간이 던전 입장 횟수 및 입장 쿨타임 초기화 시간과 동일한 새벽5시로 변경됩니다.(수정) - 길드 임무 완료 제한 시간이 4시간에서 12시간으로 증가합니다.</description>
     </item>
     
     <item>
       <title>2016년 06월 29일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-06-29/</link>
+      <link>/mysterium/posts/raw/2016/2016-06-29/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-06-29/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-06-29/</guid>
       <description>### 1. 길드대전 - 신규 컨텐츠 길드대전이 추가됩니다. - 3주 간 주 2회(수요일 / 토요일) 시범운영 기간을 가집니다. - 11레벨 이상의 플레이어라면 누구라도 벨리카의 길드대전 안내인 NPC를 통해 길드대전 지역으로 입장할 수 있습니다. - 길드대전은 수요일 / 토요일 2시간씩(오후 8시 ~ 오후 10시) 운영되며, 해당 시간에만 전초기지에 대한 공격이 가능합니다. - 대전시간 동안 아군 길드의 전초기지를 보호하고, 모든 적대 길드의 전초기지를 파괴할 경우 승리할 수 있습니다. - 대전시간 종료 시에도 파괴되지 않은 기지가 2개 이상 남아 있을 경우 벨리카는 해방되며, 세금은 이월되어 다음 길드대전의 보상이 더욱 증가됩니다.</description>
     </item>
     
     <item>
       <title>2016년 06월 23일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-06-23/</link>
+      <link>/mysterium/posts/raw/2016/2016-06-23/</link>
       <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-06-23/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-06-23/</guid>
       <description>### 1. 아이템 - 출석코인 상점 판매 아이템에 아래 아이템이 추가됩니다. - 상품명 | 코인 필요량 - 세미 큐브 | 35개 - 외모변경권(1일) | 70개 - ‘오다 주웠다’ 이벤트 아이템이 삭제됩니다. - 삭제 대상 아이템 - [이벤트]9단계+12 강화 주문서 [이벤트]베르노 큐브 - [이벤트]베르노 코인 - [이벤트]베르노 파편 - [이벤트]+12 베르노의 무기 상자 - 아래 대상자들에게 ‘헬로키티 회중시계’ 아이템이 지급됩니다. [관련공지 바로가기] - 지급 대상 - 06월01일(수) ~ 06월16일(목) 점검 전까지 헬로키티 종합 선물상자를 사용한 모든 캐릭터 (아이템을 사용한 횟수 만큼 ‘헬로키티 회중시계’ 지급) - 지급 방법 - 해당 아이템을 사용한 캐릭터의 우편으로 지급 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 06월 16일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-06-16/</link>
+      <link>/mysterium/posts/raw/2016/2016-06-16/</link>
       <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-06-16/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-06-16/</guid>
       <description>### 1. 비행지역 확장 - 아래의 지역이 비행 가능지역으로 확장됩니다. - 알레만시아 - 알레만시아 직할령 - 에세니아 가드 - 웨스토니아 가드 - 비아 엘레니움 가드 - 판노니아 가드 - 베리타스 특별지구 - 일부 지역은 비행이 불가능합니다. - 웨스토니아 가드 &amp;gt; 악령의 고성 - 비아 엘레니움 가드 &amp;gt; 배반의 암굴 - 판노니아 가드 &amp;gt; 미아 아라크네아, 다곤의 신전 2. 아이템 - 오토 계정의 사냥 효율을 감소시키기 위해 필드 드랍 아이템의 상점 매입가 삭제 - 각종 제작 재료, 제련, 강화제/강화석, 기타 사냥 아이템의 상점 매입가가 삭제됩니다.</description>
     </item>
     
     <item>
       <title>2016년 06월 09일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-06-09/</link>
+      <link>/mysterium/posts/raw/2016/2016-06-09/</link>
       <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-06-09/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-06-09/</guid>
       <description>### 1. 전장 - 쿠마스의 놀이터 - 회복의 마석 밸런스 수정 - 틱 당 회복효과 3000 -&amp;gt; 6000으로 상향됩니다. - 대장 쿠마스가 회복의 기운 효과에 면역이 되도록 수정됩니다. - 회복의 기운 효과를 적용 받은 아군 아기 쿠마스의 이동속도가 80 증가합니다. (추가) source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 06월 02일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-06-02/</link>
+      <link>/mysterium/posts/raw/2016/2016-06-02/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-06-02/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-06-02/</guid>
       <description>### 1. 퀘스트 - 미션 퀘스트 - 여명의 정원에서 수행 가능한 ‘폐허가 된 정원’ 퀘스트 보상에서 켈리반의 무기 상자가 삭제됩니다. - 라크난 성의 기억에서 수행 가능한 ‘기억의 석판 복원’ 퀘스트 보상에 켈리반의 무기 상자가 추가됩니다. - 라크난 성의 기억은 이르카(지식의 회당)에서 입장 가능합니다. ### 2. 부가서비스 - 기간제 캐릭터 종족 변경권, 외모 변경권 툴팁 가이드 추가 - “마지막 선택한 종족, 외형으로 변경사항이 적용됩니다.” 문구가 추가됩니다. ### [버그 수정 내역] - 스킬 - 마법사 클래스의 속박의 저주 스킬이 적중된 상태에서 광전사 클래스 늑골 부수기 스킬이 활성화 되는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 05월 26일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-05-26/</link>
+      <link>/mysterium/posts/raw/2016/2016-05-26/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-05-26/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-05-26/</guid>
       <description>### 1. 금칙어 - 금칙어 리스트가 업데이트 되었습니다. ### [버그 수정 내역] - 던전 - 천공의 경기장 진행 중 획득 가능한 공격력 강화 이상상태가 던전을 벗어나도 해제되지 않는 문제를 수정하였습니다. source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 05월 19일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-05-19/</link>
+      <link>/mysterium/posts/raw/2016/2016-05-19/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-05-19/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-05-19/</guid>
       <description>### 1. 전장 - 쿠마스 월드 - 전장 부활 시간이 2초에서 4초로 변경됩니다. - 승리 보상으로 승리의 인도자 3,600점, 광기의 학살자 1,600점이 지급됩니다. - 대장 쿠마스의 공격력이 30% 증가합니다. - 대장 쿠마스의 전진 6연타 공격의 쿨타임이 5초로 증가합니다. ### 2. 2차 비밀번호 - 보안 강화 및 해킹 피해 최소화를 위해 2차 비밀번호가 추가됩니다. - 2차 비밀번호는 최초 접속 시도 시 설정하게 되며, 매번 접속 시도할 때마다 입력을 진행해야 합니다. - 2차 비밀번호 재입력은 서버 이동, 재접속 시에 진행되며, 비밀번호 입력 5회 실패 시 본인인증을 통해서 재설정을 진행할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 05월 12일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-05-12/</link>
+      <link>/mysterium/posts/raw/2016/2016-05-12/</link>
       <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-05-12/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-05-12/</guid>
       <description>### 1. 던전 - 거짓말쟁이 타르스키의 놀이터에서 타르스키 처치 시 ‘불길한 마력 각인’ 아이템이 추가 드랍됩니다. ### [버그 수정 내역] - 부가서비스 - PC방 일일 누적 시간이 확률적으로 초기화 되지 않는 문제를 수정하였습니다. - 기타 - 일부 수호자님들의 스타일 창고에 보관 중이던 스타일 아이템을 확인할 수 없는 문제가 수정되었습니다. source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2016년 05월 03일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-05-03/</link>
+      <link>/mysterium/posts/raw/2016/2016-05-03/</link>
       <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-05-03/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-05-03/</guid>
       <description>### 1. 던전 - 기억의 석판 [라크난 성의 기억]이 추가됩니다. - 기억의 석판은 테라의 숨겨진 스토리를 즐길 수 있는 65레벨 1인 플레이 던전입니다. - 이르카 1층 대련소 근방의 ‘순수한불꽃 무라칸’ NPC와 이르카 2층 지식의 회당 내부의 ‘높은바람 가딘’ NPC를 통해 던전에 입장하실 수 있습니다. - 장비 레벨이 396 이하일 경우 발키온 연합 지령서 상단의 ‘기억의 석판’ 배너 ‘이동하기’ 버튼을 통해 입장 NPC에게 이동할 수 있습니다. - 던전 클리어 보상으로는 켈리반 장비, 크리스탈 상자, 중급 날개 브로치, 폭군의 혈석, 8단계 강화석과 완전한 태고의 재봉인 주문서 등을 획득하실 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 04월 28일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-04-28/</link>
+      <link>/mysterium/posts/raw/2016/2016-04-28/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-04-28/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-04-28/</guid>
       <description>### 1. 스킬 - 창기사 - 전투의 의지 스킬 효과가 파티 버프 스킬로 변경되었습니다. - 전투의 의지I - 20초 동안, 40m 내 파티원과 자신에게 공격 속도 15%, 몬스터 공격 시 5% 추가 데미지 효과가 적용됩니다. - 전투의 의지II - 20초 동안, 40m 내 파티원과 자신에게 공격속도 20%, 몬스터 공격 시 5% 추가 데미지 효과가 적용됩니다. - 창기사 본인에게는 근접 공격 스킬의 재사용 시간이 절반으로 감소하며, 추가적인 적대치를 획득하는 효과가 함께 적용됩니다.</description>
     </item>
     
     <item>
       <title>2016년 04월 21일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-04-21/</link>
+      <link>/mysterium/posts/raw/2016/2016-04-21/</link>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-04-21/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-04-21/</guid>
       <description>### 1. 전장 - 쿠마스의 놀이터 - 아기 쿠마스의 기본 이동 속도가 증가하고, 부활 시 부여되는 버프의 이동 속도 증가량이 감소합니다. - 테라팀은 전장 플레이에서 선의의 경쟁을 통한 승리를 목표로 여러분이 플레이 하길 희망합니다. - 그런데 일부 수호자 분들이 특별한 사유 없이 고의로 패배하거나, 적극적으로 참여하지 않는 등 정상적인 플레이를 방해하는 상황이 확인되고 있습니다. - 이런 플레이는 열심히 참여한 다른 팀원들에게 억울한 피해를 입히는 것으로 개선이 시급하다고 판단 했습니다. 그에 따라 아래와 같이 보상 수준을 조정하게 되었습니다.</description>
     </item>
     
     <item>
       <title>2016년 04월 14일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-04-14/</link>
+      <link>/mysterium/posts/raw/2016/2016-04-14/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-04-14/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-04-14/</guid>
       <description>### 1. 전장 - 쿠마스의 놀이터 - 10vs10 신규 전장인 쿠마스의 놀이터가 추가됩니다. - 20레벨부터 이용할 수 있으며, 전장 매칭 UI를 통해 입장할 수 있습니다. - 개인 매칭 전장(최대 2인 파티 가능)입니다. - 플레이어의 장비 수준과 상관 없이 전장에 입장하면 모두 동일한 조건으로 전투에 임하게 됩니다. - 20레벨부터 쿠마스의 놀이터 관련 발키온 연합 지령서가 출력되며, 완료 보상으로 각 레벨에 맞는 재화와 경험치 그리고 고속성장 아이템이 함께 지급됩니다. - 제한기간이 종료되거나, 한쪽 팀의 대장 쿠마스 사망 시 승/패 판정이 진행됩니다.</description>
     </item>
     
     <item>
       <title>2016년 04월 07일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-04-07/</link>
+      <link>/mysterium/posts/raw/2016/2016-04-07/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-04-07/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-04-07/</guid>
       <description>## 1. 스킬 - 창기사 - 방패 방어 강화 - 지속시간이 15초에서 50초로 변경됩니다. - 다운 발생 시 해제되도록 변경됩니다. ## 2. 아이템 - 타르스키 코인 상점에서 거짓말쟁이의 응모권이 삭제됩니다. - 거짓말쟁이의 응모권 아이템을 소지 중일 경우 ‘타르스키 코인’으로 변환됩니다. - 이관 기념 이벤트 아이템과 5주년 기념 이벤트 아이템이 삭제됩니다. ## 3. 이벤트 - 04월 14일(목) 점검 전까지 시험의 던전(황금의 미궁/아카샤의 은신처) 최종 보스 처치 시 [루비 2개]가 추가로 드랍됩니다. ## [버그 수정 내역] - 던전 - 베르노의 실험실 3네임드에게 인술사 쾌속 베기 사용 시 인술사의 위치가 밀리는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 03월 31일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-03-31/</link>
+      <link>/mysterium/posts/raw/2016/2016-03-31/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-03-31/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-03-31/</guid>
       <description>### 1. 던전 - 거짓말쟁이 타르스키의 놀이터 - 신규 던전인 거짓말쟁이 타르스키의 놀이터가 추가됩니다. - 5인 파티플레이 던전이며, 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. - 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. - 보스 몬스터 타르스키 처치 시 듀리온의 목걸이, 폭군 듀리온의 반지/귀걸이, 다이아몬드, 강화석 9단계, 아티팩트 원석 VII, 철기장:복수 제작 재료, 철기장 카이락 제작 재료, 철기장:복수 도안, 오르피우스의 메달 등을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 03월 24일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-03-24/</link>
+      <link>/mysterium/posts/raw/2016/2016-03-24/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-03-24/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-03-24/</guid>
       <description>### 1. 던전 - 폭군 듀리온의 안식처 - 3네임드의 광폭화, 네임드 강화 패턴(3중첩), 부하 몬스터 소환 패턴의 발동 조건이 수정되었습니다. ### 2. 스킬 - 인술사 - 연속 공격 - 1~6타 데미지가 30% 하향됩니다. - 돌려 베기 - 데미지가 20% 하향됩니다. - 녹테늄 사용량이 2개로 변경됩니다. - 폭염술 - 다단히트 별 PVP 데미지가 하향됩니다. - 플레이어 타격 시 1타, 2타 다운 리액션 유발이 삭제됩니다. - 검투사 - 무쌍 난무:가르기 - 스킬 데미지가 10% 증가합니다.</description>
     </item>
     
     <item>
       <title>2016년 03월 17일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-03-17/</link>
+      <link>/mysterium/posts/raw/2016/2016-03-17/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-03-17/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-03-17/</guid>
       <description>### 1. 던전 - 악인 켈리반의 돌격선 - 1네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다. - 2네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가, 듀리온의 귀걸이가 추가 드랍됩니다. - 3네임드 처치 보상으로 9단계 강화석, 진귀한 단련의 가루 드랍 개수가 증가, 완전한 단련의 가루 및 베르노 장비가 추가 드랍됩니다. - 3네임드의 돌진 공격 공격 속도가 20%, 데미지가 30% 하향됩니다. - 번스타인의 악령섬 - 1네임드 처치 보상으로 9단계 강화석 드랍 개수가 증가됩니다.</description>
     </item>
     
     <item>
       <title>2016년 03월 10일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-03-10/</link>
+      <link>/mysterium/posts/raw/2016/2016-03-10/</link>
       <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-03-10/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-03-10/</guid>
       <description>### 1. 던전 n 환영의 탑 Ø 환영의 탑이 새로운 시즌 위상에 맞춰 재오픈 됩니다. Ø 환영의 탑은 Lv.65 5인 파티플레이 던전입니다. Ø 환영의 탑은 [웨스토니아 가드 &amp;gt; 얼어붙은 해안]에 위치한 NPC ‘피슝’ 또는 파티매칭을 통해 입장할 수 있습니다. - 상세 위치는 ‘세계지도(단축키:M)’를 오픈하여 위 경로 대로 지도를 확대해 보시면 ‘환영의 탑 입구’ 위치를 확인해 보실 수 있습니다 Ø 환영의 탑은 1일 1회, VIP 2회 이용할 수 있습니다. - 16층 이상의 입장 제한 횟수가 사라졌으며, 입장권 소지 시 제한 없이 입장 가능합니다.</description>
     </item>
     
     <item>
       <title>2016년 03월 03일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-03-03/</link>
+      <link>/mysterium/posts/raw/2016/2016-03-03/</link>
       <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-03-03/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-03-03/</guid>
       <description>### 1. 던전 n 폭군 듀리온의 안식처 Ø 1네임드가 사용하는 레이저 공격의 타겟 설정 방식이 변경되었습니다. ### 2. 스킬 n 인술사 Ø 화염술 - PVP 데미지가 하향됩니다. ### 3. 아이템 n 캐릭터 귀속 속성의 완전한 단련의 가루와 진귀한 단련의 가루 아이템의 속성을 일부 변경 하였습니다. Ø 아이템 이름: (캐릭터 귀속)을 (거래 불가)로 변경 Ø 창고 보관 불가 속성을 창고 보관 가능으로 변경 Ø 획득 시 귀속 속성을 귀속 없음으로 변경 ### 4.</description>
     </item>
     
     <item>
       <title>2016년 02월 25일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-02-25/</link>
+      <link>/mysterium/posts/raw/2016/2016-02-25/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-02-25/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-02-25/</guid>
       <description>### 1. 던전 n 폭군 듀리온의 안식처 Ø 3네임드의 던지기 패턴이 더 이상 분산데미지로 적용되지 않습니다. n 듀리온의 안식처 Ø 완전체 듀리온의 HP가 소폭 하향됩니다. Ø 완전체 듀리온이 변신시키는 데모크론 공격력이 소폭 하향됩니다. Ø 듀리온의 가두기 패턴 공격 속도가 느려집니다. n 마법사의 요새 Ø 중간 네임드를 처치하면 지름길로 안내하는 차원의 마법석이 추가됩니다. n 악인 켈리반의 돌격선 Ø 2네임드, 3네임드의 주요 패턴 데미지가 대폭 감소합니다. n 발로나의 시공간 Ø 발로나의 도넛 공격(석판 패턴용) 데미지가 대폭 감소합니다.</description>
     </item>
     
     <item>
       <title>2016년 02월 18일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-02-18/</link>
+      <link>/mysterium/posts/raw/2016/2016-02-18/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-02-18/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-02-18/</guid>
       <description>### 1. 던전 - 폭군 듀리온의 안식처 - 듀리온의 안식처 상위 던전인 폭군 듀리온의 안식처가 추가되었습니다. - 폭군 듀리온의 안식처는 65레벨 5인 파티플레이 던전입니다. - 폭군 듀리온의 안식처는 [바라카니아 가드 &amp;gt; 이르카 근교]에 위치한 차원의 마법석을 통해 입장할 수 있습니다. - 또는 아이템 레벨 414 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. - 폭군 듀리온의 안식처에서는 폭군 듀리온 반지/귀걸이, 철기장의 허리띠:복수, 철기장:복수 제작 재료를 획득할 수 있습니다. - 악인 켈리반의 돌격선 - 모든 몬스터의 HP가 15%가량 하향됩니다.</description>
     </item>
     
     <item>
       <title>2016년 02월 04일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-02-04/</link>
+      <link>/mysterium/posts/raw/2016/2016-02-04/</link>
       <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-02-04/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-02-04/</guid>
       <description>### 1. 던전 - 듀리온의 안식처 - 신규 던전인 듀리온의 안식처가 추가되었습니다. - 듀리온의 안식처는 65레벨 5인 파티플레이 던전입니다. - 듀리온의 안식처는 [바라카니아 가드 &amp;gt; 이르카 근교]에 위치한 차원의 마법석을 통해 입장할 수 있습니다. - 또는 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. - 듀리온의 안식처에서는 폭군 듀리온 귀걸이, 정화의 토템, 철기장:복수 제작 재료를 획득할 수 있습니다. - 포악한 베르노의 실험실 - 베르노의 실험실 상급 던전인 포악한 베르노의 실험실이 추가되었습니다.</description>
     </item>
     
     <item>
       <title>2016년 01월 28일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-01-28/</link>
+      <link>/mysterium/posts/raw/2016/2016-01-28/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-01-28/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-01-28/</guid>
       <description>### 1. 아이템 - 이전 시즌에 제작된 철기장 카이락 창/권갑 아이템의 +13, +14, +15 옵션이 적대치 증가에서 몬스터 추가피해로 변경됩니다. ### 2. 사냥터 - 일부 사냥터의 병목현상을 완화하기 위해 목표 몬스터 및 채집물의 스폰 시간과 개체 수를 조정하였습니다. - 돌격대장 튜벤 리스폰 시간 45초 → 10초로 변경 - 쿠마스 라다트, 쿠마스 카다스 리스폰 시간 60초 → 15초로 변경 - 작은 세이버투스 10마리 추가 배치 - ‘사악한 마법석 파편’, ‘이름 없는 제단’ 작동 시간 3초로 단축 - 데바의 사악한 마법진 2개 → 4개로 추가 배치 - 로크 교도의 상자 배치 개수 1개 → 4개로 추가 배치 - 어둠 주술사 바센의 리스폰 시간 45초 → 10초로 단축 - 고대의 마석 스폰 시간 30초 → 20초로 단축 - 고대의 마석 스폰 개수 11개 → 26개로 추가 배치 - 매혹의 꽃 스폰 시간 30초 → 20초로 추가 배치 - 매혹의 꽃 스폰 개수 13개 → 27개로 추가 배치 ### [버그 수정 내역] - 던전 - 마법사의 요새 내부에 생성되는 차원의 마법석으로 이동 시 기존 60레벨 마법사의 요새로 이동하는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 01월 26일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2016/2016-01-26/</link>
+      <link>/mysterium/posts/raw/2016/2016-01-26/</link>
       <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2016/2016-01-26/</guid>
+      <guid>/mysterium/posts/raw/2016/2016-01-26/</guid>
       <description>#### 1. 신규 클래스: 인술사 - 신규 클래스 ‘인술사’가 추가되었습니다. - 인술사는 엘린 종족으로만 생성 가능합니다. #### 2. 비행 시스템 추가 - 비행 탈 것 탑승 시 아래 비행 가능 지역에서 비행이 가능합니다. - 벨리카 직할령: 벨리카, 벨리카 근교 - 발키온 보호령: 여명의 정원 - 바라카니아 가드: 원시의 땅, 바라카니아 구릉지, 고대 바라카 유적터, 이르카, 이르카 근교, 제국의 땅 *※ 비행 가능 지역은 이후 지속적으로 확대될 예정입니다.* - 비행 시스템에는 아래와 같은 특징이 있습니다.</description>
     </item>
     
     <item>
       <title>2017.03.16 patch notes | K TERA</title>
-      <link>/noctenium/posts/translations/2017/2017-03-16/</link>
+      <link>/mysterium/posts/translations/2017/2017-03-16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/translations/2017/2017-03-16/</guid>
-      <description>### 1. Vanguard Initiative quest - Added List-type UI mode for Vanguard Initiative - Displays at least 6 quests on the UI while removing images ![](https://seraphinush-gaming.github.io/noctenium/images/2017-03-16-1.png) ### 2. Dungeon - Bathysmal Rise (hard) - Significantly decreased the HP of 1st, 2nd, 3rd bosses - Significantly decreased the HP of the 3rd bosses shield - Harrowhold - Phase 3 - Fixed issue where several mechanics would overlap - Fixed issue where the player’s element would switch whilst the elemental fire walls ### Bug fixes - Dungeon - Fixed issue in AIHM where the effects of the 3rd boss did not display properly - Fixed issue in AIHM where the 2nd boss’ combat arena had a chance to not despawn - Fixed issue in Phase 4 of Harrowhold where there was a chance a mob did not spawn from dying - Fixed issue in Velik’s Temple at the 2nd boss where players could use a backstab-type skills on the walls of the combat area - Fixed issue in Ruinous Velik’s Temple where the 3rd boss did not use certain patterns - Fixed issue in Ruinous Velik’s Temple at the 3rd boss where there was a chance players that died in mid-air could not get resurrected - Skill - Reaper: Fixed issue where using Soul Reversal at a distance which it was not possible would flip the field of vision - Sorcerer: Fixed issue where Warp Barrier skill display did not show - UI - Fixed issue where the number on the dice UI did not change - Achievement - Fixed issue where ‘Dragonbane’ title did not display in the list of titles even whilst equipped - Item - Fixed issue where bound items after a character deletion would be bound to the next character logged in - Premium - Some comment - Civil Unrest - Fixed issue where Rally BAMs did not spawn - After the notification, Rally BAM will spawn in channel 1 of its notified location in the next 15 minutes source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/translations/2017/2017-03-16/</guid>
+      <description>### 1. Vanguard Initiative quest - Added List-type UI mode for Vanguard Initiative - Displays at least 6 quests on the UI while removing images ![](https://seraphinush-gaming.github.io/mysterium/images/2017-03-16-1.png) ### 2. Dungeon - Bathysmal Rise (hard) - Significantly decreased the HP of 1st, 2nd, 3rd bosses - Significantly decreased the HP of the 3rd bosses shield - Harrowhold - Phase 3 - Fixed issue where several mechanics would overlap - Fixed issue where the player’s element would switch whilst the elemental fire walls ### Bug fixes - Dungeon - Fixed issue in AIHM where the effects of the 3rd boss did not display properly - Fixed issue in AIHM where the 2nd boss’ combat arena had a chance to not despawn - Fixed issue in Phase 4 of Harrowhold where there was a chance a mob did not spawn from dying - Fixed issue in Velik’s Temple at the 2nd boss where players could use a backstab-type skills on the walls of the combat area - Fixed issue in Ruinous Velik’s Temple where the 3rd boss did not use certain patterns - Fixed issue in Ruinous Velik’s Temple at the 3rd boss where there was a chance players that died in mid-air could not get resurrected - Skill - Reaper: Fixed issue where using Soul Reversal at a distance which it was not possible would flip the field of vision - Sorcerer: Fixed issue where Warp Barrier skill display did not show - UI - Fixed issue where the number on the dice UI did not change - Achievement - Fixed issue where ‘Dragonbane’ title did not display in the list of titles even whilst equipped - Item - Fixed issue where bound items after a character deletion would be bound to the next character logged in - Premium - Some comment - Civil Unrest - Fixed issue where Rally BAMs did not spawn - After the notification, Rally BAM will spawn in channel 1 of its notified location in the next 15 minutes source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017년 01월 05일 업데이트 안내</title>
-      <link>/noctenium/posts/raw/2017/2017-01-05/</link>
+      <link>/mysterium/posts/raw/2017/2017-01-05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/noctenium/posts/raw/2017/2017-01-05/</guid>
+      <guid>/mysterium/posts/raw/2017/2017-01-05/</guid>
       <description>##1. 성장구간 던전 난이도 개선 - 살레론의 공중 정원 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. - 석상의 혼란(공포) 지속 시간이 3초에서 1초로 감소합니다. - 아드리노아/메카트리노아/포리베노아/라크네르스의 AI 중 캐릭터 사망이 자주 발생하는 패턴의 등장확률을 대폭 낮췄습니다. - 검은 탑 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. ### 2. 성장구간 사냥터 난이도 개선 - 발키온 연합 지령서 - 성장구간 던전 클리어 경험치 보상이 대폭 상향됩니다. (160~200% 상향) - 성장구간 장비 교환 토큰 - Lv.</description>
     </item>
     
