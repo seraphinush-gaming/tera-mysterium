@@ -35,7 +35,7 @@
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-12-28/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### Bug fixes - Skill - Fixed issue where using Race Change Voucher on certain awakened classes removed awakening skills - This will no longer occur post-update; please contact Support to recover lost skills - Fixed issue where Priest&#39;s Salvation abnormality description displayed Divine Intervention description - Fixed issue where Priest&#39;s Innervate tooltip had a typo - Fixed issue where Berserker&#39;s in their Berserk state and sub-zero HP would have their crystals break if hit by monsters - Fixed issue where Lancer&#39;s Bulwark abnormality had a chance to not disappear under specific circumstances - Fixed issue where Warrior&#39;s Deadly Gamble tooltip had a typo - Fixed issue where Slayer&#39;s Colossus Blade PvP damage was higher than intended - Quest - Fixed issue where players could die during one of awakening quests&#39; debuff - UI - Fixed issue where restarting servers would remove awakened icon in character selection screen source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-12-21/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Class Awakening - Lancer, Warrior, Berserker, Slayer, Brawler, Priest, Mystic - these 7 classes obtain Awakening skills - Can proceed with Awakening via new quest `Velika Banquet` upon ilvl 439 - Can obtain [Awakening skill] upon completing `Velika Banquet` ### 2. Skill and Balance adjustment - Added new skills and changed existing skills according to Class Awakening update - Lancer - [Awakening Skill] New skill (active) : Righteous Step - Leaps high forward to deliver to strike the ground - Targets within 8 meter radius of landing area will take damage, decrease movement speed by 15%, and get lifted in the air - Can be chained after Shield Counter and Wallop for casting casting speed, does not penetrate through monsters, and applies a frontal block effect - [Awakening Skill] New skill (active) : Bulwark - Summons a large shield to reflect melee attacks and protect allies - Can block critical attacks, and cooldown is significantly increased upon successful block - Can move while the large shield is summoned - [Awakening Skill] New skill (active) : Divine Aegis - Blocks damage for self and party members within 20 meters for 10 seconds, and increased combat movement speed is applied - Skill casting is an iframe - [Awakening Skill] New skill (passive) : Walking Fortress - Allows movement while holding Standfast, as well as decreasing resolve consumption by 20% - [Awakening Skill] New skill (passive) : Spiked Shield - Reflects damage upon successful perfect block - Perfect block against monsters applies an effect which recovers 5% of MP, decreases cooldown of Shield Counter by 0.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-12-14/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/noctenium/images/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (kTERA exclusive) source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-12-07/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Enchanting and upgrading - Significantly decreased gold and talent required for the following gears’ enchanting and upgrading, and increased other required materials - Guardian weapon/armor/boots/gloves/belt - Twistshard weapon/armor/boots/gloves/belt - Low tier necklace - Mid tier necklace - Low tier earring - Mid tier earring - Low tier ring - Mid tier ring - Low tier circlet - Mid tier circlet - Low tier brooch - Simple Brooch ### 2.</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-11-30/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Halloween - Removed event-related items (bone, candy) ### Bug fixes - Item - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-11-23/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Human male brawler - Added class [Brawler] to Human male race ### 2. Character slot expansion - Expanded max character slot from 17 to 18 ### 3. Vanguard Initiative quest - Changed location of spawn via clicking [move to merchant] ### 4. Guardian Mission - Applies Guardian Mission specific buff in area (excluding Tuwangi Training Camp) - The buffs are the following : - Blessing of Arun III (Guardian Mission specific) - Blessing of Shara III (Guardian Mission specific) - Titanic Wrath III (Guardian Mission specific) - Aura of Tenacious I (Guardian Mission specific) - Titanic Fury II (Guardian Mission specific) - Guardian Mission buffs do not apply in presence of priest buffs or Mystic auras - Leaving Guardian Mission area will remove buff - Decreased damage of monsters in Guardian Mission area Developer comment - Some comment - Changed Guardian Mission point necessary to receive Guardian Mission reward from 200l to 100kk points - Increased Guardian Mission reward limit from 20 to 40 times Developer comment - Some comment - Changed Guardian Mission credit rewarded by receiving Guardian Mission reward from 1000 to 250 credits - (max 10k credits per day) - No changes have been made to gem box received from receiving Guardian Mission reward.</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-11-16/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Increased drop rate of &#39;Soulshield Fragment&#39; in RMHM ### 2. Chat - Updated Chat Security source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-11-09/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Skill and balance adjustment - Ninja - Skill : Burning Heart - Changed to the following to revise lag phenomenon upon skill usage and maintaining same effect regardless of size of monster - Increase skill damage by 3 times - Changed to hit at most once even if the target is large - Decreased damage to players by 25% - Fixed issue where Burning Heart projectile hit a bigger radi than its actual size - Talent : Burning Heart - Changed the cooldown reduction of Attunement upon successful hit to the following : - Tier 1 : 0.</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-10-26/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Opened Rakelith&#39;s Manor - Requires ilvl 439 in order to use IMS - Teleportal is located at Popolion - High tier material box, Aristan&#39;s Tools, Hypnotic Device, Ominous Spell Scroll can be obtained - Opened Rakelith&#39;s Manor (hard) - Requires ilvl 446 in order to use IMS - Teleportal is located at Popolion - High tier material box, Pansophic Ash, Dimensional Fragment, Copper Clasp, Artisan&#39;s Tools, Ominous Spell Scroll, Carved Ornament, Soul Shield Fragment can be obtained - Soul Shield Fragment : Item is distributed to all members of the party.</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-10-20/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### Bug fixes - Item - Fixed tooltip for Arborean Guardian credit point item - (Increases Guardian credit by 400, 2 times more while using a reputation boost) - UI - Fixed issue where character creation screen still had ‘new’ mark on Elin Gunner - Fixed issue where OX Quiz UI displayed during loading screen - Services - Fixed issue where only number 1 voice could be selected in character creation and related change voucher - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-10-19/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Guardian Mission - Adjusted the additional points earned via combat for Priests - Adjusted the amount of points earned via uncommon quests - Operation Sandstorm - Shellfish Mealtime - Bleakrock Delivery - Tuwangi Training Camp - Changed price of some Guardian credit merchant - Low tier Guardian credit merchant - Wood Scrap : 80 to 50 - Archdevan Catalyst : 80 to 50 - Plain Metallic Piece : 50 to 30 - Guardian low tier reward box : 70 to 50 - Mid tier Guardian credit merchant - Polished Arunic Ore : 300 to 210 - Archdeval Oil : 1000 to 700 - Filtered Essence : 500 to 350 - Guardian mid tier reward box : 500 to 350 !</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-10-12/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Guardian Mission - Removed event-related rewards for completing Guardian Missions - Pearl, Guardian Ticket - Decreased damage of ranged shots of Dread Reaper in &#39;Kuchart and Black Shadow&#39; - Decreased the number of targets for puddle mechanic from 7 to 5 in &#39;Kuchart and Black Shadow&#39; - Lowered usage frequency of stun pattern of Malakosraka in &#39;Shellfish Mealtime&#39; ### 2. Elin Gunner - Can no longer create Elin Gunner ### Bug fixes - Guardian Mission - Fixed issue where in &#39;Tuwangi Training Camp&#39; getting the correct pattern did not incerase points - Fixed issue where in &#39;Tuwangi Training Camp&#39; the start message would display after completing the mission - Style shop - Fixed issue where skills could be used while Style shop was open source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-09-28/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Guardian Mission - Added new field content &#39;Guardian Mission&#39; - Is a special mission in Open World - Guardian Mission spawn/despawn in order on a 24 hr basis - Can be completed without forming a party or raid - Can participate at any time once the missions starts - Monster stats auto adjust in real-time depending on the number of participants - Graphics option auto adjusts depending on the player environment - Added &#39;Guardian Mission mode&#39; toggle on World Map UI - Activating &#39;Guardian Mission mode&#39; displays &#39;Guardian Mission icon&#39; on World Map UI - Can teleport to mission location by clicking the &#39;Guardian Mission icon&#39; - Added &#39;Arborean Guardian Point&#39; - Displays &#39;Arborean Guardian Point UI&#39; on the right while proceeding with a Guardian Mission - When not participating, &#39;Guardian Mission mode toggle&#39; on World Map UI will display it on the the bottom right - Depending on how well you complete the mission will reflect how many Arborean Guardian Points will be rewarded - Combat : Damage dealt to monster will reward Point - Mini-game : Being in the correct area at specific times will reward Point - Rewards can be exchanged with Arborean Guardian Point up to 20 times per character per day, and points earned and rewards earned resets at 7am - Earned points remain until rewards earned reset - Necessary enchanting materials can be purchased with new Credit acquired from Guardian Mission - Guardian Credit Merchant is located at Valkyon Federation Headquarters ### 2.</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-09-21/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### Bug fixes - Dungeon - Fixed issue for 1st boss in RK-9 Hangar (hard) where rotating laser hit box did not match with its effect displayed - Fixed issue for 1st/2nd/3rd boss in RK-9 Hangar (hard) and 1st boss in RK-9 Hangar where dash skills for certain classes did not work at certain combat areas - Fixed issue for 1st boss in Sky Cruiser Endeavor where a certain method allowed to skip eliminating mobs - UI - Fixed Battleground UI issue where battleground description did not display when queuing multiple battlegrounds - Fixed Battleground UI issue where multiple battlegrounds could be queued - Fixed Enchanting/Promoting UI issue where enchanting/promoting would halt when opening a different UI while enchanting/promoting - Fixed issue where UI position would change after relogging - Fixed issue where relogging to a different character would maintain shortcut settings of the previous character - Quest - Some comment - Civil Unrest - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -305,7 +305,7 @@
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-09-14/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Security update - Security program update ### Bug fixes - Style shop - Some comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -323,7 +323,7 @@
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-09-07/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Reopen Broken Prison - 5-man party dungeon, with IMS access from ilvl 439 - Teleportal is located in Arcadia - High-tier enchantment box, and high-tier enchanting materials can be obtained ### 2. Vanguard Initiative - Changed login bonus - Changed login bonus requirement from 3 day, 5 day, 7 day to 2 day, 4 day, and 6 day consecutive login ### 3. Gear upgrade - Changed to disable upgrading gear that is not bound to the character ### 4.</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-08-31/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Civil Unrest - Changed safezone and tower restricted area back to how it was before 08/17 update ### 2. Security - Blocked packet injecting program &#39;Tera Proxy&#39; ### Bug fixes - Skill - Fixed issue where Elin Gunner when KD&#39;d could not use Retaliate as a chain skill - UI - Fixed issue where presets in Profile did not save certain items - Fixed issue where crit splash did not display when using Refined Noctenium - Effect - Fixed issue where swimming with Gunner, Valkyrie, Ninja, and Brawler did not display swimming animation - Services - Some costume comment - Some costume comment - Dungeon - Fixed issue in RK-9 Hangar where Mystic&#39;s Thrall of Vengeance could attack in mid air - Fixed issue in RK-9 Hangar where the message displayed after defeating the 3rd boss was not appropriate to the situation - Fixed issue in RK-9 Hangar where the 1st boss&#39; HP seemed to increase occasionally source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-08-24/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Civil Unrest - Adjusted Civil Unrest-related rewards - Decreased the reward which was higher relative to other content - The change is due to the act of buying/selling reward items without participating in the conflict ### 2. Guild quest - The 3 rally quests will no longer generate for a while - Anansha - Karagos - Sabriac - Will reopen after revision ### 3. Vanguard Initiative quest - Added gear proficiency to low tier Vanguard Initiative quests - The 3 low-tier IoD BAMs - Echoes of Aranea - Celestial Arena - Ravenous Gorge - Kalivan’s Challenge - Shattered Fleet ### 4.</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-08-17/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Rally quest - Changed spawn location of Rally quest BAM Anansha - - Changed spawn location from Tria to Velika: Civil Unrest - Cannot build Guild Tower nearby Anansha spawn location - Expanded PK safe area near dock inside Civil Unrest ![](https://seraphinush-gaming.github.io/noctenium/images/2016-08-17-1.png) ### 2. Field named (world boss) - Decreased damage and respawn time of world bosses, and adjusted loot accordingly - The affected world bosses are the following : - Tempest Kanash - Divine Reaver - Nyxarras - Linyphi - Yunaras Snaggletooth - Kelthuzad ### 3.</description>
     </item>
     
     <item>
@@ -404,7 +404,7 @@
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-08-10/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>- 1. Dungeon - New : Ultimate RK-9 Hangar - Added hard mode of RK-9 Hangar - ilvl requirement : 446 - Teleportal location : Spring Valley - Loot table : Crying Rage gear box, Emerald/Diamond, High-tier enchanting material, Rare/Superior Innerwear, Mysterious holy water, Tier 3 accessory etching, Uneven composition, etc ### 2. Elin Gunner - Added new class [gunner] to race Elin - Can be created before October 12th, and cannot be race changed ### 3.</description>
     </item>
     
     <item>
@@ -422,7 +422,7 @@
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-08-03/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Decreased difficulty of Alpha Cyrux Research Facility - Decreased damage of certain skills for each boss - Increased stun duration of 1st boss after tackling tree - Decreased penalty/damage of explosive goblins during 3rd boss Developer comment (paraphrased; point form) - Too many players were trying to take advantage of the market by obtaining tradeable items from Token/Mark of Change and eventually trading gold for real money so they changed items to be untradeable.</description>
     </item>
     
     <item>
@@ -440,7 +440,7 @@
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-07-27/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - New dungeon : Hangar RK-9 - ilvl required : 439 - Portal location : Spring Valley - Items obtainable : High-tier encahnting box, Dark mind-control device, Arch Devan artisan tool, etc. - New dungeon : Alpha Cyrux Research Facility (hard mode) - ilvl required : 439 - Portal location : Savage Reach - Items obtainable : High-tier encahnting box, Unknown liquid metal, Blood-soaked metal, etc. ### 2.</description>
     </item>
     
     <item>
@@ -458,7 +458,7 @@
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-07-20/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Sky Cruiser Endeavor - Decreased the HP of mobs for 1st boss - Significantly decreased the HP of 2nd and 3rd boss - Nightmare Lilith’s Keep - Significantly decreased the HP of 1st, 2nd, and 3rd boss - Harrowhold - Reoponed 20-man raid Harrowhold - Teleportal is located at Velika Outskirts - Harrowhold does not support IMS - Harrowhold proceeds through 4 phases, rewarding loot per phase - (same conditions apply to looting) Reward change comment - Despite our intention for unskilled new and returning players to be self-sufficient through solo contents, it seems as though players were forced to harvest enchanting materials from multiple characters for one character.</description>
     </item>
     
     <item>
@@ -485,7 +485,7 @@
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-07-13/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Gear progression system - Changed enchantment method of all gear to material enchanting method - Enchanting will proceed not using Feedstock/Alkahest but a different material depending on gear - Removed same gear enchanting system - Added gear upgrade system - UI can be displayed by pressing Shift + T - Fully enchanted gear can be upgraded to +0 enchantment gear of the next tier - Upgrading will proceed by consuming specified material as it is with enchanting - Gear rolls, etching, crystal/dyads, dual option reset upon upgrading - Accessories can also be upgraded - Added gear proficiency system - Proficiency can be obtained through Vanguard Initiative quests - Higher the proficiency, higher the chance of success for enchanting and upgrading - While you can obtain more than the maximum proficiency, the amount of proficiency actually consumed upon enchanting/upgrading is less than the cap, and the chance of success is reinforced up to its max - Changed rerollable system - Can freely select desired options for the first time upon upgrading gear/accessory - Spellbind, Master Enigmatic Scroll/Intricate Identification Scroll and related items are no longer usable - Semi-Enigmatic Scrolls are now used to change all gear rolls - Amount of SES consumed varies depending on the type of options selected - Semi-Enigmatic Scrolls are required to change dual options - Exist dismantling function is removed, and exchanged with a revamped dismantling function - Can be used in the same way as before through the ‘dismantle&#39; icon through inventory - New enchanting materials can be obtained dismantling old enchanting materials - Removed masterworking system - Removed awakening system - Old gear can still use old enchanting materials to enchant - Old enchanting materials can no longer be obtained from boxes (Premiere Box) - New enchanting materials now replace old enchanting materials from existing boxes (Premiere Box) ### 2.</description>
     </item>
     
     <item>
@@ -503,7 +503,7 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-07-06/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### Premium item end of sale 0 Removed certain cash items in preparation for the upcoming patch ![](https://seraphinush-gaming.github.io/noctenium/images/2017-07-06-1.png) ### Bug fixes - Services - Fixed issue where certain Valkyrie weapon skins did not produce sound source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -530,7 +530,7 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-06-22/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Achievement - Added achievement with Vergos’ Head as reward - Achievement conditions are to defeat Vergos 30 times in Harrowhold - Players who already have 30 clears will automatically clear the achievement upon logging in ## 2. Skill - Changed Mystic’s/Sorcerer’s Teleport Jaunt to be directional ### Bug fixes - 스킬 - 광전사의 모아치기 스킬 1단계 보다 11단계 범위가 좁은 문제 - 사냥터 - 리카노르 경기장 내로 캐릭터가 진입할 수 있는 문제 - 던전 - 데모로스의 룰렛 주사위 게이지 UI가 위치 설정 후 고정되지 않는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -548,7 +548,7 @@
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-06-15/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Festival of the Sun - Open until July 13th ### 2. Item - Can now exchange Behemoth Belt with 12 Behemoth Essences - Can now exchange Behemoth Belt with 16 Wyvern Essences ### [버그수정] - Dungeon - 데모로스의 룰렛 2네임드 처치와 동시에 전멸 시 보상상자와 네임드가 동시 스폰되던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -584,7 +584,7 @@
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-05-25/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Reopen Kalivan’s Dreadnaught (hard) - 5-man instance, requiring ilvl 423 for IMS - Entrance teleport is located at Cutthroat Harbour, - Via NPC - Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess’s Tear, Superior Etching Box, etc. - Reopen Forsaken Island - 5-man instance, requiring ilvl 423 for IMS - Entrance teleport is located at Cutthroat Harbour, - Via NPC - Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess’s Tear, Superior Etching Box, etc.</description>
     </item>
     
     <item>
@@ -620,7 +620,7 @@
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-04-28/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### Bug fixes - Quest - Fixed issue where multiple players could not progress with the starting quest for Demoros’s Roulette - During Demoros’ Roulette quests, qest to follow NPC Diana to the town of San Alema has been fixed for multiple players to complete simultaneously - Skill - Lancer - Fixed issue where crit chance correction on Shield Counter did not work - Archer - Fixed issue where stagger animation for Sequential Fire did not apply - Fixed issue where chance to knockdown for Sequential Fire was too high - Warrior - Fixed issue where enhancement from Rain of Blows did not apply for certain races - Fixed issue where Traverse Cut could not be chained for certain races - Fixed issue where Attack Speed buff from Traverse Cut was applied to the target - Fixed issue where Scythe III~IX did not take effect from Screen Shake Reduction option - Sorcerer - Fixed issue where Meteor Strike VIII~X did not take effect from Screen Shake Reduction option - Brawler - Fixed issue where damage for Ground Pounder XII was low - Other - Damage splash not displaying for certain classes will soon be fixed ### Additional maintenance notes - Skill - Archer - Fixed issue where damage for Radiant Arrow XI was low (Female High Elf) - Fixed issue where damage for Rain of Arrows X triggered Rain of Arrows VI (Female Amani) - Warrior - Fixed issue where damage for Traverse Cut X triggered Traverse Cut IX when chained (Baraka) - Fixed issue where damage for Blade Draw VII did not take effect from Deadly Gamble (Female High Elf) - Priest - Fixed issue where damage for Zenobia’s Vortex II-X triggered Zenobia’s Vortex I (Male Castanic) - Mystic - Fixed issue where Contagion III-IX triggered Contagion I (Female Amani) - Slayer - Fixed issue where Measured Slice damage splash did not display (Female High Elf, Female Human) source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -638,7 +638,7 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-04-27/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Added new dungeon &#39;Demoros&#39; Roulette&#39; - Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS - Teleportal is located near Allementheia - Tier 2 Lakan accessories, Visionmaker material (VM8), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork/Extensive Alkahest, Goddess&#39; Tear, Goldfinger Token, Gold Ticket, etc can be obtained. - Removed Manglemire ## 2. Skill - Reaper - Soul Reversal - Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to - Mystic - Volley of Curses (Glyph of Enfeeblement) - Changed endurance debuff from 9% to 10% - Aura of the Merciless - Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
     </item>
     
     <item>
@@ -665,7 +665,7 @@
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-04-13/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Akeron’s Inferno (hard) - Significantly decreased the HP of 1/2/3/4th boss - Significantly decreased the HP of the mobs spawned at 2nd boss ### Bug fixes - Skill - Sorcerer : Fixed issue where changing certain chain skills in the skill UI did not apply - Berserker : Fixed issue where overcharging Thunderstrike and Cyclone resulted in collision with party members - Berserker : Talent fix - Dungeon - Fixed issue in Ruinous Velik’s Temple where Joy of Partying was affected if a member of the party was dead when the 3rd boss was defeated - Cash shop - Fixed issue where Knight set box for Castanics was shown as Cestanics - Character - Fixed issue where the hair of Elin’s 11th hairstyle would slightly fall off while walking or using a teleport scroll source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -692,7 +692,7 @@
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-03-30/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Manglemire reopened - 5 man party instance, with Instance Matching System available from ilvl 423 - Teleportal is located in Pora Elinu - Manglemire Teleport Scroll can be purchased from the Specialty Store - Tier 2 Lakan’s jewelry, Visionmaker Rutheless (VM9) material, Dyad Niveot Structure, Tier 11 Feedstock, Masterwork/Personal Premium Alkahest, Goddess’ Tear, Diamond, etc can be obtained ### 2. Skill - Slayer - Combo Attack (1st hit) - Changed hit point to be race-equivalent - Slightly increased casting speed - Knockdown Strike - Changed hit point to be race-equivalent - Slightly increased casting speed - Cahnged to be queue-able before the end of the other [previous] skills - Increased skill damage by 10% - Whirlwind - Changed hit point to be race-equivalent - Slightly increased casting speed - Increased skill damage by 10% - Heart Thrust - Slightly increased skill radius - Changed skill to no longer collide with party members - Measured Slice - Changed skill to no longer collide with party members - Increased skill’s base crit chance from 1.</description>
     </item>
     
     <item>
@@ -710,7 +710,7 @@
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-03-23/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Changed the reward for one ilvl 429 dungeon - Changed the reward for clearing Ruinous Velik’s Temple - Changed untradeable Visionmaker gear material ‘Proof of Loyalty’ to be guaranteed to drop 2 - Changed untradeable Visionmaker gear material ‘Follower’s Banner’ to be guaranteed to drop 2 - Changed untradeable Visionmaker gear material ‘Lakan’s Might’ to be guaranteed to drop 2 - Added a chance to drop Superior Etching Box - Changed tradeable Visionmaker gear material ‘Mark of Sin’ to no longer drop - Changed tradeable Visionmaker gear material box (Lakan’s Treasure Chest) to no longer drop - Changed the reward for four ilvl 423 dungeons - Velik’s Temple / Velika’s Underground Gateway / Bathysmal Rise (hard) / Akeron’s Inferno - Added a chance to drop Visionmaker gear material box (Lakan’s Treasure Chest) - Added a chance to drop Visionmaker gear material box (Follower’s Treasure Chest) - Added a chance to drop Superior Etching Box - Added a chance to drop Superior Brooch of the previous season - Added a chance to drop Lakan’s Necklace - Increased the chance to drop Tier 2 Lakan’s jewelry - Increased the chance to drop (Bind-on-Equip) Baldegg gear ### Bug fixes - Dungeon - Fixed issue in Phase 4 of Harrowhold where summoned mobs could despawn at a certain location - Fixed issue in Phase 3 of Harrowhold where the phase would clear when the boss’ HP dropped under 20% at the same time the raid wiped - Fixed issue in Akeron’s Inferno (hard) where target mechanic could be i-framed when the boss is enraged - Item - Fixed issue where Baldegg gear options had a chance to become soulbound by changing rerollable lines - System - Fixed issue where the client had a chance to crash upon reaching level 60 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -728,7 +728,7 @@
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/raw/2017/2017-03-16/</guid>
-      <description>### 1. 발키온 연합 지령서 - 리스트형 발키온 연합 지령서 UI 모드가 추가됩니다. - 지령서 별 이미지를 생략하여 한 화면에 6개 이상의 지령서가 출력됩니다. ### 2. 던전 - 사악한 오르카의 신전 - 1, 2, 3 네임드의 HP가 대폭 감소됩니다. - 3네임드의 보호막 HP가 대폭 감소됩니다. - 파괴된 신계의 관문 - 3단계 - 특정 패턴이 과도하게 겹쳐서 나오는 문제가 수정됩니다. - 속성 파도 패턴 도중 플레이어의 속성이 변경되는 문제가 수정됩니다. ### [버그수정] - 던전 - 오만한 아케론의 염옥 3네임드의 스킬 이펙트가 정상적으로 출력되지 않는 문제 - 확률적으로 오만한 아케론의 염옥 2네임드 전투공간이 폐쇄되지 않는 문제 - 확률적으로 파괴된 신계의 관문 4단계에서 전투 중 사망 시 용아병이 스폰되지 않는 문제 - 벨릭의 신전 2네임드 전투공간의 외벽에 뒤잡기류 스킬이 사용되는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드가 특정 패턴을 사용하지 않는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드의 광역 공격에 피격 후 공중에서 사망 시 부활 스킬이 적용되지 않는 문제 - 스킬 - 비검사 위치교환 스킬 사용이 불가능한 거리에서 스킬 사용 시 화면이 전환되는 문제 - 마법사 공간 왜곡 스킬의 보호막 이펙트가 출력되지 않는 문제 - UI - 파티 후 아이템 획득 시 출력되는 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 업적 - ‘신들의 수호자’ 칭호가 장착되어 있지만 칭호 목록에 출력되지 않는 문제 - 아이템 - 아이템을 귀속시킨 후 귀속 캐릭터를 삭제 시 귀속 정보가 접속 중인 캐릭터의 닉네임으로 출력되는 문제 - 부가서비스 - 확률적으로 PC방 프리미엄 전용 아이템 사용 횟수가 초기화되지 않는 문제 - 길드대전 - 긴급 임무 몬스터가 출현하지 않는 문제 - 긴급 임무 발생 전체 공지 후 15분 내, 1채널 공지 위치에서 토벌 대상 몬스터가 출현합니다.</description>
+      <description>### 1. 발키온 연합 지령서 - 리스트형 발키온 연합 지령서 UI 모드가 추가됩니다. - 지령서 별 이미지를 생략하여 한 화면에 6개 이상의 지령서가 출력됩니다. ![](https://seraphinush-gaming.github.io/noctenium/images/2017-03-16-1.png) ### 2. 던전 - 사악한 오르카의 신전 - 1, 2, 3 네임드의 HP가 대폭 감소됩니다. - 3네임드의 보호막 HP가 대폭 감소됩니다. - 파괴된 신계의 관문 - 3단계 - 특정 패턴이 과도하게 겹쳐서 나오는 문제가 수정됩니다. - 속성 파도 패턴 도중 플레이어의 속성이 변경되는 문제가 수정됩니다. ### [버그수정] - 던전 - 오만한 아케론의 염옥 3네임드의 스킬 이펙트가 정상적으로 출력되지 않는 문제 - 확률적으로 오만한 아케론의 염옥 2네임드 전투공간이 폐쇄되지 않는 문제 - 확률적으로 파괴된 신계의 관문 4단계에서 전투 중 사망 시 용아병이 스폰되지 않는 문제 - 벨릭의 신전 2네임드 전투공간의 외벽에 뒤잡기류 스킬이 사용되는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드가 특정 패턴을 사용하지 않는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드의 광역 공격에 피격 후 공중에서 사망 시 부활 스킬이 적용되지 않는 문제 - 스킬 - 비검사 위치교환 스킬 사용이 불가능한 거리에서 스킬 사용 시 화면이 전환되는 문제 - 마법사 공간 왜곡 스킬의 보호막 이펙트가 출력되지 않는 문제 - UI - 파티 후 아이템 획득 시 출력되는 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 업적 - ‘신들의 수호자’ 칭호가 장착되어 있지만 칭호 목록에 출력되지 않는 문제 - 아이템 - 아이템을 귀속시킨 후 귀속 캐릭터를 삭제 시 귀속 정보가 접속 중인 캐릭터의 닉네임으로 출력되는 문제 - 부가서비스 - 확률적으로 PC방 프리미엄 전용 아이템 사용 횟수가 초기화되지 않는 문제 - 길드대전 - 긴급 임무 몬스터가 출현하지 않는 문제 - 긴급 임무 발생 전체 공지 후 15분 내, 1채널 공지 위치에서 토벌 대상 몬스터가 출현합니다.</description>
     </item>
     
     <item>
@@ -737,7 +737,7 @@
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-03-08/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Skill - Brawler - Growing Fury - Increased power gained from 30 to 45 - Increased crit factor gained from 30 to 50 - Decreased rage consumption from 300 to 250 - Quick Dash - Changed skill to be usable for a second time within 8 seconds - After the first use, cooldown is applied if the second use is used within 8 seconds - Increased cooldown from 5 to 8 seconds - Glyph - Quick Dash: Changed Glyph of Persistence to Glyph of Energy - Common glyph: Decrease cooldown by 15% / 3 points - Uncommon glyph: Decrease cooldown by 20% / 3 points Developer comment - In addition to Brawler changes, we will proceed with Slayer, Berserker, Mystic, Archer, Ninja, Reaper, Gunner, Warrior, Valkyrie balance patches.</description>
     </item>
     
     <item>
@@ -747,6 +747,15 @@
       
       <guid>/noctenium/posts/raw/2017/2017-03-08/</guid>
       <description>### 1. 스킬 - 권술사 - 거인의 힘 - 힘 증가량이 30에서 45로 증가됩니다. - 치명타 유발 증가량이 30에서 50으로 증가됩니다. - 초당 분노 소모량이 300에서 250으로 변경됩니다. - 순간 돌진 - 순간 돌진 사용 시, 8초안에 한번 더 사용할 수 있도록 변경됩니다. - 1회 사용 후, 8초안에 2회째 사용 시 재사용 대기시간이 적용됩니다. - 재사용 대기 시간이 5초에서 8초로 변경됩니다. - 문장 - 순간 돌진의 기회의 문장(재사용 대기시간 초기화)이 집중의 문장(재사용 대기시간 감소)으로 변경됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2017.03.03 patch notes | K TERA</title>
+      <link>/noctenium/posts/translations/2017/2017-03-03/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/noctenium/posts/translations/2017/2017-03-03/</guid>
+      <description>### 1. Dungeon - Adjusted Harrowhold for balance - Phase 1 - Decreased the defense modifier and HP of the shield - Phase 2 - Increased HP of boss ### Bug fixes - Dungeon - Fixed issue in Phase 3 of Harrowhold where ‘Blood Wall’ did not display - Dual-option system - To be fixed source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -764,7 +773,7 @@
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-03-02/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dual-option - Added a dual-option system allowing 2 set of options on a single gear - Shift+Right-clicking a gear can change the options of the gear - The two options of a dual-option-enabled gear can be confirmed in the gear&#39;s &#39;tooltip&#39; by pressing the control key (Ctrl) - Dual-option is limited to the following items - Behemoth v2 - Behemoth - Visionmaker: Coldblood - Ambush - Valdeg (ie. Guile v2) ### 2.</description>
     </item>
     
     <item>
@@ -782,7 +791,7 @@
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-02-23/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Civil Unrest &amp;amp; Rally Quest bams - Changed the loot of Civil Unrest and Rally Quest bams - Changed from Ambush box to Coldblood box ### 2. Vanguard Initiative Quest - Revised to keep filter settings even after relogging ### 3. Homepage - Added new class illustrations to the fan kit ### Bug fixes - Dungeon - Fixed issue in Celestial Arena where being pulled by devices caused the client to crash - Fixed issue in Velik’s Temple where being hit by the second boss’s push attack resulted in getting pushed off the combat area - Fixed issue in Velik’s Temple where certain third boss mechanics did not affect players on the other side of the combat area - Costume - Fixed issue where Lancer Volcanic weapon skin would penetrate the neck of Elins - Skill - Slayer: Talent fix - Sorcerer: Fixed issue where upon using Warp Barrier, attack speed would decrease even without Mana Boost effect - Ninja: Talent fix - Archer: Fixed issue where Focus would overwrite Glyph of Energy - Berserker: Talent fix - Berserker: Talent fix source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -800,7 +809,7 @@
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-02-16/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Civil Unrest - Changed the method weekly tax is distributed - Rank 1: 50% of weekly tax - Rank 2: 30% of weekly tax - Rank 3: 10% of weekly tax - Rank 4: 5% of weekly tax - Rank 5: 5% of weekly tax - Added rank rewards - Participants of rank 1 to 20 will receive a participation box (box received from higher rank will be worth more) - Civil Unrest rank reward will only be rewarded to players who participated a certain amount of time - Players who did do not actively participate in Civil Unrest will not receive rank-dependent participation box - Changed Civil Unrest ranking rules - Protecting your own tower while destroying enemy tower can give placement in the rankings - As it gets closer to the deciding moment of Civil Unrest, you can get placement in the rankings ### 2.</description>
     </item>
     
     <item>
@@ -818,7 +827,7 @@
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-02-09/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>- 1. Dungeon - New: Ruinous Velik’s Temple - Added new upper tier dungeon Ruinous Velik’s Temple - Instance Matching System can be used to queue Ruinous Velik’s Temple upon reaching ilvl 429 - Tier II Lakan’s jewelry, Visionmaker material (Ruthless), Dyad Niveot Structure, Tier 12 Feedstock, Masterwork/Personal Premium Alkahest, Goddess’s Tear, and etc. can be obtained - The location and teleportal can be confirmed through Vanguard Initiative quest details - Velik’s Temple - Slightly decreased the HP of the 1-3 boss - Slightly decreased the HP of regular monsters - Fixed issue for first boss Darkan where the boss would use charge attack regardless when aggro changes - Slightly decreased the damage of mana surge machines in first boss Darkan’s area, while changing to give a burn debuff upon taking damage - Increased the cooldown of second boss Darkuryon’s main pattern - Increased the cooldown of second boss Darkuryon’s cage pattern, while decreasing the casting speed - Decreased the damage of third boss Lakan’s sword throw skill damage - Decreased the casting speed of third boss Lakan’s inner/outer aoe explosion - Increased the damage of third boss Lakan’s attacks which include rear push attack - Ruinous Velika’s Underground Pathway - Slightly decreased the HP of bosses - Slightly decreased the HP of regular monsters - Revised the lag issue in Velika’s Underground Pathway and Ruinous Velika’s Underground Pathway - Decreased the HP of the following dungeon’s bosses - Bathysmal Rise - Kalivan’s Dreadnaught - Demokron Factory (hard) - Timescape - Adjusted the balance of Demokron Factory (hard)’s first boss - Increased the cooldown of first boss Vera’s puddle - Slightly decreased the damage of first boss Vera and Prima - 2.</description>
     </item>
     
     <item>
@@ -836,7 +845,7 @@
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-02-02/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Added daily bonus - Added the following rewards to the follow dungeon daily reward - Daily reward I : Added 2 Premium Alkahest - Daily dungeon reward : Added 2 Premium Alkahest ### 2. Dungeon reward - Added the following rewards to Kalivan’s Dreadnaught (hard) - Necklace Resizing Kit - Earring Resizing Kit - Ring Resizing Kit ### 3. Vanguard Initiative quest - All quests below Reaper starting level will automatically complete ###4.</description>
     </item>
     
     <item>
@@ -854,7 +863,7 @@
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-01-25/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - New dungeon: Velik’s Temple - Added new dungeon Velik’s Temple - Playable as a 5-man party - Instance matching available at ilvl 423 - Tier 2 Lakan’s accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess’ Tear, etc. can be obtained - Entrance or portal can be confirmed through Vanguard Initiative quest details - New dungeon: Ruinous Velika’s Underground Gateway - Added new dungeon Ruinous Velika’s Underground Gateway - Playable as a 7-man raid - Instance matching available at ilvl 423 - Tier 2 Lakan’s accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess’ Tear, etc.</description>
     </item>
     
     <item>
@@ -1098,7 +1107,7 @@
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2016/2016-09-13/</guid>
-      <description>### 1. Skill - Archer - Removed Bloodlust effect (additional damage as HP of monster decreases) from Thunderbolt - Adjusted the excessive PvP damage of Thunderbolt - Changed Rapid Fire - Glyph of Power from increase skill damage by 50% to 20% - Changed Rapid Fire - Glyph of Persistence from eliminate cooldown by 30% to 15% ### 2. Item - kTERA exclusive ### 3. Miscellaneous (added) - Rootstock Festival is activated (K TERA exclusive) - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment source : TERA 테라 | NEXON</description>
+      <description>### 1. Skill - Archer - Removed Bloodlust effect (additional damage as HP of monster decreases) from Thunderbolt - Adjusted the excessive PvP damage of Thunderbolt - Changed Rapid Fire - Glyph of Power from increase skill damage by 50% to 20% - Changed Rapid Fire - Glyph of Persistence from eliminate cooldown by 30% to 15% ### 2. Item - K TERA exclusive ### 3. Miscellaneous (added) - Rootstock Festival is activated (K TERA exclusive) - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -1477,7 +1486,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/noctenium/posts/translations/2017/2017-03-16/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Vanguard Initiative quest - Added List-type UI mode for Vanguard Initiative - Displays at least 6 quests on the UI while removing images ![](https://seraphinush-gaming.github.io/noctenium/images/2017-03-16-1.png) ### 2. Dungeon - Bathysmal Rise (hard) - Significantly decreased the HP of 1st, 2nd, 3rd bosses - Significantly decreased the HP of the 3rd bosses shield - Harrowhold - Phase 3 - Fixed issue where several mechanics would overlap - Fixed issue where the player’s element would switch whilst the elemental fire walls ### Bug fixes - Dungeon - Fixed issue in AIHM where the effects of the 3rd boss did not display properly - Fixed issue in AIHM where the 2nd boss’ combat arena had a chance to not despawn - Fixed issue in Phase 4 of Harrowhold where there was a chance a mob did not spawn from dying - Fixed issue in Velik’s Temple at the 2nd boss where players could use a backstab-type skills on the walls of the combat area - Fixed issue in Ruinous Velik’s Temple where the 3rd boss did not use certain patterns - Fixed issue in Ruinous Velik’s Temple at the 3rd boss where there was a chance players that died in mid-air could not get resurrected - Skill - Reaper: Fixed issue where using Soul Reversal at a distance which it was not possible would flip the field of vision - Sorcerer: Fixed issue where Warp Barrier skill display did not show - UI - Fixed issue where the number on the dice UI did not change - Achievement - Fixed issue where ‘Dragonbane’ title did not display in the list of titles even whilst equipped - Item - Fixed issue where bound items after a character deletion would be bound to the next character logged in - Premium - Some comment - Civil Unrest - Fixed issue where Rally BAMs did not spawn - After the notification, Rally BAM will spawn in channel 1 of its notified location in the next 15 minutes source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
