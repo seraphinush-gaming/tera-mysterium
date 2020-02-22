@@ -62,7 +62,7 @@
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/translations/2017/2017-12-14/</guid>
-      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/mysterium/images/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (kTERA exclusive) source : TERA 테라 | NEXON</description>
+      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/mysterium/images/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (K TERA exclusive) source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -732,15 +732,6 @@
     </item>
     
     <item>
-      <title>2017.03.03 patch notes | K TERA</title>
-      <link>/mysterium/posts/translations/2017/2017-03-03/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/translations/2017/2017-03-03/</guid>
-      <description>### 1. Dungeon - Adjusted Harrowhold for balance - Phase 1 - Decreased the defense modifier and HP of the shield - Phase 2 - Increased HP of boss ### Bug fixes - Dungeon - Fixed issue in Phase 3 of Harrowhold where ‘Blood Wall’ did not display - Dual-option system - To be fixed source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
       <title>2017년 03월 03일 업데이트 안내</title>
       <link>/mysterium/posts/raw/2017/2017-03-03/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
@@ -885,21 +876,21 @@
     </item>
     
     <item>
+      <title>2017년 01월 05일 업데이트 안내</title>
+      <link>/mysterium/posts/raw/2017/2017-01-05/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/raw/2017/2017-01-05/</guid>
+      <description>##1. 성장구간 던전 난이도 개선 - 살레론의 공중 정원 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. - 석상의 혼란(공포) 지속 시간이 3초에서 1초로 감소합니다. - 아드리노아/메카트리노아/포리베노아/라크네르스의 AI 중 캐릭터 사망이 자주 발생하는 패턴의 등장확률을 대폭 낮췄습니다. - 검은 탑 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. ### 2. 성장구간 사냥터 난이도 개선 - 발키온 연합 지령서 - 성장구간 던전 클리어 경험치 보상이 대폭 상향됩니다. (160~200% 상향) - 성장구간 장비 교환 토큰 - Lv.</description>
+    </item>
+    
+    <item>
       <title>2017.03.16 patch notes | K TERA</title>
       <link>/mysterium/posts/translations/2017/2017-03-16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/translations/2017/2017-03-16/</guid>
       <description>### 1. Vanguard Initiative quest - Added List-type UI mode for Vanguard Initiative - Displays at least 6 quests on the UI while removing images ![](https://seraphinush-gaming.github.io/mysterium/images/2017-03-16-1.png) ### 2. Dungeon - Bathysmal Rise (hard) - Significantly decreased the HP of 1st, 2nd, 3rd bosses - Significantly decreased the HP of the 3rd bosses shield - Harrowhold - Phase 3 - Fixed issue where several mechanics would overlap - Fixed issue where the player’s element would switch whilst the elemental fire walls ### Bug fixes - Dungeon - Fixed issue in AIHM where the effects of the 3rd boss did not display properly - Fixed issue in AIHM where the 2nd boss’ combat arena had a chance to not despawn - Fixed issue in Phase 4 of Harrowhold where there was a chance a mob did not spawn from dying - Fixed issue in Velik’s Temple at the 2nd boss where players could use a backstab-type skills on the walls of the combat area - Fixed issue in Ruinous Velik’s Temple where the 3rd boss did not use certain patterns - Fixed issue in Ruinous Velik’s Temple at the 3rd boss where there was a chance players that died in mid-air could not get resurrected - Skill - Reaper: Fixed issue where using Soul Reversal at a distance which it was not possible would flip the field of vision - Sorcerer: Fixed issue where Warp Barrier skill display did not show - UI - Fixed issue where the number on the dice UI did not change - Achievement - Fixed issue where ‘Dragonbane’ title did not display in the list of titles even whilst equipped - Item - Fixed issue where bound items after a character deletion would be bound to the next character logged in - Premium - Some comment - Civil Unrest - Fixed issue where Rally BAMs did not spawn - After the notification, Rally BAM will spawn in channel 1 of its notified location in the next 15 minutes source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2017년 01월 05일 업데이트 안내</title>
-      <link>/mysterium/posts/raw/2017/2017-01-05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/raw/2017/2017-01-05/</guid>
-      <description>##1. 성장구간 던전 난이도 개선 - 살레론의 공중 정원 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. - 석상의 혼란(공포) 지속 시간이 3초에서 1초로 감소합니다. - 아드리노아/메카트리노아/포리베노아/라크네르스의 AI 중 캐릭터 사망이 자주 발생하는 패턴의 등장확률을 대폭 낮췄습니다. - 검은 탑 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. ### 2. 성장구간 사냥터 난이도 개선 - 발키온 연합 지령서 - 성장구간 던전 클리어 경험치 보상이 대폭 상향됩니다. (160~200% 상향) - 성장구간 장비 교환 토큰 - Lv.</description>
     </item>
     
   </channel>

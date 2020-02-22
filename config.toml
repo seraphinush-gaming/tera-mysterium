@@ -32,7 +32,6 @@ showTags = false
   title = "Youtube"
   url = "https://www.youtube.com/c/seraphinush-gaming"
 
-
 [taxonomies]
 category = "categories"
 tag = "tags"
