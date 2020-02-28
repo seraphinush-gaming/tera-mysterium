@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>2018.07.26 patch notes | K TERA&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
+    <div class="base-body"><section id="header" class="site header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
+    <h1 class="article title">2018.07.26 patch notes | K TERA</h1><p class="article date">Thursday, July 26, 2018</p></section><article class="article markdown-body"><pre><code>### 1. Elin Brawler
+- Added class [Brawler] to class Elin
+  - Cannot use Race Change Voucher
+
+### 2. Character limit
+- Expanded character limi from 20 slots to 21 slots
+  - Can receive `Additional Character Slot` from Elin Brawler event page
+
+### 3. Battleground reward
+- Fixed tool tip on enchanting material that can be received from Battleground
+
+### 4. Skill and balance
+- Valkyrie
+  - Added 11% additional damage to boss monsters
+  - Changed armor option `[Shining Crescent] Increase critical damage by 8%` to `Increase all skill damage by 3.2%`
+  - War Cry (fixed)
+    - Increased PVE damage of 1st and 2nd hit by 30%
+    - Decreased PVP damage by 30%
+  - Shining Crescent
+    - Increased critical damage by 10%
+    - Recovers 30 Ragnarok points upon successful 2nd hit
+  - Barbaric Aggression
+    - Slightly increased casting speed of 3rd and 4th hit
+    - Decreased MP consumption of 1st, 2nd, and 3rd hit from 250 MP to 150 MP
+  - Half Moon Slice
+    - Slightly fastened the hit timing
+- Sorcerer
+  - Void Pulse
+    - Changed skill element type to Flame
+  - Ice Spear
+    - Changed to a single proc skill and spawns 6 projectiles at once
+- Gunner
+  - Summon Beam Panel
+    - Changed to be able to use [Replenishment] while Bean Panel is summoned
+  - Bombardment
+    - Changed Arcane Energy consumption to 0 Arcane Energy
+    - Changed cooldown from 2 minutes to 1 minute 40 seconds
+  - Arcane Beam
+    - Increased chain casting speed by approximately 20%
+  - Arcane Beam Barrage
+    - Changed to decrease cooldown of [Mana Missile] upon successful hit
+  - Carpet Bomb
+    - Increased Arcane Energy regeneration from 20 AE to 40 AE per hit
+  - Balder’s Vengeance
+    - Changed to be able to cancel other action and use BV faster than before
+  - Arcane Ray
+    - Reduced recoil while Beam Panel is summoned
+- Ninja
+
+Developer comment
+
+  - Boomerang Shuriken
+    - Changed shuriken to return to caster’s location
+    - Removed post skill animation when receiving the shuriken
+  - Impact Bomb
+    - Moved Glyph of Empower from [Jagged Path] to [Impact Bomb], and changed glyph duration from 3 seconds to 4 seconds
+  - Enlightenment
+    - Decreased aggro generation by 70% during its duration
+  - Chi Circulation (passive)
+    - Added hit from behind effect
+- Reaper
+  - Scythe Retrieval
+    - Adjusted animation speed
+    - Changed cooldown to 12 seconds
+      - Changed [Shadow Burst] cooldown reduction effect from 15 seconds to 12 seconds
+  - Scythe Reverse Retrieval
+    - Adjusted animation speed
+    - Changed cooldown from 6 seconds to 5 seconds
+    - Slightly eased the condition to use Enhanced skills to within 3 seconds
+  - Enhanced Sundering Strike, Enhanced Shadow Burst
+    - Changed increase damage effect from 20% to 10%
+  - Assassionate: Shrouded Escape
+    - Changed increase damage effect from 250% to 200%
+- Mystic (added)
+  - Sonorous Dreams
+    - Decreased lock on target count from 2 to 1
+    - Changed abnormality duration from 12 seconds to 9 seconds
+
+### 5. UX/UI
+- Increased base UI scale size
+- Revised visibility of HP/MP and ST gauge
+- Added radar UI and mini-map resizing options to mini-map UI
+- Increased effect icon UI size, and revised visibility
+- Increased S_SYSTEM_MESSAGE UI size
+  - Increased size of regular system message and important system message
+  - Increased size of party and raid notice, and changed display location to the middle of the screen
+- Revised to be able to use VIP UI easier tha nbefore
+- Expanded main menu UI drag-able locations
+- Fixed issue where buying cash items did not display a notice
+  - Fixed issue where item claim notice did not display
+- Restored Trade Broker notice to the way it was before 07.12 update
+  - Trade Broker notice will be displayed on the mini-map UI
+
+### 6. Other
+- Change Sky Cruiser Endeavor to skip movie showing Darkan change its form
+- Work to optimize effects is in progress
+
+### Bug fixes
+- UI
+  - Fixed issue where party/raid notice message continued to stay displayed
+  - Fixed issue where enrage information did not display during PVE combat
+  - Fixed issue where character name would sometimes display even when opted to hide character name
+  - Fixed issue where weapon effect would sometimes display even when opted to hide weapon effect
+- Skill
+  - Sorcerer : Fixed issue where skills would disappear when using Elemental Fusion
+  - Sorcerer : Fixed issue where skill hit would not display for certain Apex skills
+  - Archer : Fixed awkward Superior glyph tool tip
+  - Archer : Fixed issue where Thunderbolt cooldown reduction talent would be applied twice
+  - Archer : Fixed issue where Backstep talent did not apply when ST gauge is full
+  - Berserker : Fixed issue where Vampiric Strike tooltip did not display cooldown information
+- Dungeon
+  - Grotto of Lost Souls (hard) : Fixed issue where 3rd boss electric spheres and its effect did not display
+  - Grotto of Lost Souls (hard) : Fixed issue for the timer to start immediately upon reaching 80%
+  - Grotto of Lost Souls (hard) : Fixed issue where the timer UI did not disappear after combat
+  - Grotto of Lost Souls (hard) : Fixed issue where the Magic Tablets would seem to continuously drop
+  - Grotto of Lost Souls (hard) : Fixed issue where 3rd boss could be dribbled
+  - Grotto of Lost Souls (nm/hm) : Fixed issue where 1st, 2nd boss wipe mechanic could be blocked with barrier type skills
+  - Grotto of Lost Souls (nm/hm) : Fixed issue where 2nd boss gargoyle statue mechanic would occasionally fail to activate
+  - Grotto of Lost Souls (nm/hm) : Fixed issue where setting video option to preset 0 or 1 would occasionally not display `dark portal` which leads to 3rd boss combat area
+  - Kalivan’s Challenge, Kalivan's Dreadnaught : Fixed issue where 3rd boss would be stunned when hit twice with Sorcerer’s `Primal Flame`
+</code></pre><hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=349"target="_blank">TERA 테라 | NEXON</a></p>
+</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2018/>2018</a><a class="tag" href=/mysterium/tags/translation/>translation</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/raw/2018/2018-08-02/"><span class="li">&larr;</span>2018년 08월 02일 업데이트 안내</a></p><p><a class="link" href="/mysterium/posts/patch-notes/raw/2018/2018-07-26/"><span class="li">&rarr;</span>2018년 07월 26일 업데이트 안내</a class="link">
+    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
+    <p class="copyright">mysterium</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section></div>
+</body>
+
+</html>
