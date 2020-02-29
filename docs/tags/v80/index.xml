@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v80 on mysterium</title>
+    <link>/mysterium/tags/v80/</link>
+    <description>Recent content in v80 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/mysterium/tags/v80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019.01.17 patch notes (v80.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v80-03/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/translations/2019/v80-03/</guid>
+      <description>### 1. Server merge - Servers are now merged ### 2. Dungeon - Level progression dungeon - Instance matching system - Changed from 5-man to 3-man instances - Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) - Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&#39;s Ascent, Cultists&#39; Refuge, Necromancer&#39;s Tomb, Golden Labyrinth, Saleron&#39;s Sky Garden, Labyrinth of Terror, Ebon Tower - Adjust dungeon difficulty - Can now be cleared without a healer - Changed Instance Matching to be able to match regardless of class - Fixed for named monsters to drop health motes ### 3.</description>
+    </item>
+    
+    <item>
+      <title>2019년 01월 17일 업데이트 안내 (v80.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v80-03/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v80-03/</guid>
+      <description>### 1. 서버통합 - [아룬의 영광] [카이아의 가호] 서버가 통합됩니다. &amp;gt;[통합 세부 내용 확인] ### 2. 던전 - 성장구간 던전 - 던전 매칭 인원 변경 - 5 -&amp;gt; 3인으로 변경됩니다. - 매칭 인원이 변경됨에 따라 성장의 즐거움 효과가 변경됩니다. (2인 200%, 3인 400%) - 변경 던전: 비밀기지, 밤피르의 저택, 자바르만 소굴, 사교도의 은신처, 사령술 연구소, 황금의 미궁, 살레론의 공중 정원, 공포의 미궁, 검은 탑 - 던전 난이도 조정 - 힐러 클래스가 없이도 클리어가 가능해집니다.</description>
+    </item>
+    
+  </channel>
+</rss>

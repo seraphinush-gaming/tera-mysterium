@@ -12,848 +12,848 @@
     
     
     <item>
-      <title>2019.12.24 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-12-24/</link>
+      <title>2019.12.24 patch notes (v91.01.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v91-01-01/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-12-24/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v91-01-01/</guid>
+      <description>### Bug fixes - Fixed issue where relogging characters occasionally restored Adventure Coin - Fixed issue where chat tab reset and chat UI reset source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 12월 24일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-12-24/</link>
+      <title>2019년 12월 24일 업데이트 안내 (v91.01.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v91-01-01/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-12-24/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v91-01-01/</guid>
       <description>### [버그수정] - 캐릭터 재접속 시 모험의 주화가 간헐적으로 충전되는 문제 - 채팅창 탭 순서 및 채팅 UI 설정이 재접속 시 초기화되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 12월 19일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-12-19/</link>
+      <title>2019.12.19 patch notes (v91.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v91-01/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-12-19/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v91-01/</guid>
+      <description>### 1. Class balance - Priest - Zenobia&#39;s Vortex - Increased the chance to crit - Holy Burst - Slightly decreased the chance to crit ### 2. Dungeon - Removed Forsaken Island (nm/hm) - New : Madness Arena (5 man) - Requires level 69 and ilvl 461 to use Instance Matching System - Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) - Located in Plains of the Damned, Elenea - Loot table includes Annihilation/Dark Light Brooch, Annihilation/Dark Light Brooch Token, Exodor rare/superior gear, and Darkshad Feedstock - Related quest can be acquired upon completing [Dungeon] Desert Wolf (new) quest - Added 4 achievements related to the instance - Achievement - Achievement name - Achievement name - Achievement name - Achievement name - New : Kelsaik&#39;s Refuge (5 man) - Requires level 69 and ilvl 461 to use Instance Matching System - Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) - Located in Verrak Fortress, Exodor - Loot table includes Mythical gear promotion material, Exodor rare/superior gear, and Darkshad Feedstock - Related quest can be acquired upon completing [Imporatant] Exodor Advance Base quest - Added 5 achievements related to the instance - Achievement - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name - New : Kelsaik&#39;s Refuge (hard) (5 man) - Requires level 69 and ilvl 480 to use Instance Matching System - Requires 250 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) - Located in Verrak Fortress, Exodor - Loot table includes Mythical gear promotion material, Mythical gear, Exodor rare/superior gear, Kelsaik&#39;s style items (weapon skin), and Darkshad Feedstock - Added 4 achievements and 2 hidden achievements and 1 server first clear achievement related to the instance - Server first clear achievement will not be imbued immediately and will be given upon checking appropriate clear - Achievement - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name ### 3.</description>
+    </item>
+    
+    <item>
+      <title>2019년 12월 19일 업데이트 안내 (v91.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v91-01/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v91-01/</guid>
       <description>### 1. 전투 밸런스 - 사제 - 신의 숨결 - 치명타 발생 확률이 증가합니다. - 찬란한 섬광 - 치명타 발생 확률이 소폭 감소합니다. - 치유의 바람 연계 - [치유의 빛, 물러서기, 속박의 낙인] 스킬 사용 후, 강력한 치유의 바람을 연계할 수 있는 시간이 소폭 증가합니다. [개발자 코멘트] - 신의 숨결과 찬란한 섬광 스킬의 치명타 발생 확률을 조정합니다. - &#39;신의 숨결&#39; 스킬의 경우 치명타 발생률이 상향되며, 치명타 유발 능력치에 대한 의존도를 낮춰 다른 능력치에 투자할 수 있도록 조정됩니다.</description>
     </item>
     
     <item>
-      <title>2019.12.17 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-12-17/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <title>2019.12.12 patch notes (v90.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v90-03/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-12-17/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v90-03/</guid>
+      <description>### Bug fixes - Fixed issue where relogging reset chat UI position - Fixing this issue reset all chat settings - Fixed issue where UI positions reset for certain characters source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.12.12 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-12-12/</link>
+      <title>2019년 12월 12일 업데이트 안내 (v90.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v90-03/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-12-12/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 12월 12일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-12-12/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-12-12/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v90-03/</guid>
       <description>[버그수정] - 캐릭터 선택창으로 이동 후 재접속 시 채팅창의 위치가 초기화되는 문제 - 오류가 수정되며 채팅창 설정이 초기화되었습니다. 번거로우시겠지만, 재설정 후 이용 부탁드립니다. - 특정 캐릭터의 UI가 초기화되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.12.05 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-12-05/</link>
+      <title>2019.12.05 patch notes (v90.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v90-02/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-12-05/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v90-02/</guid>
+      <description>### Bug fixes - * Issue where changed character position reset to the previous position will be revised for the week after - Fixed issue where certain character’s Adventure Coin displayed 0/0 - Fixed issue where using Elite Status did not add additional Adventure Coins (from 1000 to 1680) - Did not restore above 1680 - Fixed issue where character slots did not expand for Frontier account - Fixed issue where Reapers with Argog weapon skin displayed Christmas themed weapon skin source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 12월 05일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-12-05/</link>
+      <title>2019년 12월 05일 업데이트 안내 (v90.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v90-02/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-12-05/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v90-02/</guid>
       <description>### [버그수정] - * 캐릭터 선택창으로 이동 후 재접속 시 채팅창의 위치가 초기화되는 문제는 UI 관련 코드에도 영향이 있어 보다 면밀한 테스트를 위해 12/12(목) 정기점검을 통해 수정될 예정입니다. 불편을 끼쳐드려 죄송합니다. - 일부 캐릭터의 모험의 주화가 0/0으로 표시되는 문제 - 월간패스/VIP를 사용하여 모험의 주화 최대치가 1,000에서 1,680으로 확장될 때, 일부 캐릭터의 모험의 주화가 추가 충전되지 않는 문제 - 최대 680까지 충전되며, 1,680을 초과해서 충전되지는 않습니다. - 11/28(목) 업데이트 이후 프론티어 ID의 캐릭터 슬롯이 확장되지 않은 문제 - 아스란의 비검 장착 시 크리스마스 외형이 출력되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 11월 28일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-11-28/</link>
+      <title>2019.11.28 patch notes (v90.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v90-01/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-11-28/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v90-01/</guid>
+      <description>### 1. Elin Valkyrie - Added [Valkyrie] class to Elin race - Cannot use race change voucher until 2020.01.09 - Elin Valkyries can race change to Female Castanic Valkyries (but not vice versa) ### 2. Character slot - Increased max character slot from 22 slots to 23 slots ### 3. Character progression revision - Talent points (EP) - Changed starting Talent Point to 300 - Existing characters with less than 300 Talent Points will be changed to 300 - Experience points - Decreased XP required from level 65 to level 69 - Decreased HP and damage of field monsters level 65 and above - Increased level 65 and above party dungeon Vanguard Request XP and hunting XP - Inrceased XP from daily quests - Inceased fishing/crafting/gathering XP - Skill Advance - Increased Skill Advance XP gained from level 65 and above party dungeons - Increased Skill Advance XP gained from Exodor story quests and zone quests - Increased Skill Advance XP gained from Exodor daily quests - Skill Advance Scroll - Increased Skill Advance Scrolls gained from level 65 and above party dungeons - Increased Skill Advance Scrolls gained from daily quests - Added Skill Advance III Scrolls gained from Exodor daily quests - Added Skill Advance III Scrolls to Exodor reputation merchants - Increased Skill Advance Scrolls gained from field boss monster Ortan - Guardian gear - Revised necessary enchanting materials and item XP needed to enchant Frostmetal gear - Revised necessary enchanting materials and item XP needed to enchant Stormcry gear - Revised promotion success rate and necessary enchanting materials and item XP for the following accessories : - Below Entropic accessories - Below Quatrefoil Brooch - Increased the promotion success rate of the following accessories : - Entropic accessories and above - Quatrefoil Brooch/Marrow Brooch and above - Increased drop amount of Liquid Metal, Hypnotic Device - Lilith’s Keep - Thaumetal Refinery - Velik’s Hold - Red Refuge - Dark Reaches Cathedral - Shadow Sanguinary - Forsaken Island - Rakelith’s Manor - RK-9 Kennel - Velik’s Sanctuary ### 4.</description>
+    </item>
+    
+    <item>
+      <title>2019년 11월 28일 업데이트 안내 (v90.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v90-01/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v90-01/</guid>
       <description>### 1. 엘린 월광무사 - 엘린 종족으로 선택 가능한 직업에 [월광무사]가 추가됩니다. - 2020년 1월 9일 점검 전까지 종족 변경권으로 변경할 수 없습니다. - 엘린에서 케스타닉 여자로는 변경이 가능합니다. (케스타닉에서 엘린으로는 불가) ### 2. 캐릭터 소켓 - 최대 확장 가능한 슬롯 개수가 22개 → 23개로 변경됩니다. - (11/29 추가) 기본 슬롯 개수가 6개 → 7개로 확장된 것으로, 기존 보유 슬롯 개수에 1개가 확장되었습니다. ### 3. 캐릭터 성장 허들 완화 - 특성 포인트 - 시작 특성 포인트가 300으로 변경됩니다.</description>
     </item>
     
     <item>
-      <title>2019.11.26 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-11-26/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <title>2019.11.21 patch notes (v89.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v89-03/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-11-26/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v89-03/</guid>
+      <description>### Event - K TERA exclusive returning player event ### Bug fixes - Fixed issue where characters with name of &#39;name_number&#39; due to server merge could not be restored source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.11.21 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-11-21/</link>
+      <title>2019년 11월 21일 업데이트 안내 (v89.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v89-03/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-11-21/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 11월 21일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-11-21/</link>
-      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-11-21/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v89-03/</guid>
       <description>### [이벤트] - 11/21 ~ 11/27 누적 출석체크 이벤트가 진행됩니다. [공지사항] - 신규 수호자를 위한 레벨 상자의 구성품은 아래와 같습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2019-11-21-1.png) ### [버그수정] - 서버 통합으로 인해 &#39;캐릭터명_숫자&#39; 형식으로 변경된 캐릭터를 셀프 복구할 수 없는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 11월 14일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-11-14/</link>
+      <title>2019.11.14 patch notes (v89.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v89-02/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-11-14/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v89-02/</guid>
+      <description>### 1. Balance - Priest - Edict of Judgement - Reset cooldown of Zenobia’s Vortex and Holy Burst upon casting - Triple Nemesis [Stigma] Talent - Increased debuff duration from 12 seconds to 21 seconds - Mystic - Augmentation - Removed continuous MP consumption during effect - Arunic Release - Reduced MP cost from 1,050 to 700 - Decreased skill damage from 9,750 to 8,287 - Vollet of Curses [Stigma] Talent - Increased debuff duration from 12 seconds to 21 seconds - Valkyrie - Godsfall - Decreased cooldown from 5 minutes to 4 minutes - Talent - Changed Glaive Strike [Chained Speed Skating] talent to Glaive Strike [Velocity] - Before : - Glaive Strike [Chained Speed Skating] : Increase casting speed of the next skill - After : - Glaive Strike [Velocity] : Increase casting speed (of Glaive Strike) (max 20%) - Gunner - Revised Arcane Splash and damage skills - Skills generating Arcane Splash : - 20% chance to generate 1 Arcane Splash per Mana Missile hit (removed explode feature) - 15% chance to generate 1 Arcane Splash per Burst Fire hit and Bombardment hit (removed explode feature from Burst Fire) - 100% chance to generate 1 Arcane Splash upon successful hit with Time Bomb - 30% chance to generate 1 Arcane Splash upon successful hit with Targeted Burst Fire (removed explode feature) - 20% chance to generate 1 Arcane Splash per Obliteration hit (removed explode feature and increase explode damage feature) - Skills exploding Arcane Splash : - Blast - Arcane Barrage - Laser of Remote Trigger - Balder’s Vengeance II (Added effect to increase explode damage by 3 times upon successfully hitting Arcane Splash with Balder’s Vengeance) - Level 69 skill option - Modular Weapon System [Integration] - Added effect to increase explode damage by 2 times upon successfully hitting Arcane Splash with Arcane Barrage ### 2.</description>
+    </item>
+    
+    <item>
+      <title>2019년 11월 14일 업데이트 안내 (v89.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v89-02/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v89-02/</guid>
       <description>### 1. 밸런스 - 사제 - 심판의 주문 - 시전 시, 신의 숨결과 찬란한 섬광 스킬의 재사용 대기 시간이 초기화 됩니다. - [천벌의 연쇄 – 낙인] 특성 - 지속 시간이 증가합니다. (12초 -&amp;gt; 21초) - 정령사 - 정령화 - 효과 지속 중, MP 지속 소모 효과가 제거됩니다. - 정기 폭발 - MP 소모량이 감소합니다. (1,050 -&amp;gt; 700) - 스킬 위력이 감소합니다. (9,750 -&amp;gt; 8,287) - [고통의 주박 – 낙인] 특성 - 지속 시간이 증가합니다.</description>
     </item>
     
     <item>
-      <title>2019.11.12 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-11-12/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <title>2019.10.31 patch notes (v89.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v89-01/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-11-12/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v89-01/</guid>
+      <description>### 1. New dungeon: Sea of Honor - Eligible for players of level 65 and above, and requires a `Wayfarer Map` to enter - Wayfarer Map can randomly drop from ilvl 435 and above dungeons and monsters of level 65 and above - Macellarius Catacombs does not drop Wayfarer Map - Wayfarer Map cannot be traded nor put in guild bank, and each map can be used to enter along with up to 5 party members - Entrance to the dungeon is at Cutthroat Harbor, via Roni (1 entry per week, 2 entry for Elite Status or equivalent) - Upon entering the dungeon, players can select difficulty and use the Wayfarer Map to proceed - Depending on the difficulty (1-4), monsters&#39; HPs and damage varies, and additional mechanics may be added - The following are the rewards for each difficulty - Bonus reward is given upon completing the instance in 30 minutes - Difficulty 1 (recommended ilvl 446 and above) - Reward : XP scroll, Golden/Silver Talent, Metamorphic Emblem - Difficulty 2 (recommended ilvl 453 and above) - Reward : Exodor Weapon Enchanting Scroll [rare], Exodor Armor Enchanting Scroll [rare], Azart Expedition Badge, Metamorphic Emblem - Difficulty 3 (recommended ilvl 461 and above) - Reward : Exodor Weapon Enchanting Scroll [superior], Exodor Armor Enchanting Scroll [superior], Azart Expedition Badge, Metamorphic Emblem - Difficulty 4 (recommended ilvl 475 and above) - Reward : Exodor Weapon Enchanting Scroll [superior], Exodor Armor Enchanting Scroll [superior], Ishara&#39;s Halidom, Amarun&#39;s Relic - Bonus - 50-100x Sea Guardian Token - Exodor Weapon/Armor Enchanting Scrolls can be used on Exodor gear - Using the scroll to enchant costs no other materials, and enchanting success rate is the same as using the enchanting UI to enchant - The following items can be exchanged with Sea Guardian Token : - Skill Advance Scroll I-II, Skill Option Scroll I-II, Emerald, Dixie Pincher&#39;s Sea Terror Hammer - Dixie Pincher&#39;s Sea Terror Hammer is a `Berserker` specific weapon skin ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 10월 31일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-10-31/</link>
+      <title>2019년 10월 31일 업데이트 안내 (v89.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v89-01/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-10-31/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v89-01/</guid>
       <description>### 1. 신규 던전: 항해 지도 - 65레벨 이상 캐릭터로 이용 가능하며, 던전을 진행하기 위해서는 &#39;항해 지도&#39; 아이템이 필요합니다. - 항해 지도 아이템은 장비레벨 435 이상의 던전 및 65레벨 이상 필드 몬스터가 확률적으로 드랍합니다. - 데모크론 실험실에서는 항해 지도가 드랍되지 않습니다. - 거래 및 길드 창고 보관이 불가능한 아이템이며, 1개의 지도로 최대 5명이 참여할 수 있습니다. - 동부 가드&amp;gt;거친 해안&amp;gt;거친 항구의 로니에게 말을 걸어 입장할 수 있습니다. (주간 1회/월간패스 2회) - 입장 후, 난이도를 선택하고 항해 지도 아이템을 사용하여 던전을 진행할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.10.29 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-10-29/</link>
-      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-10-29/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019.10.24 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-10-24/</link>
+      <title>2019.10.24 patch notes (v88.04) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v88-04/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-10-24/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 10월 24일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-10-24/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-10-24/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v88-04/</guid>
       <description>null source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.10.17 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-10-17/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <title>2019년 10월 24일 업데이트 안내 (v88.04)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v88-04/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-10-17/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v88-04/</guid>
+      <description>null source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 10월 17일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-10-17/</link>
+      <title>2019.10.17 patch notes (v88.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v88-03/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-10-17/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v88-03/</guid>
+      <description>### 1. Halloween event (K TERA exclusive) - Significantly decreased number of fake Gourdos - Removed Frontera from spawn locations for Gourdos - Due to issue where too many spawned in areas that could not be accessed - Removed Gourdos Moongourd x2 from drop table, and adjusted drop rate of other items - Significantly increased the drop rate of Gourdos Moongourd x5 ### Bug fixes - Fixed issue where Halloween-themed style items disappeared upon entering dungeon/battlergound - Items lost due to this issue will be restored source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019년 10월 17일 업데이트 안내 (v88.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v88-03/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v88-03/</guid>
       <description>### 1. 할로윈 이벤트 - 가짜 잭 오 랜턴의 숫자가 대폭 줄어듭니다. - 잭 오 랜턴의 스폰 지역에서 ‘개척민 마을’이 제외됩니다. - 처치 불가능한 위치에 다수 스폰되는 현상이 확인되어 제외되었습니다. - 드랍 보상에서 [이벤트] 잭오랜턴의 호박 2개가 제외되며, 아이템별 드랍 확률이 조정됩니다. - [이벤트] 잭오랜턴의 호박 5개 드랍 확률이 대폭 상승합니다. ### [버그수정] - 할로윈 스타일 아이템 일부가 임의의 던전/전장에 입장 시 사라지는 문제 - 위 오류로 소실된 아이템은 10/24(목) 정기점검 시 복구될 예정입니다.</description>
     </item>
     
     <item>
-      <title>2019년 10월 10일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-10-10/</link>
+      <title>2019.10.10 patch notes (v88.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v88-02/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-10-10/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v88-02/</guid>
+      <description>### 1. Field - New : Darkstone Cipher - Defeat monsters on the outer islands of Exodor to obtain materials to combine into &#39;Decoded Darkstone Cipher&#39;, which is used to obtain hidden treasures on Exodor - Materials : - Damaged Darkstone Cipher - Incomplete Darkstone Cipher - Flawed Darkstone Cipher - Darkstone Cipher Decoding Solution - Using &#39;Decoded Darkstone Cipher&#39; spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments - Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir - New : Sealed Darkstone - Sealed Darkstones spawn on outer islands of Exodor - Sealed Darkstones can be unsealed using &#39;Unsealing Scroll&#39;, and a Darkstone Fragment can be obtained ### 2.</description>
+    </item>
+    
+    <item>
+      <title>2019년 10월 10일 업데이트 안내 (v88.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v88-02/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v88-02/</guid>
       <description>### 1. 필드 - 신규: 다크스톤 암호문 - 엑소도르 특정 지역에 숨겨져 있는 보물을 획득할 수 있는 아이템으로, 엑소도르 외곽섬 몬스터에게 &#39;해독된 다크스톤 암호문&#39; 아이템을 조합할 수 있는 재료를 획득할 수 있습니다. - 암호문 조합 재료 - 훼손된 다크스톤 암호문 - 불완전한 다크스톤 암호문 - 손상된 다크스톤 암호문 - 다크스톤 암호문 해독 용액 - 특정 위치에서 &#39;해독된 다크스톤 암호문&#39;을 사용하면 추적대가 등장하며, 추적대 몬스터를 처치하면 다크스톤 조각을 획득할 수 있습니다. - 다크스톤 조각으로는 다크샤드 무기/방어구 강화석, 마력의 다크샤드 무기/방어구 강화석, 아르가프 영약 등의 아이템을 교환할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.10.08 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-10-08/</link>
-      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-10-08/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 09월 26일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-09-26/</link>
+      <title>2019.09.26 patch notes (v88.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v88-01/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-09-26/</guid>
-      <description>### 1. 파트너 - 신규 파트너 ‘엘로’, ‘리코’가 추가됩니다. - 펫 합성 / 진화에서 확률적으로 신규 파트너를 획득할 수 있습니다. (고급 ~ 전설) - 교감 스킬 - 파트너 | 스킬명 | 설명 - 엘로 | 다채로운 에너지 | 일정 시간 동안 마법 증폭이 증가합니다. - 리코 | 거친 기운 | 일정 시간 동안 물리 증폭이 증가합니다. - 재능 스킬 - 파트너 | 획득 가능한 재능 스킬 - 엘로 | 교감 강화 I ~ III, 긴급 지원 I ~ III, 성장 가속 I ~ III, 채집 지원 I ~ III - 리코 | 교감 강화 I ~ III, 긴급 회복 I ~ III, 복합 가속 I ~ III, 낚시 지원 I ~ III !</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v88-01/</guid>
+      <description>### 1. Companion - Added new Partners `Ello` and `Rico` - New Partners can be obtained via Combining/Evolving randomly (uncommon ~ superior) - Bond Skill - Ello : Increase magical damage for a set duration - Rico : Increase physical damage for a set duration - Gifted Skill - Ello : [ Fellowship I~III (duration), Emergency Service I~III (MP), Rapid Growth I~III (XP), Gathering Support (I~III) ] - Rico : [ Fellowship I~III (duration), Urgent Recovery I~III (HP), Dual Boost I~III (XP &amp;amp; Skill Advance), Backup Fisherman (I~III) ] !</description>
     </item>
     
     <item>
-      <title>2019.09.24 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-09-24/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <title>2019년 09월 26일 업데이트 안내 (v88.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v88-01/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-09-24/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v88-01/</guid>
+      <description>### 1. 파트너 - 신규 파트너 &#39;엘로&#39;, &#39;리코&#39;가 추가됩니다. - 펫 합성 / 진화에서 확률적으로 신규 파트너를 획득할 수 있습니다. (고급 ~ 전설) - 교감 스킬 - 파트너 | 스킬명 | 설명 - 엘로 | 다채로운 에너지 | 일정 시간 동안 마법 증폭이 증가합니다. - 리코 | 거친 기운 | 일정 시간 동안 물리 증폭이 증가합니다. - 재능 스킬 - 파트너 | 획득 가능한 재능 스킬 - 엘로 | 교감 강화 I ~ III, 긴급 지원 I ~ III, 성장 가속 I ~ III, 채집 지원 I ~ III - 리코 | 교감 강화 I ~ III, 긴급 회복 I ~ III, 복합 가속 I ~ III, 낚시 지원 I ~ III !</description>
     </item>
     
     <item>
-      <title>2019년 09월 19일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-09-19/</link>
+      <title>2019.09.19 patch notes (v87.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v87-03/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-09-19/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v87-03/</guid>
+      <description>### 1. Dungeon - Celestial Arena - Changed required item level from 439 to 431 - Adjusted to decrease HP of monsters to reflect the item level change ### 2. Services - PC bang - K TERA exclusive - K TERA exclusive - K TERA exclusive ### 3. Item - Changed to allow switching between Intel pieces and Naslow’s Treasure Map pieces - It is a 1:1 exchange, and cannot be traded on trade broker ### 4.</description>
+    </item>
+    
+    <item>
+      <title>2019년 09월 19일 업데이트 안내 (v87.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v87-03/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v87-03/</guid>
       <description>### 1. 던전 - 천공의 경기장 - 적정 수행 장비 레벨이 변경됩니다. (439 → 431) - 권장 레벨에 맞게 몬스터의 HP 등 밸런스가 하향 조정됩니다. ### 2. 부가 서비스 - PC방 혜택 - [PC방] 차가운 금속 장비 상자가 [PC방] 전설 장비 상자로 변경됩니다. - 해당 상자를 통해서 절멸, 검은 태양 장비, 빛나는 여신의 브로치, 불멸의 반지 등의 장비를 획득하실 수 있습니다. (PC방에서만 이용 가능한 장비) - [PC방] 전설 장비 상자에서 획득한 아이템은 65레벨 이상부터 착용할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.09.17 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-09-17/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <title>2019.09.10 patch notes (v87.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v87-02/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-09-17/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v87-02/</guid>
+      <description>### 1. Field boss - Field boss contents Machnak, Avion, Royal Azart have been disabled ### 2. Item - Changed the following items&#39; names and icons - Physical Machnak Belt -&amp;gt; Red Sun Belt - Magical Machnak Belt -&amp;gt; Blue Moon Belt - Physical Avion Mask -&amp;gt; Red Sun Mask - Magical Avion Mask -&amp;gt; Blue Moon Mask - Added the following items to the shops of the following items - The items are equivalent conversion to the Exodor field monster drops - [Machnak Jaw Bone] | Azart Legion Tag, 1 - [Avion Dranium Fragment] | Azart Mark, 1 - [Royal Azart Powder] | Azart Suppression Medal, 1 - Added the following 4 items - Item - Azart Force Badge - Azart Token - Exodor Superior Belt Box - Exodor Superior Mask Box ### 3.</description>
     </item>
     
     <item>
-      <title>2019.09.10 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-09-10/</link>
+      <title>2019년 09월 10일 업데이트 안내 (v87.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v87-02/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-09-10/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 09월 10일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-09-10/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-09-10/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v87-02/</guid>
       <description>### 1. 필드 보스 - 마흐나크, 아비온, 로열 파르프 컨텐츠가 중단됩니다. [공지사항 바로가기] ### 2. 아이템 - 아래 아이템의 이름, 외형, 아이콘이 변경됩니다. - 변경 전 - 맹렬한 마흐나크의 허리띠 - 찬란한 마흐나크의 허리띠 - 맹렬한 아비온의 가면 - 찬란한 아비온의 가면 - 변경 후 - 절멸의 허리띠 - 검은 태양 허리띠 - 절멸의 가면 - 검은 태양 가면 - 마흐나크의 턱뼈, 아비온의 드라니움 조각, 로열 파르프의 날개가루 교환 목록에 하기 아이템이 추가됩니다.</description>
     </item>
     
     <item>
-      <title>2019년 09월 05일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-09-05/</link>
+      <title>2019.09.05 patch notes (v87.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v87-01/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-09-05/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v87-01/</guid>
+      <description>### 1. Dungeon - Increased XP reward for completing level 65+ Vanguard Requests and lass boss in dungeons - Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times ### 2. Partner - Changed to be able to transfer partner Abilities - Conditions to activate Gifted Skills for XP boost and skill XP boost has been changed to upon using Bond Skill ### 3. Class balance - Warrior - Head On (passive) - Changed to only activate crit power effect during Defense Stance - Level 69 Skill Option : Deadly Gamble - Changed [Bellicosity] Skill Option to the following : - Before : - Increase Deadly Gamble duration by 20% during Assault Stance.</description>
+    </item>
+    
+    <item>
+      <title>2019년 09월 05일 업데이트 안내 (v87.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v87-01/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v87-01/</guid>
       <description>### 1. 던전 - 65레벨 이상 파티 던전의 발키온 연합 지령서/마지막 네임드 처치 경험치 보상이 상향됩니다. - 데모크론 실험실 3인 입장 시 부여되는 성장의 즐거움 효과가 상향됩니다. (1.8배 → 1.9배) ### 2. 파트너 - 파트너간 능력 전수가 가능하도록 변경됩니다. - 재능 스킬인 ‘성장 가속’, ‘연마 가속’, ‘복합 가속’의 발동 조건이 교감 스킬 사용 시로 변경됩니다. ### 3. 클래스 밸런스 - 검투사 - 정면 승부 [패시브] - 치명타 위력 증가 효과가 [강철의 결의 II] 상태에서만 발동하도록 변경됩니다.</description>
     </item>
     
     <item>
-      <title>2019.09.03 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-09-03/</link>
-      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-09-03/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 08월 29일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-08-29/</link>
+      <title>2019.08.29 patch notes (v86.05) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-05/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-08-29/</guid>
-      <description>### 1. ~~던전~~ (9/5 적용 예정) - 65레벨 이상 파티 던전의 발키온 연합 지령서/마지막 네임드 처치 경험치 보상이 상향됩니다. - 데모크론 실험실 3인 입장 시 부여되는 성장의 즐거움 효과가 상향됩니다. (1.8배 → 1.9배) ### 2. ~~장비~~ (9/5 적용 예정) - 신규 전설등급 브로치인 &#39;맹렬한 아젠반트의 브로치&#39;와 &#39;찬란한 아젠반트의 브로치&#39;가 추가됩니다. - 69레벨부터 착용이 가능하며, 스킬 숏컷에 등록하여 &#39;아젠반트의 힘&#39; 버프를 발동시킬 수 있습니다. - 사용 시, 아르가프의 힘 이상상태가 1분 30초 부여되며, 20초 동안 힘 30, 치명타 유발 30, 공격 속도가 12% 향상됩니다.</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-05/</guid>
+      <description>### 1. ~~Dungeon~~ - ~~Increased XP reward of level 65 or above Vanguard Request and final boss~~ - ~~Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times~~ ### 2. Gear (delayed) - ~~Added new superior brooch `Agenvant Brooch`~~ - ~~Can be equipped starting level 69, and active skill applies `Agenvant&#39;s Power` buff~~ - ~~Upon usage, Azart Energy abnormality is applied for 1.5 minutes, and applies an increase of 30 power, 30 crit factor, and 12% attack speed for 20 seconds~~ ### 3.</description>
     </item>
     
     <item>
-      <title>2019.08.27 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-08-27/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <title>2019년 08월 29일 업데이트 안내 (v86.05)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-05/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-08-27/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-05/</guid>
+      <description>### 1. ~~던전~~ (9/5 적용 예정) - ~~65레벨 이상 파티 던전의 발키온 연합 지령서/마지막 네임드 처치 경험치 보상이 상향됩니다.~~ - ~~데모크론 실험실 3인 입장 시 부여되는 성장의 즐거움 효과가 상향됩니다. (1.8배 → 1.9배)~~ ### 2. ~~장비~~ (9/5 적용 예정) - ~~신규 전설등급 브로치인 &#39;맹렬한 아젠반트의 브로치&#39;와 &#39;찬란한 아젠반트의 브로치&#39;가 추가됩니다.~~ - ~~69레벨부터 착용이 가능하며, 스킬 숏컷에 등록하여 &#39;아젠반트의 힘&#39; 버프를 발동시킬 수 있습니다.~~ - ~~사용 시, 아르가프의 힘 이상상태가 1분 30초 부여되며, 20초 동안 힘 30, 치명타 유발 30, 공격 속도가 12% 향상됩니다.</description>
     </item>
     
     <item>
-      <title>2019년 08월 22일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-08-22/</link>
+      <title>2019.08.22 patch notes (v86.04) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-04/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-08-22/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-04/</guid>
+      <description>### 1. Field boss monster - Machnak, Avion, Royal Gossamer reopens - Changed Royal Gossamer to spawn only in channel 1 - Switched last hit reward and jackpot reward - Last hit reward will remain the same to receive both jackpot reward and contribution reward - Jackpot reward is randomly given to one participant who has made significant contribution - Boss | last hit reward | jackpot reward - Ortan | Ortan Field Boss Gold Box | Ortan&#39;s Treasure Chest - Hazard | Hazard Field Boss Gold Box | Hazard&#39;s Treasure Chest - Cerrus | Cerrus Field Boss Gold Box | Cerrus&#39;s Treasure Chest - Machnak | Machnak Field Boss Gold Box | Machnak&#39;s Treasure Chest - Avion | Avion Field Boss Gold Box | Avion&#39;s Treasure Chest - New field boss Agenvant update is delayed until 08/29 (Thurs) ### 2.</description>
+    </item>
+    
+    <item>
+      <title>2019년 08월 22일 업데이트 안내 (v86.04)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-04/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-04/</guid>
       <description>### 1. 필드 보스 몬스터 - 마흐나크, 아비온, 로열 파르프 컨텐츠가 재오픈됩니다. - 로열 파르프가 1채널에서만 스폰되도록 변경됩니다. - 마지막 타격, 대박 보상으로 지급되는 아이템이 서로 변경됩니다. - 마지막 타격 보상은 기존과 동일하게 대박 보상 또는 참여 보상과 중복 획득이 가능합니다. - 대박 보상은 참여 인원 중 랜덤한 1명에게 지급되며, 처치 기여도가 낮을 경우 추첨 대상에서 제외됩니다. - 보스 몬스터 | 마지막 타격 보상 | 대박 보상 - 오르탄 | 오르탄 공격대의 금빛 상자 | 오르탄의 보물상자 - 하자르 | 하자르 공격대의 금빛 상자 | 하자르의 보물상자 - 캘로스 | 캘로스 공격대의 금빛 상자 | 캘로스의 보물상자 - 마흐나크 | 마흐나크 공격대의 금빛 상자 | 마흐나크의 보물상자 - 아비온 | 아비온 공격대의 금빛 상자 | 아비온의 보물상자 - 신규 필드보스: 아젠반트의 업데이트가 8/29(목)으로 연기되었습니다.</description>
     </item>
     
     <item>
-      <title>2019.08.20 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-08-20/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <title>2019.08.14 patch notes (v86.03.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-03-01/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-08-20/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-03-01/</guid>
+      <description>### 1. Exodor - Increased channel count to 3 - Temporarily disabled spawn of Royal Parf, Machnak, and Avion - There was an issue where reward was delivered twice; content will reopen as it is fixed ### Bug fixes - Fixed issue where reward parcel message for defeating Machnak was awkward - Fixed issue where Jump Platforms on outer islands did not operate - Fixed issue where Skill Advance data reset after 07/23 maintenance, and items to restore Skill Advance have been sent - Skill Advance XP, scrolls, and gems for gold have will be distributed soon source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.08.14 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-08-14/</link>
+      <title>2019년 08월 14일 업데이트 안내 (v86.03.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-03-01/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-08-14/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 08월 14일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-08-14/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-08-14/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-03-01/</guid>
       <description>###1. 엑소도르 - 채널이 3개로 증가됩니다. - 로열 파르프, 마흐나크, 아비온 컨텐츠가 임시 중단됩니다. - 특정 상황에서 보상을 중복으로 획득할 수 있는 문제가 확인되어 임시 중단되었으며, 수정 후 재오픈할 수 있도록 하겠습니다. 불편을 드려 죄송합니다. ### [버그수정] - 마흐나크 처치 보상 우편 문구가 어색한 문제 - 엑소도르 지역 외곽섬에서 간헐적으로 점프기어를 이용할 수 없는 문제 - 7/23(화) 점검 이후 초기화된 스킬 연마 정보를 복구할 수 있는 아이템이 지급됩니다. - 스킬 연마 경험치, 스크롤, 골드에 상응하는 보석 아이템이 지급될 예정이며, 자세한 내용은 공지사항을 통해 확인해 주시기를 바랍니다.</description>
     </item>
     
     <item>
-      <title>2019년 08월 08일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-08-08/</link>
+      <title>2019.08.08 patch notes (v86.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-03/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-08-08/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-03/</guid>
+      <description>### 1. Field boss - New : Avion - Spawns south of Vernark Fortress, Exodor (channel 1) - Island can be accessed through Argaff Jump Platforms - Upon defeating Avion, the player dealing the last hit will receive one of the following rewards : - Avion Treasure Box (1 of the following items) : - Shining Avion Mask - Fierce Avion Mask - One random participant will also receive the following reward : - Reward - Avion Raid Gold Box - The following contribution reward will be distributed depending on the amount of damage dealt - Damage contribution is party-based - No reward will be distributed to players who have not contributed enough to defeat the boss - Reward - Avion Raid Silver Box - Avion Raid Box - Avion’s Dranium Piece - (Fixed) Changed field boss content reward distribution to parcel - As per fix, Machnak and Royal Parf ### 2.</description>
+    </item>
+    
+    <item>
+      <title>2019년 08월 08일 업데이트 안내 (v86.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-03/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-03/</guid>
       <description>### 1. 필드 보스 - 신규: 아비온 - 엑소도르 ‘베르아크 성채’ 남동쪽의 ‘아르가프 침공지’ 섬지역에 출몰합니다. (1채널) - 아르가프 도약대를 이용하여 진입할 수 있습니다. - 아비온 처치 시, 마지막 타격을 가한 캐릭터에게 아래와 같은 보상이 지급됩니다. - 아비온의 보물상자 (하기 아이템 중 1종 획득) - 찬란한 아비온의 가면 - 맹렬한 아비온의 가면 - 참여한 캐릭터 중 1명에게 참여보상 대신 아래와 같은 보상이 지급됩니다. - 보상 아이템 - 아비온 공격대의 금빛 상자 - 필드보스 HP 감소 기여도에 따라 아래와 같은 참여 보상이 차등 지급됩니다.</description>
     </item>
     
     <item>
-      <title>2019.08.06 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-08-06/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <title>2019.08.01 patch notes (v86.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-02/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-08-06/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-02/</guid>
+      <description>### 1. Argaff’s Hatchery - Increased spawn rate of Nomadic Caimans and Dimensional Portal ### 2. Field Boss Monster - Reinforced criteria for earning wnd rank participation reward ### 3. Quest - Changed Card Index completion progress reward - Removed progression stage reward for completing `Big Horn Argaff` card set ### Bug fixes - Fixed issue where Skill Advance points and Skill Advance state reset (to zero) - Fixed issue where sorting inventory occasionally causes client to crash - Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) - Fixed issue where Slayer’s Measured Slice was coded as magical damage - Fixed issue where Ninja’s Boomerang Shuriken’s skill damage was unexpectedly high - Fixed issue where recent transactions on trade broker displayed irregular item levels - Fixed issue where UI scaling did not affect pop-up UI for purchasing items - Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward - Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did - Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard - Fixed issue where Partners occasionally spoke about item level - Fixed issue where players could proceed through without being directed by quest NPC - Fixed issue where certain NPCs were stacked - Fixed issue where Nomadic Merchants could spawn in all channels - Fixed issue where players could receive multiple quest items through Etching Crafting tutorial - Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank - Fixed issue where cracked ground aesthetics for Machnak combat area seemed like it was floating - Fixed issue where returning player items displayed different expire date and stats than intended - Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed - Fixed issue where summoned Partners displayed a chat upon spawning in each area - Fixed a K TERA exclusive issue - Fixed issue where using a skill in Velika: Civil Unrest causes self-damage source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 08월 01일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-08-01/</link>
+      <title>2019년 08월 01일 업데이트 안내 (v86.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-02/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-08-01/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-02/</guid>
       <description>### 1. 아르가프 부화장 - 떠돌이 시누스와 차원문의 스폰 확률이 상향됩니다. ### 2. 필드 보스 몬스터 - 참여 보상 중, 2등급 보상(ex: 마흐나크 공격대의 상자)을 얻을 수 있는 기준이 완화됩니다. ### 3. 퀘스트 - 도감 편찬 퀘스트의 진행 단계가 일부 변경됩니다. - &#39;큰 뿔 아르가스&#39; 카드를 도감에 등록하는 단계가 제거됩니다. ### [버그수정] - 업데이트 이후 스킬 연마 포인트 및 연마 상태가 초기화된 문제 - 자동정렬 기능 사용 시 간헐적으로 서버가 다운되는 문제 - 데미지 감소 스킬 사용 시, PC의 방어력이 감소되는 문제 (임시 중단되었던 투기장이 정상화 되었습니다.</description>
     </item>
     
     <item>
-      <title>2019.07.30 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-07-30/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-07-30/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019.07.25 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-07-25/</link>
+      <title>2019.07.25 patch notes (v86.01.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-01-01/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-07-25/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-01-01/</guid>
+      <description>### 1. Exodor - Increased channel count in all Exodor regions except Core region - Added sub-title `Butterfly Signal Distractor` to two of the monsters ### 2. Quest - K TERA exclusive comment ### Bug fixes - Fixed issue where Baramara BAMs did not fight one another - Fixed issue where zone quest did not count while completing dungeon as a raid - Fixed issue in Verark Fortress where certain 2nd boss mechanic caused client to crash - Fixed issue in Verark Fortress where players could mount flying mounts in combat arena - Fixed issue where certain NPC for Exodor story quest was placed twice - Fixed issue where defeating quest monster before talking to Jalena preventing quest progress - Fixed issue where completing Gathering Effect in Index UI prevented changing tabs - Fixed issue where a certain monster’s effects did not display properly - Fixed issue where spawn rate of Dimensional Portal upon defeating Nomadic Caimans was unexpectedly high during party status - Fixed issue where 2019 summer event items displayed faulty expiration date - Fixed issue where system message upon trying to inspect a logged out character had a typo source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 07월 25일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-07-25/</link>
+      <title>2019년 07월 25일 업데이트 안내 (v86.01.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-01-01/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-07-25/</guid>
-      <description>### 1. 엑소도르 - 코어 지역을 제외하고 엑소도르 지역의 채널이 최대 3개로 증가합니다. - 엑소도르 지역 ‘붉은 이끼게’, ‘외눈가시’ 네임드 몬스터의 호칭으로 ‘나비 귀환지의 방해꾼’이 추가됩니다. ### 2. 퀘스트 - 6/20 ~ 7/25 기간 진행 된 신규/복귀 이벤트의 ‘의뢰서 – 아르보레아 전선 돌파 I’ 퀘스트 조건이 변경됩니다. - 시험의 던전 – 황금의 미궁 2회 클리어 → 천공의 경기장 2회 클리어 ### [버그수정] - 투기장에서 몬스터가 서로 전투를 하지 않는 문제 - 녹슬지 않는 실력 1 퀘스트에서 공격대 상태로 몬스터 처치 시 카운팅되지 않는 문제 - 베르아크 성채 비밀지역 2네임드 특정 스킬 사용 시, 간헐적으로 클라이언트 크래시가 발생하는 문제 - 베르아크 성채 비밀지역 전투 공간에서 비행 탈 것 탑승이 가능한 문제 - 엑소도르 퀘스트 중 일부 퀘스트에서 NPC가 중복 배치되는 문제 - 코어 폭파 퀘스트 진행 중, 쟈넬라 NPC와 대화하기 전 칼리가르 몬스터 처치 시 진행이 불가능한 문제 - 수집 효과 UI에서 카드 완성 시, 탭이 넘어가지 않는 문제 - 뼈아귀 괴물의 이펙트가 출력되지 않는 문제 - 차원문, 소환된 파르프 등 몬스터 처치 시 스폰되는 NPC가 파티 상태에서 스폰 확률이 비정상적으로 증가하는 문제 - 2019 썸머 이벤트 아이템 툴팁의 삭제 일자가 잘못 기재되어 있는 문제 - 로그아웃 한 캐릭터를 살펴보기 했을 시 출력되는 안내 메시지에 오타가 있는 문제 source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-01-01/</guid>
+      <description>### 1. 엑소도르 - 코어 지역을 제외하고 엑소도르 지역의 채널이 최대 3개로 증가합니다. - 엑소도르 지역 &#39;붉은 이끼게&#39;, &#39;외눈가시&#39; 네임드 몬스터의 호칭으로 &#39;나비 귀환지의 방해꾼&#39;이 추가됩니다. ### 2. 퀘스트 - 6/20 ~ 7/25 기간 진행 된 신규/복귀 이벤트의 &#39;의뢰서 – 아르보레아 전선 돌파 I&#39; 퀘스트 조건이 변경됩니다. - 시험의 던전 – 황금의 미궁 2회 클리어 -&amp;gt; 천공의 경기장 2회 클리어 ### [버그수정] - 투기장에서 몬스터가 서로 전투를 하지 않는 문제 - 녹슬지 않는 실력 1 퀘스트에서 공격대 상태로 몬스터 처치 시 카운팅되지 않는 문제 - 베르아크 성채 비밀지역 2네임드 특정 스킬 사용 시, 간헐적으로 클라이언트 크래시가 발생하는 문제 - 베르아크 성채 비밀지역 전투 공간에서 비행 탈 것 탑승이 가능한 문제 - 엑소도르 퀘스트 중 일부 퀘스트에서 NPC가 중복 배치되는 문제 - 코어 폭파 퀘스트 진행 중, 쟈넬라 NPC와 대화하기 전 칼리가르 몬스터 처치 시 진행이 불가능한 문제 - 수집 효과 UI에서 카드 완성 시, 탭이 넘어가지 않는 문제 - 뼈아귀 괴물의 이펙트가 출력되지 않는 문제 - 차원문, 소환된 파르프 등 몬스터 처치 시 스폰되는 NPC가 파티 상태에서 스폰 확률이 비정상적으로 증가하는 문제 - 2019 썸머 이벤트 아이템 툴팁의 삭제 일자가 잘못 기재되어 있는 문제 - 로그아웃 한 캐릭터를 살펴보기 했을 시 출력되는 안내 메시지에 오타가 있는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 07월 23일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-07-23/</link>
+      <title>2019.07.23 patch notes (v86.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v86-01/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-07-23/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v86-01/</guid>
+      <description>### 1. Zone expansion - Expanded floating island “Exodor” zone - A new story quest is obtained from NPC `에키오르 라펠레이트` upon completing [Important] Bringing Down Exodor story quest - Said NPC is located at Spring Valley - `Exodor` consists of four regions : - Garden - Ranch - Viridian Wetland - Verark Fortress ### 2. Dungeon - New : Vernark Fortress (5-man) - Instance Matching System can be accessed upon reaching level 69, and item level 458 - Requires 385 Aventure Coins to enter, and is limited to 40 entries (80 for Elite) per week - Teleportal is located on the upper floor of Verark Fortress, Exodor - Added Skill Advance XP reward to the following 12 dungeons - Dungeon : - Rakelith&#39;s Manor (normal/hard) - RK-9 Kennel (normal/hard) - Velik&#39;s Sanctuary (normal/hard) - Grotto of Lost Souls (normal/hard) - Antaroth&#39;s Abyss (normal/hard) - Forsaken Island - Bahaar&#39;s Sanctum - Ghillieglade - Changed starting location to the front of the bridge - Red Refuge - Added a dungeon-specific weapon design - Argog Weapon - Can be obtained as weapon skin box, or by combining Refined Metal (가공된 광물) and Argog&#39;s Toenail obtained upon defeating Argog - Ace dungeon - Changed level appropriately, and adjusted reward accordingly - Lilith&#39;s Trial : ilvl 431 - Akasha&#39;s Trial : ilvl 412 to ilvl 439 - Baracos&#39; Trial : ilvl 412 to ilvl 446 - Adjusted to increased Golden Talent and Silver Talent - Added to apply a movement speed buff through all Ace dungeons - Increased elevator speed in Lilith&#39;s Trial - Celestial Arena - Changed total stage count (from 7 to 5) - Changed monster HP, and revised to move to the next stage faster upon defeating all monsters - Adjusted to increase Golden Talent/Daric/Plate and Silver Talent/Daric/Plate reward - Changed item level appropriately (from 412 to 439) - Significantly increased audience cheer buff - Adjusted to increase the enchanting material reward of the following dungeons : - Ravenous Gorge - Channelworks - Velik&#39;s Hold - Thaumetal Refinery - Lilith&#39;s Keep ### 3.</description>
+    </item>
+    
+    <item>
+      <title>2019년 07월 23일 업데이트 안내 (v86.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v86-01/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2019/v86-01/</guid>
       <description>### 1. 지역 확장 - 공중섬 &#39;엑소도르&#39; 지역이 확장됩니다. - &#39;[중요] 격추 시도&#39; 퀘스트 완료 및 68레벨 달성 시, &#39;에키오르 라펠레이트&#39; NPC를 통해 &#39;엑소도르로 가는 길&#39; 미션 퀘스트를 수주하여 진입할 수 있습니다. - 에키오르 라펠레이트 NPC는 바라카니아 구릉지&amp;gt;바라카니아 경제인 연합에 위치합니다. - &#39;엑소도르&#39;는 아래 4가지 지역으로 구성되어 있습니다. - 로가쉬의 장원 - 엑소도르의 대농장 - 비리디안 습지대 - 베르아크 성채 ### 2. 던전 - 신규: 베르아크 성채 비밀지역 (5인) - 69레벨, 장비레벨 458 달성 시 파티매칭을 통해 입장할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.07.19 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-07-19/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <title>2019.07.11 patch notes (v85.05) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v85-05/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-07-19/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v85-05/</guid>
+      <description>### 1. Class - Priest - Zenobia&#39;s Vortex Shocking Implosion - Increased HP regeneration of Zenobia&#39;s Vortex by 2 times during Edict of Judgement - Triple Nemesis - Adjusted to increase duration of Glyph of Enfeeblement abnormality from 12 seconds to 21 seconds - Guardian&#39;s Sanctuary - Changed HP regeneration - Changed to casting to be instant instead of having a 1.5 second casting duration ### 2. Dungeon - Changed Ebon Tower, Kelsaik&#39;s Nest instance matching level requirement from level 58 to level 64 - Balder&#39;s Refuge, Argon Corpus - Added Vanguard Request reward - Decreased dungeon entry cooldown - Common : From 30 minutes to 20 minutes - VIP : From 30 minutes to 10 minutes - Manaya&#39;s Core - Added Vanguard Request reward - Decreased dungeon entry cooldown - Common : From 60 minutes to 20 minutes - VIP : From 30 minutes to 10 minutes ### 3.</description>
     </item>
     
     <item>
-      <title>2019년 07월 11일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-07-11/</link>
+      <title>2019년 07월 11일 업데이트 안내 (v85.05)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v85-05/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-07-11/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v85-05/</guid>
       <description>### 1. 클래스 - 사제 - 심판의 손길 - 심판의 주문 상태에서 심판의 손길 스킬의 HP 회복량이 2배 상향됩니다. - 천벌의 연쇄 - 약화의 문장 효과의 지속시간이 12초에서 21초로 조정됩니다. - 평정의 가호 - HP 회복량이 변경됩니다. - 시전 시간이 1.5초에서 즉시 시전으로 변경됩니다. [개발자 코멘트] -사제의 경우, [천벌의 연쇄 – 약화의 문장]의 효과 지속시간이 짧은 관계로 너무 잦은 빈도로 신경 써야만 하는 상황이었습니다. 따라서 지속시간을 상향 조정하였습니다. -심판의 주문 사용 후, 아군에게 적용되는 HP 회복량이 너무 낮아 파티가 위험할 때 심판의 주문을 해제한 후 회복 스킬을 사용해야만 했습니다.</description>
     </item>
     
     <item>
-      <title>2019.07.09 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-07-09/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <title>2019.07.04 patch notes (v85.04) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v85-04/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-07-09/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v85-04/</guid>
+      <description>### 1. Dungeon - Forsaken Island (hard) (5-man) - Instance matching system can be used starting level 65, at item level 453 and above - Costs 150 Adventure Coins, and can be accessed once per day (twice for VIP) - Teleportal is located at Cutthroat Harbor - Loot table includes Stormcry gear box, Sacred Mallet, Weights, Halidoms/Relics, Naslow&#39;s Treasure Map right piece, and Mysterious Intel right piece - Forsaken Island (5-man) - Instance matching system can be used starting level 65, at item level 438 and above - Costs 75 Adventure Coins, and can be accessed once per day (twice for VIP) - Teleportal is located at Cutthroat Harbor - Loot table includes Frostmetal gear box, Carved Ornament, Artisan&#39;s Tools, Otherworldly Shard, Onset Mask, Sacred Mallet, Weights, Halidoms/Relics, and Naslow&#39;s Treasure Map left piece - Ghillieglade - Added Superior innerwear as item reward - Supperior innerwear can now be used with randomizer cube - Slightly increased Goldfinger Token drop rate and drop amount ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 07월 04일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-07-04/</link>
+      <title>2019년 07월 04일 업데이트 안내 (v85.04)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v85-04/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-07-04/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v85-04/</guid>
       <description>### 1. 던전 - 저주받은 번스타인의 악령섬 (5인) - 66레벨, 장비 레벨 453 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 150 소모되며, 1일 1회(VIP/월간패스 2회) 입장 가능합니다. - 동부 가드&amp;gt;거친 항구&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - 울부짖는 분노의 장비 상자, 신성한 망치, 무게추, 유물/성물, 윌슨 박사의 지도 조각 오른반쪽, 의문의 첩보 조각 오른반쪽 등의 아이템을 보상으로 획득할 수 있습니다. - (추가) 사망 시 부활이 불가능하며, 마지막 보스 몬스터 HP 35% 미만에서만 사제/정령사의 부활 스킬로 부활이 가능합니다.</description>
     </item>
     
     <item>
-      <title>2019.07.02 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-07-02/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <title>2019.06.27 patch notes (v85.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v85-03/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-07-02/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v85-03/</guid>
+      <description>### 1. Dungeon - Demokron Factory (normal/hard) - Adjusted to reduce HP of bosses ### 2. Vanguard Initiative Request - Added level XP to the following solo content Vanguard Requests : - Content : - The Pit of Petrax - Echoes of Aranea - Celestial Arena - Ace Dungeon : Lilith’s Trial - Ace Dungeon : Akasha’s Trial - Ace Dungeon : Baracos’ Trial - Island of Dawn : Hunt Brutal Naga Battlemasters - Island of Dawn : Hunt Brutal Iron Giants - Island of Dawn : Hunt Brutal Onyx Hydraths - Island of Dawn : Hunt Brutal Bloodbound Teraliths - Island of Dawn : Hunt Brutal Fimbrilisks - Island of Dawn : Hunt Brutal Searing Fangspawns - Island of Dawn : Hunt Brutal Basilisks - Island of Dawn : Hunt Brutal Orisks - Island of Dawn : Hunt Brutal Ovoliths ### 3.</description>
     </item>
     
     <item>
-      <title>2019년 06월 27일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-06-27/</link>
+      <title>2019년 06월 27일 업데이트 안내 (v85.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v85-03/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-06-27/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v85-03/</guid>
       <description>### 1. 던전 - 베르노의 실험실/포악한 베르노의 실험실 - 네임드 몬스터의 HP가 하향 조정됩니다. ### 2. 발키온 연합 지령서 - 하기의 솔로 컨텐츠 지령서에 레벨 경험치가 추가됩니다. - 컨텐츠명 - 페트레 양성소 - 라크난 성의 기억 - 천공의 경기장 - 시험의 던전 – 릴리스의 성 - 시험의 던전 – 아카샤의 은신처 - 시험의 던전 – 황금의 미궁 - 흉포한 비늘 전사(상) 토벌 - 흉포한 강철 거인(상) 토벌 - 흉포한 어둠의 화신(상) 토벌 - 흉포한 블러드 골렘(중) 토벌 - 흉포한 다크리퍼(중) 토벌 - 흉포한 지옥불 괴수(중) 토벌 - 흉포한 바실리스크(하) 토벌 - 흉포한 기가니아(하) 토벌 - 흉포한 아라크네아(하) 토벌 ### 3.</description>
     </item>
     
     <item>
-      <title>2019.06.25 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-06-25/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <title>2019.06.20 patch notes (v85.02.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v85-02-01/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-06-25/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v85-02-01/</guid>
+      <description>### Bug fixes - Fixed issue in Gossamer’s Vault (hard) where certain mechanics could be cancelled - Fixed issue where certain Summer Festival event costumes could be used to as fodder for random costume box - Fixed issue where Nomadic merchants spawned in all channels - Fixed issue where gathering speed for certain gathering nodes was irregular source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.06.20 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-06-20/</link>
+      <title>2019년 06월 20일 업데이트 안내 (v85.02.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v85-02-01/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-06-20/</guid>
-      <description>source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>2019년 06월 20일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-06-20/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-06-20/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v85-02-01/</guid>
       <description>[버그수정] - 특정 방법으로 찬란한 파르퀴나의 둥지 2네임드의 일부 패턴을 캔슬할 수 있는 문제 - 여름축제 이벤트 의상을 세미의 랜덤 큐브 재료로 사용할 수 있는 문제 - 유랑 상인이 모든 채널에서 스폰되는 문제 - 특정 채집물의 채집 속도가 비정상적인 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.06.13 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-06-13/</link>
+      <title>2019.06.13 patch notes (v85.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v85-02/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-06-13/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v85-02/</guid>
+      <description>### 1. Balance - Mystic - Arunic Release - Increased crit chance by 2 times - Priest, Mystic - Battle Solution - Changed effect from increase attack speed to increase crit power - Crit power value is the same as other classes ### 2. Summer festival - K TERA comments ### 3. Dungeon - Adventure Coin cost has been reduced for the following dungeons : - Gossamer&#39;s Vault (hard) : from 435 to 370 - Bahaar&#39;s Sanctum : from 345 to 295 - Demokron Factory (hard) : from 390 to 330 - Gossamer&#39;s Vault : from 290 to 245 - Demokron Factory : from 260 to 220 ### 4.</description>
     </item>
     
     <item>
-      <title>2019년 06월 13일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-06-13/</link>
+      <title>2019년 06월 13일 업데이트 안내 (v85.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v85-02/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-06-13/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v85-02/</guid>
       <description>### 1. 밸런스 - 정령사 - 정기 폭발 - 치명타 발생 확률이 2배로 상향됩니다. - 사제, 정령사 - 전투 비약 - 기존의 공격속도 증가에서 치명타 위력 증가로 변경됩니다. - 치명타 위력 증가 수치는 다른 클래스와 동일합니다. [개발자 코멘트] - 힐러 클래스가 필드 사냥 시 보다 수월하게 플레이 할 수 있도록 공격속도 증가 옵션에서 치명타 위력 증가 옵션으로 변경됩니다. 또한 치명타 위력이 타 클래스와 같은 수준으로 적용되므로 파티 플레이에서 보다 공격적으로 플레이가 가능합니다.</description>
     </item>
     
     <item>
-      <title>2019.06.03 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-06-03/</link>
+      <title>2019.06.03 patch notes (v85.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v85-01/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-06-03/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v85-01/</guid>
+      <description>### 1. Dungeon - New : Argaff&#39;s Nest (hard) - Added a hard mode to existing Argaff&#39;s Nest (1-man) - Requires level 65, and can enter as a party (max 5-man) - Can only be accessed by party members of an existing party made before the dimensional portal spawns - Entry method is the same as is with existing Argaff&#39;s Nest (1-man), and can receive approxiately 1.5 times the experience points - Reinforced certain wipe mechanics in Demon&#39;s Wheel ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 06월 03일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-06-03/</link>
+      <title>2019년 06월 03일 업데이트 안내 (v85.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v85-01/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-06-03/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v85-01/</guid>
       <description>### 1. 던전 - 신규: 아르가프 부화장(하드) - 기존 아르가프 부화장(1인)의 고난이도 버전이 추가됩니다. - 65레벨부터 입장할 수 있으며, 파티 상태로 이용이 가능합니다. (최대 5인 입장 가능) - 차원문이 소환되기 전에 파티 상태였던 캐릭터만 함께 입장이 가능합니다. - 입장 방법은 기존 아르가프 부화장(1인)과 동일하며, 경험치와 보상을 약 1.5배 더 획득할 수 있습니다. [아르가프 부화장 소개] - 데모로스의 룰렛 던전 일부 전멸 패턴 난이도가 완화됩니다. ### 2. 필드 - 수호자 임무 - 태양의 정원 구출 작전 &amp;amp; 쿠챠트와 검은 그림자 임무 보스 몬스터의 HP가 증가됩니다.</description>
     </item>
     
     <item>
-      <title>2019.05.23 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-05-23/</link>
+      <title>2019.05.23 patch notes (v84.05) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v84-05/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-05-23/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v84-05/</guid>
+      <description>### 1. Dungeon - Demon&#39;s Wheel (5-man) - Open until maintenance on 6/27 - Requires level 65, and item level 446 to use instance matching system - Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) - Teleportal is located at Allementheia Outskirts - Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&#39;s Claws, Dragon Skull, and [Event] Demoros&#39; Supply Box.</description>
     </item>
     
     <item>
-      <title>2019년 05월 23일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-05-23/</link>
+      <title>2019년 05월 23일 업데이트 안내 (v84.05)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v84-05/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-05-23/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v84-05/</guid>
       <description>### 1. 던전 - 데모로스의 룰렛(5인) - 6/27(목) 점검 전까지 기간 한정으로 오픈됩니다. - 65레벨, 장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 145 소모되며, 주간 40회(VIP/월간패스 80회)까지 입장 가능합니다. - 알레만시아 인근 ‘산 알레마 마을’의 차원의 게이트를 통해 던전에 입장할 수 있습니다. - 아르보레아의 금/은빛 판금, 이공간의 파편, 불길한 마법 스크롤, 낡은 보급품, 악마의 발톱, 용의 두개골, [이벤트] 데모로스의 낡은 상자 등의 보상을 획득할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.05.16 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-05-16/</link>
+      <title>2019.05.16 patch notes (v84.04) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v84-04/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-05-16/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v84-04/</guid>
+      <description>### 1. Other - Leaderboard - Extended current season by 7 days (5/9~6/13) ### Bug fixes - Fixed issue in Gossamer Vault (hard) where certain last boss mechanics prevented voice lines from playing - Fixed issue in Argaff Hatchery where a certain enemy pushed Brawlers that are blocking - Fixed issue in Argaff Hatchery where players could move inside of a certain enemy - Fixed issue where event gear that maxes at +7 could be registered in enchant UI - Fixed issue where registering pet bank skill to skillslot UI and moving the skill to another slot displayed a default skill icon - Fixed issue where players could go through certain objectives using Priest’s Divine Charge - Fixed issue where premium slot items did not rest occasionally - Fixed issue where certain items could be stored in bank and guild bank - ~~Fixed issue where rested XP stacked differently than intended~~ - (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 05월 16일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-05-16/</link>
+      <title>2019년 05월 16일 업데이트 안내 (v84.04)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v84-04/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-05-16/</guid>
-      <description>###1. 기타 - 던전/전장 순위표 - 5시즌 진행 기간이 7일 연장됩니다. (5/9 ~ 6/13) ### [버그수정] - 찬란한 파르퀴나의 둥지 던전에서 2네임드가 특정 패턴 사용 시 대사가 출력되지 않는 문제 - 아르가프 부화장의 황금 유충이 방어 중인 권술사를 밀어내는 문제 - 아르가프 부화장의 황금 유충의 배에 캐릭터가 묻히는 문제 - 7강화 몽환의 장갑, 신발 아이템을 강화 UI에 등록할 수 있는 문제 - 펫 보관함을 스킬 슬롯에 등록 후 슬롯 변경 시 더미 이미지가 출력되는 문제 - 사제 혼신의 주문 사용 시 일부 오브젝트를 뚫고 이동할 수 있는 문제 - 66레벨 이상부터 특성 공격력 증가 효과가 적용되지 않는 문제 - 간헐적으로 프리미엄 슬롯 아이템이 초기화되지 않는 문제 - 길드 창고 보관 가능, 계정 창고 보관 불가 속성의 아이템을 길드 창고에 보관할 수 없는 문제 - ~~휴식 경험치 중첩 방식이 사양과 다르게 적용되고 있던 문제~~ - (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제 source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v84-04/</guid>
+      <description>### 1. 기타 - 던전/전장 순위표 - 5시즌 진행 기간이 7일 연장됩니다. (5/9 ~ 6/13) ### [버그수정] - 찬란한 파르퀴나의 둥지 던전에서 2네임드가 특정 패턴 사용 시 대사가 출력되지 않는 문제 - 아르가프 부화장의 황금 유충이 방어 중인 권술사를 밀어내는 문제 - 아르가프 부화장의 황금 유충의 배에 캐릭터가 묻히는 문제 - 7강화 몽환의 장갑, 신발 아이템을 강화 UI에 등록할 수 있는 문제 - 펫 보관함을 스킬 슬롯에 등록 후 슬롯 변경 시 더미 이미지가 출력되는 문제 - 사제 혼신의 주문 사용 시 일부 오브젝트를 뚫고 이동할 수 있는 문제 - 66레벨 이상부터 특성 공격력 증가 효과가 적용되지 않는 문제 - 간헐적으로 프리미엄 슬롯 아이템이 초기화되지 않는 문제 - 길드 창고 보관 가능, 계정 창고 보관 불가 속성의 아이템을 길드 창고에 보관할 수 없는 문제 - ~~휴식 경험치 중첩 방식이 사양과 다르게 적용되고 있던 문제~~ - (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.05.09 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-05-09/</link>
+      <title>2019.05.09 patch notes (v84.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v84-03/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-05-09/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v84-03/</guid>
+      <description>### 1. Balance - Slayer - Overhand Strike: Focus - Adjusted to increased skill damage increase per stack from 1% to 2% (max stack from 15% to 30%) - Propulsion - Changed requirement to decrease cooldown of Measured Slice from &#39;upon critical hit&#39; to &#39;upon hit’ with Whirlwind - Punishing Blow - Increased skill damage by 10% ### 2. Content - Nomadic Caiman &amp;amp; Argaff Hatchery - Adjusted to increase chance to spawn Nomadic Caiman or Dimensional Door by 4 times - Adjusted to decrease XP gained from defeating Nomadic Caiman - Adjusted to decrease XP and skill advancement XP gained from defeating Hatchery monsters - Argaff Scout Intel - Changed Doubtful Intel piece to drop in the following dungeons - From Doubtful Intel (Left) to Doubtful Intel (Right) - Red Refuge - RK9-Kennel - Dark Reach Citadel - Velik’s Sanctuary - Shadow Sanguinary - Grotto of Lost Souls - Ruinous Manor - Antaroth’s Abyss - Changed Doubtful Intel piece to drop from the following monsters - From Doubtful Intel (Left) to either Doubtful Intel (Left) or Doubtful Intel (Right) (by chance) - List of 28 level 65-70 monsters - 그림자 경계병 - 철갑가시 오칸 - 병든 롱터스크 - 불타는 유적 길리두 - 성역의 파수꾼 - 오염된 롱터스크 - 오염된 뿌리약탈자 - 폐허 파괴자 알쿠스 - 부활의 나무 - 오염된 볼칸 - 야수의 숲 볼칸 - 폐허를 방황하는 악마 - 시간의 수호자 - 오염된 뿌리약탈자 - 아둔한 장물꾼 - 사막 바실리스크 - 푸른이끼부족 예언가 - 파르프 - 비열한 도굴꾼 - 폐허 하이에나 - 푸른이끼부족 주술사 - 파르폰 - 둥근 부리 파수꾼 - 검은불꽃 알쿠스 - 푸른이끼부족 전사 - 폭주한 황금 정원사 - 낡은 거인의 하수꾼 - 고블린 도둑 ### 3.</description>
     </item>
     
     <item>
-      <title>2019년 05월 09일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-05-09/</link>
+      <title>2019년 05월 09일 업데이트 안내 (v84.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v84-03/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-05-09/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v84-03/</guid>
       <description>###1. 밸런스 - 무사 - 일도양단: 집중 - 일도양단: 집중 중첩 당 상승되는 모든 스킬의 위력이 1%에서 2%로 상향 조정됩니다. (최대 중첩 시 15% -&amp;gt; 30%) - 추진력 - 일섬 스킬의 재사용 대기시간 감소 조건이 회전 베기 ‘치명타 적중 시’에서 ‘적중 시’로 변경됩니다. - 참격 - 스킬 위력이 기존대비 10% 상향됩니다. [개발자 코멘트] - 추진력 패시브 변경을 통해 치명타 의존도를 감소시켰습니다. 이를 통해 회전 베기 치명타 여부에 따라 딜사이클이 자주 변경되어 무사의 난이도가 높아지는 문제를 완화하고자 하였습니다.</description>
     </item>
     
     <item>
-      <title>2019.05.02 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-05-02/</link>
+      <title>2019.05.02 patch notes (v84.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v84-02/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-05-02/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v84-02/</guid>
+      <description>### 1. Other - Changed path guide in Necromancer’s Tomb (1-man) - Changed certain level progression instances to reset automatically upon re-entering the instance for convenience - Quest progression is adjusted accordingly - Instances of the following quest are reset automatically : - Quest - 1507 ???? (전염병의 원인을 찾아서) - 2501 Secrets Not Meant to Be Known - 2801 Vision of Destiny - 3901 Unveil the Mask - 401 Rescue the Core - 5601 Drowned In Blood - 5602 Sikander’s Bane - 3702 Fragment of Hope - 5201 Into the Furnace - 17207 The Battle for Intrepid - Decreased chance of getting Banana Peel from Weird Sack (placeholder) from 50% to 20% for `Stolen Cure` quest ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 05월 02일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-05-02/</link>
+      <title>2019년 05월 02일 업데이트 안내 (v84.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v84-02/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-05-02/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v84-02/</guid>
       <description>### 1. 기타 - 사령술 연구소(1인) 던전 길찾기 가이드가 변경됩니다. - 성장구간 퀘스트 진행 중 초기화되지 않으면 진행이 어려운 특수 공간들에 대해 재입장 시 자동으로 초기화되도록 변경됩니다. - 특수공간 초기화에 맞춰 퀘스트도 진행하기 좋은 단계로 재설정됩니다. - 특수공간 리스트는 아래와 같습니다. - 퀘스트명 | 지역명 - 전염병의 원인을 찾아서 | 호송대 습격지 - 잊혀져야 하는 힘 | 고통의 전당 - 태고신의 파편 | 생명의 샘 - 가면을 벗겨라 | [툴사의 군단 지휘소, 말라키의 실험실] - 코어 구출 작전 | 폭염의 산맥 심층부 - 피의 기둥을 파괴하라 | 칠흑의 제단 - 켈사이크 부활 저지 | 부활의 성소 - 희망의 조각 | 광대의 별장 - 용광로 속으로 | 용암의 홀 - 초대하지 않은 손님 | 엘카이아호 - &#39;도둑맞은 치료제&#39; 퀘스트의 수상한 자루에서 바나나 껍질이 등장할 확률이 감소됩니다.</description>
     </item>
     
     <item>
-      <title>2019.04.25 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-04-25/</link>
+      <title>2019.04.25 patch notes (v84.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v84-01/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-04-25/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v84-01/</guid>
+      <description>### 1. Dungeon - New: Azart Hatchery (1-man) - Can be entered through a warp hole randomly generated by defeating Nomadic Caiman and/or level 65 and/or above monsters/BAMs - Loot table includes Skill Advancement XP and Naga Guard Chest (placeholder) (Blightoath gear, rare Halidom/Relic) - Nomadic Caiman - Nomadic Caiman spawns by defeating level 65 and/or above monsters from the following zones - Loot table includes Skill Advancement XP and Worldly Crystal : - Location - Celestial Hills - Essenian Crest - Timeless Woods - Balder&#39;s Refuge - Ex Prima - Sienna Canyon - Progression dungeon - Changed Relic Weapon drop to be class-relevant to the classes within party ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 04월 25일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-04-25/</link>
+      <title>2019년 04월 25일 업데이트 안내 (v84.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v84-01/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-04-25/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v84-01/</guid>
       <description>### 1. 던전 - 신규: 아르가프 부화장(1인) - 떠돌이 시누스 혹은 65레벨 이상 일반/중형 몬스터를 처치 시 확률적으로 차원문이 등장하며, 해당 차원문을 통해 입장할 수 있습니다. [아르가프 부화장 컨텐츠 소개 GM노트] - 던전 보상으로 스킬 연마 경험치, 나가 경비병의 소지품(녹슨 맹세의 장비, 희귀 성물/유물)을 획득할 수 있습니다. - 떠돌이 시누스 - 아래 지역의 65레벨 이상 몬스터 처치 시 확률적으로 ‘떠돌이 시누스’가 등장합니다. - 보상으로 스킬 연마 경험치, 세계의 결정을 획득할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.04.18 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-04-18/</link>
+      <title>2019.04.18 patch notes (v83.06) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-06/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-04-18/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-06/</guid>
+      <description>### 1. Dungeon - Demokron Factory (nm/hm) - Changed 2nd boss to no longer be immune to damage during poison panel pattern ### 2. Item - Changed the following level progression quest items to be collected in its respective quest : - Quest name : Quest item - 1506 ???? (붉은 저주의 마을) : 602033 ???? (광혈병 연구 보고서) - 1507 ???? (전염병의 원인을 찾아서) : 602042 ???? (옛 보급창고 기록) - 1505 Discredit Where Credit Is Due : 602039 ?</description>
     </item>
     
     <item>
-      <title>2019년 04월 18일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-04-18/</link>
+      <title>2019년 04월 18일 업데이트 안내 (v83.06)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-06/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-04-18/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-06/</guid>
       <description>### 1. 던전 - 베르노의 실험실, 포악한 베르노의 실험실 - 2네임드가 독 장판 패턴을 사용할 때 무적 상태가 되지 않도록 변경됩니다. ### 2. 아이템 - 하기의 성장구간 퀘스트 아이템들이 퀘스트 진행 중 수거되도록 변경됩니다. - 퀘스트 명 | 퀘스트 아이템 - 붉은 저주의 마을 | 광혈병 연구 보고서 - 전염병의 원인을 찾아서 | 옛 보급창고 기록 - 수상한 호출 | 특무대 명령서 - 그림자 지우기 | 거친 항구 첩자 보고서 - 티르카이 숲의 복구 | 오염된 버섯 - 새로운 적 | 잠입부대 신호기 - 든든한 지원 | 아크데바의 표식 - 냉정과 열정사이 | 포아롱의 두근두근 러브레터 - 아논족의 비극 | 시오즈의 초상화 - 다가오는 어둠 | 칸스트리아 정찰병의 징표 - &#39;사교도의 근거지로&#39; 퀘스트 아이템이 파괴는 불가하나, 상점에 판매할 수 있도록 변경됩니다.</description>
     </item>
     
     <item>
-      <title>2019.04.11 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-04-11/</link>
+      <title>2019.04.11 patch notes (v83.05) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-05/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-04-11/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-05/</guid>
+      <description>### 1. Dungeon - Demokron Factory (hard) .. 7-man instance - Level 67 dungeon, requiring ilvl 456 - Costs 490 Adventure Coins, limited to 40 entries a week (80 for Elite) - Teleportal is located at Arx Umbra, Northern Arun - Loot table includes Advance Skill XP, upgrade materials for Luminescent Necklace/Circlet, and Dr. Wilson&#39;s Treasure Map (Right) - Demokron Factory .. 7-man instance - Level 66 dungeon, requiring ilvl 453 - Costs 260 Adventure Coins, limited to 40 entries a week (80 for Elite) - Teleportal is located at Arx Umbra, Northern Arun - Loot table includes Advance Skill XP, Devil&#39;s Claws, Dragon Skull, and Dr.</description>
     </item>
     
     <item>
-      <title>2019년 04월 11일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-04-11/</link>
+      <title>2019년 04월 11일 업데이트 안내 (v83.05)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-05/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-04-11/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-05/</guid>
       <description>### 1. 던전 - 포악한 베르노의 실험실 (7인) - 67레벨, 장비 레벨 456 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 390 소모되며, 주간 40회(VIP/월간패스 80회)까지 입장 가능합니다. - 바라카니아 가드&amp;gt;제국의 땅&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - 스킬 연마 경험치, 광명의 목걸이,서클릿 승급 재료(정화된 신수의 고리 조각, 정화된 신수의 장식 조각), 윌슨 박사의 지도 조각 오른반쪽 등의 아이템을 보상으로 획득할 수 있습니다. - 베르노의 실험실 (7인) - 66레벨, 장비 레벨 453 달성 시 파티매칭을 통해 입장할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.04.09 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-04-09/</link>
+      <title>2019.04.09 patch notes (v83.04.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-04-01/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-04-09/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-04-01/</guid>
+      <description>### 1. Services - Changed XP Boost items to stack - Skill XP Boost, EP Boost, Reputation Boost - Stacked items are inactive, and activates upon expiration of the existing boost ### Bug fixes - Fixed issue where XP Boost item effects ended upon entering Battleground source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 04월 09일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-04-09/</link>
+      <title>2019년 04월 09일 업데이트 안내 (v83.04.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-04-01/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-04-09/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-04-01/</guid>
       <description>### 1. 부가서비스 - 경험치 획득량 증가 아이템을 중복으로 사용 시 이상상태가 누적되도록 변경됩니다. - 스킬 연마 5(15일/30일), 해결사 50(15일/30일), 발키온 연합 해결사 50(15일/30일) - 중복으로 사용한 아이템은 비활성 효과로 전환되어, 기존 효과 기간 만료 시 자동으로 활성화되어 효과가 적용됩니다. (최대 5개까지 누적 가능) ### [버그수정] - 경험치 획득량 증가 버프 아이템 효과가 전장 입장 시 해제되는 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.04.04 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-04-04/</link>
+      <title>2019.04.04 patch notes (v83.04) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-04/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-04-04/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-04/</guid>
+      <description>### 1. Balance - Mystic - Enhanced: Thrall of Life - Changed to recover HP and cleanse caster as well upon using skill - Healer (common) - Ressurection - Adjusted skill effect to display the actual effect radius - Changed to display skill effect equally for all race types - Reaper - Level 69 Talyph `Dark Veil` - Changed to increase cooldown of Shadow Reaping by a factor of 2 - Ninja - Enhanced Burning Heart - Adjusted skill hit range - Slayer - Savage Strike - Adjusted to decrease skill cancel time after first hit for fluid chaining of skills ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 04월 04일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-04-04/</link>
+      <title>2019년 04월 04일 업데이트 안내 (v83.04)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-04/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-04-04/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-04/</guid>
       <description>### 1. 밸런스 - 정령사 - 강화: 생명의 정령 - 스킬 사용 시 HP 회복과 정화 기능이 시전자에게도 적용 가능하도록 변경됩니다. [개발자 코멘트] - 현재 정령사의 자가 회복 능력이 다소 낮은 수준으로 판단되어 &#39;강화: 생명의 정령&#39; 소환 시 광역 회복 및 정화 효과를 시전자를 포함한 최대 5명에게 줄 수 있도록 상향 조정하였습니다. 다만, HP가 낮은 대상에게 회복 효과가 우선 적용되므로 파티원이 많은 공격대 상태에서는 상황에 따라 자신에게 회복 효과가 적용되지 않을 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.03.28 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-03-28/</link>
+      <title>2019.03.28 patch notes (v83.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-03/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-03-28/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-03/</guid>
+      <description>### 1. Dungeon - Parquina&#39;s Nest (hard) - Changed Adventure Coin cost from 535 to 435 - Macellarius Catacombs (3-man) - Can access upon reaching level 65, item level 440 - Costs 285 Adventure Coins, and can access up to 40 times (80 times for VIP) per week - Teleportal is located in Arx Umbra - Loot table contains Experience Scroll I (time limited), Emeralds, Relic/Hallow, merging material - Manglemire (5-man) - Reopened until April 18th - Can access upon reaching level 65, item level 439 - Costs 80 Adventure Coins, and can access up to 1 time (2 times for VIP) per day - Teleportal is located in Pora Elinu - Loot table contains Artisan&#39;s Tools, Copper Clasp, Liquid Metal, Dyad Niveot Structure, Hypnotic Device, Archdevan Surfactant ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 03월 28일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-03-28/</link>
+      <title>2019년 03월 28일 업데이트 안내 (v83.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-03/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-03-28/</guid>
-      <description>### 1. 던전 - 찬란한 파르퀴나의 둥지 - 모험의 주화 소모량이 535 → 435로 변경됩니다. - 데모크론 실험실 (3인) - 65레벨, 장비 레벨 440 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 285 소모되며, 주간 40회(VIP/월간패스 80회)까지 입장 가능합니다. - 바라카니아 가드&amp;gt;제국의 땅&amp;gt;라크난의 요새&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - (수정) 경험치 서적 I(기간제), 에메랄드, 유물/성물 아이템, 합성 재료 장비 아이템 등을 보상으로획득하실 수 있습니다. (데모크론 실험실에서는 윌슨 박사의 지도 조각이 드랍되지 않습니다.</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-03/</guid>
+      <description>### 1. 던전 - 찬란한 파르퀴나의 둥지 - 모험의 주화 소모량이 535 -&amp;gt; 435로 변경됩니다. - 데모크론 실험실 (3인) - 65레벨, 장비 레벨 440 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 285 소모되며, 주간 40회(VIP/월간패스 80회)까지 입장 가능합니다. - 바라카니아 가드&amp;gt;제국의 땅&amp;gt;라크난의 요새&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - (수정) 경험치 서적 I(기간제), 에메랄드, 유물/성물 아이템, 합성 재료 장비 아이템 등을 보상으로획득하실 수 있습니다. (데모크론 실험실에서는 윌슨 박사의 지도 조각이 드랍되지 않습니다.</description>
     </item>
     
     <item>
-      <title>2019.03.21 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-03-21/</link>
+      <title>2019.03.21 patch notes (v83.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-02/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-03-21/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-02/</guid>
+      <description>### 1. Servant (placeholder) - Revised Servant functions - Added on/off toggle for Servant chat bubbles - Option is available through Option &amp;gt; Game &amp;gt; Community - Added sort, delete function - Can be sorted through Servant UI, via &#39;sort&#39; button - Can delete Servant through Servant UI, via &#39;X&#39; button - Changed to be able to summon Servant via hotkey - Option is available through Option &amp;gt; Key settings &amp;gt; Servant ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 03월 21일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-03-21/</link>
+      <title>2019년 03월 21일 업데이트 안내 (v83.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-02/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-03-21/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-02/</guid>
       <description>### 1. 서번트 - 서번트 기능이 개선되었습니다. - 서번트 말풍선 ON/OFF 기능이 추가되었습니다. - 시스템 설정 &amp;gt; 게임 설정 &amp;gt; 커뮤니티 &amp;gt; 서번트 말풍선 감추기 경로에서 설정하실 수 있습니다. - 서번트 정렬, 삭제 기능이 추가됩니다. - 서번트 목록 UI 창에서 &#39;관리&#39; 버튼을 통해 정렬하실 수 있습니다. - 서번트 목록 UI에서 서번트에 &#39;X&#39; 버튼을 사용하여 삭제하실 수 있습니다. - 서번트를 단축키로 소환할 수 있게 됩니다. - 시스템 설정 &amp;gt; 단축키 설정 &amp;gt; 서번트 경로에서 설정하실 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.03.14 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-03-14/</link>
+      <title>2019.03.14 patch notes (v83.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v83-01/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-03-14/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v83-01/</guid>
+      <description>### 1. Balance - Gunner - Bombardment - Changed cooldown start point to the start of missile launch - After using skill, if the skill is cancelled before missile launch, then cooldown does not apply ### 2. Battleground - Battleground matching - Changed to form teams based on player rankings - Applies to all battlegrounds with ranking ### 3. Merchant NPC - Added magic materials merchant in cities (Highwatch, Velika, Allementheia, Kaiator) - The following items are sold : - Supreme Metal - Enchantment Seal - Accessory Morpher - Uncommon Accessory Morpher - Ancient Accessory Morpher - Added Ancient Accessory Morpher.</description>
     </item>
     
     <item>
-      <title>2019년 03월 14일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-03-14/</link>
+      <title>2019년 03월 14일 업데이트 안내 (v83.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v83-01/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-03-14/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v83-01/</guid>
       <description>### 1. 밸런스 - 마공사 - 폭격탄 - 발사의 재사용 대기시간이 적용되는 시점이 폭격탄이 발사되는 시점으로 변경됩니다. - 스킬 사용 후, 폭격탄 발사 스킬의 공격이 발동되기 전 다른 스킬을 통해 스킬을 취소시킬 경우 재사용 대기시간이 적용되지 않습니다. ### 2. 전장 - 전장 매칭 - 전장 팀 구성 시 플레이어가 평점을 기준으로 양 팀에 고르게 분배됩니다. - 적용되는 전장은 평점이 존재하는 모든 전장입니다. ### 3. 상인 NPC - 대도시(이르카, 벨리카, 알레만시아, 카이아도르)에 마법재료 상인이 추가됩니다.</description>
     </item>
     
     <item>
-      <title>2019.03.07 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-03-07/</link>
+      <title>2019.03.07 patch notes (v82.04) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v82-04/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-03-07/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v82-04/</guid>
+      <description>### 1. Balance - Sorcerer - Slightly decreased aggro obtained from the following skills : - Ice Lance - Iceberg - Prime Flame - Arcane Storm - Fusion - Priest - Focus Heal, focus talyph option - Changed from healing 2.5% HP per second for 5 seconds to healing 120 HP per second for 5 seconds - Changed to apply effect from healing stats - Mystic - Arun&#39;s Vitae - Glyph of Restoration - Changed from healing 20% HP to 35,000 HP after using skill ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 03월 07일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-03-07/</link>
+      <title>2019년 03월 07일 업데이트 안내 (v82.04)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v82-04/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-03-07/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v82-04/</guid>
       <description>### 1. 밸런스 - 마법사 - 하기의 스킬의 어그로 획득량이 소폭 하향됩니다. - 얼음창 - 빙하 융기 - 태초의 불꽃 - 비전 폭풍 - 원소 융합 - 사제 - 치유의 빛 치유 옵션 - 5초간 1초마다 HP 2.5% 회복에서 5초간 1초마다 HP 120 회복으로 변경됩니다. - 회복 성능에 영향을 받습니다. - 정령사 - 회복의 정기 - 근성의 문장 - 스킬 사용 후 HP 20% 회복에서 HP 35,000 회복으로 변경됩니다. ### 2.</description>
     </item>
     
     <item>
-      <title>2019.02.28 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-02-28/</link>
+      <title>2019.02.28 patch notes (v82.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v82-03/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-02-28/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v82-03/</guid>
+      <description>### 1. Battleground - Wintera Snowfield - Reopened Wintera Snowfield - KTERA exclusive operation hours - Vanguard Request reward - 100 Gold - 1215 EP XP - 1650 item XP - Optional : [100 Gold|1215 EP XP] - Win/loss reward - Win : 40x Wintera Battleground Tokens, 130,000 BC credits - Lose : 20x Wintera Battleground Tokens, 43,000 BC credits ### 2. Other - Added guide description to gift/feed servant in UI - Added option to open pet bank through bank NPC - Option is only available to characters that have pets with bank abilities ### Bug fixes - Fixed issue at 2nd boss of Parquina&#39;s Nest where skill damage varied depending on whether or not the player is close to the center - Fixed issue where Popori Brawler&#39;s final Rhythmic Blows hit animation was awkward - Fixed issue where range on Priest&#39;s Focus Heal and Mystic&#39;s _ was different from its respective tooltip - Fixed issue where NPC Ron in charge of leading party to Treasure Box would get stuck on its path - Fixed issue at 1st/2nd boss of Parquina&#39;s Nest (hard) where skills that reset aggro did not reset aggro - Fixed issue where cooldown of Ninja&#39;s Death Blossom I was 10 seconds long - Fixed issue in Parquina&#39;s Nest where Warrior&#39;s Combative Strike skill effect occasionally did not work - Fixed issue where character event counter did not progress for defeating event monsters source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019년 02월 28일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-02-28/</link>
+      <title>2019년 02월 28일 업데이트 안내 (v82.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v82-03/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-02-28/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v82-03/</guid>
       <description>### 1. 전장 - 눈싸움 전장 - 눈싸움 전장이 오픈됩니다. - 이용 시간은 하기와 같습니다. (모든 요일 동일) - 운영 시간 - 9:00~11:00 - 15:00~17:00 - 22:00~24:00 - 1:00~3:00 - 발키온 지령서 보상 - 긴급지령 - 눈싸움 전장에서 전투를! - 골드 : 100 - 특성 경험치 : 1215 - 장비 숙련도 경험치 : 1650 - 선택지령 - 눈싸움 전장에서 전투를! - 골드 : 100 - 특성 경험치 : 1215 - 승패 보상 - 승리보상 - 눈싸움 전장 전리품 40개 - 승리의 인도자 130,000 점 - 패배보상 - 눈싸움 전장 전리품 20개 - 승리의 인도자43,000점 ### 2.</description>
     </item>
     
     <item>
-      <title>2019.02.21 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-02-21/</link>
+      <title>2019.02.21 patch notes (v82.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v82-02/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-02-21/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v82-02/</guid>
+      <description>### 1. Popori Brawler - Added new class [Brawler] to race Popori - Can be raced changed to Popori after March 28th - Expanded character limit from 21 slots to 22 slots ### 2. Dungeon - New : Parquina&#39;s Nest (hard) - Can enter starting from ilvl 457 - Teleportal is located in Essenian Crest, Essenia - Can obtain Worldly Essence, Talyph XP, Supreme Metal, Weight Pendulum, Pure Essential Butterfly Gem, Pure Essential Butterfly Dust, Dr.</description>
     </item>
     
     <item>
-      <title>2019년 02월 21일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-02-21/</link>
+      <title>2019년 02월 21일 업데이트 안내 (v82.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v82-02/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-02-21/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v82-02/</guid>
       <description>### 1. 포포리 권술사 - 포포리 종족으로 선택 가능한 직업에 [권술사]가 추가됩니다. - 3/28 점검 전까지는 종족 변경권으로 변경할 수 없습니다. - 캐릭터 생성 가능 개수가 21개 -&amp;gt; 22개로 확장됩니다. ### 2. 던전 - 신규: 찬란한 파르퀴나의 둥지(5인) - 68레벨, 장비레벨 457달성 시 파티매칭을 통해 입장할 수 있습니다. - 에세니아 가드&amp;gt;에세니아 구릉지대&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - 세계의 결정, 스킬 연마 경험치, 고급 금속물, 무게추, 순수한 보석 나비의 보석 샘, 순수한 보석 나비의 날개 가루, 윌슨 박사의 지도 조각 오른반쪽, 투명 얼굴/등 악세서리, 유물/성물, 전설 속옷 등의 아이템을 보상으로 획득할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.02.14 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-02-14/</link>
+      <title>2019.02.14 patch notes (v82.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v82-01/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-02-14/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v82-01/</guid>
+      <description>### 1. Field - Added Treasure Map content - Treasure Map items can be obtained by merging two of Dr. Wilson&#39;s Map Pieces (left, right) - 조합 - 윌슨 박사의 지도 조각 왼반쪽 1개 - 윌슨 박사의 지도 조각 오른반쪽 1개 - 결과물 - 윌슨 박사의 보물 지도[???] 1개 - Dr. Wilson&#39;s Map Piece (Left) can be obtained from ilvl 435-445 dungeons, while Dr. Wilson&#39;s Map Piece (Right) can be obtained from ilvl 446-456 dungeons - While Map Pieces cannot be traded, it can however be deposited into Guild Bank - Map Pieces expire in 15 days - A random Treasure Map can be obtained by using Dr.</description>
     </item>
     
     <item>
-      <title>2019년 02월 14일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-02-14/</link>
+      <title>2019년 02월 14일 업데이트 안내 (v82.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v82-01/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-02-14/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v82-01/</guid>
       <description>### 1. 필드 - 보물 지도 콘텐츠가 추가됩니다. - 윌슨 박사의 지도 조각(왼반쪽,오른반쪽)을 조합하여 보물지도 아이템을 획득할 수 있습니다. - 조합 - 윌슨 박사의 지도 조각 왼반쪽 1개 - 윌슨 박사의 지도 조각 오른반쪽 1개 - 결과물 - 윌슨 박사의 보물 지도[???] 1개 - 윌슨 박사의 지도 조각 왼반쪽은 장비 레벨 435 ~ 445 구간 던전에서 오른반쪽은 장비 레벨 446 ~ 456 구간 던전에서 매우 낮은 확률로 드랍 됩니다. - 지도 조각은 거래가 불가능하나, 길드창고에 보관 가능합니다.</description>
     </item>
     
     <item>
-      <title>2019.01.31 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-01-31/</link>
+      <title>2019.01.31 patch notes (v81.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v81-02/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-31/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v81-02/</guid>
+      <description>### 1. Dungeon - New : Parquina&#39;s Nest - Level 65, ilvl 453 dungeon - Teleportal is located in Essenian Crest - Added Parquina&#39;s Nest story quest (can be proceed after completing “In midst of falling and landing” story quest) - Loot table includes Worldly Essence, talyph XP, Supreme Metal, Springy Draco Limb, Stormcry gear box, Veilthroch, Transcendence Mask, Transparent mask/weapon sheath, and accessories ### 2. Classic server open - Opened TERA classic server consisting of 2014 content such as Shandra Manaya and Kelsaik&#39;s Nest - Classic server can only be accessed through a separate client, and will be ported over to the same client as the client hosting Glory of Arun server on March 14th.</description>
     </item>
     
     <item>
-      <title>2019년 01월 31일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-01-31/</link>
+      <title>2019년 01월 31일 업데이트 안내 (v81.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v81-02/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-01-31/</guid>
-      <description>### 1. 던전 - 신규: 파르퀴나의 둥지(5인) - 66레벨, 장비레벨 453달성 시 파티매칭을 통해 입장할 수 있습니다. - 에세니아 가드&amp;gt;에세니아 구릉지대&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - 파르퀴나 둥지 미션이 추가됩니다. (66레벨 미션 ‘추락과 착지 사이’ 완료 후 진행할 수 있습니다) - 세계의 결정, 스킬 연마 경험치, 고급 금속물, 용족의 활대, 울부짖는 분노 장비 상자, 마지막 원소, 초월의 가면, 투명 얼굴/등 악세서리 등의 아이템을 보상으로 획득할 수 있습니다. ### 2. 클래식 서버 오픈 - 샨드라마나이아, 켈사이크의 성소 등 2014년 컨텐츠를 플레이 할 수 있는 서버가 오픈됩니다.</description>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v81-02/</guid>
+      <description>### 1. 던전 - 신규: 파르퀴나의 둥지(5인) - 66레벨, 장비레벨 453달성 시 파티매칭을 통해 입장할 수 있습니다. - 에세니아 가드&amp;gt;에세니아 구릉지대&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - 파르퀴나 둥지 미션이 추가됩니다. (66레벨 미션 &#39;추락과 착지 사이&#39; 완료 후 진행할 수 있습니다) - 세계의 결정, 스킬 연마 경험치, 고급 금속물, 용족의 활대, 울부짖는 분노 장비 상자, 마지막 원소, 초월의 가면, 투명 얼굴/등 악세서리 등의 아이템을 보상으로 획득할 수 있습니다. ### 2. 클래식 서버 오픈 - 샨드라마나이아, 켈사이크의 성소 등 2014년 컨텐츠를 플레이 할 수 있는 서버가 오픈됩니다.</description>
     </item>
     
     <item>
-      <title>2019.01.24 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-01-24/</link>
+      <title>2019.01.24 patch notes (v81.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v81-01/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-24/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v81-01/</guid>
+      <description>- 1. New : Partner system - Added partner system - Upon reaching level 66, story quest &#39;Thrall Egg&#39; can be accepted from NPC Lumin in Highwatch, and receive partner [Coco Mingming] as reward - Partner structure - Rank and affinity - Rank - Rank can increased via upgrade - Upon upgrading, affinity is randomly increased - Higher affinity increases effect of affinity skill - Skill - Affinity skill - Can be used every 3 minutes while partner is summoned - Ability skill - Upon register a partner, one of the following skills is randomly granted - Partner : Mari - Strengthen affinity I-III - Urgent HP restorative I-III - Swift XP progression I-III - Crafting support I-III - Partner : Kunkun - Strengthen affinity I-III - Urgent MP restorative I-III - Swift talyph progression I-III - Fishing support I-III - Partner : Coco Mingming - Strengthen affinity I-III - Shield I-III - Swift multi progression I-III - Gathering support I-III - 루미 - 교감 강화 I~III - 긴급 회복 I~III - 성장 가속 I~III - 제작 지원 I~III - Skill : Effect - Strengthen Affinity : Increase duration of affinity skill at a low chance upon entering combat - Urgent HP restorative : Restore HP per second for a limited time at a low chance upon decreasing HP - Urgent MP restorative : Restore MP per second for a limited time at a low chance upon decreasing MP - Shield : Absorb damage for a limited time at a low chance upon decreasing HP - Swift XP progression : Increase XP gained for a limited time at a low chance upon giving a gift to your partner - Swift talyph progression : Increase talyph XP gained for a limited time at a low chance upon giving a gift to your partner - Swift multi progression : Increase XP and talyph XP gained for a limited time at a low chance upon giving a gift to your partner - Crafting support : Increase chance of critical success for a limited at a low chance upon crafting - Fishing support : Increase chance to catch BAF for a limited time at a low chance upon fishing - Gathering support : Decrease gathering time for a limited time at a low chance upon gathering - Transmission - Abilities that a pet possesses can be transferred to your partner - Stamina - Partner stamina decreases by 1 per minute while summoned - Partner stamina can be restored by using gift items - Gift items can be crafted or bought from the merchant - Gift item designs can be bought from the processing materials merchant - Dog statue - Pig statue - Popori statue ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 01월 24일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-01-24/</link>
+      <title>2019년 01월 24일 업데이트 안내 (v81.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v81-01/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-01-24/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v81-01/</guid>
       <description>### 1. 신규: 파트너 시스템 - 파트너 시스템이 추가됩니다. - 레벨 66이되면 이르카 지역에 있는 NPC 루민을 통해 “정령의 알” 미션 퀘스트 진행이 가능하며, 보상으로 [코코밍밍] 파트너를 획득하실 수 있습니다. - 파트너 구조 - 등급과 교감도 - 등급 - 승급을 통해 상승시킬 수 있습니다. - 등급이 상승 시 교감도가 랜덤으로 상승합니다. - 교감도가 높아지면 교감 스킬 성능이 향상됩니다. - 스킬 - 교감 스킬 - 파트너가 소환된 상태에서 3분마다 사용할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.01.17 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-01-17/</link>
+      <title>2019.01.17 patch notes (v80.03) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v80-03/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-17/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v80-03/</guid>
+      <description>### 1. Server merge - Servers are now merged ### 2. Dungeon - Level progression dungeon - Instance matching system - Changed from 5-man to 3-man instances - Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) - Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&#39;s Ascent, Cultists&#39; Refuge, Necromancer&#39;s Tomb, Golden Labyrinth, Saleron&#39;s Sky Garden, Labyrinth of Terror, Ebon Tower - Adjust dungeon difficulty - Can now be cleared without a healer - Changed Instance Matching to be able to match regardless of class - Fixed for named monsters to drop health motes ### 3.</description>
     </item>
     
     <item>
-      <title>2019년 01월 17일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-01-17/</link>
+      <title>2019년 01월 17일 업데이트 안내 (v80.03)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v80-03/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-01-17/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v80-03/</guid>
       <description>### 1. 서버통합 - [아룬의 영광] [카이아의 가호] 서버가 통합됩니다. &amp;gt;[통합 세부 내용 확인] ### 2. 던전 - 성장구간 던전 - 던전 매칭 인원 변경 - 5 -&amp;gt; 3인으로 변경됩니다. - 매칭 인원이 변경됨에 따라 성장의 즐거움 효과가 변경됩니다. (2인 200%, 3인 400%) - 변경 던전: 비밀기지, 밤피르의 저택, 자바르만 소굴, 사교도의 은신처, 사령술 연구소, 황금의 미궁, 살레론의 공중 정원, 공포의 미궁, 검은 탑 - 던전 난이도 조정 - 힐러 클래스가 없이도 클리어가 가능해집니다.</description>
     </item>
     
@@ -863,7 +863,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-10/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>- 1. Fishing - XP - Successfully catching fish now provides XP - XP gained varies at different levels - XP gained varies by different grades of fish - Item - Changed to obtain Talyph XP scroll I~II by chance upon successful catch - Delivery - Fish delivery - Changed Association Fishmonger to Association Fishmonger - Increased delivery limit to 30 times - Can obtain gold by delivering grade 0-10 fish and BAF - Fish crate delivery - Changed Association Resource Manager to Association Fish Crate Manager - Changed to deliver up to 3 times - Can obtain gold by delivering Fish Crate I-V - Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor - VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times - Fishing Supplies merchant - Added Recipe: Apple-Pumpkin Smoothie - Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit) - Provides &#39;20% XP boost&#39; effect ### 2.</description>
     </item>
     
     <item>
@@ -881,7 +881,7 @@
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-03/</guid>
-      <description>source : TERA 테라 | NEXON</description>
+      <description>### 1. Quest - Added story quest-specific 1-man level progression dungeons - Bastion of Lok (1-man) - Can enter via appropriate story quest - Sinistral Manor (1-man) - Can enter via appropriate story quest - Cultists’ Refuge (1-man) - Can enter via appropriate story quest - Removed Kumas Royale story quest - Quest already received and not completed will automatically be completed upon update - Fixed to display escort quest NPCs on minimap via an orange dot marking ### 2.</description>
     </item>
     
     <item>
