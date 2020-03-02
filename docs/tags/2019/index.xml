@@ -71,7 +71,7 @@
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v90-02/</guid>
-      <description>### Bug fixes - * Issue where changed character position reset to the previous position will be revised for the week after - Fixed issue where certain character’s Adventure Coin displayed 0/0 - Fixed issue where using Elite Status did not add additional Adventure Coins (from 1000 to 1680) - Did not restore above 1680 - Fixed issue where character slots did not expand for Frontier account - Fixed issue where Reapers with Argog weapon skin displayed Christmas themed weapon skin source : TERA 테라 | NEXON</description>
+      <description>### Bug fixes - * Issue where changed character position reset to the previous position will be revised for the week after - Fixed issue where certain character&#39;s Adventure Coin displayed 0/0 - Fixed issue where using Elite Status did not add additional Adventure Coins (from 1000 to 1680) - Did not restore above 1680 - Fixed issue where character slots did not expand for Frontier account - Fixed issue where Reapers with Argog weapon skin displayed Christmas themed weapon skin source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v90-01/</guid>
-      <description>### 1. Elin Valkyrie - Added [Valkyrie] class to Elin race - Cannot use race change voucher until 2020.01.09 - Elin Valkyries can race change to Female Castanic Valkyries (but not vice versa) ### 2. Character slot - Increased max character slot from 22 slots to 23 slots ### 3. Character progression revision - Talent points (EP) - Changed starting Talent Point to 300 - Existing characters with less than 300 Talent Points will be changed to 300 - Experience points - Decreased XP required from level 65 to level 69 - Decreased HP and damage of field monsters level 65 and above - Increased level 65 and above party dungeon Vanguard Request XP and hunting XP - Inrceased XP from daily quests - Inceased fishing/crafting/gathering XP - Skill Advance - Increased Skill Advance XP gained from level 65 and above party dungeons - Increased Skill Advance XP gained from Exodor story quests and zone quests - Increased Skill Advance XP gained from Exodor daily quests - Skill Advance Scroll - Increased Skill Advance Scrolls gained from level 65 and above party dungeons - Increased Skill Advance Scrolls gained from daily quests - Added Skill Advance III Scrolls gained from Exodor daily quests - Added Skill Advance III Scrolls to Exodor reputation merchants - Increased Skill Advance Scrolls gained from field boss monster Ortan - Guardian gear - Revised necessary enchanting materials and item XP needed to enchant Frostmetal gear - Revised necessary enchanting materials and item XP needed to enchant Stormcry gear - Revised promotion success rate and necessary enchanting materials and item XP for the following accessories : - Below Entropic accessories - Below Quatrefoil Brooch - Increased the promotion success rate of the following accessories : - Entropic accessories and above - Quatrefoil Brooch/Marrow Brooch and above - Increased drop amount of Liquid Metal, Hypnotic Device - Lilith’s Keep - Thaumetal Refinery - Velik’s Hold - Red Refuge - Dark Reaches Cathedral - Shadow Sanguinary - Forsaken Island - Rakelith’s Manor - RK-9 Kennel - Velik’s Sanctuary ### 4.</description>
+      <description>### 1. Elin Valkyrie - Added [Valkyrie] class to Elin race - Cannot use race change voucher until 2020.01.09 - Elin Valkyries can race change to Female Castanic Valkyries (but not vice versa) ### 2. Character slot - Increased max character slot from 22 slots to 23 slots ### 3. Character progression revision - Talent points (EP) - Changed starting Talent Point to 300 - Existing characters with less than 300 Talent Points will be changed to 300 - Experience points - Decreased XP required from level 65 to level 69 - Decreased HP and damage of field monsters level 65 and above - Increased level 65 and above party dungeon Vanguard Request XP and hunting XP - Inrceased XP from daily quests - Inceased fishing/crafting/gathering XP - Skill Advance - Increased Skill Advance XP gained from level 65 and above party dungeons - Increased Skill Advance XP gained from Exodor story quests and zone quests - Increased Skill Advance XP gained from Exodor daily quests - Skill Advance Scroll - Increased Skill Advance Scrolls gained from level 65 and above party dungeons - Increased Skill Advance Scrolls gained from daily quests - Added Skill Advance III Scrolls gained from Exodor daily quests - Added Skill Advance III Scrolls to Exodor reputation merchants - Increased Skill Advance Scrolls gained from field boss monster Ortan - Guardian gear - Revised necessary enchanting materials and item XP needed to enchant Frostmetal gear - Revised necessary enchanting materials and item XP needed to enchant Stormcry gear - Revised promotion success rate and necessary enchanting materials and item XP for the following accessories : - Below Entropic accessories - Below Quatrefoil Brooch - Increased the promotion success rate of the following accessories : - Entropic accessories and above - Quatrefoil Brooch/Marrow Brooch and above - Increased drop amount of Liquid Metal, Hypnotic Device - Lilith&#39;s Keep - Thaumetal Refinery - Velik&#39;s Hold - Red Refuge - Dark Reaches Cathedral - Shadow Sanguinary - Forsaken Island - Rakelith&#39;s Manor - RK-9 Kennel - Velik&#39;s Sanctuary ### 4.</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v89-02/</guid>
-      <description>### 1. Balance - Priest - Edict of Judgement - Reset cooldown of Zenobia’s Vortex and Holy Burst upon casting - Triple Nemesis [Stigma] Talent - Increased debuff duration from 12 seconds to 21 seconds - Mystic - Augmentation - Removed continuous MP consumption during effect - Arunic Release - Reduced MP cost from 1,050 to 700 - Decreased skill damage from 9,750 to 8,287 - Vollet of Curses [Stigma] Talent - Increased debuff duration from 12 seconds to 21 seconds - Valkyrie - Godsfall - Decreased cooldown from 5 minutes to 4 minutes - Talent - Changed Glaive Strike [Chained Speed Skating] talent to Glaive Strike [Velocity] - Before : - Glaive Strike [Chained Speed Skating] : Increase casting speed of the next skill - After : - Glaive Strike [Velocity] : Increase casting speed (of Glaive Strike) (max 20%) - Gunner - Revised Arcane Splash and damage skills - Skills generating Arcane Splash : - 20% chance to generate 1 Arcane Splash per Mana Missile hit (removed explode feature) - 15% chance to generate 1 Arcane Splash per Burst Fire hit and Bombardment hit (removed explode feature from Burst Fire) - 100% chance to generate 1 Arcane Splash upon successful hit with Time Bomb - 30% chance to generate 1 Arcane Splash upon successful hit with Targeted Burst Fire (removed explode feature) - 20% chance to generate 1 Arcane Splash per Obliteration hit (removed explode feature and increase explode damage feature) - Skills exploding Arcane Splash : - Blast - Arcane Barrage - Laser of Remote Trigger - Balder’s Vengeance II (Added effect to increase explode damage by 3 times upon successfully hitting Arcane Splash with Balder’s Vengeance) - Level 69 skill option - Modular Weapon System [Integration] - Added effect to increase explode damage by 2 times upon successfully hitting Arcane Splash with Arcane Barrage ### 2.</description>
+      <description>### 1. Balance - Priest - Edict of Judgement - Reset cooldown of Zenobia&#39;s Vortex and Holy Burst upon casting - Triple Nemesis [Stigma] Talent - Increased debuff duration from 12 seconds to 21 seconds - Mystic - Augmentation - Removed continuous MP consumption during effect - Arunic Release - Reduced MP cost from 1,050 to 700 - Decreased skill damage from 9,750 to 8,287 - Vollet of Curses [Stigma] Talent - Increased debuff duration from 12 seconds to 21 seconds - Valkyrie - Godsfall - Decreased cooldown from 5 minutes to 4 minutes - Talent - Changed Glaive Strike [Chained Speed Skating] talent to Glaive Strike [Velocity] - Before : - Glaive Strike [Chained Speed Skating] : Increase casting speed of the next skill - After : - Glaive Strike [Velocity] : Increase casting speed (of Glaive Strike) (max 20%) - Gunner - Revised Arcane Splash and damage skills - Skills generating Arcane Splash : - 20% chance to generate 1 Arcane Splash per Mana Missile hit (removed explode feature) - 15% chance to generate 1 Arcane Splash per Burst Fire hit and Bombardment hit (removed explode feature from Burst Fire) - 100% chance to generate 1 Arcane Splash upon successful hit with Time Bomb - 30% chance to generate 1 Arcane Splash upon successful hit with Targeted Burst Fire (removed explode feature) - 20% chance to generate 1 Arcane Splash per Obliteration hit (removed explode feature and increase explode damage feature) - Skills exploding Arcane Splash : - Blast - Arcane Barrage - Laser of Remote Trigger - Balder&#39;s Vengeance II (Added effect to increase explode damage by 3 times upon successfully hitting Arcane Splash with Balder&#39;s Vengeance) - Level 69 skill option - Modular Weapon System [Integration] - Added effect to increase explode damage by 2 times upon successfully hitting Arcane Splash with Arcane Barrage ### 2.</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2019/v88-03/</guid>
-      <description>### 1. 할로윈 이벤트 - 가짜 잭 오 랜턴의 숫자가 대폭 줄어듭니다. - 잭 오 랜턴의 스폰 지역에서 ‘개척민 마을’이 제외됩니다. - 처치 불가능한 위치에 다수 스폰되는 현상이 확인되어 제외되었습니다. - 드랍 보상에서 [이벤트] 잭오랜턴의 호박 2개가 제외되며, 아이템별 드랍 확률이 조정됩니다. - [이벤트] 잭오랜턴의 호박 5개 드랍 확률이 대폭 상승합니다. ### [버그수정] - 할로윈 스타일 아이템 일부가 임의의 던전/전장에 입장 시 사라지는 문제 - 위 오류로 소실된 아이템은 10/24(목) 정기점검 시 복구될 예정입니다.</description>
+      <description>### 1. 할로윈 이벤트 - 가짜 잭 오 랜턴의 숫자가 대폭 줄어듭니다. - 잭 오 랜턴의 스폰 지역에서 &#39;개척민 마을&#39;이 제외됩니다. - 처치 불가능한 위치에 다수 스폰되는 현상이 확인되어 제외되었습니다. - 드랍 보상에서 [이벤트] 잭오랜턴의 호박 2개가 제외되며, 아이템별 드랍 확률이 조정됩니다. - [이벤트] 잭오랜턴의 호박 5개 드랍 확률이 대폭 상승합니다. ### [버그수정] - 할로윈 스타일 아이템 일부가 임의의 던전/전장에 입장 시 사라지는 문제 - 위 오류로 소실된 아이템은 10/24(목) 정기점검 시 복구될 예정입니다.</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v87-03/</guid>
-      <description>### 1. Dungeon - Celestial Arena - Changed required item level from 439 to 431 - Adjusted to decrease HP of monsters to reflect the item level change ### 2. Services - PC bang - K TERA exclusive - K TERA exclusive - K TERA exclusive ### 3. Item - Changed to allow switching between Intel pieces and Naslow’s Treasure Map pieces - It is a 1:1 exchange, and cannot be traded on trade broker ### 4.</description>
+      <description>### 1. Dungeon - Celestial Arena - Changed required item level from 439 to 431 - Adjusted to decrease HP of monsters to reflect the item level change ### 2. Services - PC bang - K TERA exclusive - K TERA exclusive - K TERA exclusive ### 3. Item - Changed to allow switching between Intel pieces and Naslow&#39;s Treasure Map pieces - It is a 1:1 exchange, and cannot be traded on trade broker ### 4.</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2019/v87-01/</guid>
-      <description>### 1. 던전 - 65레벨 이상 파티 던전의 발키온 연합 지령서/마지막 네임드 처치 경험치 보상이 상향됩니다. - 데모크론 실험실 3인 입장 시 부여되는 성장의 즐거움 효과가 상향됩니다. (1.8배 → 1.9배) ### 2. 파트너 - 파트너간 능력 전수가 가능하도록 변경됩니다. - 재능 스킬인 ‘성장 가속’, ‘연마 가속’, ‘복합 가속’의 발동 조건이 교감 스킬 사용 시로 변경됩니다. ### 3. 클래스 밸런스 - 검투사 - 정면 승부 [패시브] - 치명타 위력 증가 효과가 [강철의 결의 II] 상태에서만 발동하도록 변경됩니다.</description>
+      <description>### 1. 던전 - 65레벨 이상 파티 던전의 발키온 연합 지령서/마지막 네임드 처치 경험치 보상이 상향됩니다. - 데모크론 실험실 3인 입장 시 부여되는 성장의 즐거움 효과가 상향됩니다. (1.8배 → 1.9배) ### 2. 파트너 - 파트너간 능력 전수가 가능하도록 변경됩니다. - 재능 스킬인 &#39;성장 가속&#39;, &#39;연마 가속&#39;, &#39;복합 가속&#39;의 발동 조건이 교감 스킬 사용 시로 변경됩니다. ### 3. 클래스 밸런스 - 검투사 - 정면 승부 [패시브] - 치명타 위력 증가 효과가 [강철의 결의 II] 상태에서만 발동하도록 변경됩니다.</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v86-03/</guid>
-      <description>### 1. Field boss - New : Avion - Spawns south of Vernark Fortress, Exodor (channel 1) - Island can be accessed through Argaff Jump Platforms - Upon defeating Avion, the player dealing the last hit will receive one of the following rewards : - Avion Treasure Box (1 of the following items) : - Shining Avion Mask - Fierce Avion Mask - One random participant will also receive the following reward : - Reward - Avion Raid Gold Box - The following contribution reward will be distributed depending on the amount of damage dealt - Damage contribution is party-based - No reward will be distributed to players who have not contributed enough to defeat the boss - Reward - Avion Raid Silver Box - Avion Raid Box - Avion’s Dranium Piece - (Fixed) Changed field boss content reward distribution to parcel - As per fix, Machnak and Royal Parf ### 2.</description>
+      <description>### 1. Field boss - New : Avion - Spawns south of Vernark Fortress, Exodor (channel 1) - Island can be accessed through Argaff Jump Platforms - Upon defeating Avion, the player dealing the last hit will receive one of the following rewards : - Avion Treasure Box (1 of the following items) : - Shining Avion Mask - Fierce Avion Mask - One random participant will also receive the following reward : - Reward - Avion Raid Gold Box - The following contribution reward will be distributed depending on the amount of damage dealt - Damage contribution is party-based - No reward will be distributed to players who have not contributed enough to defeat the boss - Reward - Avion Raid Silver Box - Avion Raid Box - Avion&#39;s Dranium Piece - (Fixed) Changed field boss content reward distribution to parcel - As per fix, Machnak and Royal Parf ### 2.</description>
     </item>
     
     <item>
@@ -350,7 +350,7 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2019/v86-03/</guid>
-      <description>### 1. 필드 보스 - 신규: 아비온 - 엑소도르 ‘베르아크 성채’ 남동쪽의 ‘아르가프 침공지’ 섬지역에 출몰합니다. (1채널) - 아르가프 도약대를 이용하여 진입할 수 있습니다. - 아비온 처치 시, 마지막 타격을 가한 캐릭터에게 아래와 같은 보상이 지급됩니다. - 아비온의 보물상자 (하기 아이템 중 1종 획득) - 찬란한 아비온의 가면 - 맹렬한 아비온의 가면 - 참여한 캐릭터 중 1명에게 참여보상 대신 아래와 같은 보상이 지급됩니다. - 보상 아이템 - 아비온 공격대의 금빛 상자 - 필드보스 HP 감소 기여도에 따라 아래와 같은 참여 보상이 차등 지급됩니다.</description>
+      <description>### 1. 필드 보스 - 신규: 아비온 - 엑소도르 &#39;베르아크 성채&#39; 남동쪽의 &#39;아르가프 침공지&#39; 섬지역에 출몰합니다. (1채널) - 아르가프 도약대를 이용하여 진입할 수 있습니다. - 아비온 처치 시, 마지막 타격을 가한 캐릭터에게 아래와 같은 보상이 지급됩니다. - 아비온의 보물상자 (하기 아이템 중 1종 획득) - 찬란한 아비온의 가면 - 맹렬한 아비온의 가면 - 참여한 캐릭터 중 1명에게 참여보상 대신 아래와 같은 보상이 지급됩니다. - 보상 아이템 - 아비온 공격대의 금빛 상자 - 필드보스 HP 감소 기여도에 따라 아래와 같은 참여 보상이 차등 지급됩니다.</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v86-02/</guid>
-      <description>### 1. Argaff’s Hatchery - Increased spawn rate of Nomadic Caimans and Dimensional Portal ### 2. Field Boss Monster - Reinforced criteria for earning wnd rank participation reward ### 3. Quest - Changed Card Index completion progress reward - Removed progression stage reward for completing `Big Horn Argaff` card set ### Bug fixes - Fixed issue where Skill Advance points and Skill Advance state reset (to zero) - Fixed issue where sorting inventory occasionally causes client to crash - Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) - Fixed issue where Slayer’s Measured Slice was coded as magical damage - Fixed issue where Ninja’s Boomerang Shuriken’s skill damage was unexpectedly high - Fixed issue where recent transactions on trade broker displayed irregular item levels - Fixed issue where UI scaling did not affect pop-up UI for purchasing items - Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward - Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did - Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard - Fixed issue where Partners occasionally spoke about item level - Fixed issue where players could proceed through without being directed by quest NPC - Fixed issue where certain NPCs were stacked - Fixed issue where Nomadic Merchants could spawn in all channels - Fixed issue where players could receive multiple quest items through Etching Crafting tutorial - Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank - Fixed issue where cracked ground aesthetics for Machnak combat area seemed like it was floating - Fixed issue where returning player items displayed different expire date and stats than intended - Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed - Fixed issue where summoned Partners displayed a chat upon spawning in each area - Fixed a K TERA exclusive issue - Fixed issue where using a skill in Velika: Civil Unrest causes self-damage source : TERA 테라 | NEXON</description>
+      <description>### 1. Argaff&#39;s Hatchery - Increased spawn rate of Nomadic Caimans and Dimensional Portal ### 2. Field Boss Monster - Reinforced criteria for earning wnd rank participation reward ### 3. Quest - Changed Card Index completion progress reward - Removed progression stage reward for completing `Big Horn Argaff` card set ### Bug fixes - Fixed issue where Skill Advance points and Skill Advance state reset (to zero) - Fixed issue where sorting inventory occasionally causes client to crash - Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) - Fixed issue where Slayer&#39;s Measured Slice was coded as magical damage - Fixed issue where Ninja&#39;s Boomerang Shuriken&#39;s skill damage was unexpectedly high - Fixed issue where recent transactions on trade broker displayed irregular item levels - Fixed issue where UI scaling did not affect pop-up UI for purchasing items - Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward - Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did - Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard - Fixed issue where Partners occasionally spoke about item level - Fixed issue where players could proceed through without being directed by quest NPC - Fixed issue where certain NPCs were stacked - Fixed issue where Nomadic Merchants could spawn in all channels - Fixed issue where players could receive multiple quest items through Etching Crafting tutorial - Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank - Fixed issue where cracked ground aesthetics for Machnak combat area seemed like it was floating - Fixed issue where returning player items displayed different expire date and stats than intended - Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed - Fixed issue where summoned Partners displayed a chat upon spawning in each area - Fixed a K TERA exclusive issue - Fixed issue where using a skill in Velika: Civil Unrest causes self-damage source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v86-01-01/</guid>
-      <description>### 1. Exodor - Increased channel count in all Exodor regions except Core region - Added sub-title `Butterfly Signal Distractor` to two of the monsters ### 2. Quest - K TERA exclusive comment ### Bug fixes - Fixed issue where Baramara BAMs did not fight one another - Fixed issue where zone quest did not count while completing dungeon as a raid - Fixed issue in Verark Fortress where certain 2nd boss mechanic caused client to crash - Fixed issue in Verark Fortress where players could mount flying mounts in combat arena - Fixed issue where certain NPC for Exodor story quest was placed twice - Fixed issue where defeating quest monster before talking to Jalena preventing quest progress - Fixed issue where completing Gathering Effect in Index UI prevented changing tabs - Fixed issue where a certain monster’s effects did not display properly - Fixed issue where spawn rate of Dimensional Portal upon defeating Nomadic Caimans was unexpectedly high during party status - Fixed issue where 2019 summer event items displayed faulty expiration date - Fixed issue where system message upon trying to inspect a logged out character had a typo source : TERA 테라 | NEXON</description>
+      <description>### 1. Exodor - Increased channel count in all Exodor regions except Core region - Added sub-title `Butterfly Signal Distractor` to two of the monsters ### 2. Quest - K TERA exclusive comment ### Bug fixes - Fixed issue where Baramara BAMs did not fight one another - Fixed issue where zone quest did not count while completing dungeon as a raid - Fixed issue in Verark Fortress where certain 2nd boss mechanic caused client to crash - Fixed issue in Verark Fortress where players could mount flying mounts in combat arena - Fixed issue where certain NPC for Exodor story quest was placed twice - Fixed issue where defeating quest monster before talking to Jalena preventing quest progress - Fixed issue where completing Gathering Effect in Index UI prevented changing tabs - Fixed issue where a certain monster&#39;s effects did not display properly - Fixed issue where spawn rate of Dimensional Portal upon defeating Nomadic Caimans was unexpectedly high during party status - Fixed issue where 2019 summer event items displayed faulty expiration date - Fixed issue where system message upon trying to inspect a logged out character had a typo source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -449,7 +449,7 @@
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v85-03/</guid>
-      <description>### 1. Dungeon - Demokron Factory (normal/hard) - Adjusted to reduce HP of bosses ### 2. Vanguard Initiative Request - Added level XP to the following solo content Vanguard Requests : - Content : - The Pit of Petrax - Echoes of Aranea - Celestial Arena - Ace Dungeon : Lilith’s Trial - Ace Dungeon : Akasha’s Trial - Ace Dungeon : Baracos’ Trial - Island of Dawn : Hunt Brutal Naga Battlemasters - Island of Dawn : Hunt Brutal Iron Giants - Island of Dawn : Hunt Brutal Onyx Hydraths - Island of Dawn : Hunt Brutal Bloodbound Teraliths - Island of Dawn : Hunt Brutal Fimbrilisks - Island of Dawn : Hunt Brutal Searing Fangspawns - Island of Dawn : Hunt Brutal Basilisks - Island of Dawn : Hunt Brutal Orisks - Island of Dawn : Hunt Brutal Ovoliths ### 3.</description>
+      <description>### 1. Dungeon - Demokron Factory (normal/hard) - Adjusted to reduce HP of bosses ### 2. Vanguard Initiative Request - Added level XP to the following solo content Vanguard Requests : - Content : - The Pit of Petrax - Echoes of Aranea - Celestial Arena - Ace Dungeon : Lilith&#39;s Trial - Ace Dungeon : Akasha&#39;s Trial - Ace Dungeon : Baracos&#39; Trial - Island of Dawn : Hunt Brutal Naga Battlemasters - Island of Dawn : Hunt Brutal Iron Giants - Island of Dawn : Hunt Brutal Onyx Hydraths - Island of Dawn : Hunt Brutal Bloodbound Teraliths - Island of Dawn : Hunt Brutal Fimbrilisks - Island of Dawn : Hunt Brutal Searing Fangspawns - Island of Dawn : Hunt Brutal Basilisks - Island of Dawn : Hunt Brutal Orisks - Island of Dawn : Hunt Brutal Ovoliths ### 3.</description>
     </item>
     
     <item>
@@ -467,7 +467,7 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v85-02-01/</guid>
-      <description>### Bug fixes - Fixed issue in Gossamer’s Vault (hard) where certain mechanics could be cancelled - Fixed issue where certain Summer Festival event costumes could be used to as fodder for random costume box - Fixed issue where Nomadic merchants spawned in all channels - Fixed issue where gathering speed for certain gathering nodes was irregular source : TERA 테라 | NEXON</description>
+      <description>### Bug fixes - Fixed issue in Gossamer&#39;s Vault (hard) where certain mechanics could be cancelled - Fixed issue where certain Summer Festival event costumes could be used to as fodder for random costume box - Fixed issue where Nomadic merchants spawned in all channels - Fixed issue where gathering speed for certain gathering nodes was irregular source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -530,7 +530,7 @@
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2019/v84-05/</guid>
-      <description>### 1. 던전 - 데모로스의 룰렛(5인) - 6/27(목) 점검 전까지 기간 한정으로 오픈됩니다. - 65레벨, 장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 145 소모되며, 주간 40회(VIP/월간패스 80회)까지 입장 가능합니다. - 알레만시아 인근 ‘산 알레마 마을’의 차원의 게이트를 통해 던전에 입장할 수 있습니다. - 아르보레아의 금/은빛 판금, 이공간의 파편, 불길한 마법 스크롤, 낡은 보급품, 악마의 발톱, 용의 두개골, [이벤트] 데모로스의 낡은 상자 등의 보상을 획득할 수 있습니다.</description>
+      <description>### 1. 던전 - 데모로스의 룰렛(5인) - 6/27(목) 점검 전까지 기간 한정으로 오픈됩니다. - 65레벨, 장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. - 입장 시 모험의 주화가 145 소모되며, 주간 40회(VIP/월간패스 80회)까지 입장 가능합니다. - 알레만시아 인근 &#39;산 알레마 마을&#39;의 차원의 게이트를 통해 던전에 입장할 수 있습니다. - 아르보레아의 금/은빛 판금, 이공간의 파편, 불길한 마법 스크롤, 낡은 보급품, 악마의 발톱, 용의 두개골, [이벤트] 데모로스의 낡은 상자 등의 보상을 획득할 수 있습니다.</description>
     </item>
     
     <item>
@@ -539,7 +539,7 @@
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v84-04/</guid>
-      <description>### 1. Other - Leaderboard - Extended current season by 7 days (5/9~6/13) ### Bug fixes - Fixed issue in Gossamer Vault (hard) where certain last boss mechanics prevented voice lines from playing - Fixed issue in Argaff Hatchery where a certain enemy pushed Brawlers that are blocking - Fixed issue in Argaff Hatchery where players could move inside of a certain enemy - Fixed issue where event gear that maxes at +7 could be registered in enchant UI - Fixed issue where registering pet bank skill to skillslot UI and moving the skill to another slot displayed a default skill icon - Fixed issue where players could go through certain objectives using Priest’s Divine Charge - Fixed issue where premium slot items did not rest occasionally - Fixed issue where certain items could be stored in bank and guild bank - ~~Fixed issue where rested XP stacked differently than intended~~ - (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제 source : TERA 테라 | NEXON</description>
+      <description>### 1. Other - Leaderboard - Extended current season by 7 days (5/9~6/13) ### Bug fixes - Fixed issue in Gossamer Vault (hard) where certain last boss mechanics prevented voice lines from playing - Fixed issue in Argaff Hatchery where a certain enemy pushed Brawlers that are blocking - Fixed issue in Argaff Hatchery where players could move inside of a certain enemy - Fixed issue where event gear that maxes at +7 could be registered in enchant UI - Fixed issue where registering pet bank skill to skillslot UI and moving the skill to another slot displayed a default skill icon - Fixed issue where players could go through certain objectives using Priest&#39;s Divine Charge - Fixed issue where premium slot items did not rest occasionally - Fixed issue where certain items could be stored in bank and guild bank - ~~Fixed issue where rested XP stacked differently than intended~~ - (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제 source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -557,7 +557,7 @@
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v84-03/</guid>
-      <description>### 1. Balance - Slayer - Overhand Strike: Focus - Adjusted to increased skill damage increase per stack from 1% to 2% (max stack from 15% to 30%) - Propulsion - Changed requirement to decrease cooldown of Measured Slice from &#39;upon critical hit&#39; to &#39;upon hit’ with Whirlwind - Punishing Blow - Increased skill damage by 10% ### 2. Content - Nomadic Caiman &amp;amp; Argaff Hatchery - Adjusted to increase chance to spawn Nomadic Caiman or Dimensional Door by 4 times - Adjusted to decrease XP gained from defeating Nomadic Caiman - Adjusted to decrease XP and skill advancement XP gained from defeating Hatchery monsters - Argaff Scout Intel - Changed Doubtful Intel piece to drop in the following dungeons - From Doubtful Intel (Left) to Doubtful Intel (Right) - Red Refuge - RK9-Kennel - Dark Reach Citadel - Velik’s Sanctuary - Shadow Sanguinary - Grotto of Lost Souls - Ruinous Manor - Antaroth’s Abyss - Changed Doubtful Intel piece to drop from the following monsters - From Doubtful Intel (Left) to either Doubtful Intel (Left) or Doubtful Intel (Right) (by chance) - List of 28 level 65-70 monsters - 그림자 경계병 - 철갑가시 오칸 - 병든 롱터스크 - 불타는 유적 길리두 - 성역의 파수꾼 - 오염된 롱터스크 - 오염된 뿌리약탈자 - 폐허 파괴자 알쿠스 - 부활의 나무 - 오염된 볼칸 - 야수의 숲 볼칸 - 폐허를 방황하는 악마 - 시간의 수호자 - 오염된 뿌리약탈자 - 아둔한 장물꾼 - 사막 바실리스크 - 푸른이끼부족 예언가 - 파르프 - 비열한 도굴꾼 - 폐허 하이에나 - 푸른이끼부족 주술사 - 파르폰 - 둥근 부리 파수꾼 - 검은불꽃 알쿠스 - 푸른이끼부족 전사 - 폭주한 황금 정원사 - 낡은 거인의 하수꾼 - 고블린 도둑 ### 3.</description>
+      <description>### 1. Balance - Slayer - Overhand Strike: Focus - Adjusted to increased skill damage increase per stack from 1% to 2% (max stack from 15% to 30%) - Propulsion - Changed requirement to decrease cooldown of Measured Slice from &#39;upon critical hit&#39; to &#39;upon hit&#39; with Whirlwind - Punishing Blow - Increased skill damage by 10% ### 2. Content - Nomadic Caiman &amp;amp; Argaff Hatchery - Adjusted to increase chance to spawn Nomadic Caiman or Dimensional Door by 4 times - Adjusted to decrease XP gained from defeating Nomadic Caiman - Adjusted to decrease XP and skill advancement XP gained from defeating Hatchery monsters - Argaff Scout Intel - Changed Doubtful Intel piece to drop in the following dungeons - From Doubtful Intel (Left) to Doubtful Intel (Right) - Red Refuge - RK9-Kennel - Dark Reach Citadel - Velik&#39;s Sanctuary - Shadow Sanguinary - Grotto of Lost Souls - Ruinous Manor - Antaroth&#39;s Abyss - Changed Doubtful Intel piece to drop from the following monsters - From Doubtful Intel (Left) to either Doubtful Intel (Left) or Doubtful Intel (Right) (by chance) - List of 28 level 65-70 monsters - 그림자 경계병 - 철갑가시 오칸 - 병든 롱터스크 - 불타는 유적 길리두 - 성역의 파수꾼 - 오염된 롱터스크 - 오염된 뿌리약탈자 - 폐허 파괴자 알쿠스 - 부활의 나무 - 오염된 볼칸 - 야수의 숲 볼칸 - 폐허를 방황하는 악마 - 시간의 수호자 - 오염된 뿌리약탈자 - 아둔한 장물꾼 - 사막 바실리스크 - 푸른이끼부족 예언가 - 파르프 - 비열한 도굴꾼 - 폐허 하이에나 - 푸른이끼부족 주술사 - 파르폰 - 둥근 부리 파수꾼 - 검은불꽃 알쿠스 - 푸른이끼부족 전사 - 폭주한 황금 정원사 - 낡은 거인의 하수꾼 - 고블린 도둑 ### 3.</description>
     </item>
     
     <item>
@@ -566,7 +566,7 @@
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2019/v84-03/</guid>
-      <description>###1. 밸런스 - 무사 - 일도양단: 집중 - 일도양단: 집중 중첩 당 상승되는 모든 스킬의 위력이 1%에서 2%로 상향 조정됩니다. (최대 중첩 시 15% -&amp;gt; 30%) - 추진력 - 일섬 스킬의 재사용 대기시간 감소 조건이 회전 베기 ‘치명타 적중 시’에서 ‘적중 시’로 변경됩니다. - 참격 - 스킬 위력이 기존대비 10% 상향됩니다. [개발자 코멘트] - 추진력 패시브 변경을 통해 치명타 의존도를 감소시켰습니다. 이를 통해 회전 베기 치명타 여부에 따라 딜사이클이 자주 변경되어 무사의 난이도가 높아지는 문제를 완화하고자 하였습니다.</description>
+      <description>###1. 밸런스 - 무사 - 일도양단: 집중 - 일도양단: 집중 중첩 당 상승되는 모든 스킬의 위력이 1%에서 2%로 상향 조정됩니다. (최대 중첩 시 15% -&amp;gt; 30%) - 추진력 - 일섬 스킬의 재사용 대기시간 감소 조건이 회전 베기 &#39;치명타 적중 시&#39;에서 &#39;적중 시&#39;로 변경됩니다. - 참격 - 스킬 위력이 기존대비 10% 상향됩니다. [개발자 코멘트] - 추진력 패시브 변경을 통해 치명타 의존도를 감소시켰습니다. 이를 통해 회전 베기 치명타 여부에 따라 딜사이클이 자주 변경되어 무사의 난이도가 높아지는 문제를 완화하고자 하였습니다.</description>
     </item>
     
     <item>
@@ -575,7 +575,7 @@
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2019/v84-02/</guid>
-      <description>### 1. Other - Changed path guide in Necromancer’s Tomb (1-man) - Changed certain level progression instances to reset automatically upon re-entering the instance for convenience - Quest progression is adjusted accordingly - Instances of the following quest are reset automatically : - Quest - 1507 ???? (전염병의 원인을 찾아서) - 2501 Secrets Not Meant to Be Known - 2801 Vision of Destiny - 3901 Unveil the Mask - 401 Rescue the Core - 5601 Drowned In Blood - 5602 Sikander’s Bane - 3702 Fragment of Hope - 5201 Into the Furnace - 17207 The Battle for Intrepid - Decreased chance of getting Banana Peel from Weird Sack (placeholder) from 50% to 20% for `Stolen Cure` quest ### 2.</description>
+      <description>### 1. Other - Changed path guide in Necromancer&#39;s Tomb (1-man) - Changed certain level progression instances to reset automatically upon re-entering the instance for convenience - Quest progression is adjusted accordingly - Instances of the following quest are reset automatically : - Quest - 1507 ???? (전염병의 원인을 찾아서) - 2501 Secrets Not Meant to Be Known - 2801 Vision of Destiny - 3901 Unveil the Mask - 401 Rescue the Core - 5601 Drowned In Blood - 5602 Sikander&#39;s Bane - 3702 Fragment of Hope - 5201 Into the Furnace - 17207 The Battle for Intrepid - Decreased chance of getting Banana Peel from Weird Sack (placeholder) from 50% to 20% for `Stolen Cure` quest ### 2.</description>
     </item>
     
     <item>
@@ -602,7 +602,7 @@
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2019/v84-01/</guid>
-      <description>### 1. 던전 - 신규: 아르가프 부화장(1인) - 떠돌이 시누스 혹은 65레벨 이상 일반/중형 몬스터를 처치 시 확률적으로 차원문이 등장하며, 해당 차원문을 통해 입장할 수 있습니다. [아르가프 부화장 컨텐츠 소개 GM노트] - 던전 보상으로 스킬 연마 경험치, 나가 경비병의 소지품(녹슨 맹세의 장비, 희귀 성물/유물)을 획득할 수 있습니다. - 떠돌이 시누스 - 아래 지역의 65레벨 이상 몬스터 처치 시 확률적으로 ‘떠돌이 시누스’가 등장합니다. - 보상으로 스킬 연마 경험치, 세계의 결정을 획득할 수 있습니다.</description>
+      <description>### 1. 던전 - 신규: 아르가프 부화장(1인) - 떠돌이 시누스 혹은 65레벨 이상 일반/중형 몬스터를 처치 시 확률적으로 차원문이 등장하며, 해당 차원문을 통해 입장할 수 있습니다. [아르가프 부화장 컨텐츠 소개 GM노트] - 던전 보상으로 스킬 연마 경험치, 나가 경비병의 소지품(녹슨 맹세의 장비, 희귀 성물/유물)을 획득할 수 있습니다. - 떠돌이 시누스 - 아래 지역의 65레벨 이상 몬스터 처치 시 확률적으로 &#39;떠돌이 시누스&#39;가 등장합니다. - 보상으로 스킬 연마 경험치, 세계의 결정을 획득할 수 있습니다.</description>
     </item>
     
     <item>
@@ -858,38 +858,38 @@
     </item>
     
     <item>
-      <title>2019.01.10 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-01-10/</link>
+      <title>2019.01.10 patch notes (v80.02.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v80-02-01/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-10/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v80-02-01/</guid>
       <description>- 1. Fishing - XP - Successfully catching fish now provides XP - XP gained varies at different levels - XP gained varies by different grades of fish - Item - Changed to obtain Talyph XP scroll I~II by chance upon successful catch - Delivery - Fish delivery - Changed Association Fishmonger to Association Fishmonger - Increased delivery limit to 30 times - Can obtain gold by delivering grade 0-10 fish and BAF - Fish crate delivery - Changed Association Resource Manager to Association Fish Crate Manager - Changed to deliver up to 3 times - Can obtain gold by delivering Fish Crate I-V - Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor - VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times - Fishing Supplies merchant - Added Recipe: Apple-Pumpkin Smoothie - Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit) - Provides &#39;20% XP boost&#39; effect ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 01월 10일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-01-10/</link>
+      <title>2019년 01월 10일 업데이트 안내 (v80.02.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v80-02-01/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-01-10/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v80-02-01/</guid>
       <description>### 1. 낚시 - 경험치 - 낚시 성공 시 레벨 경험치를 획득합니다. - 캐릭터 레벨에 따라 획득하는 경험치가 다릅니다. - 낚은 물고기의 등급에 따라 획득하는 경험치가 다릅니다. - 아이템 - 낚시 성공 시 일정 확률로 스킬 연마 경험치 서적I~ II을 획득할 수 있게 됩니다. - 낚시 납품 상점 - 물고기 납품점 - 낚시 납품점이 물고기 납품점으로 변경되었습니다. - 납품 횟수가 30회로 증가합니다. - 0등급~10등급 물고기와 대물을 납품하여 골드를 획득하실 수 있습니다.</description>
     </item>
     
     <item>
-      <title>2019.01.03 patch notes | KTERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/2019-01-03/</link>
+      <title>2019.01.03 patch notes (v80.02) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2019/v80-02/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/2019-01-03/</guid>
-      <description>### 1. Quest - Added story quest-specific 1-man level progression dungeons - Bastion of Lok (1-man) - Can enter via appropriate story quest - Sinistral Manor (1-man) - Can enter via appropriate story quest - Cultists’ Refuge (1-man) - Can enter via appropriate story quest - Removed Kumas Royale story quest - Quest already received and not completed will automatically be completed upon update - Fixed to display escort quest NPCs on minimap via an orange dot marking ### 2.</description>
+      <guid>/mysterium/posts/patch-notes/translations/2019/v80-02/</guid>
+      <description>### 1. Quest - Added story quest-specific 1-man level progression dungeons - Bastion of Lok (1-man) - Can enter via appropriate story quest - Sinistral Manor (1-man) - Can enter via appropriate story quest - Cultists&#39; Refuge (1-man) - Can enter via appropriate story quest - Removed Kumas Royale story quest - Quest already received and not completed will automatically be completed upon update - Fixed to display escort quest NPCs on minimap via an orange dot marking ### 2.</description>
     </item>
     
     <item>
-      <title>2019년 01월 03일 업데이트 안내</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/2019-01-03/</link>
+      <title>2019년 01월 03일 업데이트 안내 (v80.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2019/v80-02/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/2019-01-03/</guid>
+      <guid>/mysterium/posts/patch-notes/raw/2019/v80-02/</guid>
       <description>### 1. 퀘스트 - 미션 퀘스트 진행을 위한 퀘스트 전용 성장구간(1인) 던전이 추가됩니다. - 비밀기지(1인) - 미션 퀘스트 “비밀기지를 토벌하라” 를 수주하여 진입할 수 있습니다. - 밤피르의 저택(1인) - 미션 퀘스트 “밤피르 저택 토벌”을 수주하여 진입할 수 있습니다. - 사교도의 은신처(1인) - 미션 퀘스트 “로크 교도 괴멸”을 수주하여 진입할 수 있습니다. - LV20 쿠마스의 놀이터 미션퀘스트가 삭제 됩니다. - 미션 퀘스트 쿠마스의 놀이터를 수주 받고 진행하지 않은 경우, 업데이트 후 완료된 퀘스트로 자동 변경됩니다.</description>
     </item>
     

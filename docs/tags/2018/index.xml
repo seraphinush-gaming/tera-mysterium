@@ -80,7 +80,7 @@
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-12-13/</guid>
-      <description>### 1. 밸런스 (추가) - 무사 - 파괴의 기백 사용 시, 일도양단의 재사용 대기시간이 0으로 변경됩니다. ### 2. 눈싸움 전장 - 해당 전장 이용 시 노병 크로아스 통일 장비가 적용됩니다. - 라운드 시스템 메시지가 변경됩니다. ### 3. 기타 - 여행자의 책 장소저장 개수가 10개로 변경되었습니다. ### [버그 수정] - 인던 퇴장 후 녹테늄 강화탄 비활성화가 원활하지 못한 문제 - 월광무사 개전 스킬에 반월참 연계효과가 적용되지 않는 문제 - 비검사 어둠 강림 사용 중 비검 내려치기 기회의 문장 효과 적용 시 시스템 메시지에 스킬 이름이 출력되지 않는 문제 - 눈싸움 전장 승리 조건에 제한 시간 초과 시 남은 인원 수에 따른 승리 문구가 추가되지 않은 문제 - 무사 ‘후퇴 차기 – 전투 가속’ 특성 툴팁에 발동 조건이 잘못 표기된 문제 - 비검사 ‘비검 휘두르기 – 전투 가속’ 특성 툴팁에 발동 조건이 잘못 표기된 문제  source : TERA 테라 | NEXON</description>
+      <description>### 1. 밸런스 (추가) - 무사 - 파괴의 기백 사용 시, 일도양단의 재사용 대기시간이 0으로 변경됩니다. ### 2. 눈싸움 전장 - 해당 전장 이용 시 노병 크로아스 통일 장비가 적용됩니다. - 라운드 시스템 메시지가 변경됩니다. ### 3. 기타 - 여행자의 책 장소저장 개수가 10개로 변경되었습니다. ### [버그 수정] - 인던 퇴장 후 녹테늄 강화탄 비활성화가 원활하지 못한 문제 - 월광무사 개전 스킬에 반월참 연계효과가 적용되지 않는 문제 - 비검사 어둠 강림 사용 중 비검 내려치기 기회의 문장 효과 적용 시 시스템 메시지에 스킬 이름이 출력되지 않는 문제 - 눈싸움 전장 승리 조건에 제한 시간 초과 시 남은 인원 수에 따른 승리 문구가 추가되지 않은 문제 - 무사 &#39;후퇴 차기 – 전투 가속&#39; 특성 툴팁에 발동 조건이 잘못 표기된 문제 - 비검사 &#39;비검 휘두르기 – 전투 가속&#39; 특성 툴팁에 발동 조건이 잘못 표기된 문제  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-12-06/</guid>
-      <description>### 1. Wintera Snowfield - Added a shrinking snowstorm area - Snowstorm area induces 5,000 damage per second - Changed to single round instance - Winning condition is to defeat all enemy players - Added relevant Vanguard Request - Vanguard Request - 눈싸움 전장에서 전투를! - Gold: 100 - talentXP: 1215 - itemXP: 1650 - Optional - 눈싸움 전장에서 전투를! - Gold: 100 - talentXP: 1215 - The following denotes win and loss rewards : - Win reward - 40 Wintera Token - 216,000 BC - Loss reward - 20 Wintera Token - 72,000 BC - Wintera Token Shop - Archdevan Surfactant : 400 - Elemental Essence : 1,650 - Veilthroch : 3,600 - Devil’s Claws : 1,100 - Dragon Skull : 360 - Fireworks set : 20 - Dragon firework : 40 - Green Wintera Scarf : 100 - Green Wintera Scarf : 100 - Green Wintera Scarf : 100 - Green Wintera Scarf : 100 - Bravery Potion II : 100 - Lamb Bulgogi : 100 - Rejuvenation Elixir : 300 - EP Reset Potion : 1,000 - Frost Mantle of Indifference : 2,000 - Wintersilk Dress Box (14 days) : 3,000 - Snowflake firework (30 days) : 3,000 !</description>
+      <description>### 1. Wintera Snowfield - Added a shrinking snowstorm area - Snowstorm area induces 5,000 damage per second - Changed to single round instance - Winning condition is to defeat all enemy players - Added relevant Vanguard Request - Vanguard Request - 눈싸움 전장에서 전투를! - Gold: 100 - talentXP: 1215 - itemXP: 1650 - Optional - 눈싸움 전장에서 전투를! - Gold: 100 - talentXP: 1215 - The following denotes win and loss rewards : - Win reward - 40 Wintera Token - 216,000 BC - Loss reward - 20 Wintera Token - 72,000 BC - Wintera Token Shop - Archdevan Surfactant : 400 - Elemental Essence : 1,650 - Veilthroch : 3,600 - Devil&#39;s Claws : 1,100 - Dragon Skull : 360 - Fireworks set : 20 - Dragon firework : 40 - Green Wintera Scarf : 100 - Green Wintera Scarf : 100 - Green Wintera Scarf : 100 - Green Wintera Scarf : 100 - Bravery Potion II : 100 - Lamb Bulgogi : 100 - Rejuvenation Elixir : 300 - EP Reset Potion : 1,000 - Frost Mantle of Indifference : 2,000 - Wintersilk Dress Box (14 days) : 3,000 - Snowflake firework (30 days) : 3,000 !</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-11-29/</guid>
-      <description>### 1. UI - Revised boss gage info enrage information - Revised to display the amount of enrage time remaining ### Bug fixes - Fixed issue where cancelling Slayer&#39;s Whirlwind with Overhand Strike had discrepancies in cancelling time due at different skill levels - Fixed issue where Valkyries could not iframe debuff-type skills - Fixed issue where Reaper&#39;s Retribution tooltip was insufficient to explain ‘cannot use Retribution against projectiles in PvP&#39;  source : TERA 테라 | NEXON</description>
+      <description>### 1. UI - Revised boss gage info enrage information - Revised to display the amount of enrage time remaining ### Bug fixes - Fixed issue where cancelling Slayer&#39;s Whirlwind with Overhand Strike had discrepancies in cancelling time due at different skill levels - Fixed issue where Valkyries could not iframe debuff-type skills - Fixed issue where Reaper&#39;s Retribution tooltip was insufficient to explain &#39;cannot use Retribution against projectiles in PvP&#39;  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-11-29/</guid>
-      <description>1. UI - 몬스터 체력바 분노 표시 개선 - 분노 시작 이후 남은 분노시간이 표시되도록 개선됩니다. ### [버그 수정] - 무사클래스 회전 베기를 일도양단으로 캔슬 시 스킬 레벨에 따라 캔슬 타이밍이 상이한 문제 - 월광무사 클래스의 회피 스킬로 축복 류 스킬을 피할 수 없는 문제 - 비검사 ‘반격’스킬 툴팁에 ‘PVP에서 투사체 공격에 반격 불가’에 대한 설명이 부족한 문제  source : TERA 테라 | NEXON</description>
+      <description>1. UI - 몬스터 체력바 분노 표시 개선 - 분노 시작 이후 남은 분노시간이 표시되도록 개선됩니다. ### [버그 수정] - 무사클래스 회전 베기를 일도양단으로 캔슬 시 스킬 레벨에 따라 캔슬 타이밍이 상이한 문제 - 월광무사 클래스의 회피 스킬로 축복 류 스킬을 피할 수 없는 문제 - 비검사 &#39;반격&#39;스킬 툴팁에 &#39;PVP에서 투사체 공격에 반격 불가&#39;에 대한 설명이 부족한 문제  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-11-08/</guid>
-      <description>### 1. Reward - Added rewards to Antaroth’s Abyss (hard) - Slightly increased the drop amount of Old Supply Crate upon defeating Nightmare Antaroth - Added Dragon’s Skull to loot table Developer comment - Added new “Bahaar’s Mask” to replace “Transcendence Mask” in Bahaar’s Temple - Bahaar’s Mask - Upper tier item that has one static line and 3 random static lines (can have the same stat) - Fixed field/dungeon item drop during level progression - Decreased gold rate rate while increasing drop amount - Removed gold drop from dungeons - Decreased crystal drop rate in field/dungeon ### 2.</description>
+      <description>### 1. Reward - Added rewards to Antaroth&#39;s Abyss (hard) - Slightly increased the drop amount of Old Supply Crate upon defeating Nightmare Antaroth - Added Dragon&#39;s Skull to loot table Developer comment - Added new “Bahaar&#39;s Mask” to replace “Transcendence Mask” in Bahaar&#39;s Temple - Bahaar&#39;s Mask - Upper tier item that has one static line and 3 random static lines (can have the same stat) - Fixed field/dungeon item drop during level progression - Decreased gold rate rate while increasing drop amount - Removed gold drop from dungeons - Decreased crystal drop rate in field/dungeon ### 2.</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-11-01/</guid>
-      <description>### 1. Balance - Changed all class’ base Endurance to 80, class-specific stats, and defense stats on gear - Berserker - Lethal Strike - Increased skill damage by 15% - Decreased PvP skill damage by 30% - Decreased the additional damage received as player’s HP decreases - Increased MP cost from 0 to 300 - Thunder Strike - Adjusted Popori’s hit point relative to the hit point of other race - Combo Attack - Adjusted all race’s hit point relative to race Elin’s hit point - Leaping Strike - Fixed issue where Leaping Strike could cancel Cyclone - Cyclone - Adjusted to apply stagger to other players without pulling them in if overcharged - Triumphant Shout - Changed immunity effect duration from 6 seconds to 5 seconds - Fearsome Shout - Changed to be cleansable - Unleash - Changed to be able to cancel with Regression/Plague of Exhaustion Developer comment - Valkyrie - Gungnir’s Bite - Increased chain duration from 3 seconds to 4 seconds - Increased duration to use 2nd hit from 6 seconds to 7 seconds - Dreamblaze - Increased chain duration from 5 seconds to 7 seconds - Dark Herald - Changed hit radius from 12m to 8m - Charge - Changed dash speed relative to other classes - Bloodflower - Changed to remove stun effect to knocked down targets - Leaping Slash - Removed knockdown effect upon successful hit to other players - Ground Bash - Added knockdown effect upon successful hit to other players - Ragnarok &amp;amp; Godsfall - [Bloodflower] and [Overhead Slash] no longer receive cooldown reset or cooldown decrease effect - Twilight Waltz - Decreased PvP skill damage by 20% - this.</description>
+      <description>### 1. Balance - Changed all class&#39; base Endurance to 80, class-specific stats, and defense stats on gear - Berserker - Lethal Strike - Increased skill damage by 15% - Decreased PvP skill damage by 30% - Decreased the additional damage received as player&#39;s HP decreases - Increased MP cost from 0 to 300 - Thunder Strike - Adjusted Popori&#39;s hit point relative to the hit point of other race - Combo Attack - Adjusted all race&#39;s hit point relative to race Elin&#39;s hit point - Leaping Strike - Fixed issue where Leaping Strike could cancel Cyclone - Cyclone - Adjusted to apply stagger to other players without pulling them in if overcharged - Triumphant Shout - Changed immunity effect duration from 6 seconds to 5 seconds - Fearsome Shout - Changed to be cleansable - Unleash - Changed to be able to cancel with Regression/Plague of Exhaustion Developer comment - Valkyrie - Gungnir&#39;s Bite - Increased chain duration from 3 seconds to 4 seconds - Increased duration to use 2nd hit from 6 seconds to 7 seconds - Dreamblaze - Increased chain duration from 5 seconds to 7 seconds - Dark Herald - Changed hit radius from 12m to 8m - Charge - Changed dash speed relative to other classes - Bloodflower - Changed to remove stun effect to knocked down targets - Leaping Slash - Removed knockdown effect upon successful hit to other players - Ground Bash - Added knockdown effect upon successful hit to other players - Ragnarok &amp;amp; Godsfall - [Bloodflower] and [Overhead Slash] no longer receive cooldown reset or cooldown decrease effect - Twilight Waltz - Decreased PvP skill damage by 20% - this.</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-10-18/</guid>
-      <description>### 1. Dungeon - Adjusted balance of Bahaar’s Temple - Decreased daamge of 2nd phase Bahaar’s Fury Swipes during enrage - Added Bahaar’s Treasure Chest as reward - Spawns at 2nd phase area after completing 1st phase - Bahaar’s Amplifier Token can be exchanged for Bahaar’s Glove Amplifier or Bahaar’s Boot Amplifier - Treasure Chest contains the following : - Rare Metal - Dragon’s Bow - Balance Weights - Bahaar’s Amplifier Token - Bahaar’s Glove Amplifier - Bahaar’s Boot Amplifier - 성장 구간 던전에서 클래스 상관 없이 매칭 수락 팝업창이 매칭 30초뒤 팝업되도록 변경됩니다.</description>
+      <description>### 1. Dungeon - Adjusted balance of Bahaar&#39;s Temple - Decreased daamge of 2nd phase Bahaar&#39;s Fury Swipes during enrage - Added Bahaar&#39;s Treasure Chest as reward - Spawns at 2nd phase area after completing 1st phase - Bahaar&#39;s Amplifier Token can be exchanged for Bahaar&#39;s Glove Amplifier or Bahaar&#39;s Boot Amplifier - Treasure Chest contains the following : - Rare Metal - Dragon&#39;s Bow - Balance Weights - Bahaar&#39;s Amplifier Token - Bahaar&#39;s Glove Amplifier - Bahaar&#39;s Boot Amplifier - 성장 구간 던전에서 클래스 상관 없이 매칭 수락 팝업창이 매칭 30초뒤 팝업되도록 변경됩니다.</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-10-11/</guid>
-      <description>### 1. Dungeon - Temporarily closed Dreadspire, Harrowhold - Removed Dreadspire from Leaderboard ### 2. Item - Brooch promotion - Marrow Brooch can now be promoted to Oblit Brooch - Quatrefoil Brooch can now be promoted to Brilliant Quatrefoil Brooch - Cost for promotion [for both brooch] is the following : - 158,994 item XP - 85 Silver Plate - 39 Old Supply Crate - 8 Devil’s Toenail - 8 Dragon’s Skull - 3 Diamond - 9,114 Gold !</description>
+      <description>### 1. Dungeon - Temporarily closed Dreadspire, Harrowhold - Removed Dreadspire from Leaderboard ### 2. Item - Brooch promotion - Marrow Brooch can now be promoted to Oblit Brooch - Quatrefoil Brooch can now be promoted to Brilliant Quatrefoil Brooch - Cost for promotion [for both brooch] is the following : - 158,994 item XP - 85 Silver Plate - 39 Old Supply Crate - 8 Devil&#39;s Toenail - 8 Dragon&#39;s Skull - 3 Diamond - 9,114 Gold !</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-10-11/</guid>
-      <description>### 1. 던전 - 환영의 탑, 파계된 신계의 관문 이용이 임시 종료됩니다. - 환영의 탑은 리더보드에서 시즌 오프됩니다. ### 2. 아이템 - 브로치 승급 - 고룡의 브로치 승급 시 악룡의 브로치를 획득 할 수 있습니다. - 빛나는 여신의 브로치를 승급 하여 신규 브로치 찬란한 여신의 브로치를 획득 할 수 있습니다. - 승급 비용은 하기와 같습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2018-10-11-1.png) ### 3. 스타일샵 - 발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다. - 새로운 외형으로 ‘무흐락 블랙라벨’ 시리즈를 판매합니다.</description>
+      <description>### 1. 던전 - 환영의 탑, 파계된 신계의 관문 이용이 임시 종료됩니다. - 환영의 탑은 리더보드에서 시즌 오프됩니다. ### 2. 아이템 - 브로치 승급 - 고룡의 브로치 승급 시 악룡의 브로치를 획득 할 수 있습니다. - 빛나는 여신의 브로치를 승급 하여 신규 브로치 찬란한 여신의 브로치를 획득 할 수 있습니다. - 승급 비용은 하기와 같습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2018-10-11-1.png) ### 3. 스타일샵 - 발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다. - 새로운 외형으로 &#39;무흐락 블랙라벨&#39; 시리즈를 판매합니다.</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-10-04/</guid>
-      <description>### 1. Quest - Added new quest at Highwatch to be received from Strong wind Moont - Can receive at ilvl 439, and can complete once per day per character - Reward : - 6 Liquid Metal - 4 Hypnotic Device - 3 Artisan’s Tools - 2 Copper Clasp - 1 Pansophic Ash - 4 Archdevan Formula - 2 Carved Ornament - 1 Old Supply Crate ### 2. Dungeon - Shattered Fleet is closed - Adjusted balance for Celestial Arena - Increased HP of monters by 5 times per stage, decreased movement speed by 80% - Added reward by ranking (rank 1-3) : - Rank 1 : - Archdevan Oil - Refined Archdevan Metal (new item) - Celestial Arena Box - Rank 2-3 : - Archdevan Oil - Refined Archdevan Metal (new item) - Celestial Arena Box (1 of) : - Metamorphic Emblem - Otherworldly Shard - Devil’s Toenail - Dragon’s Skull - Elemental Essence - Veiltroch ### 3.</description>
+      <description>### 1. Quest - Added new quest at Highwatch to be received from Strong wind Moont - Can receive at ilvl 439, and can complete once per day per character - Reward : - 6 Liquid Metal - 4 Hypnotic Device - 3 Artisan&#39;s Tools - 2 Copper Clasp - 1 Pansophic Ash - 4 Archdevan Formula - 2 Carved Ornament - 1 Old Supply Crate ### 2. Dungeon - Shattered Fleet is closed - Adjusted balance for Celestial Arena - Increased HP of monters by 5 times per stage, decreased movement speed by 80% - Added reward by ranking (rank 1-3) : - Rank 1 : - Archdevan Oil - Refined Archdevan Metal (new item) - Celestial Arena Box - Rank 2-3 : - Archdevan Oil - Refined Archdevan Metal (new item) - Celestial Arena Box (1 of) : - Metamorphic Emblem - Otherworldly Shard - Devil&#39;s Toenail - Dragon&#39;s Skull - Elemental Essence - Veiltroch ### 3.</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-09-13/</guid>
-      <description>### 1. Fishing - Fishing can be learned through quest - Quest can be found in Highwatch via NPC Jeremy Wayng - Added Vanguard Request “Fshing is fun!” and the following is rewarded : - 500 gold - 50 Vanguard Initiative credit - 500 Item XP - 20 Fisherman&#39;s Token - 5 low-tier worm - 1 Gathering supply box - The following can be given from the Gather supply box : - Produce - Corn - Carrot - Orange Mushroom - Old Pumpkin - Apple - Gem - Uncut Cobala Gem - Uncut Shadmetal Gem - Uncut Xermetal Gem - Uncut Normetal Gem - Uncut ‘Galvorn&#39; Gem - Crystal - Red Essential Energy - Green Essential Energy - Blue Essential Energy - White Essential Energy - Black Essential Energy !</description>
+      <description>### 1. Fishing - Fishing can be learned through quest - Quest can be found in Highwatch via NPC Jeremy Wayng - Added Vanguard Request “Fshing is fun!” and the following is rewarded : - 500 gold - 50 Vanguard Initiative credit - 500 Item XP - 20 Fisherman&#39;s Token - 5 low-tier worm - 1 Gathering supply box - The following can be given from the Gather supply box : - Produce - Corn - Carrot - Orange Mushroom - Old Pumpkin - Apple - Gem - Uncut Cobala Gem - Uncut Shadmetal Gem - Uncut Xermetal Gem - Uncut Normetal Gem - Uncut &#39;Galvorn&#39; Gem - Crystal - Red Essential Energy - Green Essential Energy - Blue Essential Energy - White Essential Energy - Black Essential Energy !</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-09-13/</guid>
-      <description>### 1. 낚시 - 낚시 가이드 퀘스트 ‘낚시! 좋아하세요?’ 가 추가됩니다. - 65레벨 달성 후 이르카의 제레미 웨잉 NPC를 통해 퀘스트를 진행할 수 있습니다. - 발키온 지령서 “낚시는 즐거워!” 가 추가되며, 지령서 완료 보상은 아래와 같습니다. - 500골드 - 발키온 평판 포인트 50 - 특성 경험치 500 - 낚시꾼의 증표 20개 - 최하급 지렁이 5개 - 채집 재료 상자 1개 ![](https://seraphinush-gaming.github.io/mysterium/images/2018-09-13-1.png) - 낚시터 물가에서 낚싯대와 미끼를 이용하여 낚시를 진행할 수 있습니다.</description>
+      <description>### 1. 낚시 - 낚시 가이드 퀘스트 &#39;낚시! 좋아하세요?&#39; 가 추가됩니다. - 65레벨 달성 후 이르카의 제레미 웨잉 NPC를 통해 퀘스트를 진행할 수 있습니다. - 발키온 지령서 “낚시는 즐거워!” 가 추가되며, 지령서 완료 보상은 아래와 같습니다. - 500골드 - 발키온 평판 포인트 50 - 특성 경험치 500 - 낚시꾼의 증표 20개 - 최하급 지렁이 5개 - 채집 재료 상자 1개 ![](https://seraphinush-gaming.github.io/mysterium/images/2018-09-13-1.png) - 낚시터 물가에서 낚싯대와 미끼를 이용하여 낚시를 진행할 수 있습니다.</description>
     </item>
     
     <item>
@@ -368,7 +368,7 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-08-16/</guid>
-      <description>### 1. 스킬 밸런스 - 권술사 - 임전무퇴(신규 Passive) - 65레벨에 습득이 가능합니다. - 몬스터 전방 타격 시 스킬 위력이 7%, 적대치가 15% 상승합니다. - 폭연타 - 점혈 최대 중첩수가 8à3으로 변경됩니다. - 점혈 1중첩 당 맷집 감소율이 1.5%à4%로 변경됩니다. - 광전사 - 야수의 돌진 - 스킬을 시전하는 동안 받는 피해가 50% 감소합니다. - 월광무사 - 승격참 - 2타 타격 시, 월광력이 10만큼 추가로 회복됩니다. - 반월참 - 타격 시, 월광력 추가 회복량이 16à 15로 감소합니다.</description>
+      <description>### 1. 스킬 밸런스 - 권술사 - 임전무퇴(신규 Passive) - 65레벨에 습득이 가능합니다. - 몬스터 전방 타격 시 스킬 위력이 7%, 적대치가 15% 상승합니다. - 폭연타 - 점혈 최대 중첩수가 8 -&amp;gt; 3으로 변경됩니다. - 점혈 1중첩 당 맷집 감소율이 1.5% -&amp;gt; 4%로 변경됩니다. - 광전사 - 야수의 돌진 - 스킬을 시전하는 동안 받는 피해가 50% 감소합니다. - 월광무사 - 승격참 - 2타 타격 시, 월광력이 10만큼 추가로 회복됩니다. - 반월참 - 타격 시, 월광력 추가 회복량이 16 -&amp;gt; 15로 감소합니다.</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-08-09/</guid>
-      <description>### 1. Dungeon - Bahaar’s Temple - Removed ilvl access restriction - Adjusted Vanguard Request ilvl requirement from 457 to 456 - Can now use IMS upon reaching ilvl 456 - Adjusted drop rate of Rare Metal, Sacred Hammer ### 2. Gear - Changed Heroic Oath enchanting cost for +2 -&amp;gt; +3 - Weapon - Gold : From 109,447 to 91,206 - Golden Plate : From 382 to 153 - Silver Plate : From 96 to 38 - Rare Metal : From 395 to 237 - Balance Weights : From 29 to 29 - Sacred Hammer : From 9 to 20 - Diamond : From 9 to 0 - Armor - Gold : From 65,668 to 54,723 - Golden Plate : From 229 to 92 - Silver Plate : From 57 to 23 - Rare Metal : From 237 to 142 - Balance Weights : From 17 to 17 - Sacred Hammer : From 5 to 12 - Diamond : From 6 to 0 - Gloves, boots - Gold : From 43,779 to 36,383 - Golden Plate : From 153 to 61 - Silver Plate : From 38 to 15 - Rare Metal : From 158 to 95 - Balance Weights : From 11 to 11 - Sacred Hammer : From 3 to 7 - Diamond : From 4 to 0 !</description>
+      <description>### 1. Dungeon - Bahaar&#39;s Temple - Removed ilvl access restriction - Adjusted Vanguard Request ilvl requirement from 457 to 456 - Can now use IMS upon reaching ilvl 456 - Adjusted drop rate of Rare Metal, Sacred Hammer ### 2. Gear - Changed Heroic Oath enchanting cost for +2 -&amp;gt; +3 - Weapon - Gold : From 109,447 to 91,206 - Golden Plate : From 382 to 153 - Silver Plate : From 96 to 38 - Rare Metal : From 395 to 237 - Balance Weights : From 29 to 29 - Sacred Hammer : From 9 to 20 - Diamond : From 9 to 0 - Armor - Gold : From 65,668 to 54,723 - Golden Plate : From 229 to 92 - Silver Plate : From 57 to 23 - Rare Metal : From 237 to 142 - Balance Weights : From 17 to 17 - Sacred Hammer : From 5 to 12 - Diamond : From 6 to 0 - Gloves, boots - Gold : From 43,779 to 36,383 - Golden Plate : From 153 to 61 - Silver Plate : From 38 to 15 - Rare Metal : From 158 to 95 - Balance Weights : From 11 to 11 - Sacred Hammer : From 3 to 7 - Diamond : From 4 to 0 !</description>
     </item>
     
     <item>
@@ -386,7 +386,7 @@
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-08-09/</guid>
-      <description>### 1. 던전 - 바하르의 신전 - 던전 입장 아이템 레벨 제한이 사라집니다. - 지령서 수주 장비레벨이 457에서 456으로 조정됩니다. - 장비레벨 456달성 시 파티매칭을 통해 입장할 수 있게 됩니다. - 고급 금속물, 신성한 망치 드랍량이 상향 조정됩니다. ### 2. 장비 - 비장한 맹세 장비 2à3강화 비용이 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2018-08-09-1.png) ### 3. 스타일샵 - 발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다. - 새로운 외형으로 ‘수호 컬렉션 의상’시리즈를 판매합니다. - 해당 아이템은 9월 13일 정기점검 전까지 구입하실 수 있습니다.</description>
+      <description>### 1. 던전 - 바하르의 신전 - 던전 입장 아이템 레벨 제한이 사라집니다. - 지령서 수주 장비레벨이 457에서 456으로 조정됩니다. - 장비레벨 456달성 시 파티매칭을 통해 입장할 수 있게 됩니다. - 고급 금속물, 신성한 망치 드랍량이 상향 조정됩니다. ### 2. 장비 - 비장한 맹세 장비 2 -&amp;gt; 3강화 비용이 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2018-08-09-1.png) ### 3. 스타일샵 - 발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다. - 새로운 외형으로 &#39;수호 컬렉션 의상&#39;시리즈를 판매합니다. - 해당 아이템은 9월 13일 정기점검 전까지 구입하실 수 있습니다.</description>
     </item>
     
     <item>
@@ -395,7 +395,7 @@
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-08-02/</guid>
-      <description>### 1. Dungeon - Bahaar’s Temple - Requires ilvl 457 to use IMS - Located at Frymount - Drops Sacred Hammer, Dragon’s Bow, Balance Weights, Rare Metal, Amplifier II, Transcendence Mask, auto-pot pet, Superior Etchings, and Meownya Innerwear (all 5 types) - Added Bahaar’s Temple to Leaderboard - Added Replica Statue as Leaderboard reward ### Replica standards - Previous season rank 1 party - No replica is installed for the first season, and existing replicas are removed when seasons change - Only the rank 1 party will have their replica installed - Replica look saved as right before server maintenance - Replica look will reflect the look right before server maintenance.</description>
+      <description>### 1. Dungeon - Bahaar&#39;s Temple - Requires ilvl 457 to use IMS - Located at Frymount - Drops Sacred Hammer, Dragon&#39;s Bow, Balance Weights, Rare Metal, Amplifier II, Transcendence Mask, auto-pot pet, Superior Etchings, and Meownya Innerwear (all 5 types) - Added Bahaar&#39;s Temple to Leaderboard - Added Replica Statue as Leaderboard reward ### Replica standards - Previous season rank 1 party - No replica is installed for the first season, and existing replicas are removed when seasons change - Only the rank 1 party will have their replica installed - Replica look saved as right before server maintenance - Replica look will reflect the look right before server maintenance.</description>
     </item>
     
     <item>
@@ -458,7 +458,7 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-07-13/</guid>
-      <description>### 1. 스킬 - 이어지는 스킬이 7월 12일 업데이트 이전 사양으로 변경됩니다. [개발자 코멘트] - 자동으로 설정된 이어지는 스킬과 직접 설정한 이어지는 스킬을 동시에 이용하는 수호자님의 불편을 고려하여 기존의 방식대로 되돌렸습니다. - 마공사 - 구르기: 산탄 장전 - 1회만 사용했을 경우, 4초후에 다시 2회를 사용할 수 있도록 변경됩니다 - 대쉬: 미사일 장전 - 1회만 사용했을 경우, 4초후에 다시 2회를 사용할 수 있도록 변경됩니다 ### [버그수정] - 스킬 - 마법사 융합 스킬의 쿨타임이 사용 즉시 적용되지 않는 문제 - 차징류 스킬의 자동발동 시점이 이전보다 빠른 문제 - 인술사 표창 연사 스킬을 부메랑 수리검 이후 연계로 사용 시 확률적으로 클라이언트 크래시가 발생하는 문제 - 마공사 [일반 포탄 발사] 관련 문장 효과가 [빔 판넬 소환] 효과가 적용된 [아케인 빔 포격]의 추가 미사일에 효과가 적용되지 않는 문제 - 각성 후방판정 관련 패시브 스킬 설명에 ‘몬스터 적용’ 조건이 누락된 문제 - UI - 파티창에서 챔피언 등급 업적 클래스 마크가 잘못 출력되고 있는 문제 - 귓속말 알림기능 설정 시 귓속말 내용이 undefined로 출력되는 문제 - 현재 탭 옵션에서 글자 크기 조절 시 다른 탭까지 값이 적용되는 문제 - 일부 메뉴 단축키 변경 시 변경된 단축키 정보가 비정상적으로 출력되는 문제 - 숏컷에 등록되어 있는 스킬이나 아이템을 드래그 앤 드롭으로 제거한 직후 스킬이나 아이템을 재등록 할 수 없는 문제 - 우측 추가 슬롯에 스킬 등록 시 연속 공격이 사용되지 않는 문제 - 7월 12일 정기점검 이전 설정해 놓은 일부 버튼이 패치 이후 중복되는 문제 - 파티장 메뉴 – 모든 던전 초기화 기능이 동작하지 않는 문제 - 퀘스트 - 각성 퀘스트 진행 중 내면 세계에서 사망 시 각성 퀘스트를 진행 할 수 없는 문제 - 던전 - 상급/하급 테네브리스 성채 3네임드에서 악마화 적용 후 받는 데미지 증가 효과가 고정 데미지에는 적용되지 않는 문제 - 테네브리스 성채 3네임드 악마화 효과가 꺼지지 않는 문제  source : TERA 테라 | NEXON</description>
+      <description>### 1. 스킬 - 이어지는 스킬이 7월 12일 업데이트 이전 사양으로 변경됩니다. [개발자 코멘트] - 자동으로 설정된 이어지는 스킬과 직접 설정한 이어지는 스킬을 동시에 이용하는 수호자님의 불편을 고려하여 기존의 방식대로 되돌렸습니다. - 마공사 - 구르기: 산탄 장전 - 1회만 사용했을 경우, 4초후에 다시 2회를 사용할 수 있도록 변경됩니다 - 대쉬: 미사일 장전 - 1회만 사용했을 경우, 4초후에 다시 2회를 사용할 수 있도록 변경됩니다 ### [버그수정] - 스킬 - 마법사 융합 스킬의 쿨타임이 사용 즉시 적용되지 않는 문제 - 차징류 스킬의 자동발동 시점이 이전보다 빠른 문제 - 인술사 표창 연사 스킬을 부메랑 수리검 이후 연계로 사용 시 확률적으로 클라이언트 크래시가 발생하는 문제 - 마공사 [일반 포탄 발사] 관련 문장 효과가 [빔 판넬 소환] 효과가 적용된 [아케인 빔 포격]의 추가 미사일에 효과가 적용되지 않는 문제 - 각성 후방판정 관련 패시브 스킬 설명에 &#39;몬스터 적용&#39; 조건이 누락된 문제 - UI - 파티창에서 챔피언 등급 업적 클래스 마크가 잘못 출력되고 있는 문제 - 귓속말 알림기능 설정 시 귓속말 내용이 undefined로 출력되는 문제 - 현재 탭 옵션에서 글자 크기 조절 시 다른 탭까지 값이 적용되는 문제 - 일부 메뉴 단축키 변경 시 변경된 단축키 정보가 비정상적으로 출력되는 문제 - 숏컷에 등록되어 있는 스킬이나 아이템을 드래그 앤 드롭으로 제거한 직후 스킬이나 아이템을 재등록 할 수 없는 문제 - 우측 추가 슬롯에 스킬 등록 시 연속 공격이 사용되지 않는 문제 - 7월 12일 정기점검 이전 설정해 놓은 일부 버튼이 패치 이후 중복되는 문제 - 파티장 메뉴 – 모든 던전 초기화 기능이 동작하지 않는 문제 - 퀘스트 - 각성 퀘스트 진행 중 내면 세계에서 사망 시 각성 퀘스트를 진행 할 수 없는 문제 - 던전 - 상급/하급 테네브리스 성채 3네임드에서 악마화 적용 후 받는 데미지 증가 효과가 고정 데미지에는 적용되지 않는 문제 - 테네브리스 성채 3네임드 악마화 효과가 꺼지지 않는 문제  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -548,7 +548,7 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-06-07/</guid>
-      <description>### 1. Dungeon - Shadow Sanguinary (hard) - Requires ilvl 446 - Teleportal located at Highwatch Outskirts - Drops Mask of the Beginning, and other top-tier enchanting materials - Shadow Sanguinary (normal) - Requires ilvl 439 - Teleportal located at Highwatch Outskirts - Drops Golden Talent, Silver Talent, and other high-tier enchanting materials ### 2. Item - Added new accessories - Transcendence Necklace - Transcendence Earring - Transcendence Ring - Transcendence Circlet - Heroic Vow Belt - Added items required to promote to new accessories - (Following items can be acquired from Antaroth’s Abyss (hard), RK-9 Kennel (hard), and Rakelith’s Manor (hard)) - Worn crate - Devil’s Claw - Dragon’s Skull - Added Talent Reset Potion to Specialty Merchants at each town (K TERA exclusive) - Price : 2,000 gold ### 3.</description>
+      <description>### 1. Dungeon - Shadow Sanguinary (hard) - Requires ilvl 446 - Teleportal located at Highwatch Outskirts - Drops Mask of the Beginning, and other top-tier enchanting materials - Shadow Sanguinary (normal) - Requires ilvl 439 - Teleportal located at Highwatch Outskirts - Drops Golden Talent, Silver Talent, and other high-tier enchanting materials ### 2. Item - Added new accessories - Transcendence Necklace - Transcendence Earring - Transcendence Ring - Transcendence Circlet - Heroic Vow Belt - Added items required to promote to new accessories - (Following items can be acquired from Antaroth&#39;s Abyss (hard), RK-9 Kennel (hard), and Rakelith&#39;s Manor (hard)) - Worn crate - Devil&#39;s Claw - Dragon&#39;s Skull - Added Talent Reset Potion to Specialty Merchants at each town (K TERA exclusive) - Price : 2,000 gold ### 3.</description>
     </item>
     
     <item>
@@ -566,7 +566,7 @@
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-05-31/</guid>
-      <description>### 1. Battleground - Added Bellicarium credits to rewards and enchanting material box - Revised reward - Corsairs’ Stronghold - Win : - 90,000 Bellicarium credits - 7x enchanting material boxes - Lose : - 30,000 Bellicarium credits - 4x enchanting material boxes - Fraywind Canyon - Win : - 90,000 Bellicarium credits - 8x enchanting material boxes - Lose : - 30,000 Bellicarium credits - 5x enchanting material boxes - Champion’s Skyring (solo) - Win : - 9,000 Bellicarium credits - 7x Golden Talents - Lose : - 3,000 Bellicarium credits - 3x Silver Talents - Champion’s Skyring (team) - Win : - 4,500 Bellicarium credits - 7x Golden Talents - Lose : - 1,500 Bellicarium credits - 3x Silver Talents !</description>
+      <description>### 1. Battleground - Added Bellicarium credits to rewards and enchanting material box - Revised reward - Corsairs&#39; Stronghold - Win : - 90,000 Bellicarium credits - 7x enchanting material boxes - Lose : - 30,000 Bellicarium credits - 4x enchanting material boxes - Fraywind Canyon - Win : - 90,000 Bellicarium credits - 8x enchanting material boxes - Lose : - 30,000 Bellicarium credits - 5x enchanting material boxes - Champion&#39;s Skyring (solo) - Win : - 9,000 Bellicarium credits - 7x Golden Talents - Lose : - 3,000 Bellicarium credits - 3x Silver Talents - Champion&#39;s Skyring (team) - Win : - 4,500 Bellicarium credits - 7x Golden Talents - Lose : - 1,500 Bellicarium credits - 3x Silver Talents !</description>
     </item>
     
     <item>
@@ -584,7 +584,7 @@
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-05-24/</guid>
-      <description>### 1. Style shop - K TERA exclusive ### 2. Event item removal - K TERA exclusive ### Bug fixes - Dungeon - Broken Prison, 3rd boss : Fixed issue where portals did not get destroyed occasionally - Cruel Dreadspire, 8th floor : Fixed issue where 2 aggro marks were designated - Kalivan’s Challenge : Fixed issue where defeating 1st boss did not open path to 2nd boss - UI - Fixed issue where certain profile elements were empty occasionally - K TERA event exclusive - Skill - Lancer : Fixed issue where Adrenaline Rush talent effect to increase skill damage by 5% did not apply  source : TERA 테라 | NEXON</description>
+      <description>### 1. Style shop - K TERA exclusive ### 2. Event item removal - K TERA exclusive ### Bug fixes - Dungeon - Broken Prison, 3rd boss : Fixed issue where portals did not get destroyed occasionally - Cruel Dreadspire, 8th floor : Fixed issue where 2 aggro marks were designated - Kalivan&#39;s Challenge : Fixed issue where defeating 1st boss did not open path to 2nd boss - UI - Fixed issue where certain profile elements were empty occasionally - K TERA event exclusive - Skill - Lancer : Fixed issue where Adrenaline Rush talent effect to increase skill damage by 5% did not apply  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -638,7 +638,7 @@
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-05-10/</guid>
-      <description>### 1. Event item removal - Removed Manglemire event related items ### 2. Guardian Legion mission additional reward - Distributed additional rewards that were not distributed to players properly - Distributed via parcel ### Bug fixes - UI - Fixed issue where Lancer’s perfect block UI would display longer than the reflected damage splash - Fixed issue where items distributed through events could not be registered on a skill slot - Dungeon - Demon’s Wheel, 1st boss : Fixed issue where aoe attacks would explode immediately when boss is defeated  source : TERA 테라 | NEXON</description>
+      <description>### 1. Event item removal - Removed Manglemire event related items ### 2. Guardian Legion mission additional reward - Distributed additional rewards that were not distributed to players properly - Distributed via parcel ### Bug fixes - UI - Fixed issue where Lancer&#39;s perfect block UI would display longer than the reflected damage splash - Fixed issue where items distributed through events could not be registered on a skill slot - Dungeon - Demon&#39;s Wheel, 1st boss : Fixed issue where aoe attacks would explode immediately when boss is defeated  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -665,7 +665,7 @@
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-05-03/</guid>
-      <description>### 1. 데모로스의 룰렛 - 5인 파티 던전 데모로스의 룰렛이 05/31(목) 점검 전까지 오픈됩니다. - 알레만시아 인근 ‘산 알레마 마을’의 게이트를 통해 던전에 입장할 수 있습니다. - 장비 레벨 439 달성 시 발키온 지령서 선택 지령 목록에 데모로스의 룰렛이 표시됩니다. - 아티팩트 원석 VII, [이벤트] 아프로 헤어, [이벤트] 양 불고기 등 다양한 보상을 획득 할 수 있습니다. ### 2. 길드대전 - 길드 전초기지 건설 권한이 길드 자금 사용 권한을 가진 길드원만 설치 가능하도록 변경됩니다.</description>
+      <description>### 1. 데모로스의 룰렛 - 5인 파티 던전 데모로스의 룰렛이 05/31(목) 점검 전까지 오픈됩니다. - 알레만시아 인근 &#39;산 알레마 마을&#39;의 게이트를 통해 던전에 입장할 수 있습니다. - 장비 레벨 439 달성 시 발키온 지령서 선택 지령 목록에 데모로스의 룰렛이 표시됩니다. - 아티팩트 원석 VII, [이벤트] 아프로 헤어, [이벤트] 양 불고기 등 다양한 보상을 획득 할 수 있습니다. ### 2. 길드대전 - 길드 전초기지 건설 권한이 길드 자금 사용 권한을 가진 길드원만 설치 가능하도록 변경됩니다.</description>
     </item>
     
     <item>
@@ -674,7 +674,7 @@
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-04-26/</guid>
-      <description>### 1. Dungeon - Adjusted balance on Cruel Dreadspire - Adjusted to decrease HP of each monster - Decreased the frequency of patterns for 3rd floor Dakuryon - Decreased the stack debuff difficulty of 6th floor Krakatox - Closed Manglemire - Disabled usage of Chocolates (consumables) in ranking contents. entering dungeons with the buffs will removes the consumables. the following dungeons are affected : - Cruel Dreadspire - Antaros’ Abyss (hard) - Pit of Petrax Developer comment ### 2.</description>
+      <description>### 1. Dungeon - Adjusted balance on Cruel Dreadspire - Adjusted to decrease HP of each monster - Decreased the frequency of patterns for 3rd floor Dakuryon - Decreased the stack debuff difficulty of 6th floor Krakatox - Closed Manglemire - Disabled usage of Chocolates (consumables) in ranking contents. entering dungeons with the buffs will removes the consumables. the following dungeons are affected : - Cruel Dreadspire - Antaros&#39; Abyss (hard) - Pit of Petrax Developer comment ### 2.</description>
     </item>
     
     <item>
@@ -827,7 +827,7 @@
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-03-08/</guid>
-      <description>###1. 전장 - 쿠마스 놀이터 - 추방 투표율이 변경됩니다. - 100% 찬성 → 추방 대상자 제외 80% 찬성으로 변경 - 패배 보상이 조정됩니다. - 1개 지급되던 ‘전사 꿈나무 격려문’ 지급 수량이 3개로 조정 ### 2. 이벤트/퀘스트 아이템 삭제 - 혁명단 은거지/안타로스의 심연 의뢰서 아이템 및 퀘스트 삭제 - 코드네임 : TERA 이벤트 관련 아이템 (글자조각, 파편, 글자 조합 상자, GM의 두근두근 선물 상자) 삭제 ### [버그수정] - 부가서비스 - 특정 상황에서 스타일 모자 탈착 반복 시 게임이 종료되는 문제 - 던전 - 안타로스의 심연(상급/하급) 던전 클리어 후, 인던 초기화를 진행해도 던전 밖으로 이동되지 않던 문제  source : TERA 테라 | NEXON</description>
+      <description>###1. 전장 - 쿠마스 놀이터 - 추방 투표율이 변경됩니다. - 100% 찬성 → 추방 대상자 제외 80% 찬성으로 변경 - 패배 보상이 조정됩니다. - 1개 지급되던 &#39;전사 꿈나무 격려문&#39; 지급 수량이 3개로 조정 ### 2. 이벤트/퀘스트 아이템 삭제 - 혁명단 은거지/안타로스의 심연 의뢰서 아이템 및 퀘스트 삭제 - 코드네임 : TERA 이벤트 관련 아이템 (글자조각, 파편, 글자 조합 상자, GM의 두근두근 선물 상자) 삭제 ### [버그수정] - 부가서비스 - 특정 상황에서 스타일 모자 탈착 반복 시 게임이 종료되는 문제 - 던전 - 안타로스의 심연(상급/하급) 던전 클리어 후, 인던 초기화를 진행해도 던전 밖으로 이동되지 않던 문제  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -854,7 +854,7 @@
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-02-22/</guid>
-      <description>### 1. Dungeon server stabilization - Proceeded with sabilization update to reduce player lag issues ### 2. Proxy block - Proceeded with security update to block Proxy usage (memeslash block) ### Bug fixes - Dungeon - Fixed issue where player location did not sync with the server during certain dungeon mechanics - Quest - Fixed issue where `The Traitor of Acarum` quest NPC stated the wrong location - Fixed issue where Frymount NPCs Eurice and Kenela did not exist - Fixed issue where Reaper quest could not proceed by using Double Shear II - Services - Fixed issue where Elin’s upswept hairstyle did not display properly to certain classes - Skill - Lancer : Fixed issue where Adrenaline Rush tooltip stated skill damage increase - Gunner : Fixed issue where blast was shot not out of Arcannon but elsewhere - Brawler : Fixed issue where using Divine Wrath glyphed with Energetic glyph fully filled rage gauge  source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon server stabilization - Proceeded with sabilization update to reduce player lag issues ### 2. Proxy block - Proceeded with security update to block Proxy usage (memeslash block) ### Bug fixes - Dungeon - Fixed issue where player location did not sync with the server during certain dungeon mechanics - Quest - Fixed issue where `The Traitor of Acarum` quest NPC stated the wrong location - Fixed issue where Frymount NPCs Eurice and Kenela did not exist - Fixed issue where Reaper quest could not proceed by using Double Shear II - Services - Fixed issue where Elin&#39;s upswept hairstyle did not display properly to certain classes - Skill - Lancer : Fixed issue where Adrenaline Rush tooltip stated skill damage increase - Gunner : Fixed issue where blast was shot not out of Arcannon but elsewhere - Brawler : Fixed issue where using Divine Wrath glyphed with Energetic glyph fully filled rage gauge  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -881,7 +881,7 @@
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2018/2018-02-08/</guid>
-      <description>### 1. 퀘스트 - 고대 바라카의 유적터에서 진행하는 ‘실험실의 비극’ 퀘스트 진행 중 실험체 수용소 감옥 창살이 재스폰되도록 개선하였습니다. ### [버그수정] - 파티 - 던전/전장 입장 후, 오프라인 상태인 플레이어 추방 시도 시 추방 투표 UI가 출력되지 않는 문제 - 던전 - 안타로스의 심연(상급/하급) 3네임드 처치와 동시에 파티 전멸 시 3네임드 전투 공간으로 재진입 할 수 없는 문제 - 스킬 - 바라카 검투사로 그림자 분신 스킬 사용 시 그림자가 소환되지 않는 문제 - 아이템 - 11/23(목) 점검 이후 접속 시 소지하고 있던 마도공학회 엘리트 유니폼이 삭제되었던 문제 (오늘 중 우편으로 복구해드릴 예정입니다.</description>
+      <description>### 1. 퀘스트 - 고대 바라카의 유적터에서 진행하는 &#39;실험실의 비극&#39; 퀘스트 진행 중 실험체 수용소 감옥 창살이 재스폰되도록 개선하였습니다. ### [버그수정] - 파티 - 던전/전장 입장 후, 오프라인 상태인 플레이어 추방 시도 시 추방 투표 UI가 출력되지 않는 문제 - 던전 - 안타로스의 심연(상급/하급) 3네임드 처치와 동시에 파티 전멸 시 3네임드 전투 공간으로 재진입 할 수 없는 문제 - 스킬 - 바라카 검투사로 그림자 분신 스킬 사용 시 그림자가 소환되지 않는 문제 - 아이템 - 11/23(목) 점검 이후 접속 시 소지하고 있던 마도공학회 엘리트 유니폼이 삭제되었던 문제 (오늘 중 우편으로 복구해드릴 예정입니다.</description>
     </item>
     
     <item>
@@ -944,7 +944,7 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2018/2018-01-11/</guid>
-      <description>### 1. Dungeon - Ruinous Manor (hard) - Increased respawn time - This change is made in order to prevent users from resetting after combat and preventing certain mechanics from initiating - Rebel’s Hideout, Rebel’s Hideout (hard) - Revised first boss’ in/out pre-explosion effect - Revised obstructions on path to first boss ### 2. Achievement season 8 start - Achievement season 8 which was delayed last week due to an error will now start ### Bug fixes - Dungeon - Fixed issue where background music did not play in Rebel’s Hideout and Rebel’s Hideout (hard) - UI - Fixed issue where Guardian Mission UI displayed outside of Guardian Missions area  source : TERA 테라 | NEXON</description>
+      <description>### 1. Dungeon - Ruinous Manor (hard) - Increased respawn time - This change is made in order to prevent users from resetting after combat and preventing certain mechanics from initiating - Rebel&#39;s Hideout, Rebel&#39;s Hideout (hard) - Revised first boss&#39; in/out pre-explosion effect - Revised obstructions on path to first boss ### 2. Achievement season 8 start - Achievement season 8 which was delayed last week due to an error will now start ### Bug fixes - Dungeon - Fixed issue where background music did not play in Rebel&#39;s Hideout and Rebel&#39;s Hideout (hard) - UI - Fixed issue where Guardian Mission UI displayed outside of Guardian Missions area  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>

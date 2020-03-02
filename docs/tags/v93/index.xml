@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v93 on mysterium</title>
+    <link>/mysterium/tags/v93/</link>
+    <description>Recent content in v93 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/mysterium/tags/v93/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020년 02월 27일 업데이트 안내 (v93.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2020/v93-01/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2020/v93-01/</guid>
+      <description>## 컨텐츠 업데이트 ### 1. 던전 및 보상 개편 - 15종의 던전 운영이 중단됩니다. - 던전명 - 베르노의 실험실 - 하르키아의 안식처 - 포악한 베르노의 실험실 - 궁극의 RK-9 격납고 - 듀리온의 안식처 - 안타로스의 심연 - 릴리스의 성 - 테네브리스 성채 - 라켈리스의 폐허 - 고대의 지하수로 - 초월한 라켈리스의 폐허 - 파르퀴나의 둥지 - 함락된 벨릭의 신전 - 리안의 지하 전당 - 사이럭스 연구 기지 - 일부 던전은 추후 리뉴얼을 통해 재오픈 예정입니다.</description>
+    </item>
+    
+  </channel>
+</rss>
