@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v50 on mysterium</title>
+    <link>/mysterium/tags/v50/</link>
+    <description>Recent content in v50 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/mysterium/tags/v50/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016년 09월 22일 업데이트 안내 (v50.01.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2016/v50-01-02/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2016/v50-01-02/</guid>
+      <description>### 1. 길드대전 - 길드대전이 재오픈됩니다. - 오는 9월 24일 첫 길드대전이 시작됩니다. - 매 주 토요일 2시간씩 운영되며, 해당 시간에만 전초기지에 대한 공격이 가능합니다. - 길드대전 지역에 출현하는 대형 몬스터 보상이 변경됩니다. - 다이아몬드, 에메랄드 드랍 수량이 대폭 증가합니다. - 철기장 복수 상자 보상이 철기장:매혹 상자로 변경됩니다. - 길드대전 적을 죽이거나 죽었을 때 관련 킬/데스 메시지가 출력됩니다. - 길드대전 진행 중 적을 죽이거나 죽었을 때 길드활동에 참여한 공헌도 5점을 획득합니다.</description>
+    </item>
+    
+  </channel>
+</rss>
