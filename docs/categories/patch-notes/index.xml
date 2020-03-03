@@ -2838,11 +2838,11 @@
     </item>
     
     <item>
-      <title>2016.12.22 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-12-22/</link>
+      <title>2016.12.22 patch notes (v54.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v54-01/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-12-22/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v54-01/</guid>
       <description>[Translated patch notes by Loriri (idi0ticgenius#4869) and seraphinush (seraphinush#5417) with the help of Sam (sam202s)](https://docs.google.com/document/d/1PDRPxgkFE8_DKApHjzZTDjZSa5ZGB9Ge3Bdixeq1h3k/edit)  source : TERA 테라 | NEXON</description>
     </item>
     
@@ -2865,11 +2865,11 @@
     </item>
     
     <item>
-      <title>2016.12.08 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-12-08/</link>
+      <title>2016.12.08 patch notes (v53.01.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v53-01-01/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-12-08/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v53-01-01/</guid>
       <description>### 1. Skill - Berserker - Vampiric Strike, Lethal Strike - Revised issue where damage was significantly low at high HP - The following is the HP and damage ratio: - HP 100-90%: 1.0 times, HP 90-80%: 1.1 times - Damage onward will increase by 1.1 times per 10% HP (Max at HP 10-0%: 2.0 times) - Note: Probably means that each decremenet of 10% HP will result in “additional” 0.</description>
     </item>
     
@@ -2883,11 +2883,11 @@
     </item>
     
     <item>
-      <title>2016.12.01 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-12-01/</link>
+      <title>2016.12.01 patch notes (v53.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v53-01/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-12-01/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v53-01/</guid>
       <description>### 1. Skill - Berserker - Thunder Strike - Increase PvE damage by 15% - Slightly decrease PvP damage - Changed glyph point for Glyph of the Slick (common) from 7 to 6 - Changed glyph point for Glyph of the Slick (uncommon) from 6 to 5 - Changed glyph point for Glyph of the Slick (rare) from 5 to 4 - Added different skill display per charge, and increased visibility of hit radius - Image - Fiery Rage - Changed to be able to move while casting in [normal] stance - Triumphant Shout - Removed skill, and added skill effect to Tenacity - Cyclone - Patch notes do not comment on pulling effect on enemies - Changed glyph effect to increase damage from 12% to 24% from overcharging - Changed skill display hues - Image - Tenacity - Added Triumphant Shout skill effect - Increased MP regen - Bloodlust - Added Flurry of Blows effect for 10 seconds upon casting - Lethal Strike - Changed to increased damage as HP decreases - Added passive to increase crit chance when below 50% HP - Changed glyph point for Glyph of the Slick (common) from 6 to 5 - Vampiric Blow - Changed to increased damage as HP decreases - Added passive to increase crit chance when below 50% HP - Image - Reduced post-skill display delay - Changed glyph point for Glyph of Power (common) from 5 to 4 - Added glyph to increase skill damage of Lethal Strike by 20% - Slayer - Knockdown Strike - Increased PvE damage by 20% - Increased casting speed after 3rd hit of Distant Blade - Added Glyph (common) to decrease damage by 50% while casting - Backstab - Decreased cooldown by 3 seconds - Readjusted grounding effect after using skill - Changed to not take cooldown in case it fails to move - Triumphant Shout - Removed skill, and added skill effect and glyphs to Tenacity - Overhand Strike - Adjusted level requirement and base damage for skill when under level 52 - Removed knockdown to monsters (knockdown still exists for Ultimate Overhand Strike) - Increased casting speed after 3rd hit of Distant Blade and Fury Strike - Heart Thrust - Increased PvE damage by 10% - Startling Kick - Changed to ignore collision during casting - Overpower - Changed to be able to stop animation during casting - Tenacity - Added Triumphant Shout skill effect upon casting - Increased MP regen - Eviscerate - Increased damage by 10% - Increased crit chance by 1.</description>
     </item>
     
@@ -2937,16 +2937,16 @@
     </item>
     
     <item>
-      <title>2016.10.27 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-10-27/</link>
+      <title>2016.10.27 patch notes (v52.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v52-01/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-10-27/</guid>
-      <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster - Image - Stack UI will be display beneath the HP/MP bar - Image - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v52-01/</guid>
+      <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-1.png) - Stack UI will be display beneath the HP/MP bar ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-2.png) - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
     </item>
     
     <item>
-      <title>2016년 10월 27일 업데이트 안내</title>
+      <title>2016년 10월 27일 업데이트 안내 (v52.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v52-01/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
@@ -2955,7 +2955,7 @@
     </item>
     
     <item>
-      <title>2016년 10월 20일 업데이트 안내</title>
+      <title>2016년 10월 20일 업데이트 안내 (V51.02.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v51-02-01/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       
@@ -2964,12 +2964,12 @@
     </item>
     
     <item>
-      <title>2016.10.13 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-10-13/</link>
+      <title>2016.10.13 patch notes (v51.02) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v51-02/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-10-13/</guid>
-      <description>### 1. Festival - Started Halloween Festival - Details - Some pictures - Many details ### 2. GvG - Increased the font size for kill/death message - Decreased the GvG declaration cost and GvG status maintenance cost - image ### 3. Battleground - Segregated Kumas Royale to level 65 only/level 20-64 - Picture - Level will be adjusted to level 65 upon entering lower level Kumas Royale - Another picture - Changed vote kick rule from majority of 80% to 100% - Removed battleground daily quest from Vanguard Initiative quest ### 4.</description>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v51-02/</guid>
+      <description>### 1. Festival - Started Halloween Festival - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 &#39;꼬마 마녀&#39;들이 등장합니다. - 마녀의 성 지상 1층에서 &#39;마녀탐정 티티아나&#39; NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 &#39;하르니아&#39; NPC와 대화하여 게임을 시작할 수 있습니다.</description>
     </item>
     
     <item>
@@ -2991,11 +2991,11 @@
     </item>
     
     <item>
-      <title>2016.09.29 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-09-29/</link>
+      <title>2016.09.29 patch notes (v51.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v51-01/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-09-29/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v51-01/</guid>
       <description>### 1. Dungeon - Added new dungeon [Twisted Lakan&#39;s Altar] Twisted Lakan&#39;s Altar is a 5man party dungeon - Can be entered through teleportal in Arcadia &amp;gt; Oblivion Woods &amp;gt; Deva Silva, and requires iLvl 417 to enter via IMS - Rewards are Tier 2 Demense earring/ring, Imperator Belt, Cleansing Brooch, Goldfinger Token, Eau d&#39;Fascination, Lachelith&#39;s Treasure Box, Imperator designs, Ambush designs, Rare innerwear, Dyad Niveot Structure, and etc - Added [Twisted Lakan&#39;s Altar] to guild quest - Destroyed Gateway to God&#39;s Realm (GDDR) - Adjusted balance per phase - Phase 1 - Decreased Agalith damage by 15% - Decreased Agalith HP by 10% - Phase 2 - Increased Balista skill damage by 20% - Phase 3 - Decreased Vergoth defense by 5% - Phase 4 - Increased attack speed of aerial breathe by 10% - Increased attack speed of stoning attack due to close-range explosion by 15% - Decreased gold drop per phase - Gold Hunter Boost/Internet Cafe/Elite related bonus gold will no longer apply - Increased the upper limit of gold given, and decreased lower limit - Decreased the number of gold item dropped - Exchanged the loot table between Phase 1 and Phase 2 - Clearing Phase 2 gives Phase 1 loot, and clearing Phase 1 gives Phase 2 loot - Changed loot table and loot probability of Vergoth&#39;s Bronze/Silver/Gold Treasure Box - Removed Diamond - Added Goddess&#39;s Tear and Superior Etching Box - 각 페이즈의 기본보상인 베르고스의 전투 주머니에 강화석이 추가로 구성됩니다.</description>
     </item>
     
@@ -3009,11 +3009,11 @@
     </item>
     
     <item>
-      <title>2016.09.22 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-09-22/</link>
+      <title>2016.09.22 patch notes (v50.01.02) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v50-01-02/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-09-22/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v50-01-02/</guid>
       <description>### 1. Civil Unrest - Reopened Civil Unrest - Some comment - Some comment - Changed loot table for bams in CU - Increased the number of Diamond and Emerald - Changed Imperator gear box to Ambush gear box - Added message upon kill or death during CU - Added 5 contribution points upon kill or death during CU - Can only be obtained while Guild Tower exists - Added Guild XP to CU rank 1-10 - Rank : Guild XP - 1 : 340 - 2 : 145 - 3 : 97 - 4 : 82 - 5 : 82 - 6 : 75 - 7 : 75 - 8 : 75 - 9 : 75 - 10 : 75 ### 2.</description>
     </item>
     
@@ -3027,16 +3027,16 @@
     </item>
     
     <item>
-      <title>2016.09.13 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-09-13/</link>
+      <title>2016.09.13 patch notes (v50.01.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v50-01-01/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-09-13/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v50-01-01/</guid>
       <description>### 1. Skill - Archer - Removed Bloodlust effect (additional damage as HP of monster decreases) from Thunderbolt - Adjusted the excessive PvP damage of Thunderbolt - Changed Rapid Fire - Glyph of Power from increase skill damage by 50% to 20% - Changed Rapid Fire - Glyph of Persistence from eliminate cooldown by 30% to 15% ### 2. Item - K TERA exclusive ### 3. Miscellaneous (added) - Rootstock Festival is activated (K TERA exclusive) - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment - K TERA exclusive comment  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2016년 09월 13일 업데이트 안내</title>
+      <title>2016년 09월 13일 업데이트 안내 (v50.01.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v50-01-01/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -3045,16 +3045,16 @@
     </item>
     
     <item>
-      <title>2016.09.08 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-09-08/</link>
+      <title>2016.09.08 patch notes (v50.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v50-01/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-09-08/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v50-01/</guid>
       <description>### 1. Skill - Archer - Added new skill [Pursuit] - Skill description - Added new skill [Foresight] - Skill description - Increased damage of Thunderbolt by 100% - Changed skill display - Added Noctenium effect - Consumes 2 Noctenium Infusion, increases damage by 9-13% - Increased damage of Radiant Arrow by 25% - Changed skill display - Increased damage of Penetrating Arrow by 25% - Changed skill display - Increased damage of Rain of Arrows by 10% - First hit positioning will determine the positioning of the entire skill - Changed skill display - Changed Backstep to be directional input - Changed Breakaway Bolt to be directional input - Increased damage of Rapid Fire - Increased damage of first hit by 3 times - Increased damage of 2~7 hit by 10% - Focus Preparation stacks per hit - Increased casting speed of Poison Arrow - Increased maximum poison stack to 3 - Changed Ensnaring Trap from 1 hit to 2 hit - Re-clicking the skill will trigger the second hit of the trap - Second hit of skill will apply decrease movement speed by 90% effect - Movement speed debuff will be halved in PvP - Time limit to trigger the second hit is 3 seconds - Changed skill sound and display - Changed Eagle&#39;s Eye effect - Before: Increase damage against bams by 5% - After: Increase damage against monsters by 7% - Removed Sniper&#39;s Eye - Renamed Final Salvo to Successive Shot - Combined 5 hits to a single hit - Increased the damage to be 40% more than the sum damage of the original 5 hits - Changed skill display - Broadened the skills that applies Focus Preparation - Changed the skill effect from using Arrow to Focus Preparation - Focus Preparation will stack from Arrow, Successive Shot, and Rapid Fire, and upon 10 stacks Focus effect will apply increasing the charging speed of all charge skills - Changed and added glyphs - Rapid Fire: Glyph of – Chance to eliminate cooldown by 30% (4) - Successive Shot Glyph of – Decrease cooldown by 25% (4) - Successive Shot: Glyph of – Decrease cooldown by 35% (3) - Thunderbolt: Glyph of Carving – Increase crit chance by 2 times (4) - Thunderbolt: Glyph of Carving – Increase crit chance by 3 times (3) - Radiant Arrow: Glyph of Carving – Increased crit chance by 3 times (4) - Berserker - Applies both Fiery Rage effect and Flurry of Blows effect upon using Fiery Rage - Decreased Evasive Roll cooldown by 1 second - Increased Evasive Smash cooldown by 2 seconds - Added a new passive skill which increases crit chance of the next Thunder Strike if the previous Thunder Strike fails to crit - This passive will only apply in PvE situations - Changed glyph effects - Changed Flurry of Blows - Glyph of Lingering (common) to Fiery Rage – Glyph of Lingering (increase effect duration by 30%) - Changed Flurry of Blows – Glyph of Lingering (uncommon) to Fiery Rage – Glyph of Lingering (increase effect duration by 35%) - Changed Evasive Roll – Glyph of Energy to Thunder Strike – Glyph of Energy (decrease cooldown by 20%) - Reaper - Increased damage to dungeon monsters - Increased damage to bams - Gunner - Increased damage to dungeon monsters - Increased damage to bams - Priest - Blessing of Arun, Blessing of Shara, and Kaia&#39;s Shield does not lose effect when teleporting within the same area (dungeon to dungeon, field to field) - Mystic - Vow does not lose effect when teleporting within the same area (dungeon to dungeon, field to field) ### 2.</description>
     </item>
     
     <item>
-      <title>2016년 09월 08일 업데이트 안내</title>
+      <title>2016년 09월 08일 업데이트 안내 (v50.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v50-01/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -3064,10 +3064,10 @@
     
     <item>
       <title>2016.09.01 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-09-01/</link>
+      <link>/mysterium/posts/patch-notes/translations/2016/v49-01-02/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-09-01/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v49-01-02/</guid>
       <description>### 1. Dungeon - Adjusted Destroyed Gateway to God&#39;s Realm balance. - Phase 3 - Increased Vergoth defense - Increased center breathe damage - Increased HP of attribute sphere - Increased attribute sphere explosion damage - Increased HP of shield for all body parts - Increased periodic damage of lava puddle - Increased defense upon burn phase - Developer&#39;s comment: We have confirmed that phase 3 severely lacks difficulty. Because of this, clearing phase 3 has become meaningless, and it does not accomplish its role as a bridge to phase 4, and thus the difficulty of the phase was significantly increased.</description>
     </item>
     
@@ -3081,11 +3081,11 @@
     </item>
     
     <item>
-      <title>2016.08.30 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-08-30/</link>
+      <title>2016.08.30 patch notes (v49.01.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v49-01-01/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-08-30/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v49-01-01/</guid>
       <description>### 1. Dungeon - Fixed issue allowing players to enter cleared phases in Destroyed Gateway to God&#39;s Realm (DGGR). - Fixed issue where players could iframe the sphere explosion in phase 3 of DGGR. - Fixed issue where Vergoth&#39;s target pattern would intermittently be stacked twice. - Fixed issue where Breathe attack could be blocked in phase 4 of DGGR. - Fixed issue where players could potentially die from spawning rock pillars in phase 4 of DGGR.</description>
     </item>
     
@@ -3099,11 +3099,11 @@
     </item>
     
     <item>
-      <title>2016.08.25 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-08-25/</link>
+      <title>2016.08.25 patch notes (v49.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v49-01/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-08-25/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v49-01/</guid>
       <description>### 1. Dungeon - New dungeon &#39;Destroyed Gateway to God&#39;s Realm&#39; added (referred to as DGGR from here on) - 30 man level 65 raid - Can be entered through teleportal located at Velika Outskirts. - DGGR does not support cross-server instance party matching system. - DGGR holds 4 stages/phases, and each stage/phase will give rewards. - (Rewards can be looted by breaking instantiated reward box upon clearing, and reward will not be given unless player is located within 100m when the reward box is broken).</description>
     </item>
     
@@ -3126,11 +3126,11 @@
     </item>
     
     <item>
-      <title>2016.08.11 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-08-11/</link>
+      <title>2016.08.11 patch notes (v48.03) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v48-03/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-08-11/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v48-03/</guid>
       <description>### 1. Skill - Berserker - Increased damage against dungeon monsters/BAMs - Sorcerer - Increased casting speed of the following skills - Glacial Retreat by 20% - Painblast by 20% - Nova by 25% - Lightning Bolt by 15% - Increased PvP damage of the following skills - Meteor Fall / Overchanneled Meteor Fall - Void Pulse - Flame Pillar - Lightning Bolt - Decreased damage by 15% - Warp Barrier - Changed MP cost to 0 - Recover a maximum of 5% MP upon casting - Recover a maximum of 5% MP upon taking damage no longer works - Overchanneling does not apply when Warp Barrier is in effect - Ice Sphere - Decreased skill AoE - Meteor Fall / Overchanneled Meteor Fall - Able to use Backstep while casting - Reference: Slayer balance patch will be on the 08/25 update.</description>
     </item>
     
@@ -3144,7 +3144,7 @@
     </item>
     
     <item>
-      <title>2016년 08월 04일 업데이트 안내</title>
+      <title>2016년 08월 04일 업데이트 안내 (v48.02.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v48-02-01/</link>
       <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
       
@@ -3153,7 +3153,7 @@
     </item>
     
     <item>
-      <title>2016년 07월 28일 업데이트 안내</title>
+      <title>2016년 07월 28일 업데이트 안내 (v48.02)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v48-02/</link>
       <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -3162,11 +3162,11 @@
     </item>
     
     <item>
-      <title>2016.07.21 patch notes | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2016/2016-07-21/</link>
+      <title>2016.07.21 patch notes (v48.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v48-01/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2016/2016-07-21/</guid>
+      <guid>/mysterium/posts/patch-notes/translations/2016/v48-01/</guid>
       <description>Update: 2016.07.26 - additional sorcerer pve/pvp buffs ### 1. Class renewal: Sorcerer - Removed Skills - Removed Ice Needle - Removed Fireblast - Removed Magma Bomb - Removed Overchannel - Burst of Celerity - Changed into passive skill - Changed to increase attack speed by 30% -Arcane Pulse - Decreased charge by 1 bar, and blast 2 pulses are full charge - Increased number of pulses with Overchanneling effect - Increased speed of pulse - Changed to immediately fire at full charge - Increased damage - Decreased glyph point for Glyph of Power (common) from 4 to 3 - Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3 - Mana infusion - Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds - Added Glyph of Energy (common) - 4 points - Decrease cooldown by 30% - Ice Sphere (new) - Replaces Ice Needle - Fires Ice Sphere towards the front.</description>
     </item>
     
@@ -3198,7 +3198,7 @@
     </item>
     
     <item>
-      <title>2016년 06월 29일 업데이트 안내</title>
+      <title>2016년 06월 29일 업데이트 안내 (v47.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v47-01/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -3216,7 +3216,7 @@
     </item>
     
     <item>
-      <title>2016년 06월 16일 업데이트 안내</title>
+      <title>2016년 06월 16일 업데이트 안내 (v46.04)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v46-04/</link>
       <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -3369,7 +3369,7 @@
     </item>
     
     <item>
-      <title>2016년 02월 18일 업데이트 안내</title>
+      <title>2016년 02월 18일 업데이트 안내 (v42.03)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v42-03/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       

@@ -21,12 +21,30 @@
     </item>
     
     <item>
+      <title>2016.08.30 patch notes (v49.01.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v49-01-01/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/translations/2016/v49-01-01/</guid>
+      <description>### 1. Dungeon - Fixed issue allowing players to enter cleared phases in Destroyed Gateway to God&#39;s Realm (DGGR). - Fixed issue where players could iframe the sphere explosion in phase 3 of DGGR. - Fixed issue where Vergoth&#39;s target pattern would intermittently be stacked twice. - Fixed issue where Breathe attack could be blocked in phase 4 of DGGR. - Fixed issue where players could potentially die from spawning rock pillars in phase 4 of DGGR.</description>
+    </item>
+    
+    <item>
       <title>2016년 08월 30일 업데이트 안내 (v49.01.01)</title>
       <link>/mysterium/posts/patch-notes/raw/2016/v49-01-01/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2016/v49-01-01/</guid>
       <description>### [버그수정 내역] 1. 던전 - 파괴된 신계의 관문 던전에서 클리어한 단계의 페이즈를 다시 입장 가능한 문제를 수정하였습니다. - 파괴된 신계의 관문 3페이즈 속성 구슬 사용 패턴 후 불, 분진 구슬 폭발 시 회피 및 무적 스킬로 대응이 가능한 문제를 수정하였습니다. - 파괴된 신계의 관문 베르고스가 사용하는 베르고스의 주시 패턴이 간헐적으로 2중첩 되는 문제를 수정하였습니다. - 파괴된 신계의 관문 4페이즈 근거리 폭발 후 돌 소환 패턴에서 공중 브레스 스킬을 막기 스킬로 방어 가능한 문제를 수정하였습니다.</description>
+    </item>
+    
+    <item>
+      <title>2016.08.25 patch notes (v49.01) | K TERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2016/v49-01/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/translations/2016/v49-01/</guid>
+      <description>### 1. Dungeon - New dungeon &#39;Destroyed Gateway to God&#39;s Realm&#39; added (referred to as DGGR from here on) - 30 man level 65 raid - Can be entered through teleportal located at Velika Outskirts. - DGGR does not support cross-server instance party matching system. - DGGR holds 4 stages/phases, and each stage/phase will give rewards. - (Rewards can be looted by breaking instantiated reward box upon clearing, and reward will not be given unless player is located within 100m when the reward box is broken).</description>
     </item>
     
     <item>
