@@ -6,10 +6,19 @@
     <description>Recent content in v54 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/mysterium/tags/v54/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2017년 01월 05일 업데이트 안내 (v54.01.02)</title>
+      <link>/mysterium/posts/patch-notes/raw/2017/v54-01-02/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2017/v54-01-02/</guid>
+      <description>##1. 성장구간 던전 난이도 개선 - 살레론의 공중 정원 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. - 석상의 혼란(공포) 지속 시간이 3초에서 1초로 감소합니다. - 아드리노아/메카트리노아/포리베노아/라크네르스의 AI 중 캐릭터 사망이 자주 발생하는 패턴의 등장확률을 대폭 낮췄습니다. - 검은 탑 - 일부 중형/보스 몬스터의 공격력과 HP를 하향 조정했습니다. ### 2. 성장구간 사냥터 난이도 개선 - 발키온 연합 지령서 - 성장구간 던전 클리어 경험치 보상이 대폭 상향됩니다. (160~200% 상향) - 성장구간 장비 교환 토큰 - Lv.</description>
+    </item>
     
     <item>
       <title>2016년 12월 29일 업데이트 안내 (v54.01.01)</title>
