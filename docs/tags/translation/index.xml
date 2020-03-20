@@ -6,10 +6,19 @@
     <description>Recent content in translation on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/mysterium/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020.02.27 patch notes (v93.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2020/v93-01/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/translations/2020/v93-01/</guid>
+      <description>## Content update ### 1. Dungeon and reward revision - Closed the following 15 instances : - Dungeon - Demokron Factory - Ravenous Gorge - Demokron Factory (hard) - RK-9 Kennel (hard) - Shadow Sanguinary - Antaros&#39; Abyss - Lilith&#39;s Keep - Dark Reaches Citadel - Ruinous Manor - Channelworks - Ruinous Manor (hard) - Gossamer Vault - Velik&#39;s Sanctuary (hard) - Grotto of Lost Souls - Thaumetal Refinery - A portion of these instances will be reopened after revision - Changed Velik&#39;s Hold player count (7 -&amp;gt; 5) - Removed Gossamer Vault (hard) from Leaderboard - Changed starting position of Ace Dungeon : Lilith&#39;s Trial (1st -&amp;gt; 3rd boss) - Changed to apply Neophyte Ressurrection in starter to high difficulty instances - Changed Neophyte Ressurrection limit to 999 times - The following notes Neophyte Ressurection cost : - Lower ~ medium difficulty: 50 Gold - High difficulty: 500 Gold - Guardian gear enchanting materials no longer drop in dungeons - (2/27 edited) Changed party and solo dungeon rewards - Equalized gem drops of dungeon rewards to Rubies - eg.</description>
+    </item>
     
     <item>
       <title>2020.02.13 patch notes (v92.02) | KTERA</title>
