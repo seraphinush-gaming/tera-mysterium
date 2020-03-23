@@ -53,7 +53,7 @@
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2016/v52-01/</guid>
-      <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-1.png) - Stack UI will be display beneath the HP/MP bar ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-2.png) - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
+      <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-1.png) - Stack UI will be display beneath the HP/MP bar ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-2.png) - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2016/v52-01/</guid>
-      <description>### 1. 스킬 - 검투사 - 스택 시스템이 개편됩니다. - 스택이 몬스터에게 쌓이는 것이 아닌 검투사 자신에게 쌓이도록 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-1.png) - &amp;lt;스택 UI는 자신의 케릭터 HP/MP바 밑에 표시됩니다.&amp;gt; &amp;lt;위 옵션 설정 시 자신의 HP바 밑에 스택이 표시됩니다.&amp;gt; ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-2.png) - 질풍 가르기 - [필살의 문장] 효과가 치명타 발생 확률 2배에서 몬스터 공격 시 치명타 발생 확률 3배로 변경됩니다. - PVE 스킬 위력이 10% 증가합니다. - 그림자 분신 - 즉시 시전되도록 변경됩니다. - 그림자 분신이 소환되어 있는 동안 검투사가 입는 피해의 50%(PVP 20%)를 그림자가 대신 받습니다.</description>
+      <description>### 1. 스킬 - 검투사 - 스택 시스템이 개편됩니다. - 스택이 몬스터에게 쌓이는 것이 아닌 검투사 자신에게 쌓이도록 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-1.png) - &amp;lt;스택 UI는 자신의 케릭터 HP/MP바 밑에 표시됩니다.&amp;gt; &amp;lt;위 옵션 설정 시 자신의 HP바 밑에 스택이 표시됩니다.&amp;gt; ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-2.png) - 질풍 가르기 - [필살의 문장] 효과가 치명타 발생 확률 2배에서 몬스터 공격 시 치명타 발생 확률 3배로 변경됩니다. - PVE 스킬 위력이 10% 증가합니다. - 그림자 분신 - 즉시 시전되도록 변경됩니다. - 그림자 분신이 소환되어 있는 동안 검투사가 입는 피해의 50%(PVP 20%)를 그림자가 대신 받습니다.</description>
     </item>
     
   </channel>

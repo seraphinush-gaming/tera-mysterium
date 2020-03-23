@@ -35,7 +35,7 @@
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2016/v54-01/</guid>
-      <description>### 1. 신규 클래스: 월광무사 - 신규 클래스 월광무사가 추가되었습니다. - 월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. - 액티브 스킬 ![](https://seraphinush-gaming.github.io/mysterium/images/2016-12-22-1.png) - 패시브 스킬 - [2(/images/2016-12-22-2.png) - 문장 ![](https://seraphinush-gaming.github.io/mysterium/images/2016-12-22-3.png) ### 2. 성장구간 사냥터 난이도 개선 - 성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. - 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. - 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.</description>
+      <description>### 1. 신규 클래스: 월광무사 - 신규 클래스 월광무사가 추가되었습니다. - 월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. - 액티브 스킬 ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-12-22-1.png) - 패시브 스킬 - [2(/images/2016-12-22-2.png) - 문장 ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-12-22-3.png) ### 2. 성장구간 사냥터 난이도 개선 - 성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. - 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. - 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2016/v53-01/</guid>
-      <description>### 1. 스킬 - 광전사 - 모아치기 - PVE 데미지가 15% 증가합니다. - PVP 데미지가 소폭 증가합니다. - 숙련의 문장(일반) 소모 포인트가 7포인트에서 6포인트로 조정됩니다. - 숙련의 문장(고급) 소모 포인트가 6포인트에서 5포인트로 조정됩니다. - 숙련의 문장(희귀) 소모 포인트가 5포인트에서 4포인트로 조정됩니다. - 차징 단계마다 이펙트가 출력되며, 타격 범위에 대한 가시성이 향상되었습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-12-01-1.png) - 광폭화 - [일반] 상태에서는 이동하면서 시전 가능하도록 변경됩니다. - 기합 - 스킬을 삭제하고, 스킬 효과 및 문장을 집념 효과에 추가하였습니다.</description>
+      <description>### 1. 스킬 - 광전사 - 모아치기 - PVE 데미지가 15% 증가합니다. - PVP 데미지가 소폭 증가합니다. - 숙련의 문장(일반) 소모 포인트가 7포인트에서 6포인트로 조정됩니다. - 숙련의 문장(고급) 소모 포인트가 6포인트에서 5포인트로 조정됩니다. - 숙련의 문장(희귀) 소모 포인트가 5포인트에서 4포인트로 조정됩니다. - 차징 단계마다 이펙트가 출력되며, 타격 범위에 대한 가시성이 향상되었습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-12-01-1.png) - 광폭화 - [일반] 상태에서는 이동하면서 시전 가능하도록 변경됩니다. - 기합 - 스킬을 삭제하고, 스킬 효과 및 문장을 집념 효과에 추가하였습니다.</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2016/v52-01/</guid>
-      <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-1.png) - Stack UI will be display beneath the HP/MP bar ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-2.png) - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
+      <description>### 1. Skill - Warrior - Revamped Edge system - Edge will stack on the player instead of the monster ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-1.png) - Stack UI will be display beneath the HP/MP bar ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-2.png) - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2016/v52-01/</guid>
-      <description>### 1. 스킬 - 검투사 - 스택 시스템이 개편됩니다. - 스택이 몬스터에게 쌓이는 것이 아닌 검투사 자신에게 쌓이도록 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-1.png) - &amp;lt;스택 UI는 자신의 케릭터 HP/MP바 밑에 표시됩니다.&amp;gt; &amp;lt;위 옵션 설정 시 자신의 HP바 밑에 스택이 표시됩니다.&amp;gt; ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-27-2.png) - 질풍 가르기 - [필살의 문장] 효과가 치명타 발생 확률 2배에서 몬스터 공격 시 치명타 발생 확률 3배로 변경됩니다. - PVE 스킬 위력이 10% 증가합니다. - 그림자 분신 - 즉시 시전되도록 변경됩니다. - 그림자 분신이 소환되어 있는 동안 검투사가 입는 피해의 50%(PVP 20%)를 그림자가 대신 받습니다.</description>
+      <description>### 1. 스킬 - 검투사 - 스택 시스템이 개편됩니다. - 스택이 몬스터에게 쌓이는 것이 아닌 검투사 자신에게 쌓이도록 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-1.png) - &amp;lt;스택 UI는 자신의 케릭터 HP/MP바 밑에 표시됩니다.&amp;gt; &amp;lt;위 옵션 설정 시 자신의 HP바 밑에 스택이 표시됩니다.&amp;gt; ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-27-2.png) - 질풍 가르기 - [필살의 문장] 효과가 치명타 발생 확률 2배에서 몬스터 공격 시 치명타 발생 확률 3배로 변경됩니다. - PVE 스킬 위력이 10% 증가합니다. - 그림자 분신 - 즉시 시전되도록 변경됩니다. - 그림자 분신이 소환되어 있는 동안 검투사가 입는 피해의 50%(PVP 20%)를 그림자가 대신 받습니다.</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2016/v51-02/</guid>
-      <description>### 1. Festival - Started Halloween Festival - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 &#39;꼬마 마녀&#39;들이 등장합니다. - 마녀의 성 지상 1층에서 &#39;마녀탐정 티티아나&#39; NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 &#39;하르니아&#39; NPC와 대화하여 게임을 시작할 수 있습니다.</description>
+      <description>### 1. Festival - Started Halloween Festival - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 &#39;꼬마 마녀&#39;들이 등장합니다. - 마녀의 성 지상 1층에서 &#39;마녀탐정 티티아나&#39; NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 &#39;하르니아&#39; NPC와 대화하여 게임을 시작할 수 있습니다.</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2016/v51-02/</guid>
-      <description>### 1. 축제 - 할로윈 축제가 시작됩니다. - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 &#39;꼬마 마녀&#39;들이 등장합니다. - 마녀의 성 지상 1층에서 &#39;마녀탐정 티티아나&#39; NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 &#39;하르니아&#39; NPC와 대화하여 게임을 시작할 수 있습니다.</description>
+      <description>### 1. 축제 - 할로윈 축제가 시작됩니다. - 할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. - 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 &#39;꼬마 마녀&#39;들이 등장합니다. - 마녀의 성 지상 1층에서 &#39;마녀탐정 티티아나&#39; NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-10-13-1.png) - 마녀의 성 연회장 - 할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. - 마녀의 성 연회장에서 &#39;하르니아&#39; NPC와 대화하여 게임을 시작할 수 있습니다.</description>
     </item>
     
     <item>

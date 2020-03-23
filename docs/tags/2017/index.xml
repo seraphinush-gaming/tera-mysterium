@@ -62,7 +62,7 @@
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2017/v66-02-01/</guid>
-      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/mysterium/images/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (K TERA exclusive)  source : TERA 테라 | NEXON</description>
+      <description>### 1. Beauty Shop - Added function to change hat size and location more freely - Option is available at Main menu &amp;gt; Style &amp;gt; Beauty shop ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-12-14-1.png) - Item can be altered once for free through Beauty Shop - Specialty store &amp;gt; Beauty Shop Coupon must be held in inventory to maintain altered apperance - Beauty Shop can only alter equiped hat, ribbon, hairband, hairpin-like costume accessories - Hats that cover more than the side of the face cannot be altered - Item sale (K TERA exclusive)  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2017/v66-02-01/</guid>
-      <description>1. 모자 변환 - 모자 액세서리의 크기, 위치를 자유롭게 변경할 수 있는 변환기 기능이 추가됩니다. - 모자 변환은 메인 메뉴 &amp;gt; 스타일 샵 &amp;gt; 모자 변환 메뉴를 통해 이용하실 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-12-14-1.png) - 아이템 당 최초 1회는 무료로 모자 변환을 시도할 수 있습니다. - 모자 변환은 명품관 &amp;gt; 모자 형태 응고제 아이템을 인벤토리에 보유한 상태여야만 변경된 모자 형태를 유지할 수 있습니다. - 모자 변환은 캐릭터가 착용중인 모자, 리본, 머리띠, 머리핀 형태의 액세서리만 조정할 수 있습니다.</description>
+      <description>1. 모자 변환 - 모자 액세서리의 크기, 위치를 자유롭게 변경할 수 있는 변환기 기능이 추가됩니다. - 모자 변환은 메인 메뉴 &amp;gt; 스타일 샵 &amp;gt; 모자 변환 메뉴를 통해 이용하실 수 있습니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-12-14-1.png) - 아이템 당 최초 1회는 무료로 모자 변환을 시도할 수 있습니다. - 모자 변환은 명품관 &amp;gt; 모자 형태 응고제 아이템을 인벤토리에 보유한 상태여야만 변경된 모자 형태를 유지할 수 있습니다. - 모자 변환은 캐릭터가 착용중인 모자, 리본, 머리띠, 머리핀 형태의 액세서리만 조정할 수 있습니다.</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2017/v64-02/</guid>
-      <description>### 1. 수호자 임무 - 사제 클래스가 전투를 통해 획득할 수 있는 점수의 보정치를 상향 조정하였습니다. - 소규모 임무를 통해 획득할 수 있는 점수를 상향 조정하였습니다. - 작전명 모래바람 - 갑각류의 식사시간 - 콜드락 보급품 배달 - 후카의 훈련장 - 일부 수호자 평판 포인트 상점 가격이 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-10-19-1.png) ### 2. 복귀자 가이드 - 복귀자 퀘스트가 최신화 되어 현 상황에 알맞은 퀘스트를 안내해 줍니다. ### [버그수정] - 수호자 임무 - 수호자 임무 지역 입장 시 기존에 설정한 옵션 값보다 높은 값으로 전환되는 문제 - 수호자 임무 지역을 이탈 시 채널 이동이 불가능하며, 수호자 임무 UI가 출력되는 문제 수정 - UI - 방향키를 누른 상태에서 사망 시 부활 했을 때 자동으로 이동하는 문제 - 전투 중 UI 숨김모드 사용 시 수호자임무 전용 UI가 숨김처리 되는 문제 - 퀘스트 - 특정 퀘스트 단계에서 복귀 용사 보상을 받아 순간이동 시 공중으로 순간이동 되는 문제 - 아이템 - (구)강화석 11단계 아이템의 툴팁에 분해 가능으로 기재되어 있던 문제 - 부가서비스 - 길리안의 숲에서 길리안을 처치하였는데도 지배된 숲의 거인이 사라지지 않는 문제 - 엘린 종족으로 연합군 정모 착용 시 귀가 모자를 뚫고 나오는 문제 - 비행 탈 것 비행게이지 전량 소모 후 하강 시 탑승이 해제되는 문제  source : TERA 테라 | NEXON</description>
+      <description>### 1. 수호자 임무 - 사제 클래스가 전투를 통해 획득할 수 있는 점수의 보정치를 상향 조정하였습니다. - 소규모 임무를 통해 획득할 수 있는 점수를 상향 조정하였습니다. - 작전명 모래바람 - 갑각류의 식사시간 - 콜드락 보급품 배달 - 후카의 훈련장 - 일부 수호자 평판 포인트 상점 가격이 변경됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-10-19-1.png) ### 2. 복귀자 가이드 - 복귀자 퀘스트가 최신화 되어 현 상황에 알맞은 퀘스트를 안내해 줍니다. ### [버그수정] - 수호자 임무 - 수호자 임무 지역 입장 시 기존에 설정한 옵션 값보다 높은 값으로 전환되는 문제 - 수호자 임무 지역을 이탈 시 채널 이동이 불가능하며, 수호자 임무 UI가 출력되는 문제 수정 - UI - 방향키를 누른 상태에서 사망 시 부활 했을 때 자동으로 이동하는 문제 - 전투 중 UI 숨김모드 사용 시 수호자임무 전용 UI가 숨김처리 되는 문제 - 퀘스트 - 특정 퀘스트 단계에서 복귀 용사 보상을 받아 순간이동 시 공중으로 순간이동 되는 문제 - 아이템 - (구)강화석 11단계 아이템의 툴팁에 분해 가능으로 기재되어 있던 문제 - 부가서비스 - 길리안의 숲에서 길리안을 처치하였는데도 지배된 숲의 거인이 사라지지 않는 문제 - 엘린 종족으로 연합군 정모 착용 시 귀가 모자를 뚫고 나오는 문제 - 비행 탈 것 비행게이지 전량 소모 후 하강 시 탑승이 해제되는 문제  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2017/v62-01-02/</guid>
-      <description>### 1. Rally quest - Changed spawn location of Rally quest BAM Anansha - - Changed spawn location from Tria to Velika: Civil Unrest - Cannot build Guild Tower nearby Anansha spawn location - Expanded PK safe area near dock inside Civil Unrest ![](https://seraphinush-gaming.github.io/mysterium/images/2016-08-17-1.png) ### 2. Field named (world boss) - Decreased damage and respawn time of world bosses, and adjusted loot accordingly - The affected world bosses are the following : - Tempest Kanash - Divine Reaver - Nyxarras - Linyphi - Yunaras Snaggletooth - Kelthuzad ### 3.</description>
+      <description>### 1. Rally quest - Changed spawn location of Rally quest BAM Anansha - - Changed spawn location from Tria to Velika: Civil Unrest - Cannot build Guild Tower nearby Anansha spawn location - Expanded PK safe area near dock inside Civil Unrest ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-08-17-1.png) ### 2. Field named (world boss) - Decreased damage and respawn time of world bosses, and adjusted loot accordingly - The affected world bosses are the following : - Tempest Kanash - Divine Reaver - Nyxarras - Linyphi - Yunaras Snaggletooth - Kelthuzad ### 3.</description>
     </item>
     
     <item>
@@ -368,7 +368,7 @@
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2017/v62-01-02/</guid>
-      <description>### 1. 길드 임무 - 길드 긴급 임무 대상 몬스터인 탐욕의 아난샤의 스폰 위치가 변경됩니다. - 스폰 위치가 고대의 숲에서 길드대전으로 변경됩니다. - 탐욕의 아난샤 스폰 위치 주변에는 전초 기지를 설치할 수 없습니다. - 길드 대전 내 PK 안전지대가 선착장 부근에서 주변 일대로 확장됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2016-08-17-1.png) ### 2. 필드네임드 - 필드 네임드의 전투력과 리소폰 시간이 감소하고, 이에 알맞은 수준으로 보상이 조정됩니다. - 대상 몬스터는 아래와 같습니다. - 폭풍의 카나쉬 (폭염의 산맥) - 사샤라크 (뱀의 섬) - 퀘스겔렌 (고대 전쟁의 폐허) - 라키누아 (아카디아 협곡) - 스내글투스 (잊혀진 자들의 설원) - 카자스탄 (아메나 콰틀라) ### 3.</description>
+      <description>### 1. 길드 임무 - 길드 긴급 임무 대상 몬스터인 탐욕의 아난샤의 스폰 위치가 변경됩니다. - 스폰 위치가 고대의 숲에서 길드대전으로 변경됩니다. - 탐욕의 아난샤 스폰 위치 주변에는 전초 기지를 설치할 수 없습니다. - 길드 대전 내 PK 안전지대가 선착장 부근에서 주변 일대로 확장됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2016-08-17-1.png) ### 2. 필드네임드 - 필드 네임드의 전투력과 리소폰 시간이 감소하고, 이에 알맞은 수준으로 보상이 조정됩니다. - 대상 몬스터는 아래와 같습니다. - 폭풍의 카나쉬 (폭염의 산맥) - 사샤라크 (뱀의 섬) - 퀘스겔렌 (고대 전쟁의 폐허) - 라키누아 (아카디아 협곡) - 스내글투스 (잊혀진 자들의 설원) - 카자스탄 (아메나 콰틀라) ### 3.</description>
     </item>
     
     <item>
@@ -485,7 +485,7 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2017/v60-04/</guid>
-      <description>### Premium item end of sale 0 Removed certain cash items in preparation for the upcoming patch ![](https://seraphinush-gaming.github.io/mysterium/images/2017-07-06-1.png) ### Bug fixes - Services - Fixed issue where certain Valkyrie weapon skins did not produce sound  source : TERA 테라 | NEXON</description>
+      <description>### Premium item end of sale 0 Removed certain cash items in preparation for the upcoming patch ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-07-06-1.png) ### Bug fixes - Services - Fixed issue where certain Valkyrie weapon skins did not produce sound  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -494,7 +494,7 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2017/v60-04/</guid>
-      <description>### 1. 테라샵 및 T-cat 상점 일부 상품 판매종료 - 아래 상품들의 판매가 종료됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-07-06-1.png) ### [버그수정] - 부가서비스 - 일부 월광무사 프리미엄 무기에서 사운드가 출력되지 않는 문제  source : TERA 테라 | NEXON</description>
+      <description>### 1. 테라샵 및 T-cat 상점 일부 상품 판매종료 - 아래 상품들의 판매가 종료됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-07-06-1.png) ### [버그수정] - 부가서비스 - 일부 월광무사 프리미엄 무기에서 사운드가 출력되지 않는 문제  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -710,7 +710,7 @@
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/raw/2017/v57-02/</guid>
-      <description>### 1. 발키온 연합 지령서 - 리스트형 발키온 연합 지령서 UI 모드가 추가됩니다. - 지령서 별 이미지를 생략하여 한 화면에 6개 이상의 지령서가 출력됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/2017-03-16-1.png) ### 2. 던전 - 사악한 오르카의 신전 - 1, 2, 3 네임드의 HP가 대폭 감소됩니다. - 3네임드의 보호막 HP가 대폭 감소됩니다. - 파괴된 신계의 관문 - 3단계 - 특정 패턴이 과도하게 겹쳐서 나오는 문제가 수정됩니다. - 속성 파도 패턴 도중 플레이어의 속성이 변경되는 문제가 수정됩니다. ### [버그수정] - 던전 - 오만한 아케론의 염옥 3네임드의 스킬 이펙트가 정상적으로 출력되지 않는 문제 - 확률적으로 오만한 아케론의 염옥 2네임드 전투공간이 폐쇄되지 않는 문제 - 확률적으로 파괴된 신계의 관문 4단계에서 전투 중 사망 시 용아병이 스폰되지 않는 문제 - 벨릭의 신전 2네임드 전투공간의 외벽에 뒤잡기류 스킬이 사용되는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드가 특정 패턴을 사용하지 않는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드의 광역 공격에 피격 후 공중에서 사망 시 부활 스킬이 적용되지 않는 문제 - 스킬 - 비검사 위치교환 스킬 사용이 불가능한 거리에서 스킬 사용 시 화면이 전환되는 문제 - 마법사 공간 왜곡 스킬의 보호막 이펙트가 출력되지 않는 문제 - UI - 파티 후 아이템 획득 시 출력되는 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 업적 - &#39;신들의 수호자&#39; 칭호가 장착되어 있지만 칭호 목록에 출력되지 않는 문제 - 아이템 - 아이템을 귀속시킨 후 귀속 캐릭터를 삭제 시 귀속 정보가 접속 중인 캐릭터의 닉네임으로 출력되는 문제 - 부가서비스 - 확률적으로 PC방 프리미엄 전용 아이템 사용 횟수가 초기화되지 않는 문제 - 길드대전 - 긴급 임무 몬스터가 출현하지 않는 문제 - 긴급 임무 발생 전체 공지 후 15분 내, 1채널 공지 위치에서 토벌 대상 몬스터가 출현합니다.</description>
+      <description>### 1. 발키온 연합 지령서 - 리스트형 발키온 연합 지령서 UI 모드가 추가됩니다. - 지령서 별 이미지를 생략하여 한 화면에 6개 이상의 지령서가 출력됩니다. ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-03-16-1.png) ### 2. 던전 - 사악한 오르카의 신전 - 1, 2, 3 네임드의 HP가 대폭 감소됩니다. - 3네임드의 보호막 HP가 대폭 감소됩니다. - 파괴된 신계의 관문 - 3단계 - 특정 패턴이 과도하게 겹쳐서 나오는 문제가 수정됩니다. - 속성 파도 패턴 도중 플레이어의 속성이 변경되는 문제가 수정됩니다. ### [버그수정] - 던전 - 오만한 아케론의 염옥 3네임드의 스킬 이펙트가 정상적으로 출력되지 않는 문제 - 확률적으로 오만한 아케론의 염옥 2네임드 전투공간이 폐쇄되지 않는 문제 - 확률적으로 파괴된 신계의 관문 4단계에서 전투 중 사망 시 용아병이 스폰되지 않는 문제 - 벨릭의 신전 2네임드 전투공간의 외벽에 뒤잡기류 스킬이 사용되는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드가 특정 패턴을 사용하지 않는 문제 - 확률적으로 함락된 벨릭의 신전 3네임드의 광역 공격에 피격 후 공중에서 사망 시 부활 스킬이 적용되지 않는 문제 - 스킬 - 비검사 위치교환 스킬 사용이 불가능한 거리에서 스킬 사용 시 화면이 전환되는 문제 - 마법사 공간 왜곡 스킬의 보호막 이펙트가 출력되지 않는 문제 - UI - 파티 후 아이템 획득 시 출력되는 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 - 업적 - &#39;신들의 수호자&#39; 칭호가 장착되어 있지만 칭호 목록에 출력되지 않는 문제 - 아이템 - 아이템을 귀속시킨 후 귀속 캐릭터를 삭제 시 귀속 정보가 접속 중인 캐릭터의 닉네임으로 출력되는 문제 - 부가서비스 - 확률적으로 PC방 프리미엄 전용 아이템 사용 횟수가 초기화되지 않는 문제 - 길드대전 - 긴급 임무 몬스터가 출현하지 않는 문제 - 긴급 임무 발생 전체 공지 후 15분 내, 1채널 공지 위치에서 토벌 대상 몬스터가 출현합니다.</description>
     </item>
     
     <item>
@@ -890,7 +890,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mysterium/posts/patch-notes/translations/2017/v57-02/</guid>
-      <description>### 1. Vanguard Initiative quest - Added List-type UI mode for Vanguard Initiative - Displays at least 6 quests on the UI while removing images ![](https://seraphinush-gaming.github.io/mysterium/images/2017-03-16-1.png) ### 2. Dungeon - Bathysmal Rise (hard) - Significantly decreased the HP of 1st, 2nd, 3rd bosses - Significantly decreased the HP of the 3rd bosses shield - Harrowhold - Phase 3 - Fixed issue where several mechanics would overlap - Fixed issue where the player&#39;s element would switch whilst the elemental fire walls ### Bug fixes - Dungeon - Fixed issue in AIHM where the effects of the 3rd boss did not display properly - Fixed issue in AIHM where the 2nd boss&#39; combat arena had a chance to not despawn - Fixed issue in Phase 4 of Harrowhold where there was a chance a mob did not spawn from dying - Fixed issue in Velik&#39;s Temple at the 2nd boss where players could use a backstab-type skills on the walls of the combat area - Fixed issue in Ruinous Velik&#39;s Temple where the 3rd boss did not use certain patterns - Fixed issue in Ruinous Velik&#39;s Temple at the 3rd boss where there was a chance players that died in mid-air could not get resurrected - Skill - Reaper: Fixed issue where using Soul Reversal at a distance which it was not possible would flip the field of vision - Sorcerer: Fixed issue where Warp Barrier skill display did not show - UI - Fixed issue where the number on the dice UI did not change - Achievement - Fixed issue where &#39;Dragonbane&#39; title did not display in the list of titles even whilst equipped - Item - Fixed issue where bound items after a character deletion would be bound to the next character logged in - Premium - Some comment - Civil Unrest - Fixed issue where Rally BAMs did not spawn - After the notification, Rally BAM will spawn in channel 1 of its notified location in the next 15 minutes  source : TERA 테라 | NEXON</description>
+      <description>### 1. Vanguard Initiative quest - Added List-type UI mode for Vanguard Initiative - Displays at least 6 quests on the UI while removing images ![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-03-16-1.png) ### 2. Dungeon - Bathysmal Rise (hard) - Significantly decreased the HP of 1st, 2nd, 3rd bosses - Significantly decreased the HP of the 3rd bosses shield - Harrowhold - Phase 3 - Fixed issue where several mechanics would overlap - Fixed issue where the player&#39;s element would switch whilst the elemental fire walls ### Bug fixes - Dungeon - Fixed issue in AIHM where the effects of the 3rd boss did not display properly - Fixed issue in AIHM where the 2nd boss&#39; combat arena had a chance to not despawn - Fixed issue in Phase 4 of Harrowhold where there was a chance a mob did not spawn from dying - Fixed issue in Velik&#39;s Temple at the 2nd boss where players could use a backstab-type skills on the walls of the combat area - Fixed issue in Ruinous Velik&#39;s Temple where the 3rd boss did not use certain patterns - Fixed issue in Ruinous Velik&#39;s Temple at the 3rd boss where there was a chance players that died in mid-air could not get resurrected - Skill - Reaper: Fixed issue where using Soul Reversal at a distance which it was not possible would flip the field of vision - Sorcerer: Fixed issue where Warp Barrier skill display did not show - UI - Fixed issue where the number on the dice UI did not change - Achievement - Fixed issue where &#39;Dragonbane&#39; title did not display in the list of titles even whilst equipped - Item - Fixed issue where bound items after a character deletion would be bound to the next character logged in - Premium - Some comment - Civil Unrest - Fixed issue where Rally BAMs did not spawn - After the notification, Rally BAM will spawn in channel 1 of its notified location in the next 15 minutes  source : TERA 테라 | NEXON</description>
     </item>
     
   </channel>
