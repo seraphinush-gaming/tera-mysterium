@@ -6,10 +6,19 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/mysterium/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 03월 26일 업데이트 안내 (v94.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2020/v94-01/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2020/v94-01/</guid>
+      <description>### 1. 던전 - 벨릭의 신전/벨리카 지하 관문 - 엑소도르 정찰대 장비 강화 재료 드랍량이 증가합니다. - RK-9 격납고/혁명단 은거지 - 던전 매칭 및 발키온 지령서 출력 조건이 변경됩니다. (장비레벨 453 -&amp;gt; 452) - 금비늘호 - 딕시 핀쳐의 보물상자 보상 목록에서 &#39;변화의 증거&#39;가 삭제됩니다. ### 2. 아이템 - 강화 손상/하락 보호권 - 차원의 비밀상인 세그레토에게 강화 손상/하락 보호권을 획득할 수 있습니다. - 상급 이상 위상의 던전에서 마지막 네임드 처치 시, 확률적으로 비밀상인이 출현합니다.</description>
+    </item>
     
     <item>
       <title>2020년 03월 12일 업데이트 안내 (v93.02)</title>
