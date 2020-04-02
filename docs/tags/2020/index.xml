@@ -6,10 +6,28 @@
     <description>Recent content in 2020 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/mysterium/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020.04.02 patch notes (v94.01.01) | KTERA</title>
+      <link>/mysterium/posts/patch-notes/translations/2020/v94-01-01/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/translations/2020/v94-01-01/</guid>
+      <description>### Bug fixes - Fixed issue where summon Companion shortcut did not work with the Companion UI closed while one such Partner is on an Adventure - Fixed issue where gathering level did not display properly on Paperdoll UI - Fixed issue where clicking to receive Adventure reward while lagging distributed duplicate rewards - Fixed issue where Gossamer Regent clone did not disappear source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 04월 02일 업데이트 안내 (v94.01.01)</title>
+      <link>/mysterium/posts/patch-notes/raw/2020/v94-01-01/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mysterium/posts/patch-notes/raw/2020/v94-01-01/</guid>
+      <description>### [버그수정] - 임의의 파트너가 모험 진행 중일 때, 서번트 목록창을 닫은 상태로는 서번트 소환 단축키가 작동하지 않는 문제 - 페이퍼돌의 채집레벨 UI(채집 종류)가 비정상적으로 출력되는 문제 - 렉이 발생했을 때, 파트너 모험 완료를 연타하면 보상이 중복되어 획득되는 문제 - 찬란한 파르퀴나의 둥지 2네임드와 전투 중, 분신이 사라지지 않는 문제 source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020년 03월 26일 업데이트 안내 (v94.01)</title>
