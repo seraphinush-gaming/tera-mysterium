@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v44 on mysterium</title>
-    <link>/mysterium/tags/v44/</link>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v44/</link>
     <description>Recent content in v44 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/mysterium/tags/v44/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v44/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2016년 04월 07일 업데이트 안내 (v44.01.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v44-01-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v44-01-01/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v44-01-01/</guid>
-      <description>## 1. 스킬 - 창기사 - 방패 방어 강화 - 지속시간이 15초에서 50초로 변경됩니다. - 다운 발생 시 해제되도록 변경됩니다. ## 2. 아이템 - 타르스키 코인 상점에서 거짓말쟁이의 응모권이 삭제됩니다. - 거짓말쟁이의 응모권 아이템을 소지 중일 경우 &#39;타르스키 코인&#39;으로 변환됩니다. - 이관 기념 이벤트 아이템과 5주년 기념 이벤트 아이템이 삭제됩니다. ## 3. 이벤트 - 04월 14일(목) 점검 전까지 시험의 던전(황금의 미궁/아카샤의 은신처) 최종 보스 처치 시 [루비 2개]가 추가로 드랍됩니다. ## [버그 수정 내역] - 던전 - 베르노의 실험실 3네임드에게 인술사 쾌속 베기 사용 시 인술사의 위치가 밀리는 문제를 수정하였습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v44-01-01/</guid>
+      <description>1. 스킬  창기사  방패 방어 강화  지속시간이 15초에서 50초로 변경됩니다. 다운 발생 시 해제되도록 변경됩니다.      2. 아이템  타르스키 코인 상점에서 거짓말쟁이의 응모권이 삭제됩니다. 거짓말쟁이의 응모권 아이템을 소지 중일 경우 &amp;lsquo;타르스키 코인&#39;으로 변환됩니다. 이관 기념 이벤트 아이템과 5주년 기념 이벤트 아이템이 삭제됩니다.  3. 이벤트  04월 14일(목) 점검 전까지 시험의 던전(황금의 미궁/아카샤의 은신처) 최종 보스 처치 시 [루비 2개]가 추가로 드랍됩니다.  [버그 수정 내역]  던전  베르노의 실험실 3네임드에게 인술사 쾌속 베기 사용 시 인술사의 위치가 밀리는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 03월 31일 업데이트 안내 (v44.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v44-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v44-01/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v44-01/</guid>
-      <description>### 1. 던전 - 거짓말쟁이 타르스키의 놀이터 - 신규 던전인 거짓말쟁이 타르스키의 놀이터가 추가됩니다. - 5인 파티플레이 던전이며, 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. - 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. - 보스 몬스터 타르스키 처치 시 듀리온의 목걸이, 폭군 듀리온의 반지/귀걸이, 다이아몬드, 강화석 9단계, 아티팩트 원석 VII, 철기장:복수 제작 재료, 철기장 카이락 제작 재료, 철기장:복수 도안, 오르피우스의 메달 등을 획득할 수 있습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v44-01/</guid>
+      <description>1. 던전  거짓말쟁이 타르스키의 놀이터  신규 던전인 거짓말쟁이 타르스키의 놀이터가 추가됩니다. 5인 파티플레이 던전이며, 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. 보스 몬스터 타르스키 처치 시 듀리온의 목걸이, 폭군 듀리온의 반지/귀걸이, 다이아몬드, 강화석 9단계, 아티팩트 원석 VII, 철기장:복수 제작 재료, 철기장 카이락 제작 재료, 철기장:복수 도안, 오르피우스의 메달 등을 획득할 수 있습니다.</description>
     </item>
     
   </channel>

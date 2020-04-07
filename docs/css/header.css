@@ -1,0 +1,54 @@
+/* header */
+
+#header {
+  width: 100%;
+  min-height: 50px;
+  margin: 0 0;
+  padding: 0 0;
+  background: #3C3C3C;
+  
+  position: fixed;
+  top: 0px;
+  z-index: 10;
+}
+
+/* left container */
+#header-left-container {
+  float: left;
+}
+
+#header-title {
+  padding-left: 20px;
+  font-size: 20px;
+  vertical-align: -13px;
+}
+
+#header-desc {
+  padding-left: 20px;
+  font-weight: 100;
+  font-size: 20px;
+  vertical-align: -13px;
+  cursor: default;
+}
+
+/* right container */
+#header-right-container {
+  float: right;
+  margin-right: 20px;
+}
+
+div.nav-item {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0 10px;
+  margin-right: -4px;
+
+  color: #CCC;
+  text-align: center;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+div.nav-item:hover {
+  background: #555;
+}

@@ -1,0 +1,90 @@
+html,
+div {
+  margin: 0 0;
+  padding: 0 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  margin: 0 0;
+  padding: 0 0;
+  background: #1E1E1E;
+  color: #CCC;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  font-weight: normal;
+  color: #36ACB6;
+}
+
+h2 {
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid#36ACB6;
+}
+
+b,
+strong {
+  color: #40CEDB;
+  font-weight: normal;
+}
+
+p, span, ul {
+  font-size: 14px;
+}
+
+a {
+  font-weight: 400;
+  color: #36ACB6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #40CEDB;
+}
+
+ul {
+  list-style-type: circle;
+  padding-left: 30px;
+}
+
+p img {
+  display: block;
+  margin: auto;
+  padding: 0 0;
+}
+
+code {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+#content-frame {
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+  height: auto;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #36ACB6;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #40CEDB;
+}

@@ -1,79 +1,196 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2019년 10월 31일 업데이트 안내 (v89.01)&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2019년 10월 31일 업데이트 안내 (v89.01)</h1><p class="article date">Thursday, October 31, 2019</p></section><article class="article markdown-body"><pre><code>### 1. 신규 던전: 항해 지도
-- 65레벨 이상 캐릭터로 이용 가능하며, 던전을 진행하기 위해서는 '항해 지도' 아이템이 필요합니다.
-  - 항해 지도 아이템은 장비레벨 435 이상의 던전 및 65레벨 이상 필드 몬스터가 확률적으로 드랍합니다.
-    - 데모크론 실험실에서는 항해 지도가 드랍되지 않습니다.
-    - 거래 및 길드 창고 보관이 불가능한 아이템이며, 1개의 지도로 최대 5명이 참여할 수 있습니다.
-- 동부 가드&gt;거친 해안&gt;거친 항구의 로니에게 말을 걸어 입장할 수 있습니다. (주간 1회/월간패스 2회)
-- 입장 후, 난이도를 선택하고 항해 지도 아이템을 사용하여 던전을 진행할 수 있습니다.
-- 던전 난이도(1~4)에 따라 몬스터의 체력과 공격력이 달라지며, 몇 가지 장치가 추가됩니다.
-- 난이도에 따른 보상은 다음과 같습니다.
-  - 30분 이내에 클리어 할 경우, 보너스 보상이 추가로 지급됩니다.
-    - 난이도 1
-      - 보상 : 대용량 경험치 서적, 아르보레아의 은빛 결정체/조각, 변화의 증거
-      - 권장 장비레벨 : 446
-    - 난이도 2
-      - 보상 : 엑소도르 무기 강화 주문서[희귀], 엑소도르 방어구 강화 주문서[희귀], 아르가프 토벌 휘장, 변화의 증거
-      - 권장 장비레벨 : 453
-    - 난이도 3
-      - 보상 : 엑소도르 무기 강화 주문서[전설], 엑소도르 방어구 강화 주문서[전설], 아르가프 토벌 휘장, 변화의 증거
-      - 권장 장비레벨 : 461
-    - 난이도 4
-      - 보상 : 엑소도르 무기 강화 주문서[전설], 엑소도르 방어구 강화 주문서[전설], 이샤라의 성물 1, 아마룬의 유물 1
-      - 권장 장비레벨 : 475
-    - 보너스 상자
-      - 바다 수호자의 증표 50개 ~ 150개
-  - 엑소도르 무기/방어구 강화 주문서는 엑소도르 장비에 사용할 수 있는 아이템입니다.
-    - 재료 소모 없이 주문서로 강화를 시도할 수 있으며, 강화 확률은 대장간을 통한 강화와 동일합니다.
-  - 보너스 상자에서 획득하는 '바다 수호자의 증표'로는 다음과 같은 아이템을 교환할 수 있습니다.
-    - 스킬 연마 스크롤 I ~ II, 스킬 옵션 개방 스크롤 I ~ II, 에메랄드, 딕시 핀쳐의 심해 공포 해머
-    - 딕시 핀쳐의 심해 공포 해머는 '광전사' 클래스 전용 무기 스타일 아이템입니다.
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### 2. 강화
-- '강화 수치 하락 + 손상'이 함께 발생할 확률이 감소하며, '손상'' 발생할 확률이 증가합니다.
-  - 전체적인 아이템 손상 확률은 기존과 동일합니다.
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-### 3. 아이템
-- 변화의 증거 상점에 마지막 원소 아이템이 추가됩니다.
-  - 36,000개로 교환할 수 있습니다.
-- 트로 카드
-  - 코스트가 감소합니다. (6 -&gt; 5)
-  - 카드 능력치가 일부 하향됩니다.
-    - 일반 트로 카드
-        - 물리/마법 증폭 1,393 -&gt; 1,197
-    - 고급 트로 카드
-        - 물리/마법 증폭 2,090 -&gt; 1,795
 
-### [버그수정]
-- 캐릭터 선택창 위치 변경 시, 다른 페이지로 이동할 수 없는 문제
-- '해충 박멸' 업적 내용이 일부 잘못 기재되어 있는 문제 (소환된 파르폰 유충 사냥 &gt; 소환된 파르프 사냥)
-- 주머니에 있는 아이템이 호문쿨루스에 등록되지 않는 문제
-- 폭주 상태에서 오브젝트 탑승물 탑승 후, 탑승 해제가 불가능한 문제
-- 캐릭터 선택창에서 각성 마크 UI가 출력되는 문제
-- 찬란한 용의 기운이 서린 투구/찬란한 용의 기운이 서린 날개 아이템의 툴팁이 어색한 문제
-- 베르아크 성채 비밀 지역 1네임드 전투 도중 특정 상황에서 파티가 전멸하는 문제
-- 찬란한 용의 기운이 서린 갑주/투구/날개 착용 후, 특정 스킬 사용 시 코스튬 외형이 잘못 출력되는 문제
-- 업적 퀘스트 탭에 동일한 조건의 업적이 존재하는 문제
-- '뜻밖의 조력자' 퀘스트 NPC의 보이스가 상이한 문제
-- 눈싸움 전장 관련 시스템 메시지가 출력되는 문제
-- '범인은 아직도 이 안에 있어' 퀘스트 완료 시, 완료 마크가 깨지는 문제
-- '최전선 지원' 퀘스트의 수행 지역이 생명의 계곡으로 출력되는 문제
-- '치료제의 재료' 퀘스트 설명에서 수집 아이템이 실제 수집해야 하는 아이템과 상이한 문제
-- '파랴의 사업 보조' 퀘스트 설명에서 처치 대상 몬스터가 잘못 표기된 문제
-</code></pre><p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=415"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2019/>2019</a><a class="tag" href=/mysterium/tags/v89/>v89</a><a class="tag" href=/mysterium/tags/raw/>raw</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/translations/2019/v89-01/"><span class="li">&larr;</span>2019.10.31 patch notes (v89.01) | K TERA</a></p><p><a class="link" href="/mysterium/posts/patch-notes/translations/2019/v88-04/"><span class="li">&rarr;</span>2019.10.24 patch notes (v88.04) | K TERA</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
+
+
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
+
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v89-01/">2019년 10월 31일 업데이트 안내 (v89.01)</a></h1>
+    <p> Oct 31, 2019 </p>
+    <h3 id="1-신규-던전-항해-지도">1. 신규 던전: 항해 지도</h3>
+<ul>
+<li>65레벨 이상 캐릭터로 이용 가능하며, 던전을 진행하기 위해서는 &lsquo;항해 지도&rsquo; 아이템이 필요합니다.
+<ul>
+<li>항해 지도 아이템은 장비레벨 435 이상의 던전 및 65레벨 이상 필드 몬스터가 확률적으로 드랍합니다.
+<ul>
+<li>데모크론 실험실에서는 항해 지도가 드랍되지 않습니다.</li>
+<li>거래 및 길드 창고 보관이 불가능한 아이템이며, 1개의 지도로 최대 5명이 참여할 수 있습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>동부 가드&gt;거친 해안&gt;거친 항구의 로니에게 말을 걸어 입장할 수 있습니다. (주간 1회/월간패스 2회)</li>
+<li>입장 후, 난이도를 선택하고 항해 지도 아이템을 사용하여 던전을 진행할 수 있습니다.</li>
+<li>던전 난이도(1~4)에 따라 몬스터의 체력과 공격력이 달라지며, 몇 가지 장치가 추가됩니다.</li>
+<li>난이도에 따른 보상은 다음과 같습니다.
+<ul>
+<li>30분 이내에 클리어 할 경우, 보너스 보상이 추가로 지급됩니다.
+<ul>
+<li>난이도 1
+<ul>
+<li>보상 : 대용량 경험치 서적, 아르보레아의 은빛 결정체/조각, 변화의 증거</li>
+<li>권장 장비레벨 : 446</li>
+</ul>
+</li>
+<li>난이도 2
+<ul>
+<li>보상 : 엑소도르 무기 강화 주문서[희귀], 엑소도르 방어구 강화 주문서[희귀], 아르가프 토벌 휘장, 변화의 증거</li>
+<li>권장 장비레벨 : 453</li>
+</ul>
+</li>
+<li>난이도 3
+<ul>
+<li>보상 : 엑소도르 무기 강화 주문서[전설], 엑소도르 방어구 강화 주문서[전설], 아르가프 토벌 휘장, 변화의 증거</li>
+<li>권장 장비레벨 : 461</li>
+</ul>
+</li>
+<li>난이도 4
+<ul>
+<li>보상 : 엑소도르 무기 강화 주문서[전설], 엑소도르 방어구 강화 주문서[전설], 이샤라의 성물 1, 아마룬의 유물 1</li>
+<li>권장 장비레벨 : 475</li>
+</ul>
+</li>
+<li>보너스 상자
+<ul>
+<li>바다 수호자의 증표 50개 ~ 150개</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>엑소도르 무기/방어구 강화 주문서는 엑소도르 장비에 사용할 수 있는 아이템입니다.
+<ul>
+<li>재료 소모 없이 주문서로 강화를 시도할 수 있으며, 강화 확률은 대장간을 통한 강화와 동일합니다.</li>
+</ul>
+</li>
+<li>보너스 상자에서 획득하는 &lsquo;바다 수호자의 증표'로는 다음과 같은 아이템을 교환할 수 있습니다.
+<ul>
+<li>스킬 연마 스크롤 I ~ II, 스킬 옵션 개방 스크롤 I ~ II, 에메랄드, 딕시 핀쳐의 심해 공포 해머</li>
+<li>딕시 핀쳐의 심해 공포 해머는 &lsquo;광전사&rsquo; 클래스 전용 무기 스타일 아이템입니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-강화">2. 강화</h3>
+<ul>
+<li>&lsquo;강화 수치 하락 + 손상'이 함께 발생할 확률이 감소하며, &lsquo;손상&rsquo;&rsquo; 발생할 확률이 증가합니다.
+<ul>
+<li>전체적인 아이템 손상 확률은 기존과 동일합니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-아이템">3. 아이템</h3>
+<ul>
+<li>변화의 증거 상점에 마지막 원소 아이템이 추가됩니다.
+<ul>
+<li>36,000개로 교환할 수 있습니다.</li>
+</ul>
+</li>
+<li>트로 카드
+<ul>
+<li>코스트가 감소합니다. (6 -&gt; 5)</li>
+<li>카드 능력치가 일부 하향됩니다.
+<ul>
+<li>일반 트로 카드
+<ul>
+<li>물리/마법 증폭 1,393 -&gt; 1,197</li>
+</ul>
+</li>
+<li>고급 트로 카드
+<ul>
+<li>물리/마법 증폭 2,090 -&gt; 1,795</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="버그수정">[버그수정]</h3>
+<ul>
+<li>캐릭터 선택창 위치 변경 시, 다른 페이지로 이동할 수 없는 문제</li>
+<li>&lsquo;해충 박멸&rsquo; 업적 내용이 일부 잘못 기재되어 있는 문제 (소환된 파르폰 유충 사냥 &gt; 소환된 파르프 사냥)</li>
+<li>주머니에 있는 아이템이 호문쿨루스에 등록되지 않는 문제</li>
+<li>폭주 상태에서 오브젝트 탑승물 탑승 후, 탑승 해제가 불가능한 문제</li>
+<li>캐릭터 선택창에서 각성 마크 UI가 출력되는 문제</li>
+<li>찬란한 용의 기운이 서린 투구/찬란한 용의 기운이 서린 날개 아이템의 툴팁이 어색한 문제</li>
+<li>베르아크 성채 비밀 지역 1네임드 전투 도중 특정 상황에서 파티가 전멸하는 문제</li>
+<li>찬란한 용의 기운이 서린 갑주/투구/날개 착용 후, 특정 스킬 사용 시 코스튬 외형이 잘못 출력되는 문제</li>
+<li>업적 퀘스트 탭에 동일한 조건의 업적이 존재하는 문제</li>
+<li>&lsquo;뜻밖의 조력자&rsquo; 퀘스트 NPC의 보이스가 상이한 문제</li>
+<li>눈싸움 전장 관련 시스템 메시지가 출력되는 문제</li>
+<li>&lsquo;범인은 아직도 이 안에 있어&rsquo; 퀘스트 완료 시, 완료 마크가 깨지는 문제</li>
+<li>&lsquo;최전선 지원&rsquo; 퀘스트의 수행 지역이 생명의 계곡으로 출력되는 문제</li>
+<li>&lsquo;치료제의 재료&rsquo; 퀘스트 설명에서 수집 아이템이 실제 수집해야 하는 아이템과 상이한 문제</li>
+<li>&lsquo;파랴의 사업 보조&rsquo; 퀘스트 설명에서 처치 대상 몬스터가 잘못 표기된 문제</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=415">TERA 테라 | NEXON</a></p>
+
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
+
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

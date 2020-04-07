@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v42 on mysterium</title>
-    <link>/mysterium/tags/v42/</link>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v42/</link>
     <description>Recent content in v42 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/mysterium/tags/v42/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v42/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2016년 03월 03일 업데이트 안내 (v42.05)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v42-05/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-05/</link>
       <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v42-05/</guid>
-      <description>### 1. 던전 - 폭군 듀리온의 안식처 - 1네임드가 사용하는 레이저 공격의 타겟 설정 방식이 변경되었습니다. ### 2. 스킬 - 인술사 - 화염술 - PVP 데미지가 하향됩니다. ### 3. 아이템 - 캐릭터 귀속 속성의 완전한 단련의 가루와 진귀한 단련의 가루 아이템의 속성을 일부 변경 하였습니다. - 아이템 이름: (캐릭터 귀속)을 (거래 불가)로 변경 - 창고 보관 불가 속성을 창고 보관 가능으로 변경 - 획득 시 귀속 속성을 귀속 없음으로 변경 ### 4.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-05/</guid>
+      <description>1. 던전  폭군 듀리온의 안식처  1네임드가 사용하는 레이저 공격의 타겟 설정 방식이 변경되었습니다.    2. 스킬  인술사  화염술  PVP 데미지가 하향됩니다.      3. 아이템  캐릭터 귀속 속성의 완전한 단련의 가루와 진귀한 단련의 가루 아이템의 속성을 일부 변경 하였습니다.  아이템 이름: (캐릭터 귀속)을 (거래 불가)로 변경 창고 보관 불가 속성을 창고 보관 가능으로 변경 획득 시 귀속 속성을 귀속 없음으로 변경    4.</description>
     </item>
     
     <item>
       <title>2016년 02월 25일 업데이트 안내 (42.04)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v42-04/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-04/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v42-04/</guid>
-      <description>### 1. 던전 n 폭군 듀리온의 안식처 Ø 3네임드의 던지기 패턴이 더 이상 분산데미지로 적용되지 않습니다. n 듀리온의 안식처 Ø 완전체 듀리온의 HP가 소폭 하향됩니다. Ø 완전체 듀리온이 변신시키는 데모크론 공격력이 소폭 하향됩니다. Ø 듀리온의 가두기 패턴 공격 속도가 느려집니다. n 마법사의 요새 Ø 중간 네임드를 처치하면 지름길로 안내하는 차원의 마법석이 추가됩니다. n 악인 켈리반의 돌격선 Ø 2네임드, 3네임드의 주요 패턴 데미지가 대폭 감소합니다. n 발로나의 시공간 Ø 발로나의 도넛 공격(석판 패턴용) 데미지가 대폭 감소합니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-04/</guid>
+      <description>1. 던전 n 폭군 듀리온의 안식처 Ø 3네임드의 던지기 패턴이 더 이상 분산데미지로 적용되지 않습니다. n 듀리온의 안식처 Ø 완전체 듀리온의 HP가 소폭 하향됩니다. Ø 완전체 듀리온이 변신시키는 데모크론 공격력이 소폭 하향됩니다. Ø 듀리온의 가두기 패턴 공격 속도가 느려집니다. n 마법사의 요새 Ø 중간 네임드를 처치하면 지름길로 안내하는 차원의 마법석이 추가됩니다. n 악인 켈리반의 돌격선 Ø 2네임드, 3네임드의 주요 패턴 데미지가 대폭 감소합니다. n 발로나의 시공간 Ø 발로나의 도넛 공격(석판 패턴용) 데미지가 대폭 감소합니다.</description>
     </item>
     
     <item>
       <title>2016년 02월 04일 업데이트 안내 (v42.02)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v42-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-02/</link>
       <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v42-02/</guid>
-      <description>### 1. 던전 - 듀리온의 안식처 - 신규 던전인 듀리온의 안식처가 추가되었습니다. - 듀리온의 안식처는 65레벨 5인 파티플레이 던전입니다. - 듀리온의 안식처는 [바라카니아 가드 &amp;gt; 이르카 근교]에 위치한 차원의 마법석을 통해 입장할 수 있습니다. - 또는 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. - 듀리온의 안식처에서는 폭군 듀리온 귀걸이, 정화의 토템, 철기장:복수 제작 재료를 획득할 수 있습니다. - 포악한 베르노의 실험실 - 베르노의 실험실 상급 던전인 포악한 베르노의 실험실이 추가되었습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-02/</guid>
+      <description>1. 던전  듀리온의 안식처  신규 던전인 듀리온의 안식처가 추가되었습니다. 듀리온의 안식처는 65레벨 5인 파티플레이 던전입니다. 듀리온의 안식처는 [바라카니아 가드 &amp;gt; 이르카 근교]에 위치한 차원의 마법석을 통해 입장할 수 있습니다. 또는 아이템 레벨 409 달성 시 서버간 파티매칭을 통해 입장할 수 있습니다. 듀리온의 안식처에서는 폭군 듀리온 귀걸이, 정화의 토템, 철기장:복수 제작 재료를 획득할 수 있습니다.   포악한 베르노의 실험실  베르노의 실험실 상급 던전인 포악한 베르노의 실험실이 추가되었습니다. 포악한 베르노의 실험실은 65레벨 7인 파티플레이 던전입니다.</description>
     </item>
     
     <item>
       <title>2016년 01월 28일 업데이트 안내 (v42.01.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v42-01-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-01-01/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v42-01-01/</guid>
-      <description>### 1. 아이템 - 이전 시즌에 제작된 철기장 카이락 창/권갑 아이템의 +13, +14, +15 옵션이 적대치 증가에서 몬스터 추가피해로 변경됩니다. ### 2. 사냥터 - 일부 사냥터의 병목현상을 완화하기 위해 목표 몬스터 및 채집물의 스폰 시간과 개체 수를 조정하였습니다. - 돌격대장 튜벤 리스폰 시간 45초 → 10초로 변경 - 쿠마스 라다트, 쿠마스 카다스 리스폰 시간 60초 → 15초로 변경 - 작은 세이버투스 10마리 추가 배치 - &#39;사악한 마법석 파편&#39;, &#39;이름 없는 제단&#39; 작동 시간 3초로 단축 - 데바의 사악한 마법진 2개 → 4개로 추가 배치 - 로크 교도의 상자 배치 개수 1개 → 4개로 추가 배치 - 어둠 주술사 바센의 리스폰 시간 45초 → 10초로 단축 - 고대의 마석 스폰 시간 30초 → 20초로 단축 - 고대의 마석 스폰 개수 11개 → 26개로 추가 배치 - 매혹의 꽃 스폰 시간 30초 → 20초로 추가 배치 - 매혹의 꽃 스폰 개수 13개 → 27개로 추가 배치 ### [버그 수정 내역] - 던전 - 마법사의 요새 내부에 생성되는 차원의 마법석으로 이동 시 기존 60레벨 마법사의 요새로 이동하는 문제를 수정하였습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-01-01/</guid>
+      <description>1. 아이템  이전 시즌에 제작된 철기장 카이락 창/권갑 아이템의 +13, +14, +15 옵션이 적대치 증가에서 몬스터 추가피해로 변경됩니다.  2. 사냥터  일부 사냥터의 병목현상을 완화하기 위해 목표 몬스터 및 채집물의 스폰 시간과 개체 수를 조정하였습니다. 돌격대장 튜벤 리스폰 시간 45초 → 10초로 변경 쿠마스 라다트, 쿠마스 카다스 리스폰 시간 60초 → 15초로 변경 작은 세이버투스 10마리 추가 배치 &amp;lsquo;사악한 마법석 파편&amp;rsquo;, &amp;lsquo;이름 없는 제단&amp;rsquo; 작동 시간 3초로 단축 데바의 사악한 마법진 2개 → 4개로 추가 배치 로크 교도의 상자 배치 개수 1개 → 4개로 추가 배치 어둠 주술사 바센의 리스폰 시간 45초 → 10초로 단축 고대의 마석 스폰 시간 30초 → 20초로 단축 고대의 마석 스폰 개수 11개 → 26개로 추가 배치 매혹의 꽃 스폰 시간 30초 → 20초로 추가 배치 매혹의 꽃 스폰 개수 13개 → 27개로 추가 배치  [버그 수정 내역]  던전  마법사의 요새 내부에 생성되는 차원의 마법석으로 이동 시 기존 60레벨 마법사의 요새로 이동하는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 01월 26일 업데이트 안내 (v42.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2016/v42-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-01/</link>
       <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2016/v42-01/</guid>
-      <description>#### 1. 신규 클래스: 인술사 - 신규 클래스 &#39;인술사&#39;가 추가되었습니다. - 인술사는 엘린 종족으로만 생성 가능합니다. #### 2. 비행 시스템 추가 - 비행 탈 것 탑승 시 아래 비행 가능 지역에서 비행이 가능합니다. - 벨리카 직할령: 벨리카, 벨리카 근교 - 발키온 보호령: 여명의 정원 - 바라카니아 가드: 원시의 땅, 바라카니아 구릉지, 고대 바라카 유적터, 이르카, 이르카 근교, 제국의 땅 - *※ 비행 가능 지역은 이후 지속적으로 확대될 예정입니다.* - 비행 시스템에는 아래와 같은 특징이 있습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v42-01/</guid>
+      <description>1. 신규 클래스: 인술사  신규 클래스 &amp;lsquo;인술사&#39;가 추가되었습니다. 인술사는 엘린 종족으로만 생성 가능합니다.  2. 비행 시스템 추가  비행 탈 것 탑승 시 아래 비행 가능 지역에서 비행이 가능합니다.  벨리카 직할령: 벨리카, 벨리카 근교 발키온 보호령: 여명의 정원 바라카니아 가드: 원시의 땅, 바라카니아 구릉지, 고대 바라카 유적터, 이르카, 이르카 근교, 제국의 땅   ※ 비행 가능 지역은 이후 지속적으로 확대될 예정입니다. 비행 시스템에는 아래와 같은 특징이 있습니다.</description>
     </item>
     
   </channel>

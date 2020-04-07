@@ -1,36 +1,27 @@
-baseURL = "https://seraphinush-gaming.github.io/mysterium/"
 title = "mysterium"
-slogan = "Blog by seraphinush-gaming"
-
-languageCode = "en-us"
+baseURL = "https://seraphinush-gaming.github.io/mysterium/"
 publishDir = "docs"
-theme = "hugo-notepadium"
-
-[markup.highlight]
-codeFences = true
-noClasses = false
+languageCode = "en-us"
+theme = "hugo-mysterium-theme"
 
 [params]
-style = "dark"
+description = "blog by seraphinush"
 dateFormat = "Monday, January 2, 2006"
-logo = ""
+trackingId = "UA-66500356-2"
+adsenseId = ""
 
-[params.nav]
-showCategories = true
-showTags = false
-
-[[params.nav.custom]]
-  title = "About"
+[[params.nav]]
+  title = "about"
   url = "/about"
-[[params.nav.custom]]
-  title = "Patch Notes"
-  url = "/categories/patch-notes"
-[[params.nav.custom]]
-  title = "Dev Posts"
-  url = "/categories/dev-notes"
-[[params.nav.custom]]
-  title = "Youtube"
-  url = "https://www.youtube.com/c/seraphinush-gaming"
+[[params.nav]]
+  title = "lucidity"
+  url = "/lucidity"
+[[params.nav]]
+  title = "youtube"
+  url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
+[[params.nav]]
+  title = "twitch"
+  url = "https://www.twitch.tv/seraphinush"
 
 [taxonomies]
 category = "categories"

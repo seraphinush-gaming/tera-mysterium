@@ -1,93 +1,261 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2018년 01월 25일 업데이트 안내&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2018년 01월 25일 업데이트 안내</h1><p class="article date">Thursday, January 25, 2018</p></section><article class="article markdown-body"><pre><code>### 1. 스킬 및 밸런스
-- 창기사
-  - 전투의 의지
-    - 몬스터 공격 시 공격력 5% 증가 효과가 삭제됩니다.
-- 검투사
-  - 이단 검무
-    - 도발 난무, 충격의 외침 스킬의 사후 모션을 취소시킬 수 없었던 문제가 수정됩니다.
-- 광전사
-  - 폭주 : 우수 I
-    - 스킬 위력이 25% 감소합니다.
-  - 폭주 : 좌수 I
-    - 스킬 위력이 25% 감소합니다.
-  - 폭주 : 쌍수 I
-    - 스킬 위력이 25% 감소합니다.
-- 무사
-  - 거합
-    - 재사용 대기시간이 5분에서 3분으로 변경됩니다.
-  - 섬단
-    - 적중 시 확정적으로 치명타가 적용됩니다.
-    - 스킬 위력이 30% 증가합니다.
-- 마법사
-  - 운석 낙하
-    - 기본 치명타 확률이 10% 상승합니다.
-    - MP소모량이 800에서 750으로 변경됩니다.
-  - 파멸의 광탄
-    - 기본 치명타 확률이 10% 상승합니다.
-    - MP소모량이 600에서 550으로 변경됩니다.
-  - 뇌격 강타
-    - MP소모량이 300에서 250으로 변경됩니다.
-  - 얼음 폭풍
-    - MP소모량이 900에서 800으로 변경됩니다.
-- 마공사
-  - 비전 미사일 발사
-    - 스킬 위력이 10% 증가합니다.
-  - 시한폭탄 발사
-    - 스킬 위력이 10% 증가합니다.
-  - 전자탄 발사
-    - 기본 치명타 확률이 약 20% 상승합니다.
-  - 산탄 발사
-    - 기본 치명타 확률이 약 15% 상승합니다.
-- 인술사
-  - 화염술
-    - 추진력 특성의 조건이 치명타 적중 시에서 적중 시로 변경됩니다.
-    - 차크라 회복술의 재사용 대기시간 감소가 최대 6초에서 4.5초로 변경됩니다.
-  - 돌려베기
-    - 스킬 위력이 20% 증가합니다.
-- 사제
-  - 심판의 주문
-    - 재사용 대기시간이 3분에서 2분 40초로 변경됩니다.
-- 정령사
-  - 정령화
-    - 정령화 시 정령 소환을 통해 효과를 걸어줄 수 있는 최대 인원수가 모두 5명으로 변경됩니다.
-    - 공격대에게 버프 효과를 걸어줄 수 없도록 변경됩니다.
-  - 정령왕
-    - 다른 플레이어에게 적중 시 위력이 30% 하락합니다.
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### 2. 수호자 임무
-- 일부 클래스가 몬스터 사냥을 통하여 획득할 수 있는 수호자 점수의 획득 비율이 조정됩니다.
-  - 사제의 수호자 점수 획득 비율 하향
-  - 마공사의 수호자 점수 획득 비율 상향
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-### [버그수정]
-- 부가서비스
-  - 세미의 랜덤 의상 큐브에서 귀속 속성이 없는 메카 윙슈트를 획득할 수 있는 문제
-- 전장
-  - 지하의 격전장 플레이 중 특정 상황에서 플레이어 이름이 익명 처리되지 않는 문제
-- 던전
-  - 공허한/안타로스의 심연에서 네임드로 통하는 입구 문이 확률적으로 열리지 않는 문제
-  - 공허한/안타로스의 심연 3네임드의 피격 방향과 관계없이 후방 판정을 받는 문제
-- 스타일샵
-  - 아래 스타일 아이템의 판매가 종료되었던 문제
-  - 검은용의 기운이 서린 갑주/날개/투구
-  - 푸른용의 기운이 서린 갑주/날개/투구
-  - 화룡의 기운이 서린 날개/투구
-</code></pre><hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=317"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2018/>2018</a><a class="tag" href=/mysterium/tags/raw/>raw</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/translations/2018/2018-01-25/"><span class="li">&larr;</span>2018.01.25 patch notes | K TERA</a></p><p><a class="link" href="/mysterium/posts/patch-notes/translations/2018/2018-01-18/"><span class="li">&rarr;</span>2018.01.18 patch notes | K TERA</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
+
+
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
+
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/2018-01-25/">2018년 01월 25일 업데이트 안내</a></h1>
+    <p> Jan 25, 2018 </p>
+    <h3 id="1-스킬-및-밸런스">1. 스킬 및 밸런스</h3>
+<ul>
+<li>창기사
+<ul>
+<li>전투의 의지
+<ul>
+<li>몬스터 공격 시 공격력 5% 증가 효과가 삭제됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>검투사
+<ul>
+<li>이단 검무
+<ul>
+<li>도발 난무, 충격의 외침 스킬의 사후 모션을 취소시킬 수 없었던 문제가 수정됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>광전사
+<ul>
+<li>폭주 : 우수 I
+<ul>
+<li>스킬 위력이 25% 감소합니다.</li>
+</ul>
+</li>
+<li>폭주 : 좌수 I
+<ul>
+<li>스킬 위력이 25% 감소합니다.</li>
+</ul>
+</li>
+<li>폭주 : 쌍수 I
+<ul>
+<li>스킬 위력이 25% 감소합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>무사
+<ul>
+<li>거합
+<ul>
+<li>재사용 대기시간이 5분에서 3분으로 변경됩니다.</li>
+</ul>
+</li>
+<li>섬단
+<ul>
+<li>적중 시 확정적으로 치명타가 적용됩니다.</li>
+<li>스킬 위력이 30% 증가합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>마법사
+<ul>
+<li>운석 낙하
+<ul>
+<li>기본 치명타 확률이 10% 상승합니다.</li>
+<li>MP소모량이 800에서 750으로 변경됩니다.</li>
+</ul>
+</li>
+<li>파멸의 광탄
+<ul>
+<li>기본 치명타 확률이 10% 상승합니다.</li>
+<li>MP소모량이 600에서 550으로 변경됩니다.</li>
+</ul>
+</li>
+<li>뇌격 강타
+<ul>
+<li>MP소모량이 300에서 250으로 변경됩니다.</li>
+</ul>
+</li>
+<li>얼음 폭풍
+<ul>
+<li>MP소모량이 900에서 800으로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>마공사
+<ul>
+<li>비전 미사일 발사
+<ul>
+<li>스킬 위력이 10% 증가합니다.</li>
+</ul>
+</li>
+<li>시한폭탄 발사
+<ul>
+<li>스킬 위력이 10% 증가합니다.</li>
+</ul>
+</li>
+<li>전자탄 발사
+<ul>
+<li>기본 치명타 확률이 약 20% 상승합니다.</li>
+</ul>
+</li>
+<li>산탄 발사
+<ul>
+<li>기본 치명타 확률이 약 15% 상승합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>인술사
+<ul>
+<li>화염술
+<ul>
+<li>추진력 특성의 조건이 치명타 적중 시에서 적중 시로 변경됩니다.</li>
+<li>차크라 회복술의 재사용 대기시간 감소가 최대 6초에서 4.5초로 변경됩니다.</li>
+</ul>
+</li>
+<li>돌려베기
+<ul>
+<li>스킬 위력이 20% 증가합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>사제
+<ul>
+<li>심판의 주문
+<ul>
+<li>재사용 대기시간이 3분에서 2분 40초로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>정령사
+<ul>
+<li>정령화
+<ul>
+<li>정령화 시 정령 소환을 통해 효과를 걸어줄 수 있는 최대 인원수가 모두 5명으로 변경됩니다.</li>
+<li>공격대에게 버프 효과를 걸어줄 수 없도록 변경됩니다.</li>
+</ul>
+</li>
+<li>정령왕
+<ul>
+<li>다른 플레이어에게 적중 시 위력이 30% 하락합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-수호자-임무">2. 수호자 임무</h3>
+<ul>
+<li>일부 클래스가 몬스터 사냥을 통하여 획득할 수 있는 수호자 점수의 획득 비율이 조정됩니다.
+<ul>
+<li>사제의 수호자 점수 획득 비율 하향</li>
+<li>마공사의 수호자 점수 획득 비율 상향</li>
+</ul>
+</li>
+</ul>
+<h3 id="버그수정">[버그수정]</h3>
+<ul>
+<li>부가서비스
+<ul>
+<li>세미의 랜덤 의상 큐브에서 귀속 속성이 없는 메카 윙슈트를 획득할 수 있는 문제</li>
+</ul>
+</li>
+<li>전장
+<ul>
+<li>지하의 격전장 플레이 중 특정 상황에서 플레이어 이름이 익명 처리되지 않는 문제</li>
+</ul>
+</li>
+<li>던전
+<ul>
+<li>공허한/안타로스의 심연에서 네임드로 통하는 입구 문이 확률적으로 열리지 않는 문제</li>
+<li>공허한/안타로스의 심연 3네임드의 피격 방향과 관계없이 후방 판정을 받는 문제</li>
+</ul>
+</li>
+<li>스타일샵
+<ul>
+<li>아래 스타일 아이템의 판매가 종료되었던 문제</li>
+<li>검은용의 기운이 서린 갑주/날개/투구</li>
+<li>푸른용의 기운이 서린 갑주/날개/투구</li>
+<li>화룡의 기운이 서린 날개/투구</li>
+</ul>
+</li>
+</ul>
+<pre><code>
+----
+
+source : [TERA 테라 | NEXON](http://tera.nexon.com/news/update/view.aspx?n4articlesn=317)
+</code></pre>
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
+
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

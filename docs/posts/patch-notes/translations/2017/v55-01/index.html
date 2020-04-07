@@ -1,221 +1,452 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2017.01.12 patch notes (v55.01) | K TERA&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2017.01.12 patch notes (v55.01) | K TERA</h1><p class="article date">Thursday, January 12, 2017</p></section><article class="article markdown-body"><pre><code>### 1. Dungeon
-- New: Velika's Undeground Gateway (VUG)
-  - Added mid-tier dungeon VUG
-  - Instance matching available from ilvl 417
-  - New gear 'Baldegg', Tier 11 Feedstock, Spellbind, Master Enigmatic Scroll, new Visionmaker series 'Ruthless' can be obtained
-- Lower-tier dungeon
-- The following dungeons are this season's lower-tier dungeons
-- Guile gear, Manor and Estate jewelry, Tier 10 enchanting materials (Feedstock, Master Enigmatic Scroll, Spellbind) can be obtained
-  - Kalivan's Challenge
-  - Channelworks
-  - Abscess
-- Mid-tier dungeon
-- The following dungeons are this season's mid-tier dungeons
-- Baldegg gear, Lakan's jewelry, Accessory Crafter's Kit, Balbatos Circlet, Visionmaker materials (Ambush/Ruthless), Tier 11 enchanting materials can be obtained
-  - VUG
-  - Demokron Factory
-  - Bathysmal Rise
-  - Kalivan's Dreadnaught
-- Upper-tier Dungeon
-  - The following dungeons are this season's upper-tier dungeons
-  - Tier 2 Lakan's jewelry, Visionmaker materials (Ambush/Ruthless), Tier 11 enchanting materials, Alkahest, Circlet materials can be obtained
-  - Demokron Factory (hm)
-  - Timescape
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-Dev note: While the weapons stats have been continuously strengthened, only the HP of monsters have been adjusted. Because of this damage has been increased to outrageous levels, and in order to make amends we have adjusted not only the HP of monsters but also their defense which is class invariant for this season.
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-- Removed dungeon
 
-  - The following dungeons have been removed
-    - Harrowhold
-    - Nightmare Ruinous Manor
-    - Ruinous Manor
-    - Broken Prison
-    - Nightmare Lilith's Keep
-    - Lilith's Keep
-    - Shadow Sanguinary (hm)
-    - Shadow Sanguinary
-    - Sky Cruiser Endeavor (hm)
-    - Vault of Kaprima
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
 
-Dev note: We have noticed that players get bored having to play the same dungeons for a long period of time every season, and in order to revise this we have decided to rotate upper-tier dungeons and/or reopen and add in upper-tier dungeons in the following updates for this season.
 
-- Slightly increased the difficulty of Ace Dungeons
-- Slightly increased the difficulty of Celestial Arena
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
 
-### 2. Island of Dawn
-- Increasead attack, defense, and HP of mid-tier and upper-tier BAMs on Island of Dawn in order to match the new season gear
 
-### 3. Vanguard Initiative
-- Revised Vanguard Initiative UI
 
-![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-1.png)
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  - Changed the design of the Vanguard Initiative UI
-  - Changed Story quest section to a Vanguard Initiative quest
-  - Added details on dungeon, battleground, and solo quests
-  - Revised quest filter
-  - Added daily bonus (can be used up to 2 per day)
-  - Changed the badge count for different quest types to be the same throughout level progression (8 dungeon, 8 battleground, 8 solo, 8 story)
-  - Added 'Teleport' option for dungeon quests on details page
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
 
-![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-2.png)
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2017/v55-01/">2017.01.12 patch notes (v55.01) | K TERA</a></h1>
+    <p> Jan 12, 2017 </p>
+    <h3 id="1-dungeon">1. Dungeon</h3>
+<ul>
+<li>New: Velika&rsquo;s Undeground Gateway (VUG)
+<ul>
+<li>Added mid-tier dungeon VUG</li>
+<li>Instance matching available from ilvl 417</li>
+<li>New gear &lsquo;Baldegg&rsquo;, Tier 11 Feedstock, Spellbind, Master Enigmatic Scroll, new Visionmaker series &lsquo;Ruthless&rsquo; can be obtained</li>
+</ul>
+</li>
+<li>Lower-tier dungeon</li>
+<li>The following dungeons are this season&rsquo;s lower-tier dungeons</li>
+<li>Guile gear, Manor and Estate jewelry, Tier 10 enchanting materials (Feedstock, Master Enigmatic Scroll, Spellbind) can be obtained
+<ul>
+<li>Kalivan&rsquo;s Challenge</li>
+<li>Channelworks</li>
+<li>Abscess</li>
+</ul>
+</li>
+<li>Mid-tier dungeon</li>
+<li>The following dungeons are this season&rsquo;s mid-tier dungeons</li>
+<li>Baldegg gear, Lakan&rsquo;s jewelry, Accessory Crafter&rsquo;s Kit, Balbatos Circlet, Visionmaker materials (Ambush/Ruthless), Tier 11 enchanting materials can be obtained
+<ul>
+<li>VUG</li>
+<li>Demokron Factory</li>
+<li>Bathysmal Rise</li>
+<li>Kalivan&rsquo;s Dreadnaught</li>
+</ul>
+</li>
+<li>Upper-tier Dungeon
+<ul>
+<li>The following dungeons are this season&rsquo;s upper-tier dungeons</li>
+<li>Tier 2 Lakan&rsquo;s jewelry, Visionmaker materials (Ambush/Ruthless), Tier 11 enchanting materials, Alkahest, Circlet materials can be obtained</li>
+<li>Demokron Factory (hm)</li>
+<li>Timescape</li>
+</ul>
+</li>
+</ul>
+<p>Dev note: While the weapons stats have been continuously strengthened, only the HP of monsters have been adjusted. Because of this damage has been increased to outrageous levels, and in order to make amends we have adjusted not only the HP of monsters but also their defense which is class invariant for this season.</p>
+<ul>
+<li>
+<p>Removed dungeon</p>
+<ul>
+<li>The following dungeons have been removed
+<ul>
+<li>Harrowhold</li>
+<li>Nightmare Ruinous Manor</li>
+<li>Ruinous Manor</li>
+<li>Broken Prison</li>
+<li>Nightmare Lilith&rsquo;s Keep</li>
+<li>Lilith&rsquo;s Keep</li>
+<li>Shadow Sanguinary (hm)</li>
+<li>Shadow Sanguinary</li>
+<li>Sky Cruiser Endeavor (hm)</li>
+<li>Vault of Kaprima</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Dev note: We have noticed that players get bored having to play the same dungeons for a long period of time every season, and in order to revise this we have decided to rotate upper-tier dungeons and/or reopen and add in upper-tier dungeons in the following updates for this season.</p>
+<ul>
+<li>Slightly increased the difficulty of Ace Dungeons</li>
+<li>Slightly increased the difficulty of Celestial Arena</li>
+</ul>
+<h3 id="2-island-of-dawn">2. Island of Dawn</h3>
+<ul>
+<li>Increasead attack, defense, and HP of mid-tier and upper-tier BAMs on Island of Dawn in order to match the new season gear</li>
+</ul>
+<h3 id="3-vanguard-initiative">3. Vanguard Initiative</h3>
+<ul>
+<li>Revised Vanguard Initiative UI</li>
+</ul>
+<p><img src="https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-1.png" alt=""></p>
+<ul>
+<li>Changed the design of the Vanguard Initiative UI</li>
+<li>Changed Story quest section to a Vanguard Initiative quest</li>
+<li>Added details on dungeon, battleground, and solo quests</li>
+<li>Revised quest filter</li>
+<li>Added daily bonus (can be used up to 2 per day)</li>
+<li>Changed the badge count for different quest types to be the same throughout level progression (8 dungeon, 8 battleground, 8 solo, 8 story)</li>
+<li>Added &lsquo;Teleport&rsquo; option for dungeon quests on details page</li>
+</ul>
+<p><img src="https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-2.png" alt=""></p>
+<ul>
+<li>Added &lsquo;Check teleport location&rsquo; option for solo quests on detail page</li>
+<li>Added &lsquo;Teleport to reputation merchant&rsquo; option</li>
+<li>Moved option unrelated to Vanguard Initiative to System Menu (event calendar, patch note, gear recommendation, help)</li>
+</ul>
+<p><img src="https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-3.png" alt=""></p>
+<h3 id="4-battleground">4. Battleground</h3>
+<ul>
+<li>Battleground no longer rewards Bellicarium and Killing Spree points
+<ul>
+<li>Points in possession can still be used</li>
+<li>Battleground merchant has not been updated, and reduce price by 10 to 20%</li>
+</ul>
+</li>
+<li>Added new rewards for winning/losing battleground
+<ul>
+<li>Win: Battleground-specific winner box (cannot be traded)</li>
+<li>Loss Battleground participation token (can exchange 5 participation token for 1 winner box)</li>
+<li>The overall top three players with the highest point in Corsairs&rsquo; Stronghold and Fraywind Canyon will receive a winner box regardless of win or loss (added)</li>
+<li>The following items can be obtained by probability from Battleground-specific winner boxes
+<ul>
+<li>Kumas Royale (pre-65)
+<ul>
+<li>Bravery Potion</li>
+<li>Experience Scroll 100</li>
+<li>Other combat consumables</li>
+</ul>
+</li>
+<li>Kumas Royale
+<ul>
+<li>Baldegg gear</li>
+<li>Master Enigmatic Scroll</li>
+<li>Other combat consumables</li>
+</ul>
+</li>
+<li>Corsairs&rsquo; Stronghold
+<ul>
+<li>PvP jewelry materials and design</li>
+<li>Visionmaker Ruthless material</li>
+<li>Other combat consumables</li>
+</ul>
+</li>
+<li>Fraywind Canyon
+<ul>
+<li>PvP jewelry matierals and design</li>
+<li>Visionmaker Ruthless material</li>
+<li>Goddess&rsquo; Tear</li>
+<li>Dyad Niveot Structure</li>
+<li>Superior Etching Box</li>
+<li>Other combat consumables</li>
+</ul>
+</li>
+<li>Champion&rsquo;s Skyring (solo)
+<ul>
+<li>PvP jewelry materials and design</li>
+<li>Visionmaker Ruthless material</li>
+<li>Other combat consumables</li>
+</ul>
+</li>
+<li>Champion&rsquo;s Skyring
+<ul>
+<li>PvP jewelry materials and design</li>
+<li>Visionmaker Ruthless material</li>
+<li>Other combat consumables</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="5-item">5. Item</h3>
+<ul>
+<li>Added new gear
+<ul>
+<li>Added Visionmaker &lsquo;Ruthless&rsquo; gear
+<ul>
+<li>The following materials are required to craft VM: Ruthless
+<ul>
+<li>VM: Ruthless design</li>
+<li>Lakan&rsquo;s Might</li>
+<li>Mark el Diablo</li>
+<li>Sign of Loyalty</li>
+<li>Chase Flag</li>
+<li>Ingot</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Added Baldegg gear
+<ul>
+<li>Obtained through mid-tier content (dungeon/solo/battleground)</li>
+</ul>
+</li>
+<li>Added Lakan&rsquo;s jewelry
+<ul>
+<li>Rewarded from mid-tier content (dungeon/solo)</li>
+<li>Tier 2 jewelry can be obtained through upper-tier content</li>
+</ul>
+</li>
+<li>Added new PvP jewelry
+<ul>
+<li>The following materials are required to craft the new PvP jewelry</li>
+<li>The new PvP marks can be obtained through participating in battleground
+<ul>
+<li>Design: PvP jewelry</li>
+<li>PvP mark 1</li>
+<li>PvP mark 2</li>
+<li>Tier 2 Lakan&rsquo;s jewelry</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Changed Hurricane proc on Flawless gear so that it no longer stacks with Healers&rsquo; respective endurance debuffs</li>
+<li>Changed Goddess Blessing so that all its variants share cooldown
+<ul>
+<li>There was an issue where Goddess Blessings could be used several times within dungeons making it easy to clear so it has been changed to shared cooldown.</li>
+</ul>
+</li>
+<li>Changed stats of Crystal - Stout Zyrk
+<ul>
+<li>Changed to decrease critical damage taken by 0.7%</li>
+</ul>
+</li>
+<li>Changed ilvl point given to rerollable stat “decreased damage from monster with highest aggro towards you”
+<ul>
+<li>This has been changed for players who enjoy solo content to use this rerollable option without losing ilvl. DPS class can now use this rerollable stat as a yellow line and receive ilvl points.</li>
+</ul>
+</li>
+<li>Changed solo content reward token
+<ul>
+<li>As it has been previously, the tokens received from solo contents last to a max of two seasons.
+<ul>
+<li>Current token -&gt; (old) token</li>
+<li>(old) token -&gt; unusable token</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Changed level 65 guide quest rewards (solo and dungeon)
+<ul>
+<li>Originally the guide quest could not be repeated (eg. Echo of Aranea can only be completed once per character)</li>
+<li>Added &lsquo;Progression Masterwork Alkahest&rsquo;</li>
+<li>Changed gem rewards to enchanting related rewards
+<ul>
+<li>This change has been made as the value of gold varies between servers</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-skill">6. Skill</h3>
+<ul>
+<li>Slayer
+<ul>
+<li>Distant Blade
+<ul>
+<li>Fixed issue where the skill display did not sync</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Priest
+<ul>
+<li>Triple Nemesis - talent
+<ul>
+<li>Changed crit resist effect upon crit from 5 seconds to 18 seconds</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Mystic
+<ul>
+<li>Aura of Merciless IV
+<ul>
+<li>Changed crit buff effect from 2.1 times to 2.2 times</li>
+</ul>
+</li>
+<li>Curse of Confusion, Sonorous Dreams, Shara&rsquo;s Lash
+<ul>
+<li>Changed so it can no longer be used on the same target repeatedly</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Sorcerer
+<ul>
+<li>Meteor Strike
+<ul>
+<li>Decreased MP cost from 1200 to 800</li>
+</ul>
+</li>
+<li>Frost Sphere</li>
+<li>Decreased MP cost from 1000 to 900</li>
+<li>Nova
+<ul>
+<li>Decreased MP cost from 700 to 600</li>
+</ul>
+</li>
+<li>Teleport Jaunt
+<ul>
+<li>Decreased cooldown from 15 seconds to 12 seconds</li>
+</ul>
+</li>
+<li>Warp Barrier
+<ul>
+<li>Increased cooldown from 10 seconds to 18 seconds</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Archer
+<ul>
+<li>Chase
+<ul>
+<li>Decreased cooldown from 25 seconds to 20 seconds</li>
+<li>Added Glyph of Energy
+<ul>
+<li>Decrease cooldown by 20%, costs 4 points</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Rain of Arrows
+<ul>
+<li>Changed so damage no longer divides by the number of targets hit</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Berserker
+<ul>
+<li>Fiery Rage
+<ul>
+<li>Changed awkward skill animation</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Brawler
+<ul>
+<li>Growing Fury
+<ul>
+<li>Removed cooldown</li>
+<li>Changed Glyph of Energy to Glyph of Threat
+<ul>
+<li>Increase aggro by 20%, no change to glyph point cost</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Valkyrie
+<ul>
+<li>Umbra Slash
+<ul>
+<li>Fixed issue where it registered as hit even upon Perfect Dodge</li>
+</ul>
+</li>
+<li>Piercing Moonlight, Moonlight Burst
+<ul>
+<li>Changed so other players do not take effect from screen shake</li>
+</ul>
+</li>
+<li>Blood Moon
+<ul>
+<li>Removed inaccurate tooltip information on additional crit rate by 50</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Renamed “Glyph of Energy” to “Glyph of Chance” for all classes</li>
+</ul>
+<h3 id="7-pc-bang">7. PC Bang</h3>
+<ul>
+<li>K TERA exclusive</li>
+</ul>
+<p><img src="https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-4.png" alt=""></p>
+<h3 id="8-achievement">8. Achievement</h3>
+<ul>
+<li>Updated from Achievement Season 5 to Season 6</li>
+<li>There may be changes to laurel level and achievement point distributed</li>
+<li>achievements related to reopened dungeons will be moved from &lsquo;Legacy&rsquo; to &lsquo;Dungeon and Battleground&rsquo;</li>
+<li>Achievements related to removed dungeons will be moved to &lsquo;Legacy&rsquo;</li>
+</ul>
+<pre><code>
+----
 
-- Added 'Check teleport location' option for solo quests on detail page
-- Added 'Teleport to reputation merchant' option
-- Moved option unrelated to Vanguard Initiative to System Menu (event calendar, patch note, gear recommendation, help)
+source : [TERA 테라 | NEXON](http://tera.nexon.com/news/update/view.aspx?n4articlesn=259)
+</code></pre>
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
 
-![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-3.png)
-
-### 4. Battleground
-- Battleground no longer rewards Bellicarium and Killing Spree points
-  - Points in possession can still be used
-  - Battleground merchant has not been updated, and reduce price by 10 to 20%
-- Added new rewards for winning/losing battleground
-  - Win: Battleground-specific winner box (cannot be traded)
-  - Loss Battleground participation token (can exchange 5 participation token for 1 winner box)
-  - The overall top three players with the highest point in Corsairs' Stronghold and Fraywind Canyon will receive a winner box regardless of win or loss (added)
-  - The following items can be obtained by probability from Battleground-specific winner boxes
-    - Kumas Royale (pre-65)
-      - Bravery Potion
-      - Experience Scroll 100
-      - Other combat consumables
-    - Kumas Royale
-      - Baldegg gear
-      - Master Enigmatic Scroll
-      - Other combat consumables
-    - Corsairs' Stronghold
-      - PvP jewelry materials and design
-      - Visionmaker Ruthless material
-      - Other combat consumables
-    - Fraywind Canyon
-      - PvP jewelry matierals and design
-      - Visionmaker Ruthless material
-      - Goddess' Tear
-      - Dyad Niveot Structure
-      - Superior Etching Box
-      - Other combat consumables
-    - Champion's Skyring (solo)
-      - PvP jewelry materials and design
-      - Visionmaker Ruthless material
-      - Other combat consumables
-    - Champion's Skyring
-      - PvP jewelry materials and design
-      - Visionmaker Ruthless material
-      - Other combat consumables
-
-### 5. Item
-- Added new gear
-  - Added Visionmaker 'Ruthless' gear
-    - The following materials are required to craft VM: Ruthless
-      - VM: Ruthless design
-      - Lakan's Might
-      - Mark el Diablo
-      - Sign of Loyalty
-      - Chase Flag 
-      - Ingot
-  - Added Baldegg gear
-    - Obtained through mid-tier content (dungeon/solo/battleground)
-  - Added Lakan's jewelry
-    - Rewarded from mid-tier content (dungeon/solo)
-    - Tier 2 jewelry can be obtained through upper-tier content
-  - Added new PvP jewelry
-    - The following materials are required to craft the new PvP jewelry
-    - The new PvP marks can be obtained through participating in battleground
-      - Design: PvP jewelry
-      - PvP mark 1
-      - PvP mark 2
-      - Tier 2 Lakan's jewelry
-- Changed Hurricane proc on Flawless gear so that it no longer stacks with Healers' respective endurance debuffs
-- Changed Goddess Blessing so that all its variants share cooldown
-  - There was an issue where Goddess Blessings could be used several times within dungeons making it easy to clear so it has been changed to shared cooldown.
-- Changed stats of Crystal - Stout Zyrk
-  - Changed to decrease critical damage taken by 0.7%
-- Changed ilvl point given to rerollable stat “decreased damage from monster with highest aggro towards you”
-  - This has been changed for players who enjoy solo content to use this rerollable option without losing ilvl. DPS class can now use this rerollable stat as a yellow line and receive ilvl points.
-- Changed solo content reward token
-  - As it has been previously, the tokens received from solo contents last to a max of two seasons.
-    - Current token -&gt; (old) token
-    - (old) token -&gt; unusable token
-- Changed level 65 guide quest rewards (solo and dungeon)
-  - Originally the guide quest could not be repeated (eg. Echo of Aranea can only be completed once per character)
-  - Added 'Progression Masterwork Alkahest'
-  - Changed gem rewards to enchanting related rewards
-    - This change has been made as the value of gold varies between servers
-
-### 6. Skill
-- Slayer
-  - Distant Blade
-    - Fixed issue where the skill display did not sync
-- Priest
-  - Triple Nemesis - talent
-    - Changed crit resist effect upon crit from 5 seconds to 18 seconds
-- Mystic
-  - Aura of Merciless IV
-    - Changed crit buff effect from 2.1 times to 2.2 times
-  - Curse of Confusion, Sonorous Dreams, Shara's Lash
-    - Changed so it can no longer be used on the same target repeatedly
-- Sorcerer
-  - Meteor Strike
-    - Decreased MP cost from 1200 to 800
-  - Frost Sphere
-   - Decreased MP cost from 1000 to 900
-  - Nova
-    - Decreased MP cost from 700 to 600
-  - Teleport Jaunt
-    - Decreased cooldown from 15 seconds to 12 seconds
-  - Warp Barrier
-    - Increased cooldown from 10 seconds to 18 seconds
-- Archer
-  - Chase
-    - Decreased cooldown from 25 seconds to 20 seconds
-    - Added Glyph of Energy
-      - Decrease cooldown by 20%, costs 4 points
-  - Rain of Arrows
-    - Changed so damage no longer divides by the number of targets hit
-- Berserker
-  - Fiery Rage
-    - Changed awkward skill animation
-- Brawler
-  - Growing Fury
-    - Removed cooldown
-    - Changed Glyph of Energy to Glyph of Threat
-      - Increase aggro by 20%, no change to glyph point cost
-- Valkyrie
-  - Umbra Slash
-    - Fixed issue where it registered as hit even upon Perfect Dodge
-  - Piercing Moonlight, Moonlight Burst
-    - Changed so other players do not take effect from screen shake
-  - Blood Moon
-    - Removed inaccurate tooltip information on additional crit rate by 50
-- Renamed “Glyph of Energy” to “Glyph of Chance” for all classes
-
-### 7. PC Bang
-- K TERA exclusive
-
-![](https://seraphinush-gaming.github.io/mysterium/images/patch-notes/2017-01-12-4.png)
-
-### 8. Achievement
-- Updated from Achievement Season 5 to Season 6
-- There may be changes to laurel level and achievement point distributed
-- achievements related to reopened dungeons will be moved from 'Legacy' to 'Dungeon and Battleground'
-- Achievements related to removed dungeons will be moved to 'Legacy'
-</code></pre><hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=259"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2017/>2017</a><a class="tag" href=/mysterium/tags/v55/>v55</a><a class="tag" href=/mysterium/tags/translation/>translation</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/raw/2017/v55-01-01/"><span class="li">&larr;</span>2017년 01월 19일 업데이트 안내 (v55.01.01)</a></p><p><a class="link" href="/mysterium/posts/patch-notes/raw/2017/v55-01/"><span class="li">&rarr;</span>2017년 01월 12일 업데이트 안내 (v55.01)</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

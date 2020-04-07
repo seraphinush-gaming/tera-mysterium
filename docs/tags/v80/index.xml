@@ -1,68 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v80 on mysterium</title>
-    <link>/mysterium/tags/v80/</link>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v80/</link>
     <description>Recent content in v80 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/mysterium/tags/v80/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v80/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019.01.17 patch notes (v80.03) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v80-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v80-03/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v80-03/</guid>
-      <description>### 1. Server merge - Servers are now merged ### 2. Dungeon - Level progression dungeon - Instance matching system - Changed from 5-man to 3-man instances - Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) - Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&#39;s Ascent, Cultists&#39; Refuge, Necromancer&#39;s Tomb, Golden Labyrinth, Saleron&#39;s Sky Garden, Labyrinth of Terror, Ebon Tower - Adjust dungeon difficulty - Can now be cleared without a healer - Changed Instance Matching to be able to match regardless of class - Fixed for named monsters to drop health motes ### 3.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v80-03/</guid>
+      <description>1. Server merge  Servers are now merged  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-man to 3-man instances Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer Changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
     </item>
     
     <item>
       <title>2019년 01월 17일 업데이트 안내 (v80.03)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v80-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v80-03/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v80-03/</guid>
-      <description>### 1. 서버통합 - [아룬의 영광] [카이아의 가호] 서버가 통합됩니다. &amp;gt;[통합 세부 내용 확인] ### 2. 던전 - 성장구간 던전 - 던전 매칭 인원 변경 - 5 -&amp;gt; 3인으로 변경됩니다. - 매칭 인원이 변경됨에 따라 성장의 즐거움 효과가 변경됩니다. (2인 200%, 3인 400%) - 변경 던전: 비밀기지, 밤피르의 저택, 자바르만 소굴, 사교도의 은신처, 사령술 연구소, 황금의 미궁, 살레론의 공중 정원, 공포의 미궁, 검은 탑 - 던전 난이도 조정 - 힐러 클래스가 없이도 클리어가 가능해집니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v80-03/</guid>
+      <description>1. 서버통합  [아룬의 영광] [카이아의 가호] 서버가 통합됩니다. &amp;gt;[통합 세부 내용 확인]  2. 던전  성장구간 던전  던전 매칭 인원 변경  5 -&amp;gt; 3인으로 변경됩니다. 매칭 인원이 변경됨에 따라 성장의 즐거움 효과가 변경됩니다. (2인 200%, 3인 400%) 변경 던전: 비밀기지, 밤피르의 저택, 자바르만 소굴, 사교도의 은신처, 사령술 연구소, 황금의 미궁, 살레론의 공중 정원, 공포의 미궁, 검은 탑   던전 난이도 조정  힐러 클래스가 없이도 클리어가 가능해집니다.</description>
     </item>
     
     <item>
       <title>2019.01.10 patch notes (v80.02.01) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v80-02-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v80-02-01/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v80-02-01/</guid>
-      <description>- 1. Fishing - XP - Successfully catching fish now provides XP - XP gained varies at different levels - XP gained varies by different grades of fish - Item - Changed to obtain Talyph XP scroll I~II by chance upon successful catch - Delivery - Fish delivery - Changed Association Fishmonger to Association Fishmonger - Increased delivery limit to 30 times - Can obtain gold by delivering grade 0-10 fish and BAF - Fish crate delivery - Changed Association Resource Manager to Association Fish Crate Manager - Changed to deliver up to 3 times - Can obtain gold by delivering Fish Crate I-V - Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor - VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times - Fishing Supplies merchant - Added Recipe: Apple-Pumpkin Smoothie - Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit) - Provides &#39;20% XP boost&#39; effect ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v80-02-01/</guid>
+      <description>Fishing   XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Talyph XP scroll I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
     </item>
     
     <item>
       <title>2019년 01월 10일 업데이트 안내 (v80.02.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v80-02-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v80-02-01/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v80-02-01/</guid>
-      <description>### 1. 낚시 - 경험치 - 낚시 성공 시 레벨 경험치를 획득합니다. - 캐릭터 레벨에 따라 획득하는 경험치가 다릅니다. - 낚은 물고기의 등급에 따라 획득하는 경험치가 다릅니다. - 아이템 - 낚시 성공 시 일정 확률로 스킬 연마 경험치 서적I~ II을 획득할 수 있게 됩니다. - 낚시 납품 상점 - 물고기 납품점 - 낚시 납품점이 물고기 납품점으로 변경되었습니다. - 납품 횟수가 30회로 증가합니다. - 0등급~10등급 물고기와 대물을 납품하여 골드를 획득하실 수 있습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v80-02-01/</guid>
+      <description>1. 낚시  경험치  낚시 성공 시 레벨 경험치를 획득합니다.  캐릭터 레벨에 따라 획득하는 경험치가 다릅니다. 낚은 물고기의 등급에 따라 획득하는 경험치가 다릅니다.     아이템  낚시 성공 시 일정 확률로 스킬 연마 경험치 서적I~ II을 획득할 수 있게 됩니다.   낚시 납품 상점  물고기 납품점  낚시 납품점이 물고기 납품점으로 변경되었습니다. 납품 횟수가 30회로 증가합니다. 0등급~10등급 물고기와 대물을 납품하여 골드를 획득하실 수 있습니다.</description>
     </item>
     
     <item>
       <title>2019.01.03 patch notes (v80.02) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v80-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v80-02/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v80-02/</guid>
-      <description>### 1. Quest - Added story quest-specific 1-man level progression dungeons - Bastion of Lok (1-man) - Can enter via appropriate story quest - Sinistral Manor (1-man) - Can enter via appropriate story quest - Cultists&#39; Refuge (1-man) - Can enter via appropriate story quest - Removed Kumas Royale story quest - Quest already received and not completed will automatically be completed upon update - Fixed to display escort quest NPCs on minimap via an orange dot marking ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v80-02/</guid>
+      <description>1. Quest  Added story quest-specific 1-man level progression dungeons  Bastion of Lok (1-man)  Can enter via appropriate story quest   Sinistral Manor (1-man)  Can enter via appropriate story quest   Cultists&amp;rsquo; Refuge (1-man)  Can enter via appropriate story quest     Removed Kumas Royale story quest  Quest already received and not completed will automatically be completed upon update   Fixed to display escort quest NPCs on minimap via an orange dot marking  2.</description>
     </item>
     
     <item>
       <title>2019년 01월 03일 업데이트 안내 (v80.02)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v80-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v80-02/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v80-02/</guid>
-      <description>### 1. 퀘스트 - 미션 퀘스트 진행을 위한 퀘스트 전용 성장구간(1인) 던전이 추가됩니다. - 비밀기지(1인) - 미션 퀘스트 “비밀기지를 토벌하라” 를 수주하여 진입할 수 있습니다. - 밤피르의 저택(1인) - 미션 퀘스트 “밤피르 저택 토벌”을 수주하여 진입할 수 있습니다. - 사교도의 은신처(1인) - 미션 퀘스트 “로크 교도 괴멸”을 수주하여 진입할 수 있습니다. - LV20 쿠마스의 놀이터 미션퀘스트가 삭제 됩니다. - 미션 퀘스트 쿠마스의 놀이터를 수주 받고 진행하지 않은 경우, 업데이트 후 완료된 퀘스트로 자동 변경됩니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v80-02/</guid>
+      <description>1. 퀘스트  미션 퀘스트 진행을 위한 퀘스트 전용 성장구간(1인) 던전이 추가됩니다.  비밀기지(1인)  미션 퀘스트 “비밀기지를 토벌하라” 를 수주하여 진입할 수 있습니다.   밤피르의 저택(1인)  미션 퀘스트 “밤피르 저택 토벌”을 수주하여 진입할 수 있습니다.   사교도의 은신처(1인)  미션 퀘스트 “로크 교도 괴멸”을 수주하여 진입할 수 있습니다.     LV20 쿠마스의 놀이터 미션퀘스트가 삭제 됩니다.  미션 퀘스트 쿠마스의 놀이터를 수주 받고 진행하지 않은 경우, 업데이트 후 완료된 퀘스트로 자동 변경됩니다.</description>
     </item>
     
   </channel>

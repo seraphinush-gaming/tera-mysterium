@@ -1,86 +1,86 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v82 on mysterium</title>
-    <link>/mysterium/tags/v82/</link>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v82/</link>
     <description>Recent content in v82 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/mysterium/tags/v82/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v82/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019.03.07 patch notes (v82.04) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v82-04/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-04/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v82-04/</guid>
-      <description>### 1. Balance - Sorcerer - Slightly decreased aggro obtained from the following skills : - Ice Lance - Iceberg - Prime Flame - Arcane Storm - Fusion - Priest - Focus Heal, focus talyph option - Changed from healing 2.5% HP per second for 5 seconds to healing 120 HP per second for 5 seconds - Changed to apply effect from healing stats - Mystic - Arun&#39;s Vitae - Glyph of Restoration - Changed from healing 20% HP to 35,000 HP after using skill ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-04/</guid>
+      <description>1. Balance  Sorcerer  Slightly decreased aggro obtained from the following skills :  Ice Lance Iceberg Prime Flame Arcane Storm Fusion     Priest  Focus Heal, focus talyph option  Changed from healing 2.5% HP per second for 5 seconds to healing 120 HP per second for 5 seconds Changed to apply effect from healing stats     Mystic  Arun&amp;rsquo;s Vitae - Glyph of Restoration  Changed from healing 20% HP to 35,000 HP after using skill      2.</description>
     </item>
     
     <item>
       <title>2019년 03월 07일 업데이트 안내 (v82.04)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v82-04/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-04/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v82-04/</guid>
-      <description>### 1. 밸런스 - 마법사 - 하기의 스킬의 어그로 획득량이 소폭 하향됩니다. - 얼음창 - 빙하 융기 - 태초의 불꽃 - 비전 폭풍 - 원소 융합 - 사제 - 치유의 빛 치유 옵션 - 5초간 1초마다 HP 2.5% 회복에서 5초간 1초마다 HP 120 회복으로 변경됩니다. - 회복 성능에 영향을 받습니다. - 정령사 - 회복의 정기 - 근성의 문장 - 스킬 사용 후 HP 20% 회복에서 HP 35,000 회복으로 변경됩니다. ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-04/</guid>
+      <description>1. 밸런스  마법사  하기의 스킬의 어그로 획득량이 소폭 하향됩니다.  얼음창 빙하 융기 태초의 불꽃 비전 폭풍 원소 융합     사제  치유의 빛 치유 옵션  5초간 1초마다 HP 2.5% 회복에서 5초간 1초마다 HP 120 회복으로 변경됩니다. 회복 성능에 영향을 받습니다.     정령사  회복의 정기 - 근성의 문장  스킬 사용 후 HP 20% 회복에서 HP 35,000 회복으로 변경됩니다.      2.</description>
     </item>
     
     <item>
       <title>2019.02.28 patch notes (v82.03) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v82-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-03/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v82-03/</guid>
-      <description>### 1. Battleground - Wintera Snowfield - Reopened Wintera Snowfield - KTERA exclusive operation hours - Vanguard Request reward - 100 Gold - 1215 EP XP - 1650 item XP - Optional : [100 Gold|1215 EP XP] - Win/loss reward - Win : 40x Wintera Battleground Tokens, 130,000 BC credits - Lose : 20x Wintera Battleground Tokens, 43,000 BC credits ### 2. Other - Added guide description to gift/feed servant in UI - Added option to open pet bank through bank NPC - Option is only available to characters that have pets with bank abilities ### Bug fixes - Fixed issue at 2nd boss of Parquina&#39;s Nest where skill damage varied depending on whether or not the player is close to the center - Fixed issue where Popori Brawler&#39;s final Rhythmic Blows hit animation was awkward - Fixed issue where range on Priest&#39;s Focus Heal and Mystic&#39;s _ was different from its respective tooltip - Fixed issue where NPC Ron in charge of leading party to Treasure Box would get stuck on its path - Fixed issue at 1st/2nd boss of Parquina&#39;s Nest (hard) where skills that reset aggro did not reset aggro - Fixed issue where cooldown of Ninja&#39;s Death Blossom I was 10 seconds long - Fixed issue in Parquina&#39;s Nest where Warrior&#39;s Combative Strike skill effect occasionally did not work - Fixed issue where character event counter did not progress for defeating event monsters source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-03/</guid>
+      <description>1. Battleground  Wintera Snowfield  Reopened Wintera Snowfield  KTERA exclusive operation hours     Vanguard Request reward  100 Gold 1215 EP XP 1650 item XP Optional : [100 Gold|1215 EP XP]   Win/loss reward  Win : 40x Wintera Battleground Tokens, 130,000 BC credits Lose : 20x Wintera Battleground Tokens, 43,000 BC credits    2. Other  Added guide description to gift/feed servant in UI Added option to open pet bank through bank NPC  Option is only available to characters that have pets with bank abilities    Bug fixes  Fixed issue at 2nd boss of Parquina&amp;rsquo;s Nest where skill damage varied depending on whether or not the player is close to the center Fixed issue where Popori Brawler&amp;rsquo;s final Rhythmic Blows hit animation was awkward Fixed issue where range on Priest&amp;rsquo;s Focus Heal and Mystic&amp;rsquo;s _ was different from its respective tooltip Fixed issue where NPC Ron in charge of leading party to Treasure Box would get stuck on its path Fixed issue at 1st/2nd boss of Parquina&amp;rsquo;s Nest (hard) where skills that reset aggro did not reset aggro Fixed issue where cooldown of Ninja&amp;rsquo;s Death Blossom I was 10 seconds long Fixed issue in Parquina&amp;rsquo;s Nest where Warrior&amp;rsquo;s Combative Strike skill effect occasionally did not work Fixed issue where character event counter did not progress for defeating event monsters   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019년 02월 28일 업데이트 안내 (v82.03)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v82-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-03/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v82-03/</guid>
-      <description>### 1. 전장 - 눈싸움 전장 - 눈싸움 전장이 오픈됩니다. - 이용 시간은 하기와 같습니다. (모든 요일 동일) - 운영 시간 - 9:00~11:00 - 15:00~17:00 - 22:00~24:00 - 1:00~3:00 - 발키온 지령서 보상 - 긴급지령 - 눈싸움 전장에서 전투를! - 골드 : 100 - 특성 경험치 : 1215 - 장비 숙련도 경험치 : 1650 - 선택지령 - 눈싸움 전장에서 전투를! - 골드 : 100 - 특성 경험치 : 1215 - 승패 보상 - 승리보상 - 눈싸움 전장 전리품 40개 - 승리의 인도자 130,000 점 - 패배보상 - 눈싸움 전장 전리품 20개 - 승리의 인도자43,000점 ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-03/</guid>
+      <description>1. 전장  눈싸움 전장  눈싸움 전장이 오픈됩니다.  이용 시간은 하기와 같습니다. (모든 요일 동일)  운영 시간  9:00~11:00 15:00~17:00 22:00~24:00 1:00~3:00         발키온 지령서 보상  긴급지령  눈싸움 전장에서 전투를!  골드 : 100 특성 경험치 : 1215 장비 숙련도 경험치 : 1650     선택지령  눈싸움 전장에서 전투를!  골드 : 100 특성 경험치 : 1215       승패 보상  승리보상  눈싸움 전장 전리품 40개 승리의 인도자 130,000 점   패배보상  눈싸움 전장 전리품 20개 승리의 인도자43,000점      2.</description>
     </item>
     
     <item>
       <title>2019.02.21 patch notes (v82.02) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v82-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-02/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v82-02/</guid>
-      <description>### 1. Popori Brawler - Added new class [Brawler] to race Popori - Can be raced changed to Popori after March 28th - Expanded character limit from 21 slots to 22 slots ### 2. Dungeon - New : Parquina&#39;s Nest (hard) - Can enter starting from ilvl 457 - Teleportal is located in Essenian Crest, Essenia - Can obtain Worldly Essence, Talyph XP, Supreme Metal, Weight Pendulum, Pure Essential Butterfly Gem, Pure Essential Butterfly Dust, Dr.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-02/</guid>
+      <description>1. Popori Brawler  Added new class [Brawler] to race Popori  Can be raced changed to Popori after March 28th   Expanded character limit from 21 slots to 22 slots  2. Dungeon  New : Parquina&amp;rsquo;s Nest (hard)  Can enter starting from ilvl 457 Teleportal is located in Essenian Crest, Essenia Can obtain Worldly Essence, Talyph XP, Supreme Metal, Weight Pendulum, Pure Essential Butterfly Gem, Pure Essential Butterfly Dust, Dr.</description>
     </item>
     
     <item>
       <title>2019년 02월 21일 업데이트 안내 (v82.02)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v82-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-02/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v82-02/</guid>
-      <description>### 1. 포포리 권술사 - 포포리 종족으로 선택 가능한 직업에 [권술사]가 추가됩니다. - 3/28 점검 전까지는 종족 변경권으로 변경할 수 없습니다. - 캐릭터 생성 가능 개수가 21개 -&amp;gt; 22개로 확장됩니다. ### 2. 던전 - 신규: 찬란한 파르퀴나의 둥지(5인) - 68레벨, 장비레벨 457달성 시 파티매칭을 통해 입장할 수 있습니다. - 에세니아 가드&amp;gt;에세니아 구릉지대&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. - 세계의 결정, 스킬 연마 경험치, 고급 금속물, 무게추, 순수한 보석 나비의 보석 샘, 순수한 보석 나비의 날개 가루, 윌슨 박사의 지도 조각 오른반쪽, 투명 얼굴/등 악세서리, 유물/성물, 전설 속옷 등의 아이템을 보상으로 획득할 수 있습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-02/</guid>
+      <description>1. 포포리 권술사  포포리 종족으로 선택 가능한 직업에 [권술사]가 추가됩니다.  3/28 점검 전까지는 종족 변경권으로 변경할 수 없습니다.   캐릭터 생성 가능 개수가 21개 -&amp;gt; 22개로 확장됩니다.  2. 던전  신규: 찬란한 파르퀴나의 둥지(5인)  68레벨, 장비레벨 457달성 시 파티매칭을 통해 입장할 수 있습니다. 에세니아 가드&amp;gt;에세니아 구릉지대&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. 세계의 결정, 스킬 연마 경험치, 고급 금속물, 무게추, 순수한 보석 나비의 보석 샘, 순수한 보석 나비의 날개 가루, 윌슨 박사의 지도 조각 오른반쪽, 투명 얼굴/등 악세서리, 유물/성물, 전설 속옷 등의 아이템을 보상으로 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2019.02.14 patch notes (v82.01) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v82-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-01/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v82-01/</guid>
-      <description>### 1. Field - Added Treasure Map content - Treasure Map items can be obtained by merging two of Dr. Wilson&#39;s Map Pieces (left, right) - 조합 - 윌슨 박사의 지도 조각 왼반쪽 1개 - 윌슨 박사의 지도 조각 오른반쪽 1개 - 결과물 - 윌슨 박사의 보물 지도[???] 1개 - Dr. Wilson&#39;s Map Piece (Left) can be obtained from ilvl 435-445 dungeons, while Dr. Wilson&#39;s Map Piece (Right) can be obtained from ilvl 446-456 dungeons - While Map Pieces cannot be traded, it can however be deposited into Guild Bank - Map Pieces expire in 15 days - A random Treasure Map can be obtained by using Dr.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v82-01/</guid>
+      <description>1. Field  Added Treasure Map content Treasure Map items can be obtained by merging two of Dr. Wilson&amp;rsquo;s Map Pieces (left, right)  조합  윌슨 박사의 지도 조각 왼반쪽 1개 윌슨 박사의 지도 조각 오른반쪽 1개   결과물  윌슨 박사의 보물 지도[???] 1개   Dr. Wilson&amp;rsquo;s Map Piece (Left) can be obtained from ilvl 435-445 dungeons, while Dr. Wilson&amp;rsquo;s Map Piece (Right) can be obtained from ilvl 446-456 dungeons While Map Pieces cannot be traded, it can however be deposited into Guild Bank  Map Pieces expire in 15 days   A random Treasure Map can be obtained by using Dr.</description>
     </item>
     
     <item>
       <title>2019년 02월 14일 업데이트 안내 (v82.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v82-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-01/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v82-01/</guid>
-      <description>### 1. 필드 - 보물 지도 콘텐츠가 추가됩니다. - 윌슨 박사의 지도 조각(왼반쪽,오른반쪽)을 조합하여 보물지도 아이템을 획득할 수 있습니다. - 조합 - 윌슨 박사의 지도 조각 왼반쪽 1개 - 윌슨 박사의 지도 조각 오른반쪽 1개 - 결과물 - 윌슨 박사의 보물 지도[???] 1개 - 윌슨 박사의 지도 조각 왼반쪽은 장비 레벨 435 ~ 445 구간 던전에서 오른반쪽은 장비 레벨 446 ~ 456 구간 던전에서 매우 낮은 확률로 드랍 됩니다. - 지도 조각은 거래가 불가능하나, 길드창고에 보관 가능합니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v82-01/</guid>
+      <description>1. 필드  보물 지도 콘텐츠가 추가됩니다. 윌슨 박사의 지도 조각(왼반쪽,오른반쪽)을 조합하여 보물지도 아이템을 획득할 수 있습니다.  조합  윌슨 박사의 지도 조각 왼반쪽 1개 윌슨 박사의 지도 조각 오른반쪽 1개   결과물  윌슨 박사의 보물 지도[???] 1개   윌슨 박사의 지도 조각 왼반쪽은 장비 레벨 435 ~ 445 구간 던전에서 오른반쪽은 장비 레벨 446 ~ 456 구간 던전에서 매우 낮은 확률로 드랍 됩니다. 지도 조각은 거래가 불가능하나, 길드창고에 보관 가능합니다.</description>
     </item>
     
   </channel>

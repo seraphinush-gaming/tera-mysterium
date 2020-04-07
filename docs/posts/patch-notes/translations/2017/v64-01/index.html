@@ -1,163 +1,363 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2017.09.28 patch notes (v64.01) | K TERA&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2017.09.28 patch notes (v64.01) | K TERA</h1><p class="article date">Thursday, September 28, 2017</p></section><article class="article markdown-body"><pre><code>### 1. Guardian Mission
-- Added new field content 'Guardian Mission'
-  - Is a special mission in Open World
-  - Guardian Mission spawn/despawn in order on a 24 hr basis
-  - Can be completed without forming a party or raid
-  - Can participate at any time once the missions starts
-  - Monster stats auto adjust in real-time depending on the number of participants
-  - Graphics option auto adjusts depending on the player environment
-- Added 'Guardian Mission mode' toggle on World Map UI
-  - Activating 'Guardian Mission mode' displays 'Guardian Mission icon' on World Map UI
-  - Can teleport to mission location by clicking the 'Guardian Mission icon'
-- Added 'Arborean Guardian Point'
-  - Displays 'Arborean Guardian Point UI' on the right while proceeding with a Guardian Mission
-  - When not participating, 'Guardian Mission mode toggle' on World Map UI will display it on the the bottom right
-  - Depending on how well you complete the mission will reflect how many Arborean Guardian Points will be rewarded
-    - Combat : Damage dealt to monster will reward Point
-    - Mini-game : Being in the correct area at specific times will reward Point
-  - Rewards can be exchanged with Arborean Guardian Point up to 20 times per character per day, and points earned and rewards earned resets at 7am
-    - Earned points remain until rewards earned reset
-  - Necessary enchanting materials can be purchased with new Credit acquired from Guardian Mission
-    - Guardian Credit Merchant is located at Valkyon Federation Headquarters
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### 2. Skill and balance adjustment
-- Slayer
-  - New passive : Propulsion
-    - Auto obtain without cost
-    - Level requirement : Level 16
-    - Decrease cooldown of Eviscerate after Measured Slice by 1.5 seconds
-    - Decrease cooldown of Whirlwind after Measured Slice by 1.5 seconds
-    - Decrease cooldown of Overhand Strike after Whirlwind by 2 seconds
-    - Decrease cooldown of Ultimate Overhand Strike after Whirlwind by 2 seconds
-  - New Talent : Crit - Whirlwind
-    - Increase crit factor for 3 seconds after 2 successful hits
-  - New talent : Speed - Whirlwind
-    - Increase casting speed
-  - New talent : Power - Eviscerate
-    - Increase crit power upon critting
-  - Removed Propulsed [Whirlwind] talent
-    - Points will be returned
-  - Removed Reload [Whirlwind] talent
-    - Points will be returned
-  - Removed Propulsed [Eviscerate] talent
-    - Points will be returned
-- Priest
-  - Increased skill damage to BAMs by 20%
-  - Focus Heal
-    - Increased range of lockon
-  - Energy Stars
-    - Added 5% cooldown reduction to effect
-- Mystic
-  - Increased skill damage to BAMs by 20%
-  - Fixed issue where talent and power glyph for summoning Thrall of Vengeance and Thrall of Wrath did not stack
-  - Titanic Favor
-    - Fixed issue where lockon distance was excessively large
-  - Arun's Cleansing
-    - Fixed issue where lockon distance was excessively large
-  - Vow of Rebirth
-    - Changed Vow of Rebirth effect from 20 minutes to 5 minutes
-    - Changed Glyph of Energy cooldown reduction effect from 40% to 30%
-    - Changed talent-related cooldown reset effect from 6-20% to 3-10%
-- Brawler
-  - Jackhammer
-    - Changed endurance debuff effect per 1 stack from 1% to 1.5%
-  - Counter
-    - Changed Powerlinked Counter effect which activates at 60% rate to 25% skill damage Increase
-- Warrior
-  - Rain of Blows
-    - Changed final hit to stack at once during Deadly Gamble
-  - Blade Draw
-    - Changed edge to stack once on first hit, and once on second hit during Deadly Gamble
-    - Changed edge to stack twice on first hit, and twice on second hit when Glyph of Advantage is set
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-### 3. Dungeon
-- Distributed dungeon rewards more evenly
-  - Thaumetal Refinery
-    - Decreased Arborean Golden Crystal drop amount
-    - Added Arborean Silver Crystal (redistributed from Kalivan's Dreadnaught)
-    - Slightly increased Mid-tier Arch Devan Potion drop amount
-    - Significantly increased Distilled Liquid Mana drop amount
-  - Lilith's Keep
-    - Added Arborean Golden Crystal drop (redistributed from Thaumetal Refinery)
-    - Added Arborean Silver Crystal drop (redistributed from Kalivan's Dreadnaught)
-    - Slightly decreased Refined Arch Devan Ore drop amount
-    - Removed Mid-tier Arch Devan Potion drop
-  - Kalivan's Dreadnaught
-    - Added Arborean Golden Crystal drop (redistributed from Thaumetal Refinery)
-    - Decreased Arborean Silver Crystal drop amount
-    - Slightly decreased Refined Arch Devan Ore drop amount
-    - Slightly increased Mid-tier Arch Devan Potion drop amount
-  - Kalivan's Challenge
-    - Decreased Arborean Golden Crystal drop amount
-    - Added Arborean Silver Crystal drop (redistributed from Ravenous Gorge)
-    - Significantly increased Low-tier Arch Devan Potion drop amount
-    - Significantly increased Ordinary Ore Fragment drop amount
-  - Ravenous Gorge
-    - Added Arborean Golden Crystal drop (redistributed from Kalivan's Challenge)
-    - Decreased Arborean Silver Crystal drop amount
-    - Decreased Ordinary Wood drop amount
-    - Significantly increased Low-tier Arch Devan Potion drop amount
-  - Shattered Fleet
-    - Added Arborean Golden Crystal drop (redistributed from Kalivan's Challenge)
-    - Added Arborean Silver Crystal drop (redistributed from Ravenous Gorge)
-    - Decreased Ordinary Wood drop amount
-    - Removed Low-tier Arch Devan Potion drop
-    - Increased Ordinary Ore Fragment drop amount
 
-### 4. Item
-- Some comment
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
 
-### 5. Party/raid
-- Revised vote kick method
-  - Changed from counting only online players to counting all players in the party
-    - Offline users and players who have not loaded into Battleground (Dungeon) are counted as 'agreed'
 
-### 6. Quest
-- Added 3 Guardian Mission related quests
-  - (Quest name)
-  - (Quest name)
-  - (Quest name)
-- Revised certain mission quest items to be discard-able
-- The following quests are Revised
-    - From the Mouths of Scions
-    - Some Gave All
-    - A Manor Invasion
-    - Ritual of Solace
-  - Discarded quest items can be reobtained through [re-obtain] function
-  - [re-obtain] function does not give quest item already in possession
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
 
-### 7. Style shop
-- K TERA comment
 
-### Bug fixes
-- Level progression
-  - Fixed issue where Vanguard Initiative quests rewarded useless enchanting materials
-- Dungeon
-  - Fixed issue in 1st boss of RK-9 Kennel where players would deviate from the map when jumping
-  - Fixed issue in 3rd boss of RK-9 Kennel (hard) where players occasionally could not damage after successfully mediating shield/part removal mechanic
-- UI
-  - Some comment
-  - Some comment
-- Civil Unrest
-  - Fixed issue where being teleported after entering the area would result in leaving the area and not distribute reward
-- Skill
-  - Mystic : Fixed issue where tooltip did not display correctly for Thrall of Wrath
-</code></pre><hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=299"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2017/>2017</a><a class="tag" href=/mysterium/tags/v64/>v64</a><a class="tag" href=/mysterium/tags/translation/>translation</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/raw/2017/v64-01-01/"><span class="li">&larr;</span>2017년 10월 12일 업데이트 안내 (v64.01.01)</a></p><p><a class="link" href="/mysterium/posts/patch-notes/raw/2017/v64-01/"><span class="li">&rarr;</span>2017년 09월 28일 업데이트 안내 (v64.01)</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
+
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2017/v64-01/">2017.09.28 patch notes (v64.01) | K TERA</a></h1>
+    <p> Sep 28, 2017 </p>
+    <h3 id="1-guardian-mission">1. Guardian Mission</h3>
+<ul>
+<li>Added new field content &lsquo;Guardian Mission&rsquo;
+<ul>
+<li>Is a special mission in Open World</li>
+<li>Guardian Mission spawn/despawn in order on a 24 hr basis</li>
+<li>Can be completed without forming a party or raid</li>
+<li>Can participate at any time once the missions starts</li>
+<li>Monster stats auto adjust in real-time depending on the number of participants</li>
+<li>Graphics option auto adjusts depending on the player environment</li>
+</ul>
+</li>
+<li>Added &lsquo;Guardian Mission mode&rsquo; toggle on World Map UI
+<ul>
+<li>Activating &lsquo;Guardian Mission mode&rsquo; displays &lsquo;Guardian Mission icon&rsquo; on World Map UI</li>
+<li>Can teleport to mission location by clicking the &lsquo;Guardian Mission icon&rsquo;</li>
+</ul>
+</li>
+<li>Added &lsquo;Arborean Guardian Point&rsquo;
+<ul>
+<li>Displays &lsquo;Arborean Guardian Point UI&rsquo; on the right while proceeding with a Guardian Mission</li>
+<li>When not participating, &lsquo;Guardian Mission mode toggle&rsquo; on World Map UI will display it on the the bottom right</li>
+<li>Depending on how well you complete the mission will reflect how many Arborean Guardian Points will be rewarded
+<ul>
+<li>Combat : Damage dealt to monster will reward Point</li>
+<li>Mini-game : Being in the correct area at specific times will reward Point</li>
+</ul>
+</li>
+<li>Rewards can be exchanged with Arborean Guardian Point up to 20 times per character per day, and points earned and rewards earned resets at 7am
+<ul>
+<li>Earned points remain until rewards earned reset</li>
+</ul>
+</li>
+<li>Necessary enchanting materials can be purchased with new Credit acquired from Guardian Mission
+<ul>
+<li>Guardian Credit Merchant is located at Valkyon Federation Headquarters</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-skill-and-balance-adjustment">2. Skill and balance adjustment</h3>
+<ul>
+<li>Slayer
+<ul>
+<li>New passive : Propulsion
+<ul>
+<li>Auto obtain without cost</li>
+<li>Level requirement : Level 16</li>
+<li>Decrease cooldown of Eviscerate after Measured Slice by 1.5 seconds</li>
+<li>Decrease cooldown of Whirlwind after Measured Slice by 1.5 seconds</li>
+<li>Decrease cooldown of Overhand Strike after Whirlwind by 2 seconds</li>
+<li>Decrease cooldown of Ultimate Overhand Strike after Whirlwind by 2 seconds</li>
+</ul>
+</li>
+<li>New Talent : Crit - Whirlwind
+<ul>
+<li>Increase crit factor for 3 seconds after 2 successful hits</li>
+</ul>
+</li>
+<li>New talent : Speed - Whirlwind
+<ul>
+<li>Increase casting speed</li>
+</ul>
+</li>
+<li>New talent : Power - Eviscerate
+<ul>
+<li>Increase crit power upon critting</li>
+</ul>
+</li>
+<li>Removed Propulsed [Whirlwind] talent
+<ul>
+<li>Points will be returned</li>
+</ul>
+</li>
+<li>Removed Reload [Whirlwind] talent
+<ul>
+<li>Points will be returned</li>
+</ul>
+</li>
+<li>Removed Propulsed [Eviscerate] talent
+<ul>
+<li>Points will be returned</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Priest
+<ul>
+<li>Increased skill damage to BAMs by 20%</li>
+<li>Focus Heal
+<ul>
+<li>Increased range of lockon</li>
+</ul>
+</li>
+<li>Energy Stars
+<ul>
+<li>Added 5% cooldown reduction to effect</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Mystic
+<ul>
+<li>Increased skill damage to BAMs by 20%</li>
+<li>Fixed issue where talent and power glyph for summoning Thrall of Vengeance and Thrall of Wrath did not stack</li>
+<li>Titanic Favor
+<ul>
+<li>Fixed issue where lockon distance was excessively large</li>
+</ul>
+</li>
+<li>Arun&rsquo;s Cleansing
+<ul>
+<li>Fixed issue where lockon distance was excessively large</li>
+</ul>
+</li>
+<li>Vow of Rebirth
+<ul>
+<li>Changed Vow of Rebirth effect from 20 minutes to 5 minutes</li>
+<li>Changed Glyph of Energy cooldown reduction effect from 40% to 30%</li>
+<li>Changed talent-related cooldown reset effect from 6-20% to 3-10%</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Brawler
+<ul>
+<li>Jackhammer
+<ul>
+<li>Changed endurance debuff effect per 1 stack from 1% to 1.5%</li>
+</ul>
+</li>
+<li>Counter
+<ul>
+<li>Changed Powerlinked Counter effect which activates at 60% rate to 25% skill damage Increase</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Warrior
+<ul>
+<li>Rain of Blows
+<ul>
+<li>Changed final hit to stack at once during Deadly Gamble</li>
+</ul>
+</li>
+<li>Blade Draw
+<ul>
+<li>Changed edge to stack once on first hit, and once on second hit during Deadly Gamble</li>
+<li>Changed edge to stack twice on first hit, and twice on second hit when Glyph of Advantage is set</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-dungeon">3. Dungeon</h3>
+<ul>
+<li>Distributed dungeon rewards more evenly
+<ul>
+<li>Thaumetal Refinery
+<ul>
+<li>Decreased Arborean Golden Crystal drop amount</li>
+<li>Added Arborean Silver Crystal (redistributed from Kalivan&rsquo;s Dreadnaught)</li>
+<li>Slightly increased Mid-tier Arch Devan Potion drop amount</li>
+<li>Significantly increased Distilled Liquid Mana drop amount</li>
+</ul>
+</li>
+<li>Lilith&rsquo;s Keep
+<ul>
+<li>Added Arborean Golden Crystal drop (redistributed from Thaumetal Refinery)</li>
+<li>Added Arborean Silver Crystal drop (redistributed from Kalivan&rsquo;s Dreadnaught)</li>
+<li>Slightly decreased Refined Arch Devan Ore drop amount</li>
+<li>Removed Mid-tier Arch Devan Potion drop</li>
+</ul>
+</li>
+<li>Kalivan&rsquo;s Dreadnaught
+<ul>
+<li>Added Arborean Golden Crystal drop (redistributed from Thaumetal Refinery)</li>
+<li>Decreased Arborean Silver Crystal drop amount</li>
+<li>Slightly decreased Refined Arch Devan Ore drop amount</li>
+<li>Slightly increased Mid-tier Arch Devan Potion drop amount</li>
+</ul>
+</li>
+<li>Kalivan&rsquo;s Challenge
+<ul>
+<li>Decreased Arborean Golden Crystal drop amount</li>
+<li>Added Arborean Silver Crystal drop (redistributed from Ravenous Gorge)</li>
+<li>Significantly increased Low-tier Arch Devan Potion drop amount</li>
+<li>Significantly increased Ordinary Ore Fragment drop amount</li>
+</ul>
+</li>
+<li>Ravenous Gorge
+<ul>
+<li>Added Arborean Golden Crystal drop (redistributed from Kalivan&rsquo;s Challenge)</li>
+<li>Decreased Arborean Silver Crystal drop amount</li>
+<li>Decreased Ordinary Wood drop amount</li>
+<li>Significantly increased Low-tier Arch Devan Potion drop amount</li>
+</ul>
+</li>
+<li>Shattered Fleet
+<ul>
+<li>Added Arborean Golden Crystal drop (redistributed from Kalivan&rsquo;s Challenge)</li>
+<li>Added Arborean Silver Crystal drop (redistributed from Ravenous Gorge)</li>
+<li>Decreased Ordinary Wood drop amount</li>
+<li>Removed Low-tier Arch Devan Potion drop</li>
+<li>Increased Ordinary Ore Fragment drop amount</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-item">4. Item</h3>
+<ul>
+<li>Some comment</li>
+</ul>
+<h3 id="5-partyraid">5. Party/raid</h3>
+<ul>
+<li>Revised vote kick method
+<ul>
+<li>Changed from counting only online players to counting all players in the party
+<ul>
+<li>Offline users and players who have not loaded into Battleground (Dungeon) are counted as &lsquo;agreed&rsquo;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-quest">6. Quest</h3>
+<ul>
+<li>Added 3 Guardian Mission related quests
+<ul>
+<li>(Quest name)</li>
+<li>(Quest name)</li>
+<li>(Quest name)</li>
+</ul>
+</li>
+<li>Revised certain mission quest items to be discard-able</li>
+<li>The following quests are Revised
+<ul>
+<li>From the Mouths of Scions</li>
+<li>Some Gave All</li>
+<li>A Manor Invasion</li>
+<li>Ritual of Solace</li>
+<li>Discarded quest items can be reobtained through [re-obtain] function</li>
+<li>[re-obtain] function does not give quest item already in possession</li>
+</ul>
+</li>
+</ul>
+<h3 id="7-style-shop">7. Style shop</h3>
+<ul>
+<li>K TERA comment</li>
+</ul>
+<h3 id="bug-fixes">Bug fixes</h3>
+<ul>
+<li>Level progression
+<ul>
+<li>Fixed issue where Vanguard Initiative quests rewarded useless enchanting materials</li>
+</ul>
+</li>
+<li>Dungeon
+<ul>
+<li>Fixed issue in 1st boss of RK-9 Kennel where players would deviate from the map when jumping</li>
+<li>Fixed issue in 3rd boss of RK-9 Kennel (hard) where players occasionally could not damage after successfully mediating shield/part removal mechanic</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>Some comment</li>
+<li>Some comment</li>
+</ul>
+</li>
+<li>Civil Unrest
+<ul>
+<li>Fixed issue where being teleported after entering the area would result in leaving the area and not distribute reward</li>
+</ul>
+</li>
+<li>Skill
+<ul>
+<li>Mystic : Fixed issue where tooltip did not display correctly for Thrall of Wrath</li>
+</ul>
+</li>
+</ul>
+<pre><code>
+----
+
+source : [TERA 테라 | NEXON](http://tera.nexon.com/news/update/view.aspx?n4articlesn=299)
+</code></pre>
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
+
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

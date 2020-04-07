@@ -1,93 +1,201 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2018년 02월 01일 업데이트 안내&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2018년 02월 01일 업데이트 안내</h1><p class="article date">Thursday, February 1, 2018</p></section><article class="article markdown-body"><pre><code>### 1. 전장
-- 지하의 격전장 점수 획득 밸런스가 조정됩니다.
-  - 검투사 공격점수 획득비율 상향
-  - 창기사 테크닉점수 획득비율 상향
-  - 인술사 공격점수 획득비율 상향
-  - 월광무사 공격점수 획득비율 상향
-  - 마법사 공격점수 획득비율 하향
-  - 궁수 공격점수 획득비율 하향
-  - 사제 테크닉점수 획득비율 하향
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### 2. 던전
-- 페트레 양성소
-  - 클래스 별 페트레 HP 보정치가 개선됩니다.
-  - 페트레의 HP 보정치가 변경됨에 따라 던전 순위가 초기화 됩니다.
-- 공허한 안타로스의 심연
-  - 3네임드 광폭화 시 이동속도가 증가합니다.
-- 아래 던전에서 캐릭터 레벨이 몬스터 보다 일정량 이상 높아지면 아이템, 골드, 경험치 획득량이 대폭 감소합니다.
-  - 검은 탑
-  - 켈사이크의 둥지
-  - 공포의 미궁
-  - 아크데바 무기고
-  - 데모크론 실험실
-- 아크데바 무기고, 데모크론 실험실
-  - 골드 드랍량이 대폭 감소합니다.
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-### 3. 순위표
-- 던전 순위 탭이 전장 순위 탭 앞에 위치하도록 변경됩니다.
-- 던전 컨텐츠 별 경쟁 조건 문구가 변경되었습니다.
 
-### 4. 퀘스트
-- 벨리카 ~ 비밀기지까지의 퀘스트 동선이 개선되었습니다.
-- 10레벨 이상부터 벨리카 è 초승달 마을로 페가수스 이동이 가능해집니다.
-- 13레벨 이상부터 벨리카 è 벌목꾼 마을로 페가수스 이동이 가능해집니다.
-- 기존 비밀기지 관련 퀘스트들이 일반 è 미션 퀘스트로 변경됩니다.
-- 망자의 토굴 미션 퀘스트 동선이 개선되었습니다.
-- 잊혀진 숲 미션 퀘스트의 병목 현상을 완화하고자 대상 몬스터를 추가 배치하고 리스폰 타임을 짧게 변경하였습니다.
-- 퀘스트 아이템 [아만의 뿔 조각]의 속성이 '파괴 가능'으로 변경됩니다.
-  - 해당 아이템 파괴 시 심연의 나락 퀘스트를 통해 다시 받기가 가능합니다.
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
 
-### 5. UI
-- 발키온 연합 지령서 UI, 던전 매칭 UI에 출력되는 보상을 업데이트 하였습니다.
 
-### [버그수정]
-- 던전
-  - 공허한 안타로스의 심연 3네임드의 5인 가두기에 피격될 때 스폰되는 감옥이 파티원 수만큼 추가로 스폰되는 문제
-  - 공허한 안타로스의 심연에서 안타로스가 특정 스킬 사용 시 자신의 HP가 감소하며 사망하는 문제
-  - 공허한/안타로스의 심연 1네임드에서 정의의 도약 스킬 사용 중에 동상 이상상태가 적용되면 모션이 멈춘 후 순간이동하는 문제
-  - 공허한/안타로스의 심연에서 안타로스가 회전할 때 일부 스킬에 적중되지 않는 문제
-  - 안타로스의 심연 퀘스트 진행 중에 비키 NPC에게 접근해도 대화시도가 불가능한 문제
-  - 페트레 양성소에 검투사로 입장 시 페트레의 HP가 91%부터 표기되는 문제
-- 퀘스트
-  - 일부 퀘스트 UI에 표시된 지역 명칭이 월드맵 명칭과 상이한 문제
-  - 심연의 나락 퀘스트 영상 자막에 오탈자가 있는 문제
-- 수호자 임무
-  - 수호자 임무 지역 사망 후 3초 뒤에 부활 했을 때 수호자 임무 지역에서 이탈되어 마을로 부활되는 문제
-  - 수호자 임무 수행 중 전장에 입장하면 수호자 임무 UI가 남아 있는 문제
-- 스킬
-  - 광전사 모아치기 차징 중 소용돌이를 동시에 누르면 MP가 빠르게 소모되는 문제
-  - 광전사 분노의 역류 스킬 툴팁에 혼신의 일격 사용 불가에 대한 안내가 누락된 문제
-  - 마공사로 이동 중 일반 포탄 사용 직후 휘두르기/밀쳐내기, 로켓도약 사용 시 일반 포탄 발사의 후 딜레이가 캔슬되지 않는 문제
-  - PVP 시 권술사의 공중차기 후 날아차기 타격 시 기절이 풀리는 문제
-  - PVP 시 권술사의 날아차기에 경직 효과가 있는 문제 (02/27 추가)
-  - 무사의 전진 도약 I, III 스킬 툴팁의 효과 설명이 잘못 안내되고 있는 문제
-  - 각성한 사제의 재생의 바람, 치유의 바람 스킬 사용 시 부여되는 축복의 기운 이상상태 HP 회복 효과가 정상적으로 적용되지 않는 문제
-- 부가서비스
-  - 스타일샵에서 헤어 미리보기 시 얼굴 외형 커스터마이징이 기본으로 돌아가는 문제
-  - 모자 변환 설정 값이 확률적으로 저장되지 않아 변환이 불가능했던 문제
-  - 드래곤 리마스터, 마스터 박스 툴팁에 스킬교본 문구가 연속으로 출력되는 문제
-- 전장
-  - 지하의 격전장에서 스탬프를 착용하지 않은 플레이어에게 이펙트가 출력되는 문제
-- 아이템
-  - 다이아몬드 아이템 툴팁에 오탈자가 있는 문제
-  - 울부짖는 분노의 푸른/붉은 마력 로브의 툴팁이 어색한 문제
-  - 불꽃 날개 타키에 탑승한 상태로 경사지로 이동하면 경사에 맞춰 기울어지지 않던 문제
-</code></pre><hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=318"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2018/>2018</a><a class="tag" href=/mysterium/tags/raw/>raw</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/translations/2018/2018-02-01/"><span class="li">&larr;</span>2018.02.01 patch notes | K TERA</a></p><p><a class="link" href="/mysterium/posts/patch-notes/translations/2018/2018-01-25/"><span class="li">&rarr;</span>2018.01.25 patch notes | K TERA</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
+
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/2018-02-01/">2018년 02월 01일 업데이트 안내</a></h1>
+    <p> Feb 1, 2018 </p>
+    <h3 id="1-전장">1. 전장</h3>
+<ul>
+<li>지하의 격전장 점수 획득 밸런스가 조정됩니다.
+<ul>
+<li>검투사 공격점수 획득비율 상향</li>
+<li>창기사 테크닉점수 획득비율 상향</li>
+<li>인술사 공격점수 획득비율 상향</li>
+<li>월광무사 공격점수 획득비율 상향</li>
+<li>마법사 공격점수 획득비율 하향</li>
+<li>궁수 공격점수 획득비율 하향</li>
+<li>사제 테크닉점수 획득비율 하향</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-던전">2. 던전</h3>
+<ul>
+<li>페트레 양성소
+<ul>
+<li>클래스 별 페트레 HP 보정치가 개선됩니다.</li>
+<li>페트레의 HP 보정치가 변경됨에 따라 던전 순위가 초기화 됩니다.</li>
+</ul>
+</li>
+<li>공허한 안타로스의 심연
+<ul>
+<li>3네임드 광폭화 시 이동속도가 증가합니다.</li>
+</ul>
+</li>
+<li>아래 던전에서 캐릭터 레벨이 몬스터 보다 일정량 이상 높아지면 아이템, 골드, 경험치 획득량이 대폭 감소합니다.
+<ul>
+<li>검은 탑</li>
+<li>켈사이크의 둥지</li>
+<li>공포의 미궁</li>
+<li>아크데바 무기고</li>
+<li>데모크론 실험실</li>
+</ul>
+</li>
+<li>아크데바 무기고, 데모크론 실험실
+<ul>
+<li>골드 드랍량이 대폭 감소합니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-순위표">3. 순위표</h3>
+<ul>
+<li>던전 순위 탭이 전장 순위 탭 앞에 위치하도록 변경됩니다.</li>
+<li>던전 컨텐츠 별 경쟁 조건 문구가 변경되었습니다.</li>
+</ul>
+<h3 id="4-퀘스트">4. 퀘스트</h3>
+<ul>
+<li>벨리카 ~ 비밀기지까지의 퀘스트 동선이 개선되었습니다.</li>
+<li>10레벨 이상부터 벨리카 è 초승달 마을로 페가수스 이동이 가능해집니다.</li>
+<li>13레벨 이상부터 벨리카 è 벌목꾼 마을로 페가수스 이동이 가능해집니다.</li>
+<li>기존 비밀기지 관련 퀘스트들이 일반 è 미션 퀘스트로 변경됩니다.</li>
+<li>망자의 토굴 미션 퀘스트 동선이 개선되었습니다.</li>
+<li>잊혀진 숲 미션 퀘스트의 병목 현상을 완화하고자 대상 몬스터를 추가 배치하고 리스폰 타임을 짧게 변경하였습니다.</li>
+<li>퀘스트 아이템 [아만의 뿔 조각]의 속성이 &lsquo;파괴 가능'으로 변경됩니다.
+<ul>
+<li>해당 아이템 파괴 시 심연의 나락 퀘스트를 통해 다시 받기가 가능합니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="5-ui">5. UI</h3>
+<ul>
+<li>발키온 연합 지령서 UI, 던전 매칭 UI에 출력되는 보상을 업데이트 하였습니다.</li>
+</ul>
+<h3 id="버그수정">[버그수정]</h3>
+<ul>
+<li>던전
+<ul>
+<li>공허한 안타로스의 심연 3네임드의 5인 가두기에 피격될 때 스폰되는 감옥이 파티원 수만큼 추가로 스폰되는 문제</li>
+<li>공허한 안타로스의 심연에서 안타로스가 특정 스킬 사용 시 자신의 HP가 감소하며 사망하는 문제</li>
+<li>공허한/안타로스의 심연 1네임드에서 정의의 도약 스킬 사용 중에 동상 이상상태가 적용되면 모션이 멈춘 후 순간이동하는 문제</li>
+<li>공허한/안타로스의 심연에서 안타로스가 회전할 때 일부 스킬에 적중되지 않는 문제</li>
+<li>안타로스의 심연 퀘스트 진행 중에 비키 NPC에게 접근해도 대화시도가 불가능한 문제</li>
+<li>페트레 양성소에 검투사로 입장 시 페트레의 HP가 91%부터 표기되는 문제</li>
+</ul>
+</li>
+<li>퀘스트
+<ul>
+<li>일부 퀘스트 UI에 표시된 지역 명칭이 월드맵 명칭과 상이한 문제</li>
+<li>심연의 나락 퀘스트 영상 자막에 오탈자가 있는 문제</li>
+</ul>
+</li>
+<li>수호자 임무
+<ul>
+<li>수호자 임무 지역 사망 후 3초 뒤에 부활 했을 때 수호자 임무 지역에서 이탈되어 마을로 부활되는 문제</li>
+<li>수호자 임무 수행 중 전장에 입장하면 수호자 임무 UI가 남아 있는 문제</li>
+</ul>
+</li>
+<li>스킬
+<ul>
+<li>광전사 모아치기 차징 중 소용돌이를 동시에 누르면 MP가 빠르게 소모되는 문제</li>
+<li>광전사 분노의 역류 스킬 툴팁에 혼신의 일격 사용 불가에 대한 안내가 누락된 문제</li>
+<li>마공사로 이동 중 일반 포탄 사용 직후 휘두르기/밀쳐내기, 로켓도약 사용 시 일반 포탄 발사의 후 딜레이가 캔슬되지 않는 문제</li>
+<li>PVP 시 권술사의 공중차기 후 날아차기 타격 시 기절이 풀리는 문제</li>
+<li>PVP 시 권술사의 날아차기에 경직 효과가 있는 문제 (02/27 추가)</li>
+<li>무사의 전진 도약 I, III 스킬 툴팁의 효과 설명이 잘못 안내되고 있는 문제</li>
+<li>각성한 사제의 재생의 바람, 치유의 바람 스킬 사용 시 부여되는 축복의 기운 이상상태 HP 회복 효과가 정상적으로 적용되지 않는 문제</li>
+</ul>
+</li>
+<li>부가서비스
+<ul>
+<li>스타일샵에서 헤어 미리보기 시 얼굴 외형 커스터마이징이 기본으로 돌아가는 문제</li>
+<li>모자 변환 설정 값이 확률적으로 저장되지 않아 변환이 불가능했던 문제</li>
+<li>드래곤 리마스터, 마스터 박스 툴팁에 스킬교본 문구가 연속으로 출력되는 문제</li>
+</ul>
+</li>
+<li>전장
+<ul>
+<li>지하의 격전장에서 스탬프를 착용하지 않은 플레이어에게 이펙트가 출력되는 문제</li>
+</ul>
+</li>
+<li>아이템
+<ul>
+<li>다이아몬드 아이템 툴팁에 오탈자가 있는 문제</li>
+<li>울부짖는 분노의 푸른/붉은 마력 로브의 툴팁이 어색한 문제</li>
+<li>불꽃 날개 타키에 탑승한 상태로 경사지로 이동하면 경사에 맞춰 기울어지지 않던 문제</li>
+</ul>
+</li>
+</ul>
+<pre><code>
+----
+
+source : [TERA 테라 | NEXON](http://tera.nexon.com/news/update/view.aspx?n4articlesn=318)
+</code></pre>
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
+
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

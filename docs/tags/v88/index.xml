@@ -1,86 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v88 on mysterium</title>
-    <link>/mysterium/tags/v88/</link>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v88/</link>
     <description>Recent content in v88 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/mysterium/tags/v88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019.10.24 patch notes (v88.04) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v88-04/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-04/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v88-04/</guid>
-      <description>null source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-04/</guid>
+      <description>null
+ source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019년 10월 24일 업데이트 안내 (v88.04)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v88-04/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-04/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v88-04/</guid>
-      <description>null source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-04/</guid>
+      <description>null
+ source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019.10.17 patch notes (v88.03) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v88-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-03/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v88-03/</guid>
-      <description>### 1. Halloween event (K TERA exclusive) - Significantly decreased number of fake Gourdos - Removed Frontera from spawn locations for Gourdos - Due to issue where too many spawned in areas that could not be accessed - Removed Gourdos Moongourd x2 from drop table, and adjusted drop rate of other items - Significantly increased the drop rate of Gourdos Moongourd x5 ### Bug fixes - Fixed issue where Halloween-themed style items disappeared upon entering dungeon/battlergound - Items lost due to this issue will be restored source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-03/</guid>
+      <description>1. Halloween event (K TERA exclusive)  Significantly decreased number of fake Gourdos Removed Frontera from spawn locations for Gourdos  Due to issue where too many spawned in areas that could not be accessed   Removed Gourdos Moongourd x2 from drop table, and adjusted drop rate of other items  Significantly increased the drop rate of Gourdos Moongourd x5    Bug fixes  Fixed issue where Halloween-themed style items disappeared upon entering dungeon/battlergound  Items lost due to this issue will be restored     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019년 10월 17일 업데이트 안내 (v88.03)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v88-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-03/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v88-03/</guid>
-      <description>### 1. 할로윈 이벤트 - 가짜 잭 오 랜턴의 숫자가 대폭 줄어듭니다. - 잭 오 랜턴의 스폰 지역에서 &#39;개척민 마을&#39;이 제외됩니다. - 처치 불가능한 위치에 다수 스폰되는 현상이 확인되어 제외되었습니다. - 드랍 보상에서 [이벤트] 잭오랜턴의 호박 2개가 제외되며, 아이템별 드랍 확률이 조정됩니다. - [이벤트] 잭오랜턴의 호박 5개 드랍 확률이 대폭 상승합니다. ### [버그수정] - 할로윈 스타일 아이템 일부가 임의의 던전/전장에 입장 시 사라지는 문제 - 위 오류로 소실된 아이템은 10/24(목) 정기점검 시 복구될 예정입니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-03/</guid>
+      <description>1. 할로윈 이벤트  가짜 잭 오 랜턴의 숫자가 대폭 줄어듭니다. 잭 오 랜턴의 스폰 지역에서 &amp;lsquo;개척민 마을&#39;이 제외됩니다.  처치 불가능한 위치에 다수 스폰되는 현상이 확인되어 제외되었습니다.   드랍 보상에서 [이벤트] 잭오랜턴의 호박 2개가 제외되며, 아이템별 드랍 확률이 조정됩니다.  [이벤트] 잭오랜턴의 호박 5개 드랍 확률이 대폭 상승합니다.    [버그수정]  할로윈 스타일 아이템 일부가 임의의 던전/전장에 입장 시 사라지는 문제  위 오류로 소실된 아이템은 10/24(목) 정기점검 시 복구될 예정입니다.</description>
     </item>
     
     <item>
       <title>2019.10.10 patch notes (v88.02) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v88-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-02/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v88-02/</guid>
-      <description>### 1. Field - New : Darkstone Cipher - Defeat monsters on the outer islands of Exodor to obtain materials to combine into &#39;Decoded Darkstone Cipher&#39;, which is used to obtain hidden treasures on Exodor - Materials : - Damaged Darkstone Cipher - Incomplete Darkstone Cipher - Flawed Darkstone Cipher - Darkstone Cipher Decoding Solution - Using &#39;Decoded Darkstone Cipher&#39; spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments - Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir - New : Sealed Darkstone - Sealed Darkstones spawn on outer islands of Exodor - Sealed Darkstones can be unsealed using &#39;Unsealing Scroll&#39;, and a Darkstone Fragment can be obtained ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-02/</guid>
+      <description>1. Field  New : Darkstone Cipher  Defeat monsters on the outer islands of Exodor to obtain materials to combine into &amp;lsquo;Decoded Darkstone Cipher&amp;rsquo;, which is used to obtain hidden treasures on Exodor  Materials :  Damaged Darkstone Cipher Incomplete Darkstone Cipher Flawed Darkstone Cipher Darkstone Cipher Decoding Solution   Using &amp;lsquo;Decoded Darkstone Cipher&amp;rsquo; spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir     New : Sealed Darkstone  Sealed Darkstones spawn on outer islands of Exodor  Sealed Darkstones can be unsealed using &amp;lsquo;Unsealing Scroll&amp;rsquo;, and a Darkstone Fragment can be obtained      2.</description>
     </item>
     
     <item>
       <title>2019년 10월 10일 업데이트 안내 (v88.02)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v88-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-02/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v88-02/</guid>
-      <description>### 1. 필드 - 신규: 다크스톤 암호문 - 엑소도르 특정 지역에 숨겨져 있는 보물을 획득할 수 있는 아이템으로, 엑소도르 외곽섬 몬스터에게 &#39;해독된 다크스톤 암호문&#39; 아이템을 조합할 수 있는 재료를 획득할 수 있습니다. - 암호문 조합 재료 - 훼손된 다크스톤 암호문 - 불완전한 다크스톤 암호문 - 손상된 다크스톤 암호문 - 다크스톤 암호문 해독 용액 - 특정 위치에서 &#39;해독된 다크스톤 암호문&#39;을 사용하면 추적대가 등장하며, 추적대 몬스터를 처치하면 다크스톤 조각을 획득할 수 있습니다. - 다크스톤 조각으로는 다크샤드 무기/방어구 강화석, 마력의 다크샤드 무기/방어구 강화석, 아르가프 영약 등의 아이템을 교환할 수 있습니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-02/</guid>
+      <description>1. 필드  신규: 다크스톤 암호문  엑소도르 특정 지역에 숨겨져 있는 보물을 획득할 수 있는 아이템으로, 엑소도르 외곽섬 몬스터에게 &amp;lsquo;해독된 다크스톤 암호문&amp;rsquo; 아이템을 조합할 수 있는 재료를 획득할 수 있습니다.  암호문 조합 재료  훼손된 다크스톤 암호문 불완전한 다크스톤 암호문 손상된 다크스톤 암호문 다크스톤 암호문 해독 용액   특정 위치에서 &amp;lsquo;해독된 다크스톤 암호문&#39;을 사용하면 추적대가 등장하며, 추적대 몬스터를 처치하면 다크스톤 조각을 획득할 수 있습니다. 다크스톤 조각으로는 다크샤드 무기/방어구 강화석, 마력의 다크샤드 무기/방어구 강화석, 아르가프 영약 등의 아이템을 교환할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2019.09.26 patch notes (v88.01) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v88-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-01/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v88-01/</guid>
-      <description>### 1. Companion - Added new Partners `Ello` and `Rico` - New Partners can be obtained via Combining/Evolving randomly (uncommon ~ superior) - Bond Skill - Ello : Increase magical damage for a set duration - Rico : Increase physical damage for a set duration - Gifted Skill - Ello : [ Fellowship I~III (duration), Emergency Service I~III (MP), Rapid Growth I~III (XP), Gathering Support (I~III) ] - Rico : [ Fellowship I~III (duration), Urgent Recovery I~III (HP), Dual Boost I~III (XP &amp;amp; Skill Advance), Backup Fisherman (I~III) ] !</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-01/</guid>
+      <description>1. Companion  Added new Partners Ello and Rico  New Partners can be obtained via Combining/Evolving randomly (uncommon ~ superior) Bond Skill  Ello : Increase magical damage for a set duration Rico : Increase physical damage for a set duration   Gifted Skill  Ello : [ Fellowship I~III (duration), Emergency Service I~III (MP), Rapid Growth I~III (XP), Gathering Support (I~III) ] Rico : [ Fellowship I~III (duration), Urgent Recovery I~III (HP), Dual Boost I~III (XP &amp;amp; Skill Advance), Backup Fisherman (I~III) ]      2.</description>
     </item>
     
     <item>
       <title>2019년 09월 26일 업데이트 안내 (v88.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v88-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-01/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v88-01/</guid>
-      <description>### 1. 파트너 - 신규 파트너 &#39;엘로&#39;, &#39;리코&#39;가 추가됩니다. - 펫 합성 / 진화에서 확률적으로 신규 파트너를 획득할 수 있습니다. (고급 ~ 전설) - 교감 스킬 - 파트너 | 스킬명 | 설명 - 엘로 | 다채로운 에너지 | 일정 시간 동안 마법 증폭이 증가합니다. - 리코 | 거친 기운 | 일정 시간 동안 물리 증폭이 증가합니다. - 재능 스킬 - 파트너 | 획득 가능한 재능 스킬 - 엘로 | 교감 강화 I ~ III, 긴급 지원 I ~ III, 성장 가속 I ~ III, 채집 지원 I ~ III - 리코 | 교감 강화 I ~ III, 긴급 회복 I ~ III, 복합 가속 I ~ III, 낚시 지원 I ~ III !</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v88-01/</guid>
+      <description>1. 파트너  신규 파트너 &amp;lsquo;엘로&amp;rsquo;, &amp;lsquo;리코&#39;가 추가됩니다.  펫 합성 / 진화에서 확률적으로 신규 파트너를 획득할 수 있습니다. (고급 ~ 전설) 교감 스킬  파트너 | 스킬명 | 설명  엘로 | 다채로운 에너지 | 일정 시간 동안 마법 증폭이 증가합니다. 리코 | 거친 기운 | 일정 시간 동안 물리 증폭이 증가합니다.     재능 스킬  파트너 | 획득 가능한 재능 스킬  엘로 | 교감 강화 I ~ III, 긴급 지원 I ~ III, 성장 가속 I ~ III, 채집 지원 I ~ III 리코 | 교감 강화 I ~ III, 긴급 회복 I ~ III, 복합 가속 I ~ III, 낚시 지원 I ~ III        2.</description>
     </item>
     
   </channel>

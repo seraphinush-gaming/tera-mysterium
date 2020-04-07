@@ -1,114 +1,255 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2019.10.10 patch notes (v88.02) | K TERA&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2019.10.10 patch notes (v88.02) | K TERA</h1><p class="article date">Thursday, October 10, 2019</p></section><article class="article markdown-body"><pre><code>### 1. Field
-- New : Darkstone Cipher
-  - Defeat monsters on the outer islands of Exodor to obtain materials to combine into 'Decoded Darkstone Cipher', which is used to obtain hidden treasures on Exodor
-    - Materials :
-      - Damaged Darkstone Cipher
-      - Incomplete Darkstone Cipher
-      - Flawed Darkstone Cipher
-      - Darkstone Cipher Decoding Solution
-    - Using 'Decoded Darkstone Cipher' spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments
-    - Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir
-- New : Sealed Darkstone
-  - Sealed Darkstones spawn on outer islands of Exodor
-    - Sealed Darkstones can be unsealed using 'Unsealing Scroll', and a Darkstone Fragment can be obtained
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### 2. Halloween Festival
-- K TERA exclusive event duration
-  - During the duration of the event an NPC Witch Apprentice is spawned in each town and city to teleport players to Eldritch Academy 1st Floor
-  - Halloween quest can be accepted via NPC Titania at Eldritch Academy Grand Hall
-- Harvest Festival Hall
-  - Halloween Cannons is a defense type instance using Halloween Cannons to shoot pumpkins at incoming monsters
-    - Game starts by talking to Serena in Harvest Festival Hall
-    - Defeating [Gourdo, the Giant Pumpkin Head Ghost] completes the quest `Cannons and Candy!`
-    - Completing the instance rewards Halloween Candy, and the amount varies by ranking
-      - Halloween Candy can be exchanged through the nearby NPCs
-  - Added Halloween Pumpkin Cannon effect
-    - Changed Halloween Cannon controls from keyboard to mouse
-    - Removed existing pumpkin shot and added 5 new cannon skills
-      - Skill | Key | Effect | Cooldown
-        - Pumpkin Shot | Mouse Right-click | Apply bleed debuff | 3 seconds
-        - Light Pumpkin Shot | Mouse Left-click | - | 0.3 seconds
-        - Stun Pumpkin Shot | Keyboard top left `1` key | Apply stun debuff | 25 seconds
-        - Ice Pumpkin Shot | Keyboard top left `2` key | Apply slow debuff | 25 seconds
-        - Ultimate Pumpkin shot | Keyboard top left `3` key | Strong damage | 40 seconds
-- Skill shortcuts can be changed via shortcut UI
-  - Changed instance duration from 5 minutes to 2.5 minutes
-    - Speed of waves are faster to reflect the changes to instance duration
-  - Changed daily entry from 5 entries to 3 entries
-  - Increased monster spawns per wave by 3-4 times, and increased movement speed
-    - Decreased point allocated per kill accordingly
-  - Increased HP of Hallowbones relatively and now displays arrow to indicate spawn
-  - Added Halloween Candy exchange shop buttons to NPC to enter Harvest Festival Hall and NPC to start instance
-- Added 2 new Halloween Festival achievements
-  - Achievement
-    - All Candies Are Mine !
-    - Happy Halloween
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-### 3. Class
-- Priest/Mystic
-  - Slightly increased HP recovery amount relative to magical damage
-- Brawler
-  - Increased aggro gained during Growing Fury from 10% to 25%
-- Mystic
-  - Arunic Release
-    - Increased skill damage by 50%
-    - Decreased max number of orbs to explode from 5 to 4
-    - Increased MP cost from 875 to 1000
-    - Increased cooldown from 5 seconds to 10 seconds
 
-### 4. Exodor daily quest
-- Changed the following 2 Liberants daily quests
-  - Changed Mission Support to Resource Support
-    - Quest condition : Deliver 3 Shadsteel Ingot or 3 Xersteel Ingot to NPC
-  - Changed Internal Work to Hungry Ahef
-    - Question condition : Delivery Exodor Fish Crate I to NPC
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
 
-### 5. UI
-- Added option to adjust damage splash
-- System Settings (O) &gt; Game &gt; Combat messages
-- image
 
-### 6. Other (Added 10/10)
-- Revised Bamarama's `Laknerus` do not take damage from Karoff's ultimate skill while in flight
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
 
-### Bug fixes
-- Fixed issue where NPC Jake Fox's dialogue was awkward during fishing story quest
-- Fixed issue where Jalena's voice was different during Exodor story quest
-- Fixed issue where investigating a node during a quest displayed bomb planting animation
-- Fixed issue where Avatar weapons for different classes dropped from monsters while playing on Mystic and Reaper
-- Fixed issue where Elleon's statue already existed before erecting one through story quest
-- Fixed issue where dungeon information on paperdoll UI displayed gear-like silhouette 
-- Fixed issue where achievement [내 머리 속에 지우개] did not count properly
-- Fixed issue where certain card fragment dropped from `Ebonheart Inquisitor`
-- Fixed issue where Lancer's Guardian Shout and Adrenaline Rush abnormalities remained even after logging out
-- Fixed issue where enchanting UI did not automatically switch to repair UI upon failing to enchant and damaging the gear
-- Fixed issue where defeating a group of monsters at once prevented story quest progress during Rescue the Core
-- Fixed K TERA exclusive issue with K TERA exclusive consumable
-- Fixed issue where level 67 players could not obtain level 60 quest item Arkai Feather
-- Fixed issue where Apex Urgency cooldown for Baraka Berserkers was 3 seconds
-- Fixed issue where the objectives for two achievements [게 좋아하세요?] and [눈엣가시?] were flipped
-- Fixed issue where conditions to proc Partner's boost-type gifted skill were different than described
-- Fixed issue where certain daily quests on Exodor did not display its starting zone properly
-- Fixed issue where guild application tab on guild UI did not display properly
-- Fixed issue where gold cost from name changing Pockets did not on the UI immediately
-- Fixed issue where Character Selection screen &gt; Watch Cinematic did not have Exodor cinematics
-- Fixed issue where Boomerang Pulse skill option applied to enemy players
-- Fixed issue where [비리디안 습지대의 적대자들 I], [비리디안 습지대의 적대자들 II] achievement conditions did not display
-</code></pre><p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=412"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2019/>2019</a><a class="tag" href=/mysterium/tags/v88/>v88</a><a class="tag" href=/mysterium/tags/translation/>translation</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/raw/2019/v88-03/"><span class="li">&larr;</span>2019년 10월 17일 업데이트 안내 (v88.03)</a></p><p><a class="link" href="/mysterium/posts/patch-notes/raw/2019/v88-02/"><span class="li">&rarr;</span>2019년 10월 10일 업데이트 안내 (v88.02)</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
+
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v88-02/">2019.10.10 patch notes (v88.02) | K TERA</a></h1>
+    <p> Oct 10, 2019 </p>
+    <h3 id="1-field">1. Field</h3>
+<ul>
+<li>New : Darkstone Cipher
+<ul>
+<li>Defeat monsters on the outer islands of Exodor to obtain materials to combine into &lsquo;Decoded Darkstone Cipher&rsquo;, which is used to obtain hidden treasures on Exodor
+<ul>
+<li>Materials :
+<ul>
+<li>Damaged Darkstone Cipher</li>
+<li>Incomplete Darkstone Cipher</li>
+<li>Flawed Darkstone Cipher</li>
+<li>Darkstone Cipher Decoding Solution</li>
+</ul>
+</li>
+<li>Using &lsquo;Decoded Darkstone Cipher&rsquo; spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments</li>
+<li>Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>New : Sealed Darkstone
+<ul>
+<li>Sealed Darkstones spawn on outer islands of Exodor
+<ul>
+<li>Sealed Darkstones can be unsealed using &lsquo;Unsealing Scroll&rsquo;, and a Darkstone Fragment can be obtained</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-halloween-festival">2. Halloween Festival</h3>
+<ul>
+<li>K TERA exclusive event duration
+<ul>
+<li>During the duration of the event an NPC Witch Apprentice is spawned in each town and city to teleport players to Eldritch Academy 1st Floor</li>
+<li>Halloween quest can be accepted via NPC Titania at Eldritch Academy Grand Hall</li>
+</ul>
+</li>
+<li>Harvest Festival Hall
+<ul>
+<li>Halloween Cannons is a defense type instance using Halloween Cannons to shoot pumpkins at incoming monsters
+<ul>
+<li>Game starts by talking to Serena in Harvest Festival Hall</li>
+<li>Defeating [Gourdo, the Giant Pumpkin Head Ghost] completes the quest <code>Cannons and Candy!</code></li>
+<li>Completing the instance rewards Halloween Candy, and the amount varies by ranking
+<ul>
+<li>Halloween Candy can be exchanged through the nearby NPCs</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Added Halloween Pumpkin Cannon effect
+<ul>
+<li>Changed Halloween Cannon controls from keyboard to mouse</li>
+<li>Removed existing pumpkin shot and added 5 new cannon skills
+<ul>
+<li>Skill | Key | Effect | Cooldown
+<ul>
+<li>Pumpkin Shot | Mouse Right-click | Apply bleed debuff | 3 seconds</li>
+<li>Light Pumpkin Shot | Mouse Left-click | - | 0.3 seconds</li>
+<li>Stun Pumpkin Shot | Keyboard top left <code>1</code> key | Apply stun debuff | 25 seconds</li>
+<li>Ice Pumpkin Shot | Keyboard top left <code>2</code> key | Apply slow debuff | 25 seconds</li>
+<li>Ultimate Pumpkin shot | Keyboard top left <code>3</code> key | Strong damage | 40 seconds</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Skill shortcuts can be changed via shortcut UI
+<ul>
+<li>Changed instance duration from 5 minutes to 2.5 minutes
+<ul>
+<li>Speed of waves are faster to reflect the changes to instance duration</li>
+</ul>
+</li>
+<li>Changed daily entry from 5 entries to 3 entries</li>
+<li>Increased monster spawns per wave by 3-4 times, and increased movement speed
+<ul>
+<li>Decreased point allocated per kill accordingly</li>
+</ul>
+</li>
+<li>Increased HP of Hallowbones relatively and now displays arrow to indicate spawn</li>
+<li>Added Halloween Candy exchange shop buttons to NPC to enter Harvest Festival Hall and NPC to start instance</li>
+</ul>
+</li>
+<li>Added 2 new Halloween Festival achievements
+<ul>
+<li>Achievement
+<ul>
+<li>All Candies Are Mine !</li>
+<li>Happy Halloween</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-class">3. Class</h3>
+<ul>
+<li>Priest/Mystic
+<ul>
+<li>Slightly increased HP recovery amount relative to magical damage</li>
+</ul>
+</li>
+<li>Brawler
+<ul>
+<li>Increased aggro gained during Growing Fury from 10% to 25%</li>
+</ul>
+</li>
+<li>Mystic
+<ul>
+<li>Arunic Release
+<ul>
+<li>Increased skill damage by 50%</li>
+<li>Decreased max number of orbs to explode from 5 to 4</li>
+<li>Increased MP cost from 875 to 1000</li>
+<li>Increased cooldown from 5 seconds to 10 seconds</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-exodor-daily-quest">4. Exodor daily quest</h3>
+<ul>
+<li>Changed the following 2 Liberants daily quests
+<ul>
+<li>Changed Mission Support to Resource Support
+<ul>
+<li>Quest condition : Deliver 3 Shadsteel Ingot or 3 Xersteel Ingot to NPC</li>
+</ul>
+</li>
+<li>Changed Internal Work to Hungry Ahef
+<ul>
+<li>Question condition : Delivery Exodor Fish Crate I to NPC</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="5-ui">5. UI</h3>
+<ul>
+<li>Added option to adjust damage splash</li>
+<li>System Settings (O) &gt; Game &gt; Combat messages</li>
+<li>image</li>
+</ul>
+<h3 id="6-other-added-1010">6. Other (Added 10/10)</h3>
+<ul>
+<li>Revised Bamarama&rsquo;s <code>Laknerus</code> do not take damage from Karoff&rsquo;s ultimate skill while in flight</li>
+</ul>
+<h3 id="bug-fixes">Bug fixes</h3>
+<ul>
+<li>Fixed issue where NPC Jake Fox&rsquo;s dialogue was awkward during fishing story quest</li>
+<li>Fixed issue where Jalena&rsquo;s voice was different during Exodor story quest</li>
+<li>Fixed issue where investigating a node during a quest displayed bomb planting animation</li>
+<li>Fixed issue where Avatar weapons for different classes dropped from monsters while playing on Mystic and Reaper</li>
+<li>Fixed issue where Elleon&rsquo;s statue already existed before erecting one through story quest</li>
+<li>Fixed issue where dungeon information on paperdoll UI displayed gear-like silhouette</li>
+<li>Fixed issue where achievement [내 머리 속에 지우개] did not count properly</li>
+<li>Fixed issue where certain card fragment dropped from <code>Ebonheart Inquisitor</code></li>
+<li>Fixed issue where Lancer&rsquo;s Guardian Shout and Adrenaline Rush abnormalities remained even after logging out</li>
+<li>Fixed issue where enchanting UI did not automatically switch to repair UI upon failing to enchant and damaging the gear</li>
+<li>Fixed issue where defeating a group of monsters at once prevented story quest progress during Rescue the Core</li>
+<li>Fixed K TERA exclusive issue with K TERA exclusive consumable</li>
+<li>Fixed issue where level 67 players could not obtain level 60 quest item Arkai Feather</li>
+<li>Fixed issue where Apex Urgency cooldown for Baraka Berserkers was 3 seconds</li>
+<li>Fixed issue where the objectives for two achievements [게 좋아하세요?] and [눈엣가시?] were flipped</li>
+<li>Fixed issue where conditions to proc Partner&rsquo;s boost-type gifted skill were different than described</li>
+<li>Fixed issue where certain daily quests on Exodor did not display its starting zone properly</li>
+<li>Fixed issue where guild application tab on guild UI did not display properly</li>
+<li>Fixed issue where gold cost from name changing Pockets did not on the UI immediately</li>
+<li>Fixed issue where Character Selection screen &gt; Watch Cinematic did not have Exodor cinematics</li>
+<li>Fixed issue where Boomerang Pulse skill option applied to enemy players</li>
+<li>Fixed issue where [비리디안 습지대의 적대자들 I], [비리디안 습지대의 적대자들 II] achievement conditions did not display</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=412">TERA 테라 | NEXON</a></p>
+
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
+
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

@@ -1,94 +1,225 @@
-<!DOCTYPE html>
-<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.64.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="color-scheme" content="light dark">
-<meta name="supported-color-schemes" content="light dark"><title>2017.08.10 patch notes (v62.01) | K TERA&nbsp;&ndash;&nbsp;mysterium</title><link rel="stylesheet" href="/mysterium/css/core.min.3abfae57e97b6bcae9b18c158800137c3bc523bce37c8b9449d655b96c1d2a735f05f976a250d9ba2cac32b884ea23e4.css" integrity="sha384-Or&#43;uV&#43;l7a8rpsYwViAATfDvFI7zjfIuUSdZVuWwdKnNfBfl2olDZuiysMriE6iPk"><body>
-    <div class="base-body"><section id="header" class="site header">
-    <div class="header wrap"><span class="header left-side"><a class="site home" href="/mysterium/"><span class="site name">mysterium</span></a></span>
-        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/mysterium/categories/">Categories</a><a class="nav item" href="/mysterium/about">About</a><a class="nav item" href="/mysterium/categories/patch-notes">Patch Notes</a><a class="nav item" href="/mysterium/categories/dev-notes">Dev Posts</a><a class="nav item" href="https://www.youtube.com/c/seraphinush-gaming"target="_blank">Youtube</a></nav></div></span></div></section><div id="content"><section class="article header">
-    <h1 class="article title">2017.08.10 patch notes (v62.01) | K TERA</h1><p class="article date">Thursday, August 10, 2017</p></section><article class="article markdown-body"><pre><code>- 1. Dungeon
-- New : Ultimate RK-9 Hangar
-  - Added hard mode of RK-9 Hangar
-  - ilvl requirement : 446
-  - Teleportal location : Spring Valley
-  - Loot table : Crying Rage gear box, Emerald/Diamond, High-tier enchanting material, Rare/Superior Innerwear, Mysterious holy water, Tier 3 accessory etching, Uneven composition, etc
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### 2. Elin Gunner
-- Added new class [gunner] to race Elin
-  - Can be created before October 12th, and cannot be race changed
+<meta name="description" content="blog by seraphinush">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
 
-### 3. Skill and balance adjustment
-- Warrior
-  - Traverse Cut
-    - Other warriors in party also take affect from attack speed buff when in Defense Stance
-    - Party attack speed buff no longer stack with Lancer buff
-    - Party attack speed buff no longer displays
-  - Assault Stance
-    - Increased cooldown to 60 seconds, and shares cooldown with Defense Stance
-  - Defense Stance
-    - Increased cooldown to 60 seconds, and shares cooldown with Assault Stance
 
-### 4. Guild
-- Expanded guild level to 309
-  - Added the following skills
-    - 아마룬의 기운 VI~VIII
-    - 엘리누의 생명 VI~VIII
-    - 길드 인원 증가 VI~VIII
+<link rel="stylesheet" href='/mysterium/css/main.css' />
+<link rel="stylesheet" href='/mysterium/css/header.css' />
+<link rel="stylesheet" href='/mysterium/css/footer.css' />
+<link rel="stylesheet" href='/mysterium/css/article.css' />
+<link rel="stylesheet" href='/mysterium/css/twitch.css' />
 
-### 5. Style shop
-- Revised Style shop UI and function
-  - Can now purchase certain items with T-cat
-  - Can now confirm discounts and new items
-  - Added sort and search function
 
-### 6. Item
-- Slightly increased stat of the first gear obtained during progression
-  - Increased stat and level of weapon/armor
-- Superior innerwear no longer drop from 4th phase reward box of Harrowhold
-  - The item has been added to RK-9 Hangar (hard) loot table with the same drop rate
+<script type="text/javascript" src="/mysterium/js/twitch.js"></script>
 
-### 7. Parcel
-- Changed 'Received' to 'Delete time'
-- Increased parcel expiration period from 28 days to 180 days
-- Added received and send description
 
-### 8. Gear progression system
-- Changed to no longer be able to promote gear received from someone else
 
-### 9. Hunting
-- Bamarama
-  - Changed area flight-disabled
-  - Changed area to be unable to use Toy Tank
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-### 10. Achievement
-- Replaced [A Pirate's Life For Me] with [There's too many sorcerers on deck] (placeholder)
-  - Removed [A Pirate's Life For Me]
-  - Newly achievement will automatically replace the already achieved [A Pirate's Life For Me]
-  - [A Pirate's Life For Me] with [There's too many sorcerers on deck] both account for the same amount of points
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics')
+</script>
 
-### 11. Service
-- Added Style Stamp to style information in Profile
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/mysterium"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/mysterium/about"><div class="nav-item">about</div></a>
+    
+      <a href="/mysterium/lucidity"><div class="nav-item">lucidity</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
+    
+  </div>
+</div>
+  
+  <div id="twitch">
+  <div onclick="twitch_close()" id="twitch-close">
+    x
+  </div>
+  <iframe id="twitch-embed" src="https://player.twitch.tv/?channel=seraphinush"></iframe>
+</div>
+  <div id="content-frame">
+    
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2017/v62-01/">2017.08.10 patch notes (v62.01) | K TERA</a></h1>
+    <p> Aug 10, 2017 </p>
+    <ul>
+<li>
+<ol>
+<li>Dungeon</li>
+</ol>
+</li>
+<li>New : Ultimate RK-9 Hangar
+<ul>
+<li>Added hard mode of RK-9 Hangar</li>
+<li>ilvl requirement : 446</li>
+<li>Teleportal location : Spring Valley</li>
+<li>Loot table : Crying Rage gear box, Emerald/Diamond, High-tier enchanting material, Rare/Superior Innerwear, Mysterious holy water, Tier 3 accessory etching, Uneven composition, etc</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-elin-gunner">2. Elin Gunner</h3>
+<ul>
+<li>Added new class [gunner] to race Elin
+<ul>
+<li>Can be created before October 12th, and cannot be race changed</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-skill-and-balance-adjustment">3. Skill and balance adjustment</h3>
+<ul>
+<li>Warrior
+<ul>
+<li>Traverse Cut
+<ul>
+<li>Other warriors in party also take affect from attack speed buff when in Defense Stance</li>
+<li>Party attack speed buff no longer stack with Lancer buff</li>
+<li>Party attack speed buff no longer displays</li>
+</ul>
+</li>
+<li>Assault Stance
+<ul>
+<li>Increased cooldown to 60 seconds, and shares cooldown with Defense Stance</li>
+</ul>
+</li>
+<li>Defense Stance
+<ul>
+<li>Increased cooldown to 60 seconds, and shares cooldown with Assault Stance</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-guild">4. Guild</h3>
+<ul>
+<li>Expanded guild level to 309
+<ul>
+<li>Added the following skills
+<ul>
+<li>아마룬의 기운 VI~VIII</li>
+<li>엘리누의 생명 VI~VIII</li>
+<li>길드 인원 증가 VI~VIII</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="5-style-shop">5. Style shop</h3>
+<ul>
+<li>Revised Style shop UI and function
+<ul>
+<li>Can now purchase certain items with T-cat</li>
+<li>Can now confirm discounts and new items</li>
+<li>Added sort and search function</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-item">6. Item</h3>
+<ul>
+<li>Slightly increased stat of the first gear obtained during progression
+<ul>
+<li>Increased stat and level of weapon/armor</li>
+</ul>
+</li>
+<li>Superior innerwear no longer drop from 4th phase reward box of Harrowhold
+<ul>
+<li>The item has been added to RK-9 Hangar (hard) loot table with the same drop rate</li>
+</ul>
+</li>
+</ul>
+<h3 id="7-parcel">7. Parcel</h3>
+<ul>
+<li>Changed &lsquo;Received&rsquo; to &lsquo;Delete time&rsquo;</li>
+<li>Increased parcel expiration period from 28 days to 180 days</li>
+<li>Added received and send description</li>
+</ul>
+<h3 id="8-gear-progression-system">8. Gear progression system</h3>
+<ul>
+<li>Changed to no longer be able to promote gear received from someone else</li>
+</ul>
+<h3 id="9-hunting">9. Hunting</h3>
+<ul>
+<li>Bamarama
+<ul>
+<li>Changed area flight-disabled</li>
+<li>Changed area to be unable to use Toy Tank</li>
+</ul>
+</li>
+</ul>
+<h3 id="10-achievement">10. Achievement</h3>
+<ul>
+<li>Replaced [A Pirate&rsquo;s Life For Me] with [There&rsquo;s too many sorcerers on deck] (placeholder)
+<ul>
+<li>Removed [A Pirate&rsquo;s Life For Me]</li>
+<li>Newly achievement will automatically replace the already achieved [A Pirate&rsquo;s Life For Me]</li>
+<li>[A Pirate&rsquo;s Life For Me] with [There&rsquo;s too many sorcerers on deck] both account for the same amount of points</li>
+</ul>
+</li>
+</ul>
+<h3 id="11-service">11. Service</h3>
+<ul>
+<li>Added Style Stamp to style information in Profile</li>
+</ul>
+<h3 id="12-style-shop-k-tera-exclusive">12. Style Shop (K TERA exclusive)</h3>
+<ul>
+<li>Added new costume to purchase with Vanguard Initiative credits
+<ul>
+<li>New costume &lsquo;Guardian Collection&rsquo; series are sold</li>
+<li>Available until September 7th</li>
+</ul>
+</li>
+</ul>
+<h3 id="bug-fixes">Bug fixes</h3>
+<ul>
+<li>Dungeon
+<ul>
+<li>Fixed issue at 2nd boss of RK-9 Hangar where the boss did not reset outside of combat area</li>
+</ul>
+</li>
+<li>Crafting
+<ul>
+<li>Fixed issue where crafting gems did not provide master rank test</li>
+</ul>
+</li>
+<li>Item
+<ul>
+<li>Fixed issue where Ephemeral Armor Etching : Relentless II did not etch on armor but on weapon</li>
+</ul>
+</li>
+</ul>
+<pre><code>
+----
 
-### 12. Style Shop (K TERA exclusive)
-- Added new costume to purchase with Vanguard Initiative credits
-  - New costume 'Guardian Collection' series are sold
-  - Available until September 7th
+source : [TERA 테라 | NEXON](http://tera.nexon.com/news/update/view.aspx?n4articlesn=291)
+</code></pre>
+  </div>
+</div>
+<a href="/mysterium/">
+<div class="article-end">
+  back
+</div></a>
 
-### Bug fixes
-- Dungeon
-  - Fixed issue at 2nd boss of RK-9 Hangar where the boss did not reset outside of combat area
-- Crafting
-  - Fixed issue where crafting gems did not provide master rank test
-- Item
-  - Fixed issue where Ephemeral Armor Etching : Relentless II did not etch on armor but on weapon
-</code></pre><hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=291"target="_blank">TERA 테라 | NEXON</a></p>
-</article><section class="article labels"><a class="category" href=/mysterium/categories/patch-notes/>patch notes</a><a class="tag" href=/mysterium/tags/2017/>2017</a><a class="tag" href=/mysterium/tags/v62/>v62</a><a class="tag" href=/mysterium/tags/translation/>translation</a></section><section class="article navigation"><p><a class="link" href="/mysterium/posts/patch-notes/raw/2017/v62-01-01/"><span class="li">&larr;</span>2017년 08월 11일 업데이트 안내 (V62.01.01)</a></p><p><a class="link" href="/mysterium/posts/patch-notes/raw/2017/v62-01/"><span class="li">&rarr;</span>2017년 08월 10일 업데이트 안내 (v62.01)</a class="link">
-    </p></section></div><section id="footer" class="footer"><div class="footer-wrap">
-    <p class="copyright">mysterium</p>
-    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
-        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
-        target="_blank">Notepadium</a></p>
-</div></section></div>
+  </div>
+  <div id="footer">
+  <span id="footer-title">mysterium</span>
+  <span>powered by Hugo, theme by seraphinush-gaming</span>
+</div>
 </body>
-
 </html>

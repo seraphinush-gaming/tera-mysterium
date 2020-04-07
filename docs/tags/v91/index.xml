@@ -1,104 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v91 on mysterium</title>
-    <link>/mysterium/tags/v91/</link>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v91/</link>
     <description>Recent content in v91 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/mysterium/tags/v91/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020.01.16 patch notes (v91.03) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2020/v91-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v91-03/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2020/v91-03/</guid>
-      <description>### 1. January combat balance - Berserker - Level 69 Skill Option - Increased duration increase from 18 seconds to 21 seconds - Lancer - Increased skill damage to field monsters by approximately 33.3% - Debilitate - Changed to prevent resistance by targets - Guardian Shout, Line Held - Changed to prevent removal upon knockdown - Guardian Shout, Front Defense - Changed to prevent sharing of cooldown - Brawler - Jackhammer - Changed to prevent resistance by targets - Ninja - Circle of Steel (Glyph of Energy) - Decreased glyph cost from 4 to 2 - Focus - Changed to prevent removal upon knockdown - EP - Lethal Lesson - Changed to prevent removal upon knockdown - Ninja [Double Cut], Gunner [Burst Fire] - Changed to prevent removal upon reactions (knockdown, stagger) - Slayer [Overhand Strike], Archer [Rapid Fire] - Changed to prevent removal upon knockdown ### 2.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v91-03/</guid>
+      <description>1. January combat balance  Berserker  Level 69 Skill Option  Increased duration increase from 18 seconds to 21 seconds     Lancer  Increased skill damage to field monsters by approximately 33.3% Debilitate  Changed to prevent resistance by targets   Guardian Shout, Line Held  Changed to prevent removal upon knockdown   Guardian Shout, Front Defense  Changed to prevent sharing of cooldown     Brawler  Jackhammer  Changed to prevent resistance by targets     Ninja  Circle of Steel (Glyph of Energy)  Decreased glyph cost from 4 to 2   Focus  Changed to prevent removal upon knockdown     EP  Lethal Lesson  Changed to prevent removal upon knockdown   Ninja [Double Cut], Gunner [Burst Fire]  Changed to prevent removal upon reactions (knockdown, stagger)   Slayer [Overhand Strike], Archer [Rapid Fire]  Changed to prevent removal upon knockdown      2.</description>
     </item>
     
     <item>
       <title>2020년 01월 16일 업데이트 안내 (v91.03)</title>
-      <link>/mysterium/posts/patch-notes/raw/2020/v91-03/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v91-03/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2020/v91-03/</guid>
-      <description>### 1. 1월 전투 밸런스 - 광전사 - 69레벨 격노 [광분] 연마 - 격노 [광분] 스킬 사용 시, 적용되는 광기 증폭 효과의 지속 시간이 18초에서 21초로 증가합니다. [개발자 코멘트] - 그 동안 격노[광분] 스킬과 함께 폭주 스킬을 사용했을 때, 폭주의 지속시간 중 마지막 2~3초 구간은 광기 증폭의 효과를 받지 못했습니다. 이번 조정을 통해 폭주 지속시간 동안 끝까지 &#39;폭주&#39; 하실 수 있도록 개선합니다. - 창기사 - 필드 몬스터를 대상으로 스킬 위력이 약 33.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v91-03/</guid>
+      <description>1. 1월 전투 밸런스  광전사  69레벨 격노 [광분] 연마  격노 [광분] 스킬 사용 시, 적용되는 광기 증폭 효과의 지속 시간이 18초에서 21초로 증가합니다.      [개발자 코멘트]
+  그 동안 격노[광분] 스킬과 함께 폭주 스킬을 사용했을 때, 폭주의 지속시간 중 마지막 2~3초 구간은 광기 증폭의 효과를 받지 못했습니다. 이번 조정을 통해 폭주 지속시간 동안 끝까지 &amp;lsquo;폭주&amp;rsquo; 하실 수 있도록 개선합니다.
+  창기사</description>
     </item>
     
     <item>
       <title>2020.01.09 patch notes (v91.02.01) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2020/v91-02-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v91-02-01/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2020/v91-02-01/</guid>
-      <description>### 1. Dungeon - Madness Arena - Decreased boss&#39; Whirlwind damage - Adjusted to not pull players into the same location as the boss ### 2. Elin Valkyrie - Changed to allow race change to Elin Valkyrie ### Bug fixes - Fixed issue in Madness Arena where damage received varied depending on the class - Fixed issue where the last hit bonus reward swapped with the jackpot reward - Fixed issue in Madness Arena where the aggro&#39;d player did not display properly source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v91-02-01/</guid>
+      <description>1. Dungeon  Madness Arena Decreased boss&amp;rsquo; Whirlwind damage Adjusted to not pull players into the same location as the boss  2. Elin Valkyrie  Changed to allow race change to Elin Valkyrie  Bug fixes  Fixed issue in Madness Arena where damage received varied depending on the class Fixed issue where the last hit bonus reward swapped with the jackpot reward Fixed issue in Madness Arena where the aggro&amp;rsquo;d player did not display properly   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020년 01월 09일 업데이트 안내 (v91.02.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2020/v91-02-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v91-02-01/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2020/v91-02-01/</guid>
-      <description>### 1. 던전 - 광기의 투기장 - 불멸의 투사 회전 베기 스킬의 데미지가 감소됩니다. - 끌어당기기 패턴 사용 시, 불멸의 투사와 캐릭터가 겹치지 않도록 조정됩니다. ### 2. 엘린 월광무사 - 엘린 월광무사로 종족 변경이 가능해집니다. ### [버그수정] - 광기의 투기장 네임드의 클래스 별 데미지 편차가 존재하던 문제 - 필드보스 마지막 타격 보상과 대박 보상이 서로 변경되어 드랍되는 문제 - 광기의 투기장 불멸의 투사 어그로 대상이 어색한 문제 source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v91-02-01/</guid>
+      <description>1. 던전  광기의 투기장  불멸의 투사 회전 베기 스킬의 데미지가 감소됩니다. 끌어당기기 패턴 사용 시, 불멸의 투사와 캐릭터가 겹치지 않도록 조정됩니다.    2. 엘린 월광무사  엘린 월광무사로 종족 변경이 가능해집니다.  [버그수정]  광기의 투기장 네임드의 클래스 별 데미지 편차가 존재하던 문제 필드보스 마지막 타격 보상과 대박 보상이 서로 변경되어 드랍되는 문제 광기의 투기장 불멸의 투사 어그로 대상이 어색한 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020.01.02 patch notes (v91.02) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2020/v91-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v91-02/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2020/v91-02/</guid>
-      <description>### 1. Leaderboard - Leaderboard season 12 ends and starts anew, added Kelsaik&#39;s Refuge (hard) ### 2. Dungeon - Kelsaik&#39;s Refuge (hard) - Changed to remove Parasite abnormality upon entering 15% implosion mechanic - Revised effects that disrupt vision ### Bug fixes - Fixed issue where 1.5x Glimmering Ice Dragon proc overwrote the 2.0x Glimmering Ice Dragon proc - Fixed issue in Kelsaik&#39;s Refuge where a certain mechanic resisted debuffs occasionally - Fixed issue in Kelsaik&#39;s Refuge where the boss started a wipe mechanic upon starting the fight - Fixed issue in Kelsaik&#39;s Refuge where the event UI remained occasionally - Fixed issue in Kelsaik&#39;s Refuge (hard) where dungeon clear count achievement did not update - Fixed issue in Kelsaik&#39;s Refuge (hard) where simultaneously receiving 3 stacks of parasite debuff and dying resulted in having the abnormality remain - Fixed issue where Kelsaik&#39;s Refuge (hard) displayed as Kelsaik&#39;s Refuge instead in Guild UI - Fixed issue where the Christmas decor covered stamina when setting Character HP bar UI vertically - Fixed issue where declaring GvG on a GvG-eligible guild resulted in an error message and not being able to declare GvG - Fixed issue where tooltip for unequipped gear in Inventory UI displayed tooltip for the currently equipped gear - Fixed issue where Lancer&#39;s block did not have gear&#39;s movement speed effect applied - Fixed issue where wearing Christmas weapon skin penetrated the character for female Castanic Slayer - Fixed issue where the Christmas weapon skin for female Castanic Slayer was displayed backwards - Fixed issue in Madness Arena where using a skill to reset aggro prevented certain mechanics to stop - Fixed issue where the OX quiz event UI did not pop up at its proper designated time source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v91-02/</guid>
+      <description>1. Leaderboard  Leaderboard season 12 ends and starts anew, added Kelsaik&amp;rsquo;s Refuge (hard)  2. Dungeon  Kelsaik&amp;rsquo;s Refuge (hard)  Changed to remove Parasite abnormality upon entering 15% implosion mechanic Revised effects that disrupt vision    Bug fixes  Fixed issue where 1.5x Glimmering Ice Dragon proc overwrote the 2.0x Glimmering Ice Dragon proc Fixed issue in Kelsaik&amp;rsquo;s Refuge where a certain mechanic resisted debuffs occasionally Fixed issue in Kelsaik&amp;rsquo;s Refuge where the boss started a wipe mechanic upon starting the fight Fixed issue in Kelsaik&amp;rsquo;s Refuge where the event UI remained occasionally Fixed issue in Kelsaik&amp;rsquo;s Refuge (hard) where dungeon clear count achievement did not update Fixed issue in Kelsaik&amp;rsquo;s Refuge (hard) where simultaneously receiving 3 stacks of parasite debuff and dying resulted in having the abnormality remain Fixed issue where Kelsaik&amp;rsquo;s Refuge (hard) displayed as Kelsaik&amp;rsquo;s Refuge instead in Guild UI Fixed issue where the Christmas decor covered stamina when setting Character HP bar UI vertically Fixed issue where declaring GvG on a GvG-eligible guild resulted in an error message and not being able to declare GvG Fixed issue where tooltip for unequipped gear in Inventory UI displayed tooltip for the currently equipped gear Fixed issue where Lancer&amp;rsquo;s block did not have gear&amp;rsquo;s movement speed effect applied Fixed issue where wearing Christmas weapon skin penetrated the character for female Castanic Slayer Fixed issue where the Christmas weapon skin for female Castanic Slayer was displayed backwards Fixed issue in Madness Arena where using a skill to reset aggro prevented certain mechanics to stop Fixed issue where the OX quiz event UI did not pop up at its proper designated time   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020년 01월 02일 업데이트 안내 (v91.02)</title>
-      <link>/mysterium/posts/patch-notes/raw/2020/v91-02/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v91-02/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2020/v91-02/</guid>
-      <description>### 1. 순위표 - 12시즌이 종료되며, 불멸의 켈사이크 은폐지 던전이 순위표에 추가됩니다. ### 2. 던전 - 불멸의 켈사이크 은폐지 - 불멸의 켈사이크 HP 15% 붕괴 패턴 시, 아르곤 기생충 이상상태가 해제되도록 변경됩니다. - 일부 화면을 가리는 효과가 완화됩니다. ### [버그수정] - * 채팅창 UI 위치가 초기화되는 문제는 1/16(목) 수정될 예정이며, 채팅창 UI 설정이 초기화되는 문제는 현재 확인 중에 있습니다. 가능한 빠르게 수정될 수 있도록 최선을 다하겠습니다. 이용에 불편을 끼쳐드려 죄송합니다. - 빙룡의 주인 패시브 스킬이 치명타 위력 2배 증가 패시브보다 상위로 적용되는 문제 - 켈사이크 은폐지에서 확률적으로 파멸 패턴을 저항하여 적용되지 않는 문제 - 켈사이크 은폐지에서 전투 시작 시, 확률적으로 전멸기를 시전하는 문제 - 켈사이크 은폐지에서 간헐적으로 이벤트 게이지가 남아있는 문제 - 불멸의 켈사이크 은폐지에서 던전 클리어 카운트 업적이 달성되지 않는 문제 - 불멸의 켈사이크 은폐지에서 기생충 3중첩 이상상태 효과가 받는 타이밍에 따라 종료된 이후 부활해도 지속되는 문제 - 길드 정보에서 불멸의 켈사이크 은폐지가 켈사이크 은폐지로 출력되는 문제 - HP/MP바를 세로 정렬할 경우, 크리스마스 데코 UI가 스테미너를 가리는 문제 - 길드전을 진행하지 않은 길드에게 재선포 시간이 지나지 않았다는 메시지와 함께 선포가 불가능한 문제 - 착용중인 장비와 인벤토리 장비를 비교하는 툴팁에서 착용중인 장비의 귀속 캐릭터명이 노출되지 않는 문제 - 창기사 방패 방어 스킬 사용 시, 장비의 이동속도 증가 옵션 효과가 적용되지 않는 문제 - 케스타닉 여자 무사 캐릭터로 크리스마스 무기 아이템 장착 시, 무기가 캐릭터 외형을 뚫는 문제 - 크리스마스 FUN 무기 대검을 케스타닉 여 종족으로 장착 시, 앞 뒤가 바뀌어 출력되는 문제 - 광기의 투기장에서 특정 타이밍에 적대치 초기화 스킬을 사용하면 일부 연계 패턴이 나오지 않는 문제 - OX 이벤트 전용 UI가 이벤트 시작 시간이 되어도 출력되지 않는 문제 source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v91-02/</guid>
+      <description>1. 순위표  12시즌이 종료되며, 불멸의 켈사이크 은폐지 던전이 순위표에 추가됩니다.  2. 던전  불멸의 켈사이크 은폐지  불멸의 켈사이크 HP 15% 붕괴 패턴 시, 아르곤 기생충 이상상태가 해제되도록 변경됩니다. 일부 화면을 가리는 효과가 완화됩니다.    [버그수정]    채팅창 UI 위치가 초기화되는 문제는 1/16(목) 수정될 예정이며, 채팅창 UI 설정이 초기화되는 문제는 현재 확인 중에 있습니다. 가능한 빠르게 수정될 수 있도록 최선을 다하겠습니다. 이용에 불편을 끼쳐드려 죄송합니다.</description>
     </item>
     
     <item>
       <title>2019.12.24 patch notes (v91.01.01) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v91-01-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v91-01-01/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v91-01-01/</guid>
-      <description>### Bug fixes - Fixed issue where relogging characters occasionally restored Adventure Coin - Fixed issue where chat tab reset and chat UI reset source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v91-01-01/</guid>
+      <description>Bug fixes  Fixed issue where relogging characters occasionally restored Adventure Coin Fixed issue where chat tab reset and chat UI reset   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019년 12월 24일 업데이트 안내 (v91.01.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v91-01-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v91-01-01/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v91-01-01/</guid>
-      <description>### [버그수정] - 캐릭터 재접속 시 모험의 주화가 간헐적으로 충전되는 문제 - 채팅창 탭 순서 및 채팅 UI 설정이 재접속 시 초기화되는 문제 source : TERA 테라 | NEXON</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v91-01-01/</guid>
+      <description>[버그수정]  캐릭터 재접속 시 모험의 주화가 간헐적으로 충전되는 문제 채팅창 탭 순서 및 채팅 UI 설정이 재접속 시 초기화되는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019.12.19 patch notes (v91.01) | K TERA</title>
-      <link>/mysterium/posts/patch-notes/translations/2019/v91-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v91-01/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/translations/2019/v91-01/</guid>
-      <description>### 1. Class balance - Priest - Zenobia&#39;s Vortex - Increased the chance to crit - Holy Burst - Slightly decreased the chance to crit ### 2. Dungeon - Removed Forsaken Island (nm/hm) - New : Madness Arena (5 man) - Requires level 69 and ilvl 461 to use Instance Matching System - Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) - Located in Plains of the Damned, Elenea - Loot table includes Annihilation/Dark Light Brooch, Annihilation/Dark Light Brooch Token, Exodor rare/superior gear, and Darkshad Feedstock - Related quest can be acquired upon completing [Dungeon] Desert Wolf (new) quest - Added 4 achievements related to the instance - Achievement - Achievement name - Achievement name - Achievement name - Achievement name - New : Kelsaik&#39;s Refuge (5 man) - Requires level 69 and ilvl 461 to use Instance Matching System - Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) - Located in Verrak Fortress, Exodor - Loot table includes Mythical gear promotion material, Exodor rare/superior gear, and Darkshad Feedstock - Related quest can be acquired upon completing [Imporatant] Exodor Advance Base quest - Added 5 achievements related to the instance - Achievement - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name - New : Kelsaik&#39;s Refuge (hard) (5 man) - Requires level 69 and ilvl 480 to use Instance Matching System - Requires 250 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) - Located in Verrak Fortress, Exodor - Loot table includes Mythical gear promotion material, Mythical gear, Exodor rare/superior gear, Kelsaik&#39;s style items (weapon skin), and Darkshad Feedstock - Added 4 achievements and 2 hidden achievements and 1 server first clear achievement related to the instance - Server first clear achievement will not be imbued immediately and will be given upon checking appropriate clear - Achievement - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name - Achievement name ### 3.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2019/v91-01/</guid>
+      <description>1. Class balance  Priest  Zenobia&amp;rsquo;s Vortex  Increased the chance to crit   Holy Burst  Slightly decreased the chance to crit      2. Dungeon  Removed Forsaken Island (nm/hm) New : Madness Arena (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Plains of the Damned, Elenea Loot table includes Annihilation/Dark Light Brooch, Annihilation/Dark Light Brooch Token, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Dungeon] Desert Wolf (new) quest Added 4 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythical gear promotion material, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Imporatant] Exodor Advance Base quest Added 5 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (hard) (5 man)  Requires level 69 and ilvl 480 to use Instance Matching System Requires 250 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythical gear promotion material, Mythical gear, Exodor rare/superior gear, Kelsaik&amp;rsquo;s style items (weapon skin), and Darkshad Feedstock Added 4 achievements and 2 hidden achievements and 1 server first clear achievement related to the instance  Server first clear achievement will not be imbued immediately and will be given upon checking appropriate clear  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name          3.</description>
     </item>
     
     <item>
       <title>2019년 12월 19일 업데이트 안내 (v91.01)</title>
-      <link>/mysterium/posts/patch-notes/raw/2019/v91-01/</link>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v91-01/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mysterium/posts/patch-notes/raw/2019/v91-01/</guid>
-      <description>### 1. 전투 밸런스 - 사제 - 신의 숨결 - 치명타 발생 확률이 증가합니다. - 찬란한 섬광 - 치명타 발생 확률이 소폭 감소합니다. - 치유의 바람 연계 - [치유의 빛, 물러서기, 속박의 낙인] 스킬 사용 후, 강력한 치유의 바람을 연계할 수 있는 시간이 소폭 증가합니다. [개발자 코멘트] - 신의 숨결과 찬란한 섬광 스킬의 치명타 발생 확률을 조정합니다. - &#39;신의 숨결&#39; 스킬의 경우 치명타 발생률이 상향되며, 치명타 유발 능력치에 대한 의존도를 낮춰 다른 능력치에 투자할 수 있도록 조정됩니다.</description>
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2019/v91-01/</guid>
+      <description>1. 전투 밸런스  사제  신의 숨결  치명타 발생 확률이 증가합니다.   찬란한 섬광  치명타 발생 확률이 소폭 감소합니다.   치유의 바람 연계  [치유의 빛, 물러서기, 속박의 낙인] 스킬 사용 후, 강력한 치유의 바람을 연계할 수 있는 시간이 소폭 증가합니다.      [개발자 코멘트]
+ 신의 숨결과 찬란한 섬광 스킬의 치명타 발생 확률을 조정합니다. &amp;lsquo;신의 숨결&amp;rsquo; 스킬의 경우 치명타 발생률이 상향되며, 치명타 유발 능력치에 대한 의존도를 낮춰 다른 능력치에 투자할 수 있도록 조정됩니다.</description>
     </item>
     
   </channel>
