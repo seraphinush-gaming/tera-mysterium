@@ -22,7 +22,3 @@ adsenseId = ""
 [[params.nav]]
   title = "twitch"
   url = "https://www.twitch.tv/seraphinush"
-
-[taxonomies]
-category = "categories"
-tag = "tags"
