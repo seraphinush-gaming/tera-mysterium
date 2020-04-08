@@ -18,6 +18,11 @@
   cursor: pointer;
 }
 
+#twitch-close:hover {
+  background: #40CEDB;
+  color: #FFF;
+}
+
 iframe {
   display: inline-block;
   width: 30vw;
