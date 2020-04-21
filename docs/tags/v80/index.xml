@@ -65,5 +65,43 @@
       <description>1. 퀘스트  미션 퀘스트 진행을 위한 퀘스트 전용 성장구간(1인) 던전이 추가됩니다.  비밀기지(1인)  미션 퀘스트 “비밀기지를 토벌하라” 를 수주하여 진입할 수 있습니다.   밤피르의 저택(1인)  미션 퀘스트 “밤피르 저택 토벌”을 수주하여 진입할 수 있습니다.   사교도의 은신처(1인)  미션 퀘스트 “로크 교도 괴멸”을 수주하여 진입할 수 있습니다.     LV20 쿠마스의 놀이터 미션퀘스트가 삭제 됩니다.  미션 퀘스트 쿠마스의 놀이터를 수주 받고 진행하지 않은 경우, 업데이트 후 완료된 퀘스트로 자동 변경됩니다.</description>
     </item>
     
+    <item>
+      <title>2018.12.27 patch notes | K TERA (v80.01.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v80-01-01/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v80-01-01/</guid>
+      <description>1. Achievement  Added first level 70 achievement for each class  Bug fixes  Fixed issue where XP gained from goblin thieves was higher than intended Fixed issue where XP bar UI did not display up to two decimal places K TERA exclusive  K TERA exclusive     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2018년 12월 27일 업데이트 안내 (v80.01.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v80-01-01/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v80-01-01/</guid>
+      <description>1. 업적  각 클래스 별로 최초 70레벨 달성 업적이 추가됩니다.  [버그 수정]  고블린 도적 떼 처치 경험치가 기획수치와 다르게 적용되었던 문제 경험치 바 수치가 소수점 둘째 자리까지 노출되지 않던 문제 월간 패스 일일 T-cat 주머니 쿨타임이 게임 미접속 시 적용되지 않는 문제  (*월간 패스 T-cat 주머니 쿨타임 오류 보상은 확정 시 안내드릴 예정입니다.)     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2018.12.22 patch notes | K TERA (v80.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v80-01/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v80-01/</guid>
+      <description>1. Balance  Adjusted to increase XP on ilvl 412-456 dungeon bosses  Changed XP ranges differently per dungeon   Decreased XP required to level up between level 66-70  Developer comment
+ First off we increased XP earned through dungeons by 3 times through this maintenance. The XP gain has been adjusted using difficulty and clear time as basis, and therefore each each dungeon provides a different amount of XP.</description>
+    </item>
+    
+    <item>
+      <title>2018년 12월 22일 업데이트 안내 (v80.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v80-01/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v80-01/</guid>
+      <description>1. 밸런스  412~456 레벨 던전 네임드 경험치가 상향 조정됩니다.  던전 별로 경험치 변경 수준은 상이합니다.   66레벨 ~ 70레벨 구간 레벨 달성 경험치 요구량이 하향되었습니다.  [개발자코멘트]
+ 우선 금일 점검을 통해 던전에서 얻을 수 있는 경험치를 기존대비 3배 정도로 상향하였습니다. 난이도와 클리어 타임 기준으로 획득 경험치량을 조절하였기에 던전별 획득 경험치가 상이할 수 있습니다. 추후 보다 다양한 경로로 경험치를 획득하실 수 있도록 적용해 나가겠습니다.  [버그 수정]  칠흑의 테네브리스 성채(7인), 공허한 안타로스의 심연(7인), 왜곡된 리안의 지하 전당(7인) 던전에 파티의 즐거움 버프가 적용되지 않는 문제 미션 퀘스트 [장비 지급] 바라카들의 호의 퀘스트 보상인 스킬 교본: 갈색 비행 군마 소환 아이템이 파괴 불가 속성인 문제 공격대로 필드 보스 몬스터 처치 시 간헐적으로 보상 상자가 드랍되지 않는 문제 PC방 대여 아이템이 파괴불가, 창고 보관 불가 속성인 문제 오칸의 잡동사니 상자에서 경험치를 대량 획득할 수 있는 문제 부활의 나무 중형 몬스터 처치 시 네임드 처치 업적이 달성되는 문제 인술사, 마법사 캐릭터에게 VIP 만능 전투 비약의 치명타 위력 증가가 적용되지 않는 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
   </channel>
 </rss>

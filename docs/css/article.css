@@ -15,6 +15,8 @@ div.article-end {
   text-align: center;
   text-transform: uppercase;
   color: #CCC;
+
+  cursor: pointer;
 }
 
 div.article-end:hover {

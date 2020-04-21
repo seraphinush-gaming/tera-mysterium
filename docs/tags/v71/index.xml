@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v71 on mysterium</title>
+    <link>https://seraphinush-gaming.github.io/mysterium/tags/v71/</link>
+    <description>Recent content in v71 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v71/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018.04.12 patch notes | K TERA (v71.02)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v71-02/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v71-02/</guid>
+      <description>1. PVP  Disabled Outlaw content Existing skill is turned off, and Infamy reset to 0  Developer comment
+Bug fixes  Dreadspire  Fixed issue where player&amp;rsquo;s death location was different per player Fixed issue on 3rd floor where projectiles from demokrons one shot players   Skill  Fixed issue where Baraka Priest&amp;rsquo;s Zenobia&amp;rsquo;s Vortex IX skill casting speed was different compared to other races Fixed issue where Warrior&amp;rsquo;s Blade Frenzy tooltip did not have cooldown information Fixed issue where using Lancer&amp;rsquo;s Stand Fast increased based attack speed stat in Profile UI Fixed issue where Ninja&amp;rsquo;s Jagged Path tooltip information of distance was different from actual distance traversed Fixed issue where Reaper&amp;rsquo;s Soul Reversal talent did not apply to large monsters    Developer comment</description>
+    </item>
+    
+    <item>
+      <title>2018년 04월 12일 업데이트 안내 (v71.02)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v71-02/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v71-02/</guid>
+      <description>1. PVP  무법자 컨텐츠가 임시 중단됩니다. 기존에 습득한 무법자 스킬도 off 되며, 악명 포인트가 0으로 초기화 됩니다.  [개발자 코멘트]
+ 의도치 않은 악용이 지속 발생하고 있으며, 사용성 개선이 필요하다고 판단하여 일시적으로 무법자 컨텐츠를 중단하게 되었습니다. 추후 개선된 모습으로 업데이트 될 예정입니다.  [버그수정]  환영의 탑  바포메트의 전방 올려치기 공격에 피격 시 사망위치가 플레이어별로 상이한 문제 3층에서 &amp;lsquo;저주받은 실험체의 환영&#39;이 발사한 구슬에 피격될 시 즉시 사망하는 문제   스킬  바라카 사제의 재생의 바람 IX 스킬 시전 속도가 다른 종족과 상이한 문제 검투사 이단 검무 스킬 툴팁에 재사용 대기시간이 출력되지 않는 문제 창기사 방패 방어 스킬 사용 시 캐릭터 정보 UI (기본 능력치)에서 이동속도 수치가 증가하는 문제 인술사 연쇄도약 스킬 이동 거리가 툴팁과 실제 거리가 상이한 문제 비검사 위치 교환 – 연계 쾌속 특성을 중형 몬스터에게 사용 시 효과가 적용되지 않는 문제 (추가) 광전사 피의 보복 패시브 효과가 힐/정화를 받을 때도 적용이 되던 문제 (추가) 사제 수호자의 성역 탈출 특성이 찬란한 섬광에 의한 본인 피격에도 적용되던 문제    [개발자 코멘트]</description>
+    </item>
+    
+    <item>
+      <title>2018.04.05 patch notes | K TERA (v71.01.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v71-01-01/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v71-01-01/</guid>
+      <description>1. Dungeon  Cruel Dreadspire  Added Final Element to 5th floor reward Increased item drop rate by 2 times excluding gold by changing Joy of Partying to apply   Pit of Petrax  Changed Petrax to not enrage regardless of aggro unless damage is dealt Changed timer condition to upon hitting monster    2. Leaderboard  Due to rankings made with a bug, Pit of Petrax rankings has been reset Changed ranking conditions for Dreadspire  From clearing 4th floor -&amp;gt; to 1st floor    3.</description>
+    </item>
+    
+    <item>
+      <title>2018년 04월 05일 업데이트 안내 (v71.01.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v71-01-01/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v71-01-01/</guid>
+      <description>1. 던전  잔혹한 환영의 탑  5층 클리어 보상으로 마지막 원소가 추가됩니다. 파티의 즐거움이 적용되도록 변경하여 골드 보상을 제외한 아이템 드랍율이 2배 증가합니다.   페트레 양성소  페트레에게 대미지 없이 적대치 획득만으로는 분노상태를 유발할 수 없게 변경됩니다. 타이머 조건이 페트레에게 대미지가 적용되는 순간 시작으로 변경됩니다.    2. 순위표  페트레 양성소 기록이 비정상적인 방법으로 기록되어 이전 기록을 초기화합니다. 잔혹한 환영의 탑 순위표 등록 조건을 변경합니다.  4층 클리어 -&amp;gt; 1층 클리어    3.</description>
+    </item>
+    
+    <item>
+      <title>2018.03.29 patch notes | K TERA (v71.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v71-01/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v71-01/</guid>
+      <description>1. Dungeon  New dungeon : Cruel Dreadspire  10 floor 5-man dungeon There is no ilvl requirement, and 1 entry (2 for VIP) per day upon reaching level 65 Dungeon teleportal is located at Tempest Reach The following items are rewarded per floor :  Floor 5  Elemental Essence Copper Clasp Pansophic Ash Archdevan Formula Carved Ornament Otherworldly Shard Gold Reward   Floor 10  Final Element Copper Clasp Pansophic Ash Archdevan Formula Carved Ornament Otherworldly Shard Gold Reward   Floor 1-5  Dreadspire Helmet   Floor 6-10  Dreadspire Armor         Added Cruel Dreadspire to leaderboard Reopen Manglemire  5-man dungeon reopen Requires ilvl 439 to use IMS Dungeon teleportal is located at Pora Elinu Can receive rewards of ilvl 439 dungeons   Ace Dungeon  Changed to spawn teleportal to Highwatch upon clear   Pit of Petrax  Added one of the following to be static drops upon clear  Prime Battle Solution Bravery Potion Raw Moonlight Fruit (restores 100 production points) Complete Crystalbind (1 hour) Goldfinger Token Dragonscale   Adjusted to lower Archdevan archer damage Adjusted timer requirement  Start requirement  (From) Petrax recognizing user by aggro -&amp;gt; (to) approaching a certain distance to Petrax; displays a message of the combat and starts the timer   Pause requirement  Death during combat with Petrax; timer does not reset even though aggro has been reset     Removed Petrax HP recovery mechanic    2.</description>
+    </item>
+    
+    <item>
+      <title>2018년 03월 29일 업데이트 안내 (v71.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v71-01/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v71-01/</guid>
+      <description>1. 던전  신규: [잔혹한 환영의 탑]  1~10층까지 보스 몬스터로만 구성된 5인 파티 던전입니다. 장비레벨에 따른 입장제한은 없으며, 65레벨 달성 시 1일 1회(vip 1일 2회) 입장할 수 있습니다. 던전 입장 차원의 마법석은 웨스토니아 가드 &amp;gt; 얼어붙은 해안 &amp;gt; 빙하의 만에 위치해 있으며, 월드맵을 통해 상세 위치를 확인해 보실 수 있습니다. 층 별 보상은 아래와 같습니다.     던전 순위표에 잔혹한 환영의 탑이 추가됩니다. 거짓말쟁이 타르스키의 놀이터 오픈  5인 파티 던전 거짓말쟁이 타르스키의 놀이터가 기간한정으로 재오픈 됩니다.</description>
+    </item>
+    
+  </channel>
+</rss>
