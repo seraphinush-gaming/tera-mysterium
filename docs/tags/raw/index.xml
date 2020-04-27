@@ -6,10 +6,19 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 04월 23일 업데이트 안내 (v95.01)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v95-01/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v95-01/</guid>
+      <description>1. 파트너 교감도  파트너 교감도 상승 범위가 변경됩니다.  재료 파트너 등급 | 업데이트 전 | 업데이트 후  1등급 | 1~6 | 3~4 2 등급 | 1~6 | 3~5 3 등급 | 1~6 | 3~5 4 등급 | 1~6 | 3~5 5 등급 | 1~6 | 4~5 6 등급 | 1~6 | 4~5 7 등급 | 1~6 | 4~5 8 등급 | 1~6 | 4~6 9 등급 | 1~6 | 4~6 10 등급 | 3~6 | 4~6   파트너 교감도 상승 범위는 파트너 아이템 툴팁을 통해서도 표기됩니다.</description>
+    </item>
     
     <item>
       <title>2020년 04월 09일 업데이트 안내 (v94.02)</title>
@@ -1572,7 +1581,7 @@
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2016/v54-01/</guid>
-      <description>1. 신규 클래스: 월광무사  신규 클래스 월광무사가 추가되었습니다.  월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. 액티브 스킬     패시브 스킬  [2(/images/2016-12-22-2.png)   문장  2. 성장구간 사냥터 난이도 개선  성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.  성장구간 사냥터에서 중형 몬스터 공격 시에도 회복구슬이 드랍됩니다.</description>
+      <description>1. 신규 클래스: 월광무사  신규 클래스 월광무사가 추가되었습니다.  월광무사는 케스타닉 여자 캐릭터로만 생성 가능합니다. 액티브 스킬     패시브 스킬   문장  2. 성장구간 사냥터 난이도 개선  성장구간 사냥터에 배치된 몬스터들의 난이도 체감이 점진적으로 증가되도록 개선되었습니다. 성장구간 사냥터에서 중형 몬스터 분노 시 공격력과 공격 속도가 상승하도록 수정했습니다. 성장구간 사냥터에서 중형 몬스터 처치 시 회복구슬 드랍 확률 및 구슬 성능이 증가되었습니다.  성장구간 사냥터에서 중형 몬스터 공격 시에도 회복구슬이 드랍됩니다.</description>
     </item>
     
     <item>
