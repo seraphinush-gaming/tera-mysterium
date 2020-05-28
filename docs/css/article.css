@@ -50,6 +50,7 @@ div.article-type {
 
 div.article-type:hover {
   color: #FFF;
+  background: #40CEDB;
 }
 
 div.article-info {

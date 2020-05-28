@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>2020.05.28 patch notes (v96.01) | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v96-01/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v96-01/</guid>
+      <description>1. Dungeon  Reopen : Rift&amp;rsquo;s Edge (5-Person)  Reopens temporarily until 6/25 maintenance Requires level 68, ilevel 452 to use Instance Matching System Costs 150 Adventure Coins, with 40 entries (80 entries if Elite or equivalent) per week Teleportal is located Timeless Woods, Essenia Instance teleportal scroll is sold by city specialty merchants Loot table includes Koleogg Token, Radiant accessory upgrade materials, Azart Exodor gear, Annihilation / Dark Light Exodor gear, Exodor Scout / Dark Shard Feedstock, Skill Advancement Scroll, Transcendent Mask, Naslow&amp;rsquo;s Treasure Map, Left Half of an Intelligence Report, Sea of Honor Voyage Map, Zenobia&amp;rsquo;s Breeze Crate, and Adventure Completion Ticket (placeholder) (Added 5/27) Koeleogg Tokens can be exchanged in Highwatch for Companion-related items   New : Commander&amp;rsquo;s Quarters (20-Person) (placeholder)  Requires level 70, ilevel 450 to use Instance Matching System Costs 300 Adventure Coins, with 1 entry (2 entries if Elite or equivalent) per week Entrance hours are between Friday 00:00 ~ Sunday 23:59  Teleportal is located Core Area, Exodor or can be teleportal to via Vanguard Request Core Area can be reaches via flying or Exodor&amp;rsquo;s Azart Force Platform Instance can only be entered after completing [Important] Exodor Advance Base quest   Entrance is limited by class  Requires at least 1 tank class or more, requires at least 2 healer class up to 5   (Edited 5/27) Loot table includes Maknakh Card Fragment, Adventure Completion Ticket (placeholder), Zenobia&amp;rsquo;s Breeze Crate, Brooch Etching II or IV, Superior Pet Food, Evolution Core, Unstable Option Conversion Scroll (Weapon/Armor/Handwear/Footwear) (placeholder), Legacy Essence, and Dark Shard Feedstock   Vanguard Request of Rift&amp;rsquo;s Edge and Commander&amp;rsquo;s Quarters (placeholder) is of the following :   Enabled trading in the following instances :  Akalath Quarantine, Sea of Honor, 2nd boss region of Gossamer&amp;rsquo;s Vault (hard)    2.</description>
+    </item>
+    
+    <item>
       <title>2020년 05월 28일 업데이트 안내 (v96.01)</title>
       <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v96-01/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
@@ -54,6 +63,21 @@
       
       <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v95-01-01/</guid>
       <description>[버그수정]  궁수 바람걸음/관통사격/집중사격 스킬의 데미지가 변경된 문제 세그레토 NPC 상점을 이용할 수 없는 문제 투신의 액세서리 랜덤 옵션의 물리/마법 관통, 저항 무시 수치가 바뀐 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020 April suggestions review result | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/04/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/04/</guid>
+      <description>Suggestions applied   Suggestion to add practice instances (04/09)
+  Suggestion to adjust to increase dungeon entry count (04/09)
+  Suggestion to adjust to increase Adventure Coin maximum limit / recovery rate (04/09)
+  Suggestion to revise Berserker&amp;rsquo;s Kaia gear effect (04/09)
+  Suggestion to simplify gaining Partner Fellowship (04/23)
+  Suggestion to add new instances (04/23)
+  Suggestion to decrease upgrade cost of accessories (04/23)</description>
     </item>
     
     <item>
@@ -112,6 +136,20 @@
     </item>
     
     <item>
+      <title>2020 March suggestions review result | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/03/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/03/</guid>
+      <description>Suggestions applied   Suggestion to decrease Neophyte Ressurection cost (03/12)
+ Adjusted to decrease from 500 gold to 250 gold    Suggestion to adjust dungeon difficulty (03/12)
+  Suggestion to increase HP of bosses in Guardian Legion Mission and remove collision between players (03/12)
+  Suggestion to increase enchanting rate of Exodor gear (03/12)
+  Suggestion to revise Daily Quests (03/12)
+ Revised Exodor Daily Quest to daily Vanguard Request    Suggestion to increase Metamorphic Emblem stack limit (03/12)</description>
+    </item>
+    
+    <item>
       <title>2020.03.26 patch notes (v94.01) | KTERA</title>
       <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-01/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
@@ -145,6 +183,21 @@
       
       <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v93-02/</guid>
       <description>1. 던전  금비늘호(항해 지도 던전)  일반 몬스터(바다늑대 졸개/싸움꾼/베테랑) HP가 하향 조정됩니다.   왜곡된 리안의 지하 전당  패턴에 피격 시 발생되는 체인 라이트닝이 1인에게만 적용됩니다. 휩쓸기 패턴으로 생성하는 구슬의 HP와 폭발 위력이 감소합니다. 전기 충전 스택이 이상상태 스택으로 표시됩니다. 던전 타임어택 시간이 30분으로 변경됩니다.   찬란한 파르퀴나의 둥지  던전 타임어택 시간이 30분으로 변경됩니다.   공허한 안타로스의 심연  안타로스의 일부 패턴 위력이 감소합니다. 가두기 패턴에서 안타로스에게 부여되는 보호막 HP가 감소합니다.</description>
+    </item>
+    
+    <item>
+      <title>2020 February suggestions review result | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/02/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/02/</guid>
+      <description>Suggestions applied   Suggestion to increase PvP / PvE reward (02/06, 02/27)
+  Suggestion to simplify gear acquisition (02/27)
+  Suggestion to be able to liberate Heroic Oath gear (02/27)
+  Suggestion to adjust class balance (02/27)
+  Suggestion to increase HP of bosses in Guardian Legion Mission (02/27)
+  K TERA exclusive PC Bang suggestion (02/27)
+  Suggestion to adjust Ghillieglade drop table (02/27)</description>
     </item>
     
     <item>
@@ -199,6 +252,20 @@
       
       <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v92-01/</guid>
       <description>1. PVP 컨텐츠 개선  전장 순위표 각 직업 전체 랭킹 1위에게 고유 보상이 추가됩니다. (2/7 수정)  포화의 전장 : 포화의 전장 시즌 1위 트로피 해안 점령지 : 해안 점령지 시즌 1위 트로피  고유 보상은 상점에 25만 골드로 판매하거나, 6개/10개를 모아 6관왕/10관왕 트로피로 교환할 수 있습니다. (2/7 수정)  6관왕/10관왕 트로피는 아이템 우클릭 시 열리는 전용 상점에서 구매가 가능합니다. (2/7 추가) 6관왕 트로피를 보유하고 있을 경우, 원하는 커스텀 칭호를 제작해 드립니다.</description>
+    </item>
+    
+    <item>
+      <title>2020 January suggestions review result | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/01/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/01/</guid>
+      <description>Suggestions applied   Suggestion to adjust class balance (01/16)
+  Suggestion to increase Adventure Coin limit (01/16)
+  Suggestion to adjust Guardian Legion point distribution per class (01/16)
+  Suggestion to enable storing Dragonscales (01/16)
+  Suggestion to enable race change from Castanic Valkyrie to Elin Valkyrie (01/09)
+  Suggestions in progress   Suggestion to change difficulty obtaining certain items and their components</description>
     </item>
     
     <item>

@@ -38,7 +38,7 @@ strong {
   font-weight: normal;
 }
 
-p, span, ul {
+p, span, ol, ul {
   font-size: 14px;
 }
 
@@ -54,6 +54,10 @@ a:hover {
 
 ul {
   list-style-type: circle;
+  padding-left: 30px;
+}
+
+ol {
   padding-left: 30px;
 }
 
