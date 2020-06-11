@@ -12,14 +12,14 @@
 #twitch-close {
   display: inline-block;
   padding: 0px 2px;
-  background: #36ACB6;
+  background: var(--main-color-dark);
   vertical-align: top;
   line-height: 30.5vh;
   cursor: pointer;
 }
 
 #twitch-close:hover {
-  background: #40CEDB;
+  background: var(--main-color);
   color: #FFF;
 }
 
