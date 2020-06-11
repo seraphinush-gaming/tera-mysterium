@@ -2,14 +2,13 @@ title = "mysterium"
 baseURL = "https://seraphinush-gaming.github.io/mysterium/"
 publishDir = "docs"
 languageCode = "en-us"
-theme = "hugo-mysterium-theme"
+theme = "hugo-mysterium"
 
 [params]
 description = "blog by seraphinush"
 dateFormat = "Monday, January 2, 2006"
 trackingId = "UA-66500356-2"
 adsenseId = "ca-pub-3598595244893452"
-twitchId = "seraphinush"
 
 [[params.nav]]
   title = "about"

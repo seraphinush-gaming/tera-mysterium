@@ -6,10 +6,28 @@
     <description>Recent content in patch notes on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.github.io/mysterium/categories/patch-notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020.06.11 patch notes (v96.02) | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v96-02/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v96-02/</guid>
+      <description>1. Inner Core Area  Changed Golden Caiman reward distribution  2. Guardian Legion Mission  Slightly decreased Guardian Legion point gain for Priest, Lancer Increased Guardian Legion point gain for Mystic  3. Other  Quest  Changed &amp;lsquo;Azart Disguise Kit&amp;rsquo; to no longer be able to discard Changed Murderwing and Mournwing near [Important] The Crash quest area to be prone (Added 6/11) Some of the Murderwing / Mournwing not in the quest path were not adjusted as appropriately, and will be fixed in the near future   Decreased damage from mosnters within Rogash&amp;rsquo;s Garden, Exodor Changed to display Commander&amp;rsquo;s Quarter (placeholder) entrance on world map and minimap Changed to teleport to Core Area, Exodor when using Commander&amp;rsquo;s Quarter (placeholder) Vanguard Request to teleport  Bug fixes  Fixed issue where using Ancient Accessory Morpher display failure animation Fixed issue where creating a new guild does not display effect Fixed issue in Corrupted Skynest (normal / hard) where Reaper&amp;rsquo;s Soul Reversal does not work on normal monsters Fixed issue in Inner Core Area (placeholder) where player dealing the last hit bonus also received additional parcel reward Fixed issue where Elin Valkyrie&amp;rsquo;s face and hair moved seperately when using second hit of Godsfall Fixed issue in Inner Core Area (placeholder) where Magnetic Shield (placeholder) tooltip description was awkwardly worded Fixed issue in Inner Core Area (placeholder) where standing at a particular place preventing player to be displayed on overlay map Fixed issue where reseting settings after resizing window size on windowed mode shifted buttons from working properly Fixed issue in Inner Core Area (placeholder) where no tooltip is displayed when using jump platform Fixed issue where no tooltip is displayed when hovering over Deliverable Items in Fish Crate Delivery Management Fixed issue where user&amp;rsquo;s mouse cursor moves off fullscreen window when using more than one monitor Fixed issue where [Crabs?</description>
+    </item>
+    
+    <item>
+      <title>2020년 06월 11일 업데이트 안내 (v96.02)</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v96-02/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v96-02/</guid>
+      <description>1. 코어 이면 지구  황금 시누스 보상 지급 방식이 변경됩니다.  2. 수호자 임무  사제, 창기사의 포인트 획득량이 소폭 감소합니다. 정령사의 포인트 획득량이 증가합니다.  3. 기타  퀘스트  [중요] 베르아크 성채 퀘스트 아이템인 &amp;lsquo;아르가프 변장도구&#39;가 버리기 불가로 변경됩니다. 에세니아 가드 [중요] 추락과 착지 사이 퀘스트 진행 지역 주변의 파르프, 파르폰이 비선공몬스터로 변경됩니다. (6/11 추가) 퀘스트 진행 경로 외에 파르프/파르폰은 비선공 몬스터로 변경되지 않은 문제가 확인되었으며, 이는 추후 수정될 예정입니다.</description>
+    </item>
     
     <item>
       <title>2020.06.04 patch notes (v96.01.01) | K TERA</title>
