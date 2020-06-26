@@ -6,10 +6,22 @@
     <description>Recent content in Posts on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.github.io/mysterium/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 June suggestions review result | K TERA</title>
+      <link>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/06/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.github.io/mysterium/posts/dev-notes/review/2020/06/</guid>
+      <description>Suggestions applied   Suggestion to add frame rate limit (06/04)
+ Added settings option to limit frame rate between 24 frames to 300 frames    Suggestion to adjust Guardian Legion Mission point gain (06/11)
+ Slightly decreased point gain on Priest / Lancer, increased point gain on Mystic    Suggestion to revise awkward quest progression (06/11)
+ Changed Murderwing and Mournwing near [Important] The Crash quest area to be prone, decreased damage from monsters within Rogash’s Garden, Exodor    Suggestions in progress   Suggestion to be add sale value to combat supplies</description>
+    </item>
     
     <item>
       <title>2020.06.25 patch notes (v96.02.01) | K TERA</title>
