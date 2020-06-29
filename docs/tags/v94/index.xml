@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v94 on mysterium</title>
-    <link>https://seraphinush-gaming.github.io/mysterium/tags/v94/</link>
+    <link>https://seraphinush-gaming.com/tags/v94/</link>
     <description>Recent content in v94 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v94/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.com/tags/v94/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020.04.09 patch notes (v94.02) | K TERA</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-02/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v94-02/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-02/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v94-02/</guid>
       <description>1. April combat balance  Berserker  Thunderstrike, Overcharge skill  Changed to increase skill damage based on maximum HP     Sorcerer  Changed to increase skill damage of various skills based on maximum MP    개발자 코멘트
  다양한 수단의 캐릭터 커스터마이징을 위해, 광전사의 HP 참조 계수와 마법사의 MP 참조 계수를 상향합니다. 이번 패치를 통해 물리/마법 증폭이나 힘 등의 직접적인 스탯만이 아닌 다양한 스탯들의 가치를 보장하여 더욱 다양한 종류의 옵션 설정과 플레이 스타일의 발판을 마련하고자 합니다.</description>
     </item>
     
     <item>
       <title>2020년 04월 09일 업데이트 안내 (v94.02)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v94-02/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v94-02/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v94-02/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v94-02/</guid>
       <description>1. 4월 전투 밸런스  광전사  혼신, 오버차지 스킬  최대 HP에 비례하여 스킬 위력이 증가합니다.     마법사  최대 MP에 비례하여 전반적인 스킬 위력이 증가합니다.    개발자 코멘트 다양한 수단의 캐릭터 커스터마이징을 위해, 광전사의 HP 참조 계수와 마법사의 MP 참조 계수를 상향합니다. 이번 패치를 통해 물리/마법 증폭이나 힘 등의 직접적인 스탯만이 아닌 다양한 스탯들의 가치를 보장하여 더욱 다양한 종류의 옵션 설정과 플레이 스타일의 발판을 마련하고자 합니다.</description>
     </item>
     
     <item>
       <title>2020.04.02 patch notes (v94.01.01) | K TERA</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-01-01/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v94-01-01/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-01-01/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v94-01-01/</guid>
       <description>Bug fixes  Fixed issue where summon Companion shortcut did not work with the Companion UI closed while one such Partner is on an Adventure Fixed issue where gathering level did not display properly on Paperdoll UI Fixed issue where clicking to receive Adventure reward while lagging distributed duplicate rewards Fixed issue where Gossamer Regent clone did not disappear  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020년 04월 02일 업데이트 안내 (v94.01.01)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v94-01-01/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v94-01-01/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v94-01-01/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v94-01-01/</guid>
       <description>[버그수정]  임의의 파트너가 모험 진행 중일 때, 서번트 목록창을 닫은 상태로는 서번트 소환 단축키가 작동하지 않는 문제 페이퍼돌의 채집레벨 UI(채집 종류)가 비정상적으로 출력되는 문제 렉이 발생했을 때, 파트너 모험 완료를 연타하면 보상이 중복되어 획득되는 문제 찬란한 파르퀴나의 둥지 2네임드와 전투 중, 분신이 사라지지 않는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020.03.26 patch notes (v94.01) | KTERA</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-01/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v94-01/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2020/v94-01/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v94-01/</guid>
       <description>1. Dungeon  Velik&amp;rsquo;s Sanctuary / Velik&amp;rsquo;s Hold  Increased drop amount of Exodor Scout gear enchanting materials   RK-9 Kennel / Red Refuge  Changed ilvl requirement for IMS and to display Vanguard Request (from ilvl 453 -&amp;gt; 452)   Sea of Honor  Removed &amp;lsquo;Metamorphic Emblem&amp;rsquo; from Dixie&amp;rsquo;s Treasure Chest    2. Item  Enchanting damage/reduction protection  Enchantment Strengthener/ can be acquired from Dimensional Mystery Merchant Segretto Mystery Merchant occasionally spawns unpon defeating the final bosses of high difficulty and above instances  Items from Mystery Merchant can be purchased with gold, listed items and price may vary every time it appears Mystery Merchant will despawn in 2 minutes Dungeon  Gossamer Vault (hard) Antaroth&amp;rsquo;s Abyss (hard) Akalath Quarantine Grotto of Lost Souls (hard) Bahaar&amp;rsquo;s Sanctum Forbidden Arena Corrupted Skynest Corrupted Skynest (hard)     Enchanting Strengthener (prevent damage) / Amplifier (prevent reduction) consists of 8 different varieties in total :  Item | Protection rate  [Superior] Segretto&amp;rsquo;s Strengthener, Superior Segretto&amp;rsquo;s Amplifier | 100% [Rare] Segretto&amp;rsquo;s Strengthener, Superior Segretto&amp;rsquo;s Amplifier | 80% [Uncommon] Segretto&amp;rsquo;s Strengthener, Superior Segretto&amp;rsquo;s Amplifier | 50% [Common] Segretto&amp;rsquo;s Strengthener, Superior Segretto&amp;rsquo;s Amplifier | 30%   Mystery Merchant occasionally sells &amp;lsquo;Design: Segretto&amp;rsquo;s Strengthener&amp;rsquo; &amp;lsquo;Design: Segretto&amp;rsquo;s Strengthener&amp;rsquo; can be used by Alchemy Artisans and above, and uses Dark Shard Feedstock as materials   Protection materials can be for Annihilation (Kaia&amp;rsquo;s Fury), Dark Light (Kaia&amp;rsquo;s Wisdom) gear  Protection materials can be applied during enchanting Protection materials cannot be used for Eternal Exodor/mythic gear, uncommon/rare Exodor/PvP gear   Number of protection materials varies depending on type of gear and enchantment tier, and protection materials are consumed regardless of success or fail status While enchanting, replacing or repairing gear deregisters protection materials   Changed descriptions for certain items  Added obtainable item list to [Random] Exodor Superior Box (Armor/Glove/Boot)    3.</description>
     </item>
     
     <item>
       <title>2020년 03월 26일 업데이트 안내 (v94.01)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v94-01/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v94-01/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2020/v94-01/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v94-01/</guid>
       <description>1. 던전  벨릭의 신전/벨리카 지하 관문  엑소도르 정찰대 장비 강화 재료 드랍량이 증가합니다.   RK-9 격납고/혁명단 은거지  던전 매칭 및 발키온 지령서 출력 조건이 변경됩니다. (장비레벨 453 -&amp;gt; 452)   금비늘호  딕시 핀쳐의 보물상자 보상 목록에서 &amp;lsquo;변화의 증거&#39;가 삭제됩니다.    2. 아이템  강화 손상/하락 보호권  차원의 비밀상인 세그레토에게 강화 손상/하락 보호권을 획득할 수 있습니다. 상급 이상 위상의 던전에서 마지막 네임드 처치 시, 확률적으로 비밀상인이 출현합니다.</description>
     </item>
     

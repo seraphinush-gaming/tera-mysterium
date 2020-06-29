@@ -1,5 +1,5 @@
 title = "mysterium"
-baseURL = "https://seraphinush-gaming.github.io/mysterium/"
+baseURL = "https://seraphinush-gaming.com"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-mysterium"
@@ -10,7 +10,7 @@ dateFormat = "Monday, January 2, 2006"
 trackingId = "UA-66500356-2"
 adsenseId = "ca-pub-3598595244893452"
 faviconUrl = "https://github.com/seraphinush-gaming/mysterium/blob/master/content/favicon.png?raw=true"
-donateUrl = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MPKFVY9JT7Z3A&source=url"
+donateUrl = "https://www.paypal.me/seraphinush"
 
 [[params.nav]]
   title = "about"

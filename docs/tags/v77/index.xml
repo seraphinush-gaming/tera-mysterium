@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v77 on mysterium</title>
-    <link>https://seraphinush-gaming.github.io/mysterium/tags/v77/</link>
+    <link>https://seraphinush-gaming.com/tags/v77/</link>
     <description>Recent content in v77 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.github.io/mysterium/tags/v77/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seraphinush-gaming.com/tags/v77/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018.09.20 patch notes | K TERA (v77.02)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v77-02/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2018/v77-02/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v77-02/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2018/v77-02/</guid>
       <description>1. Balance  Slayer  Added chains to use [Whirlwind], [Heart Thrust], and [Knockdown Strike] after Savage Strike Changed chance to proc Aggression talent level 1 to level 20 from [22-34%] to [22-60%]    Developer comment
  Archer  Find Weakness lv 3  Decreased attack damage increase of [Thunderbolt, Radiant Arrow, Penetrating Arrow] from 20% increase to 15% increase   Crackshot lv 2, 3  Decreased additional damage to monsters from 7% to 6%     Ninja  Boomerang Shuriken  Decreased skill damage by 15%   Changed power buff from Aggression talent level 1 to level 20 from [5-24] to [8.</description>
     </item>
     
     <item>
       <title>2018년 09월 20일 업데이트 안내 (v77.02)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v77-02/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2018/v77-02/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v77-02/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2018/v77-02/</guid>
       <description>1. 밸런스 (개발자 코멘트 추가)  무사  섬단 스킬 후에 [회전 베기], [급소 치기], [후려 치기]가 연계되도록 추가됩니다. 괴력 특성 1레벨부터 20레벨까지의 발동 확률이 [22~34%] 에서 [22~60%]로 변경됩니다.    [개발자 코멘트]
   무사의 경우 괴력 특성의 발동 확률이 낮아 관련 특성을 최대 단계로 올려도 효과를 제대로 받기 어려운 문제가 있었습니다. 따라서, 괴력 발동 확률을 상향 조정하여 특성 효과를 보다 잘 활용할 수 있도록 하였습니다. 또한, 섬단 스킬에 주요 시작스킬을 연계할 수 있도록 하여 상황에 맞춰 자유롭게 딜사이클을 운용할 수 있도록 개선하였습니다.</description>
     </item>
     
     <item>
       <title>2018.09.13 patch notes | K TERA (v77.01)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v77-01/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2018/v77-01/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/translations/2018/v77-01/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2018/v77-01/</guid>
       <description>1. Fishing  Fishing can be learned through quest  Quest can be found in Highwatch via NPC Jeremy Wayng Added Vanguard Request “Fshing is fun!” and the following is rewarded :  500 gold 50 Vanguard Initiative credit 500 Item XP 20 Fisherman&amp;rsquo;s Token 5 low-tier worm 1 Gathering supply box     The following can be given from the Gather supply box :  Produce Corn Carrot Orange Mushroom Old Pumpkin Apple Gem Uncut Cobala Gem Uncut Shadmetal Gem Uncut Xermetal Gem Uncut Normetal Gem Uncut &amp;lsquo;Galvorn&amp;rsquo; Gem Crystal Red Essential Energy Green Essential Energy Blue Essential Energy White Essential Energy Black Essential Energy     Fishing is done by using bait with fishing rod near fishing spots  Before attempting to fish, bait must be activated by using bait 1 Bait is consumed if there is a bite while fishing Fishing spots can be found via Worldmap UI  Murial Ruins fishing spot Cutthroat Harbor fishing spot Lake of Tears fishing spot Hungry Caverns fishing spot Lake of Frozen Tears fishing spot Seren&amp;rsquo;s Lake fishing spot   Fishing does not consume Production Point If there is no action for 3 minutes upon a bite, game will automatically switch automated mode and fish until all bait is used or inventory is full There are four (old, metal, ashwood, faewing) types of fishing rod, and all types excluding old fishing rod can be promoted to tier 8   42 different types of fish can be caught, and it can be either cooked or delivered  Fish are graded from tier 0 to tier 10 and by size, and large fish can only be caught manually Delivery  Fish can be delivered to an NPC located in cities and fishing spots Demand list changes every day at 6am Fish can only be delivered a limited amount of times, and resets at 6am      2.</description>
     </item>
     
     <item>
       <title>2018년 09월 13일 업데이트 안내 (v77.01)</title>
-      <link>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v77-01/</link>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2018/v77-01/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.github.io/mysterium/posts/patch-notes/raw/2018/v77-01/</guid>
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2018/v77-01/</guid>
       <description>1. 낚시  낚시 가이드 퀘스트 &amp;lsquo;낚시! 좋아하세요?&amp;rsquo; 가 추가됩니다.  65레벨 달성 후 이르카의 제레미 웨잉 NPC를 통해 퀘스트를 진행할 수 있습니다. 발키온 지령서 “낚시는 즐거워!” 가 추가되며, 지령서 완료 보상은 아래와 같습니다.  500골드 발키온 평판 포인트 50 특성 경험치 500 낚시꾼의 증표 20개 최하급 지렁이 5개 채집 재료 상자 1개       낚시터 물가에서 낚싯대와 미끼를 이용하여 낚시를 진행할 수 있습니다.  낚시대를 사용하기 전에, 미끼 아이템을 사용하여 미끼를 활성화시켜야 합니다.</description>
     </item>
     
