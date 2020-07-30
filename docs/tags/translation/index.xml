@@ -6,10 +6,19 @@
     <description>Recent content in translation on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020.07.30 patch notes (v98.01.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v98-01-01/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2020/v98-01-01/</guid>
+      <description>1. Other  Applied client revision to decrease game freezes Applied client revision to decrease UI loading delay  2. Velika : Civil Unrest  K TERA exclusive Velika : Civil Unrest reopen  K TERA exclusive comment on treasury balance to be divided by 15 appropriate disabling Velika: Civil Unrest for 15 weeks    Bug fixes  Fixed issue where client disconnects when instance matching for Commander&amp;rsquo;s Quarters (placeholder) completes Fixed issue where certain players cannot enter Velika : Civil Unrest even when conditions are satisfied   source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020.07.23 patch notes (v98.01) | K TERA</title>
