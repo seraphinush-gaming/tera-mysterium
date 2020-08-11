@@ -24,3 +24,6 @@ donateUrl = "https://www.paypal.me/seraphinush"
 [[params.nav]]
   title = "twitch"
   url = "https://www.twitch.tv/seraphinush"
+[[params.nav]]
+  title = "feedback"
+  url = "https://github.com/seraphinush-gaming/mysterium/issues"
