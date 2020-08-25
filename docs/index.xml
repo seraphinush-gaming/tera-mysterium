@@ -3861,5 +3861,14 @@ If you have any questions, my discord tag is seraphinush#5417, server discord.gg
       <description>1. Level progression reward UI revision  Revised to receive all accumulated rewards at once  Bug fixes  Skill  Fixed issue where Brawlers could endlessly maintain Rhymthmic Blows buff by repeating Punch, Counter, and Rhythmic Blows   Item  Fixed issue where passive effects on gear occasionally did not work     source : TERA 테라 | NEXON</description>
     </item>
     
+    <item>
+      <title>Companions</title>
+      <link>https://seraphinush-gaming.com/index/companions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/index/companions/</guid>
+      <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 and onward, Pets are accessed from Companion UI, with the addition of Partners. Pets that have special Pet Skills can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+    </item>
+    
   </channel>
 </rss>
