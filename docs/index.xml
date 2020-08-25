@@ -493,6 +493,15 @@
     </item>
     
     <item>
+      <title>Companions</title>
+      <link>https://seraphinush-gaming.com/index/companions/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/index/companions/</guid>
+      <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+    </item>
+    
+    <item>
       <title>2019.12.24 patch notes (v91.01.01) | K TERA</title>
       <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2019/v91-01-01/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
@@ -3859,15 +3868,6 @@ If you have any questions, my discord tag is seraphinush#5417, server discord.gg
       
       <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2018/v74-02-01/</guid>
       <description>1. Level progression reward UI revision  Revised to receive all accumulated rewards at once  Bug fixes  Skill  Fixed issue where Brawlers could endlessly maintain Rhymthmic Blows buff by repeating Punch, Counter, and Rhythmic Blows   Item  Fixed issue where passive effects on gear occasionally did not work     source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
-      <title>Companions</title>
-      <link>https://seraphinush-gaming.com/index/companions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/index/companions/</guid>
-      <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 and onward, Pets are accessed from Companion UI, with the addition of Partners. Pets that have special Pet Skills can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
     </item>
     
   </channel>
