@@ -6,10 +6,19 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 09월 03일 업데이트 안내 (v98.03.01)</title>
+      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v98-03-01/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2020/v98-03-01/</guid>
+      <description>버그수정  옵션 변환 스크롤[신발]을 허리띠에 사용할 수 있는 문제   source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020년 08월 27일 업데이트 안내 (v98.03)</title>
