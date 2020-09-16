@@ -428,26 +428,76 @@
   <url>
     <loc>https://seraphinush-gaming.com/tags/companion/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/companion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/companion/"
+                />
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/article/companions/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/article/companions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/article/companions/"
+                />
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/categories/index/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/categories/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/categories/index/"
+                />
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/tags/partner/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/partner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/partner/"
+                />
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/tags/pet/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/pet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/pet/"
+                />
   </url>
   
   <url>
