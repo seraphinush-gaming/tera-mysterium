@@ -6,10 +6,19 @@
     <description>Recent content in 2020 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 09월 17일 업데이트 안내 (v99.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2020/v99-01/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2020/v99-01/</guid>
+      <description>1. 신규 모드(TERA BATTLE ARENA)  TERA BATTLE ARENA(TBA) 모드가 추가됩니다.  서버 선택 후, 플레이 모드를 선택하여 입장할 수 있습니다.   18종의 테라 영웅을 선택하여 플레이 할 수 있으며, 3인 1팀으로 전장이 진행됩니다.  영웅 목록  브라가 길버트 그레이스 샤오룽 엘리온 쿠벨 시즈나 테오룽 시벨 에키오르 라펠레이트 아스티나 시오즈 에르한 딕시 핀쳐 우푸 프레이아 로헨 트로 무타르 리원 포아롱     TBA에 대한 자세한 내용은 GM노트를 통해 확인하실 수 있습니다.</description>
+    </item>
     
     <item>
       <title>2020년 09월 03일 업데이트 안내 (v98.03.01)</title>

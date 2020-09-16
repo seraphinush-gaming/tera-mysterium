@@ -6,10 +6,19 @@
     <description>Recent content in Categories on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>patch notes</title>
+      <link>https://seraphinush-gaming.com/categories/patch-notes/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/categories/patch-notes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dev notes</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/categories/dev-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>patch notes</title>
-      <link>https://seraphinush-gaming.com/categories/patch-notes/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/categories/patch-notes/</guid>
       <description></description>
     </item>
     
