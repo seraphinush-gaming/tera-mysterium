@@ -32,21 +32,21 @@ single = true
 특정 파트너들은 교감 스킬로 캐릭터의 **힘**을 상승시킵니다. 파트너 희귀성과 교감도의 따라 교감 스킬의 성능과 지속 시간이 달리집니다. 파트너중 **마리**, **쿤쿤**, **코코밍밍**, 그리고 **루미**가 교감 스킬로 **강인한 힘**을 소유하며, 사용시 캐릭터의 힘이 지정된 시간동안 증가합니다.
 
 고급, 희귀, 그리고 전설 파트너로 상승되는 힘과 지속 시간은 다음과 같습니다 :
-![](https://seraphinush-gaming.github.io/mysterium/images/article/companions_power_table.png)
+![](/images/article/companions_power_table.png)
 
 
 # 교감 스킬 : 증폭
 특정 파트너들은 교감 스킬로 캐릭터의 **증폭**을 상승시킵니다. 파트너 희귀성과 교감도의 따라 교감 스킬의 성능과 지속 시간이 달리집니다. 파트너중 **리코**와 **엘로**가 교감 스킬로 **거친 기운**과 **다채로운 에너지**를 소유하며, 각각 사용시 캐릭터의 물리 및 마법 증폭이 지정된 시간동안 증가합니다.
 
 고급, 희귀, 그리고 전설 파트너로 상승되는 물리 / 마법 증폭과 지속 시간은 다음과 같습니다 :
-![](https://seraphinush-gaming.github.io/mysterium/images/article/companions_amp_table.png)
+![](/images/article/companions_amp_table.png)
 
 # 재능 스킬
 재능 스킬과 설명은 다음과 같습니다 :
-![](https://seraphinush-gaming.github.io/mysterium/images/article/companions_gifted_skill_table.png)
+![](/images/article/companions_gifted_skill_table.png)
 
 파트너 별 획득 가능 재능 스킬은 다음과 같습니다 :
-![](https://seraphinush-gaming.github.io/mysterium/images/article/companions_partner_gifted_table.png)
+![](/images/article/companions_partner_gifted_table.png)
 
 A **재능 스킬 변경권** is needed in order to change a Partner's Gifted Skill. The said item can be purchased with **Mystery Merchant Coins** from wandering **Mystery Merchants** randomly appearing in Val Oriyn, Northern Arun.
 
