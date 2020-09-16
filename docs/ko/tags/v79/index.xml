@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v79 on mysterium</title>
+    <link>https://seraphinush-gaming.com/ko/tags/v79/</link>
+    <description>Recent content in v79 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/ko/tags/v79/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018년 12월 20일 업데이트 안내 (v79.05.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-05-02/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-05-02/</guid>
+      <description>1. 최대 레벨 확장  캐릭터 최대 레벨이 LV70까지 확장됩니다. 신규 미션 퀘스트 “악몽의 시작”이 추가됩니다.  각성을 완료해야 진행이 가능합니다.   58~65레벨의 필요 경험치가 조정됩니다. 58레벨 이상 몬스터, 퀘스트, 발키온 지령서 경험치 지급이 조정되었습니다. 신규: 스킬 연마 시스템  스킬 연마와 옵션 개방을 할 수 있게 됩니다.  스킬 연마  66/68/70레벨 도달 시 스킬 연마 할 수 있습니다. . 스킬 연마 단계를 승급시키기 위해서는 스킬 연마 스크롤 I,II,III과 골드가 필요합니다.</description>
+    </item>
+    
+    <item>
+      <title>2018년 12월 13일 업데이트 안내 (v79.05.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-05-01/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-05-01/</guid>
+      <description>1. 밸런스 (추가)  무사  파괴의 기백 사용 시, 일도양단의 재사용 대기시간이 0으로 변경됩니다.    2. 눈싸움 전장  해당 전장 이용 시 노병 크로아스 통일 장비가 적용됩니다. 라운드 시스템 메시지가 변경됩니다.  3. 기타  여행자의 책 장소저장 개수가 10개로 변경되었습니다.  [버그 수정]  인던 퇴장 후 녹테늄 강화탄 비활성화가 원활하지 못한 문제 월광무사 개전 스킬에 반월참 연계효과가 적용되지 않는 문제 비검사 어둠 강림 사용 중 비검 내려치기 기회의 문장 효과 적용 시 시스템 메시지에 스킬 이름이 출력되지 않는 문제 눈싸움 전장 승리 조건에 제한 시간 초과 시 남은 인원 수에 따른 승리 문구가 추가되지 않은 문제 무사 &amp;lsquo;후퇴 차기 – 전투 가속&amp;rsquo; 특성 툴팁에 발동 조건이 잘못 표기된 문제 비검사 &amp;lsquo;비검 휘두르기 – 전투 가속&amp;rsquo; 특성 툴팁에 발동 조건이 잘못 표기된 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2018년 12월 06일 업데이트 안내 (v79.05)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-05/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-05/</guid>
+      <description>1. 눈싸움 전장  중앙으로 점차 좁혀지는 눈보라 지역이 추가됩니다.  눈보라 지역에 있으면 초당 5,000의 데미지를 입습니다.   단판제로 변경 됩니다.  승리 조건 : 모든 적을 처치 시   발키온 지령서 보상이 추가됩니다.  긴급지령  눈싸움 전장에서 전투를!  골드 : 100 특성 경험치 : 1215 장비 숙련도 경험치 : 1650     선택지령  눈싸움 전장에서 전투를!  골드 : 100 특성 경험치 : 1215       승패 보상은 하기와 같습니다.</description>
+    </item>
+    
+    <item>
+      <title>2018년 11월 29일 업데이트 안내 (v79.03.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-03-01/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-03-01/</guid>
+      <description>UI   몬스터 체력바 분노 표시 개선  분노 시작 이후 남은 분노시간이 표시되도록 개선됩니다.    [버그 수정]  무사클래스 회전 베기를 일도양단으로 캔슬 시 스킬 레벨에 따라 캔슬 타이밍이 상이한 문제 월광무사 클래스의 회피 스킬로 축복 류 스킬을 피할 수 없는 문제 비검사 &amp;lsquo;반격&#39;스킬 툴팁에 &amp;lsquo;PVP에서 투사체 공격에 반격 불가&#39;에 대한 설명이 부족한 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2018년 11월 22일 업데이트 안내 (v79.03)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-03/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-03/</guid>
+      <description>밸런스   정령사  생명의 정령  시전자를 인지하는 속도 향상 개선  소환 직후, 시전자와 거리에 상관 없이 광역 정화와 회복 스킬을 사용하도록 변경됩니다. 소환 후 확정으로 광역 도트 힐/광역 정화 사용 시전 속도가 소폭 상향됩니다. 시전자와 멀어지면 다가가는 거리가 5 → 20M로 변경됩니다.        [개발자 코멘트]
+  소환 직후 시전자와 생명의 정령의 거리가 멀어질 경우, 스킬을 사용하지 않고 시전자만 따라다니던 문제를 수정하여 스킬의 활용성을 개선하였습니다.</description>
+    </item>
+    
+    <item>
+      <title>2018년 11월 15일 업데이트 안내 (v79.02.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-02-01/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-02-01/</guid>
+      <description>1. 던전  폭군 듀리온의 안식처  장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. 바라카니아 가드&amp;gt; 이르카 근교&amp;gt; 차원의 마법석을 통해 입장하실 수 있습니다. 시작의 가면, 최상위 장비 강화 재료, 투명 액세서리 등을 획득하실 수 있습니다. 해당 던전 길드 임무가 추가됩니다.   듀리온의 안식처  장비 레벨 439 달성 시 파티매칭을 통해 입장할 수 있습니다. 바라카니아 가드&amp;gt; 이르카 근교&amp;gt; 차원의 마법석을 통해 입장하실 수 있습니다. 상위 장비 강화 재료, 투명 액세서리 등을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2018년 11월 08일 업데이트 안내 (v79.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-02/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-02/</guid>
+      <description>1. 보상  공허한 안타로스의 심연 던전의 보상이 추가됩니다.  공허한 안타로스 처치 시 드랍되는 낡은 보급품 아이템 지급 개수가 소폭 증가합니다. 공허한 안타로스 드랍 보상에 용의 두개골 아이템이 추가됩니다.    [개발자 코멘트]
+  공허한 안타로스의 심연 보상효율이 다른 453던전에 비해 부족한 것으로 판단되어 보상을 추가하였습니다.
+  바하르의 신전 보상에 &amp;lsquo;초월의 가면&#39;이 제외되고, 신규 &amp;lsquo;바하르의 가면&amp;rsquo; 이 추가됩니다.
+ 바하르의 가면  고정 옵션 1개와 랜덤 옵션 3개(동일 옵션 중복 가능)를 가지는 가면으로 초월의 가면보다 상위 아이템 입니다.</description>
+    </item>
+    
+    <item>
+      <title>2018년 11월 01일 업데이트 안내 (v79.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-01/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2018/v79-01/</guid>
+      <description>밸런스   클래스 별 기본 맷집이 80으로 변경되며, 방어구의 방어 성능과 클래스별 보정치가 변경됩니다. 광전사  혼신의 일격  스킬 위력이 15% 증가합니다. PVP 스킬 위력이 30% 감소합니다. 자신의 체력이 낮을수록 증가하는 데미지 상승률이 감소합니다. Mp소모량이 0 -&amp;gt; 300으로 증가합니다.   모아 치기  포포리 종족의 타격 시점이 다른 종족과 유사한 수준으로 조정됩니다.   연속 공격  각 종족의 첫 타격 시점이 엘린 종족과 유사한 수준으로 조정됩니다.</description>
+    </item>
+    
+  </channel>
+</rss>

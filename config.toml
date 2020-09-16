@@ -3,6 +3,8 @@ baseURL = "https://seraphinush-gaming.com"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-mysterium"
+defaultContentLanguage = "en"
+pluralizelisttitles = false
 
 [params]
 description = "blog by seraphinush"
@@ -12,18 +14,37 @@ adsenseId = "ca-pub-3598595244893452"
 faviconUrl = "https://github.com/seraphinush-gaming/mysterium/blob/master/content/favicon.png?raw=true"
 donateUrl = "https://www.paypal.me/seraphinush"
 
-[[params.nav]]
+
+[Languages]
+[Languages.en]
+  weight = 0
+  [[Languages.en.params.nav]]
+    title = "about"
+    url = "/about"
+  [[Languages.en.params.nav]]
+    title = "lucidity"
+    url = "/lucidity"
+  [[Languages.en.params.nav]]
+    title = "youtube"
+    url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
+  [[Languages.en.params.nav]]
+    title = "twitch"
+    url = "https://www.twitch.tv/seraphinush"
+  [[Languages.en.params.nav]]
+    title = "feedback"
+    url = "https://github.com/seraphinush-gaming/mysterium/issues"
+
+[Languages.ko]
+  weight = 1
+  [[Languages.ko.params.nav]]
   title = "about"
-  url = "/about"
-[[params.nav]]
-  title = "lucidity"
-  url = "/lucidity"
-[[params.nav]]
-  title = "youtube"
-  url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
-[[params.nav]]
-  title = "twitch"
-  url = "https://www.twitch.tv/seraphinush"
-[[params.nav]]
-  title = "feedback"
-  url = "https://github.com/seraphinush-gaming/mysterium/issues"
+  url = "/ko/about"
+  [[Languages.ko.params.nav]]
+    title = "youtube"
+    url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
+  [[Languages.ko.params.nav]]
+    title = "twitch"
+    url = "https://www.twitch.tv/seraphinush"
+  [[Languages.ko.params.nav]]
+    title = "feedback"
+    url = "https://github.com/seraphinush-gaming/mysterium/issues"

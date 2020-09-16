@@ -6,63 +6,27 @@
     <description>Recent content in v59 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/tags/v59/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2017년 05월 18일 업데이트 안내 (v59.02.01)</title>
-      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-02-01/</link>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-02-01/</guid>
-      <description>1. 퀘스트  일반퀘스트 : 이케아의 쪽지  원활한 퀘스트 진행을 위해 아이템 다시 받기 기능을 추가하였습니다. 퀘스트 진행 구조를 아이템 사용 및 방문하는 방식으로 변경하였습니다. 해당 퀘스트는 칸스트리아의 헤카샤 NPC 를 통해 진행할 수 있습니다.   일반퀘스트 : 달무리 자온의 노트조각  원활한 퀘스트 진행을 위해 아이템 다시 받기 기능을 추가하였습니다. 해당 퀘스트는 연합군 지휘소의 달무리 자온 NPC 를 통해 진행할 수 있습니다.    2. 아이템  업적으로 획득할 수 있는 펫 스킬교본 속성 변경  아래 19종의 펫 스킬교본 속성이 창고보관 불가에서 가능으로 변경됩니다.</description>
-    </item>
-    
-    <item>
-      <title>2017년 05월 11일 업데이트 안내 (v59.02)</title>
-      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-02/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-02/</guid>
-      <description>1. 부가서비스  2017 웨딩 드레스 색상이 백색으로 변경됩니다.  어두운 장소에서도 순백의 웨딩 드레스가 잘 표현되도록 색상이 변경됩니다.    [버그수정]  스킬  아만 여자 궁수 클래스의 화살의 비 스킬 6~9 레벨 데미지가 동일한 문제   특성  인술사 정신집중 가속이 14단계에서 15단계로 올라갈 때 감소되는 시간이 줄어드는 문제   길드  길드 스킬을 활성화 한 후 숏컷에 등록 시 스킬이 사용불가로 보이는 문제   이벤트  PC방 보상 중 &amp;lsquo;월광 그림자 쌍검 (1일)&amp;rsquo; 아이템이 상점 판매 가능한 문제 테라코인 스페셜 탭에서 판매된 [이벤트] Fun 무기상자 구성품이 기간제인 문제   던전  데모로스의 룰렛 1네임드 이동경로 다리의 좌, 우 난간 위 허공으로 이동할 수 있는 문제     source : TERA 테라 | NEXON</description>
-    </item>
-    
-    <item>
       <title>2017.04.28 patch notes (v59.01.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2017/v59-01-01/</link>
+      <link>https://seraphinush-gaming.com/patch/translation/2017/v59-01-01/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2017/v59-01-01/</guid>
+      <guid>https://seraphinush-gaming.com/patch/translation/2017/v59-01-01/</guid>
       <description>Bug fixes  Quest  Fixed issue where multiple players could not progress with the starting quest for Demoros&amp;rsquo;s Roulette During Demoros&amp;rsquo; Roulette quests, qest to follow NPC Diana to the town of San Alema has been fixed for multiple players to complete simultaneously   Skill  Lancer  Fixed issue where crit chance correction on Shield Counter did not work   Archer  Fixed issue where stagger animation for Sequential Fire did not apply Fixed issue where chance to knockdown for Sequential Fire was too high   Warrior  Fixed issue where enhancement from Rain of Blows did not apply for certain races Fixed issue where Traverse Cut could not be chained for certain races Fixed issue where Attack Speed buff from Traverse Cut was applied to the target Fixed issue where Scythe III~IX did not take effect from Screen Shake Reduction option   Sorcerer  Fixed issue where Meteor Strike VIII~X did not take effect from Screen Shake Reduction option   Brawler  Fixed issue where damage for Ground Pounder XII was low     Other  Damage splash not displaying for certain classes will soon be fixed    Additional maintenance notes  Skill  Archer  Fixed issue where damage for Radiant Arrow XI was low (Female High Elf) Fixed issue where damage for Rain of Arrows X triggered Rain of Arrows VI (Female Amani)   Warrior  Fixed issue where damage for Traverse Cut X triggered Traverse Cut IX when chained (Baraka) Fixed issue where damage for Blade Draw VII did not take effect from Deadly Gamble (Female High Elf)   Priest  Fixed issue where damage for Zenobia&amp;rsquo;s Vortex II-X triggered Zenobia&amp;rsquo;s Vortex I (Male Castanic)   Mystic  Fixed issue where Contagion III-IX triggered Contagion I (Female Amani)   Slayer  Fixed issue where Measured Slice damage splash did not display (Female High Elf, Female Human)       source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2017년 04월 28일 업데이트 안내 (v59.01.01)</title>
-      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-01-01/</link>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-01-01/</guid>
-      <description>[버그수정]  퀘스트  데모로스의 룰렛 퀘스트의 호위 단계에서 다수의 플레이어가 동시 진행하지 못하는 문제  데모로스의 룰렛 미션 퀘스트 중 다이애나 NPC를 따라 산 알레마 마을에 진입하는 퀘스트를 여러 플레이어가 동시에 수행할 수 있도록 수정하였습니다.     스킬  창기사  반격 찌르기에 치명타 보정이 적용되지 않는 문제   궁수  연사 스킬의 경직 리액션이 적용되지 않는 문제 연사 스킬의 다운 유발이 높아졌던 문제   검투사  일부 종족의 몰아치기 스킬의 강화효과가 적용되지 않는 문제 무쌍난무: 찌르기 스킬의 연계가 일부 종족에게 적용되지 않는 문제 무쌍난무: 찌르기 스킬의 공격속도 상승 효과가 몬스터에게 적용되는 문제 질풍가르기 III~IX레벨 사용 시 카메라 흔들림 효과가 적용되지 않는 문제   마법사  운석낙하 VIII~X레벨 사용 시 카메라 흔들림 효과가 적용되지 않는 문제   권술사  연계로 지면강타 XII레벨 사용 시 비정상적으로 데미지가 약한 문제     전적 정보  28일 주기로 목요일 새벽4시에 전장 전적 정보가 초기화되지 않던 문제   이벤트  테라코인 스페셜 탭에 등록된 Fun 무기상자가 기간제인 문제  영구제 아이템으로 교체되며, 이미 기간제 아이템을 구매하신 수호자분들은 5월 11일 정기점검 시 영구제로 자동 교체됩니다.</description>
-    </item>
-    
-    <item>
       <title>2017.04.27 patch notes (v59.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/posts/patch-notes/translations/2017/v59-01/</link>
+      <link>https://seraphinush-gaming.com/patch/translation/2017/v59-01/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/posts/patch-notes/translations/2017/v59-01/</guid>
+      <guid>https://seraphinush-gaming.com/patch/translation/2017/v59-01/</guid>
       <description>1. Dungeon  Added new dungeon &amp;lsquo;Demoros&amp;rsquo; Roulette&amp;rsquo;  Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS Teleportal is located near Allementheia   Tier 2 Lakan accessories, Visionmaker material (VM8), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork/Extensive Alkahest, Goddess&amp;rsquo; Tear, Goldfinger Token, Gold Ticket, etc can be obtained. Removed Manglemire  2. Skill  Reaper  Soul Reversal  Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to     Mystic  Volley of Curses (Glyph of Enfeeblement)  Changed endurance debuff from 9% to 10%   Aura of the Merciless  Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
-    </item>
-    
-    <item>
-      <title>2017년 04월 27일 업데이트 안내 (v59.01)</title>
-      <link>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-01/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/posts/patch-notes/raw/2017/v59-01/</guid>
-      <description>1. 던전  신규 던전 데모로스의 룰렛이 추가 됩니다.  65레벨 5인 던전이며, 아이템 레벨 423 달성 시 서버간 파티매칭을 시도할 수 있습니다. 알레만시아 인근 &amp;lsquo;산 알레마 마을&#39;의 게이트를 통해 던전에 입장할 수 있습니다. 탐욕스러운 라칸의 액세서리, 철기장 재료(냉혈), 아티팩트 원석 VII, 11단계 강화 재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물, 오르피우스의 메달, 황금 티켓 등을 획득할 수 있습니다.   거짓말쟁이 타르스키의 놀이터 이용이 종료됩니다.  2. 스킬  비검사  위치교환  이동 위치에 공간이 없을 경우 몬스터와 이동할 공간 사이의 공간으로 이동하도록 변경됩니다.</description>
     </item>
     
   </channel>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v58 on mysterium</title>
+    <link>https://seraphinush-gaming.com/ko/tags/v58/</link>
+    <description>Recent content in v58 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/ko/tags/v58/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017년 04월 20일 업데이트 안내 (v58.02.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-02-01/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-02-01/</guid>
+      <description>null
+ source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2017년 04월 13일 업데이트 안내 (v58.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-02/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-02/</guid>
+      <description>1. 던전  오만한 아케론의 염옥  1/2/3/4 네임드의 HP가 대폭 하향됩니다. 2 네임드와 전투 중 소환되는 부하 몬스터의 HP가 대폭 하향됩니다.    [버그수정]  스킬  마법사 일부 스킬의 이어지는 스킬의 옵션 설정 후 스킬UI 재 오픈 시 설정된 사항이 유지되지 않는 문제 광전사의 소용돌이, 모아치기 스킬을 자동 사용할 때까지 오버차징 후 사용 시 파티원과 충돌하는 문제 광전사의 소용돌이 스킬 사용 중 늑골 부수기를 2타까지 사용 시 소용돌기 [가속] 특성이 해제되지 않는 문제   던전  함락된 벨릭의 신전 3네임드를 일부 파티원이 사망한 상황에서 처치 시 확정 보상이 확정 드랍되지 않는 문제   부가서비스  나이츠 세트 박스의 구성품 중 케스타닉 전용 아이템 이름이 캐스타닉으로 출력되는 문제   캐릭터  엘린 종족 11번 프리셋 헤어로 걷기, 이동 주문서 사용 시 머리카락이 떨어져 보이는 문제     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2017년 04월 06일 업데이트 안내 (v58.01.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-01-01/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-01-01/</guid>
+      <description>1. 길드전  리카노르 투기장 내에서 길드전 전투를 할 수 없도록 변경됩니다.  [버그수정]  몬스터  일부 몬스터가 사망할 때 본래 위치보다 뒤쪽으로 순간이동하며 사망하는 문제   UI  파티 후 아이템 획득 시 주사위 굴림 UI에서 장비의 랜덤 옵션이 항상 동일한 옵션으로 출력되는 문제 프리셋을 저장하고 캐릭터 선택화면/접속종료 후 재접속 시 저장해둔 프리셋이 사라지는 문제   부가서비스  비치웨어 다이아몬드 컬렉션에서 획득 가능한 유니크 화이트 니삭스 스쿨린에 이름 변경권 사용이 불가능한 문제     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2017년 03월 30일 업데이트 안내 (v58.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-01/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2017/v58-01/</guid>
+      <description>1. 던전  거짓말쟁이 타르스키의 놀이터가 재오픈 됩니다.  5인 파티 던전이며, 장비 레벨 423 도달 시 서버간 파티매칭을 시도할 수 있습니다. 입장용 차원의 마법석은 [포포리아 가드 &amp;gt; 포라 엘리누 &amp;gt; 마녀의 성]에 위치하고 있습니다. 명품관에서 거짓말쟁이 타르스키의 놀이터 이동주문서를 구입하실 수 있습니다. 탐욕스러운 라칸의 액세서리, 철기장 재료(냉혈), 아티팩트 원석 VII, 11단계 강화 재료, 완전한/진귀한 단련의 가루, 빛나는 여신의 눈물, 다이아몬드 등을 획득할 수 있습니다.    2. 스킬  무사  연속 공격(1타)  종족별 스킬의 타격 시점이 동일하게 변경됩니다.</description>
+    </item>
+    
+  </channel>
+</rss>
