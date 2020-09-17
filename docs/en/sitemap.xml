@@ -56,11 +56,6 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/patch/translation/2019/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seraphinush-gaming.com/tags/2020/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -76,7 +71,12 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/patch/translation/2019/v99-01/</loc>
+    <loc>https://seraphinush-gaming.com/patch/translation/2020/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/patch/translation/2020/v99-01/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -126,21 +126,6 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/tags/raw/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://seraphinush-gaming.com/ko/tags/raw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seraphinush-gaming.com/tags/raw/"
-                />
-  </url>
-  
-  <url>
     <loc>https://seraphinush-gaming.com/tags/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -156,8 +141,23 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/tags/v/</loc>
+    <loc>https://seraphinush-gaming.com/tags/translation/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/tags/v99/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/v99/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/v99/"
+                />
   </url>
   
   <url>
@@ -173,16 +173,6 @@
   <url>
     <loc>https://seraphinush-gaming.com/dev/review/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/tags/translation/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/patch/translation/2020/</loc>
-    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -543,6 +533,11 @@
                 hreflang="en"
                 href="https://seraphinush-gaming.com/tags/2019/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/patch/translation/2019/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
