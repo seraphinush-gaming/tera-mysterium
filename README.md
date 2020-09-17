@@ -19,7 +19,7 @@ IFTTT
 - Go to 'My Applets'
 - 'Create' If `RSS Feed` Then `Webhooks`
 - Choose RSS Feed type : New Feed Item
-- Set RSS Feed 'URL' as : `https://www.seraphinush-gaming.com/index.xml`
+- Set RSS Feed 'URL' as : `https://www.seraphinush-gaming.com/patch/translation/2020/index.xml`
 - Choose Webhooks type : Make a web request
 - Set Webhook 'URL' as : `<Webhook URL>`
 - Set 'Method' type as : POST
