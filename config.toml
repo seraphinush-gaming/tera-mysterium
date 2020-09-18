@@ -37,14 +37,14 @@ donateUrl = "https://www.paypal.me/seraphinush"
 [Languages.ko]
   weight = 1
   [[Languages.ko.params.nav]]
-  title = "about"
+  title = "소개"
   url = "/ko/about"
   [[Languages.ko.params.nav]]
-    title = "youtube"
+    title = "유투브"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.ko.params.nav]]
-    title = "twitch"
+    title = "트위치"
     url = "https://www.twitch.tv/seraphinush"
   [[Languages.ko.params.nav]]
-    title = "feedback"
+    title = "피드백"
     url = "https://github.com/seraphinush-gaming/mysterium/issues"
