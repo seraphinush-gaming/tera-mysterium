@@ -81,6 +81,24 @@ code {
   white-space: pre-wrap;
 }
 
+table {
+  margin-top: 14px;
+  margin-bottom: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+table, th, td {
+  border: 1px solid #CCC;
+}
+
+th, td {
+  padding: 4px;
+}
+
 #content-frame {
   margin-top: 80px;
   margin-left: auto;

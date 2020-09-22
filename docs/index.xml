@@ -37,7 +37,7 @@ If you have any questions, my discord tag is seraphinush#5417 and i&amp;rsquo;ll
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2020/v99-01/</guid>
-      <description>1. New game mode (TERA BATTLE ARENA)  Added new game mode TERA BATTLE ARENA (TBA)  Mode can be accessed after server selection screen   Game mode is a 3-Person team battleground, featuring 18 different heroes from TERA  Heroes  Braga Dougal Shaolung Elleon Kubel Shizune (placeholder) Theolong (placeholder) Ciebel Ryshan Astina Zolyn Erhan (placeholder) Ironfang Dixie Uwu Fraya Rohan Thor Mutarr Livia Paesyn     More information about TBA is noted in GM Note  2.</description>
+      <description>1. New game mode (TERA BATTLE ARENA) - postponed  Postponed to due a critical error that would take longer than the designated maintenance duration Added new game mode TERA BATTLE ARENA (TBA)  Mode can be accessed after server selection screen   Game mode is a 3-Person team battleground, featuring 18 different heroes from TERA  Heroes  Braga Dougal Shaolung Elleon Kubel Sina Flugorung Ciebel Ryshan Astina Zolyn Luhan Ironfang Dixie Uwu Fraya Rohan Titus Mutarr Livia Paesyn     More information about TBA is noted in GM Note  2.</description>
     </item>
     
     <item>
@@ -367,6 +367,16 @@ If you have any questions, my discord tag is seraphinush#5417 and i&amp;rsquo;ll
       
       <guid>https://seraphinush-gaming.com/article/companions/</guid>
       <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+    </item>
+    
+    <item>
+      <title>Mythic Gear</title>
+      <link>https://seraphinush-gaming.com/article/mythic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/article/mythic/</guid>
+      <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
+One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
     </item>
     
     <item>

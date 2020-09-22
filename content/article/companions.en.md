@@ -24,7 +24,12 @@ Fellowship is what determines how effective your Partner's **Bond Skill** is. By
 
 The obtained Fellowship for a Partner is of the following :
 
-![](/images/article/companions_fellowship_table.png)
+| Partner grade | Fellowship gained |
+| - | - |
+| 1 | 3-4 |
+| 2-4 | 3-5 |
+| 5-7 | 4-5 |
+| 8-10 | 4-6 |
 
 While heavily dependent on RNG, it is highly recommended to Promote a Partner sacrificing Grade 8 or higher Partners in order to maximize the potential Fellowship gain. The difference between using Grade 8-10 Partner is that there is a higher chance to increase Fellowship by 5 (and a lower chance to increase Fellowship by 4) the higher the Grade; The chance to increase Fellowship by 6 does not change.
 
@@ -53,7 +58,7 @@ Each Partner species is restricted to a set of Gifted Skills. The available Gift
 
 ![](/images/article/companions_partner_gifted_table.png)
 
-A **Gifted Skill Change Voucher** is needed in order to change a Partner's Gifted Skill. The said item can be purchased with **Mystery Merchant Coins** from wandering **Mystery Merchants** randomly appearing in Val Oriyn, Northern Arun.
+A **Gifted Skill Change Voucher** is needed in order to change a Partner's Gifted Skill. The said item can be purchased with **Mystery Market Coins** from wandering **Mystery Merchants** randomly appearing in Val Oriyn, Northern Arun.
 
 # Partner : RK-9
-RK-9 Partner is a special, limited-edition Partner released specifically for Rampaging RK-9 Kennel. 
+RK-9 Partner is a special, limited-edition Partner released specifically for Rampaging RK-9 Kennel. soontm

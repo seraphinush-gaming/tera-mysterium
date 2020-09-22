@@ -24,7 +24,12 @@ single = true
 
 파트너 등급의 따라 추가되는 교감도는 다음과 같습니다 :
 
-![](/images/article/companions_fellowship_table.png)
+| 파트너 등급 | 교감도 수치 |
+| - | - |
+| 1 | 3-4 |
+| 2-4 | 3-5 |
+| 5-7 | 4-5 |
+| 8-10 | 4-6 |
 
 추가되는 교감도는 랜덤이지만, 최대한 높은 수치의 교감도가 추가되게 8 등급 이상의 파트너를 소모해서 승급하는걸 추천합니다. 8-10 등급의 소모되는 파트너의 차이는 등급이 높을수록 추가되는 교감도 수치가 5가 될 확률이 높습니다 (반대로 수치가 4가 될 확률이 낮습니다); 수치가 6이 될 확률은 바뀌지 않습니다.
 
@@ -54,7 +59,7 @@ single = true
 
 ![](/images/article/companions_partner_gifted_table.png)
 
-A **재능 스킬 변경권** is needed in order to change a Partner's Gifted Skill. The said item can be purchased with **Mystery Merchant Coins** from wandering **Mystery Merchants** randomly appearing in Val Oriyn, Northern Arun.
+파트너의 재능 스킬을 바꾸기 위해 **재능 스킬 변경권**이 필요합니다. 이 아이템은 북부 아룬의 출몰하는 **유랑 상인**한테 **바라카니아 경제인 연합 금화**로 구매할 수 있습니다.
 
-# Partner : RK-9
-RK-9 Partner is a special, limited-edition Partner released specifically for Rampaging RK-9 Kennel. 
+# 파트너 : RK-9
+RK-9 Partner is a special, limited-edition Partner released specifically for Rampaging RK-9 Kennel. soontm
