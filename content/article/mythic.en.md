@@ -1,7 +1,7 @@
 +++
 date = "2020-01-01"
 title = "Mythic Gear"
-categories = ["index"]
+categories = ["article"]
 tags = ["mythic", "gear", "kaia"]
 single = true
 +++
@@ -29,4 +29,6 @@ Mythic weapons have special Mythic skills depending on its class and class type 
 # Upgrade cost
 
 ![](/images/article/mythic_table.png)
+
+----
 

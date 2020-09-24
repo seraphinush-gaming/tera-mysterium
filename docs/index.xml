@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,15 @@ Lucidity thrived ever since pre-65 days, when Archetype aka.</description>
       <guid>https://seraphinush-gaming.com/about/</guid>
       <description>Hi, my name is seraphinush aka. seraph and i translate K TERA patch notes and more. aside from that i&amp;rsquo;m just your average TERA player with subpar DPS playing my main Archer on Velika, NA TERA and Glory of Arun, K TERA.
 If you have any questions, my discord tag is seraphinush#5417 and i&amp;rsquo;ll be happy to answer any question to the best of my knowledge.</description>
+    </item>
+    
+    <item>
+      <title>2020.09.24 patch notes (v99.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/patch/translation/2020/v99-02/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/patch/translation/2020/v99-02/</guid>
+      <description>1. September class balance  Ninja  Focus  Changed stack increase from 1% 10 times to 2% 5 times     Brawler  Provoke  Decreased cooldown from 15 seconds to 10 seconds   Ground Pounder  Added maximum aggro effect for 5 seconds on the last hit      2. Dungeon  (Added) Extended Rampaging RK-9 Kennel to 10/15 maintenance (Added) Dungeon exclusive rewards for Rampaging RK-9 Kennel, Forbidden Arena [Hagufna] remains until 10/15 maintenance Revised difficulty of Draakon Arena (1-Person)  Decreased HP by 10% Added effect to decrease cooldown by 20% and increase damage by 30% for Lancer, Priest, Mystic   Training Ground  Changed to reset cooldown upon breaking Reset Crystal Crit Power-related passive effects and item cooldown does not reset   Re-changed gold reward from dungeon-specific Vanguard Request to pre-9/17 update  ilvl 453 and below dungeon - no change ilvl 457 dungeon - 1500 -&amp;gt; 2000 ilvl 463 dungeon - 2500 -&amp;gt; 4500 ilvl 473 and above dungeon - 3000 -&amp;gt; 6000   Changed ilvl 473 dungeon drop reward :     Item Changes     Option Boost Scroll [Gear] Added drop   Option Change Scroll [Weapon, Armor, Handwear, Footwear] Added   Cunning / Steadfast Dark Shard Essence (placeholder) Added   Dark Shard Weapon Feedstock Box x5 Added   Dark Shard Armor Feedstock Box x5 Added   Holy Zenobia&amp;rsquo;s Breeze Crate Increased chance     Changed ilvl 484 dungeon drop reward :     Item Changes     Option Change Scroll [Weapon, Armor, Handwear, Footwear] Added   Cunning / Steadfast Dark Shard Essence (placeholder) Added   Dark Shard Weapon Feedstock Box x5 Added   Dark Shard Armor Feedstock Box x5 Added   Highest Difficulty Instance Entry Scroll (tradeable) (placeholder) Added   Superior Halidom / Relic Added drop   Option Boost Scroll [Gear] Increased chance and added drop   Greedhead Option Change Scroll [Weapon, Armor, Handwear, Footwear] Increased chance   Holy Zenobia&amp;rsquo;s Breeze Crate Increased chance    3.</description>
     </item>
     
     <item>
@@ -377,6 +386,15 @@ If you have any questions, my discord tag is seraphinush#5417 and i&amp;rsquo;ll
       <guid>https://seraphinush-gaming.com/article/mythic/</guid>
       <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
 One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
+    </item>
+    
+    <item>
+      <title>Mythic Gear</title>
+      <link>https://seraphinush-gaming.com/article/theorycrafting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/article/theorycrafting/</guid>
+      <description>Class base stats    Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
     </item>
     
     <item>

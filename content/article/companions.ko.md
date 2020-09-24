@@ -1,7 +1,7 @@
 +++
 date = "2020-01-01"
 title = "서번트"
-categories = ["index"]
+categories = ["article"]
 tags = ["companion", "partner", "pet"]
 single = true
 +++
@@ -63,3 +63,11 @@ single = true
 
 # 파트너 : RK-9
 RK-9 Partner is a special, limited-edition Partner released specifically for Rampaging RK-9 Kennel. soontm
+
+----
+
+출처 :
+```
+- 'Introduction to Companions', En Masse Support
+https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions
+```
