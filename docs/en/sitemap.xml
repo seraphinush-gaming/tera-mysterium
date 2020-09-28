@@ -146,18 +146,8 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/tags/v/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/patch/translation/2020/v99-02/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seraphinush-gaming.com/tags/v99/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -168,6 +158,11 @@
                 hreflang="en"
                 href="https://seraphinush-gaming.com/tags/v99/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/patch/translation/2020/v99-02/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -531,11 +526,6 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/article/theorycrafting/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seraphinush-gaming.com/tags/partner/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -563,6 +553,11 @@
                 hreflang="en"
                 href="https://seraphinush-gaming.com/tags/pet/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/article/theorycrafting/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

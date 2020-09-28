@@ -1,6 +1,6 @@
 +++
 date = "2020-01-01"
-title = "Mythic Gear"
+title = "Theorycrafting"
 categories = ["article"]
 tags = ["theorycrafting", "data"]
 single = true
@@ -9,7 +9,7 @@ single = true
 # Class base stats
 
 | Class | Base Power | Base Attack | Base Crit Factor | Base Attack Speed | Damage Modifier |
-| - | - | - | - | - | - |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Archer | 72 | 5 | 60 | 120 | 1 |
 | Berserker | 75 | 5 | 58 | 90 | 1 |
 | Brawler | 60 | 4 | 50 | 90 | 0.85 ? |

@@ -25,7 +25,7 @@ Fellowship is what determines how effective your Partner's **Bond Skill** is. By
 The obtained Fellowship for a Partner is of the following :
 
 | Partner grade | Fellowship gained |
-| - | - |
+| :-: | :-: |
 | 1 | 3-4 |
 | 2-4 | 3-5 |
 | 5-7 | 4-5 |

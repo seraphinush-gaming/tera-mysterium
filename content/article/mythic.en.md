@@ -19,7 +19,7 @@ In place of Azart Mark, Mythic gear has **Kaia's Judgement** which decreases Cri
 Mythic weapons have special Mythic skills depending on its class and class type :
 
 | Weapon type | Mythic skill | Description |
-| - | - | - |
+| :-: | :-: | - |
 | Lance | Kaia's Will | Increases damage to enraged monsters by 5% and aggro by 50%. |
 | Powerfist | Kaia's Will | Increases damage to enraged monsters by 5% and aggro by 50%. Aggro does not increase while Growing Fury (Anomalous) is active |
 | Axe | Kaia's Defiance | Increases damage by 5% while HP is 80% or above. This effect only applies against monsters. This effect applies regardless of HP if Unleash is active. |
