@@ -6,10 +6,19 @@
     <description>Recent content in v99 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/tags/v99/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 10월 08일 업데이트 안내 (v99.02.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2020/v99-02-02/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2020/v99-02-02/</guid>
+      <description>버그수정  TBA모드 아스티나 영웅의 얼음 폭풍 스킬 쿨타임이 비정상적인 문제 던전과 전장 UI 스크롤바가 간헐적으로 자동 이동되는 문제 티라노 탈 것 스킬 사용 후, 재접속/채널 변경 시 영물 스킬 쿨타임이 초기화되는 문제 TBA 전장 서버 크래시 문제 수정   source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020년 09월 25일 업데이트 안내 (v99.02.01)</title>
