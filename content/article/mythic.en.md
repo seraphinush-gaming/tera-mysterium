@@ -32,3 +32,8 @@ Mythic weapons have special Mythic skills depending on its class and class type 
 
 ----
 
+Source and credit :
+```
+- 2019.12.19 patch notes (v91.01) | K TERA
+/patch/translation/2019/v91-01/
+```

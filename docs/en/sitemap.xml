@@ -76,6 +76,11 @@
   </url>
   
   <url>
+    <loc>https://seraphinush-gaming.com/dev/review/2020/09/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seraphinush-gaming.com/patch/translation/2020/v99-02-02/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
@@ -93,6 +98,11 @@
                 hreflang="en"
                 href="https://seraphinush-gaming.com/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/categories/dev-notes/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,6 +133,11 @@
                 hreflang="en"
                 href="https://seraphinush-gaming.com/categories/patch-notes/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/dev/review/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -182,16 +197,6 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/dev/review/2020/08/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/categories/dev-notes/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/dev/review/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   

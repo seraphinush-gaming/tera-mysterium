@@ -65,7 +65,7 @@ RK-9 Partner is a special, limited-edition Partner released specifically for Ram
 
 ----
 
-Credit :
+Source and credit :
 ```
 - 'Introduction to Companions', En Masse Support
 https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions
