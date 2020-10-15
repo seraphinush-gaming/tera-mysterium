@@ -6,10 +6,19 @@
     <description>Recent content in 2020 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/patch/raw/2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 10월 15일 업데이트 안내 (v100.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2020/v100-01/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2020/v100-01/</guid>
+      <description>1. TBA 모드  신규 영웅 3종이추가됩니다. (10/15 내용 추가)   영웅 별 [기상공격] 스킬이 추가됩니다. (10/15 내용추가)  다운되거나 공중에 뜬 상태에서 사용할 수 있습니다.   랭크 게임이 추가됩니다. (10/14 수정) 프리 시즌에는 랭크 게임 이용이 가능하지 않으며, 이용 가능 시점은 추후 다시 안내드리겠습니다.  매칭 시작 전, 일반/랭크게임을 선택할 수 있습니다.   유저 정보, 우편기능이 추가됩니다.   유저 정보에서는 계정 정보(개요), 대전 기록, 랭크, 업적등을 확인할 수 있습니다.</description>
+    </item>
     
     <item>
       <title>2020년 10월 08일 업데이트 안내 (v99.02.02)</title>
