@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -55,7 +60,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -64,30 +74,29 @@
     
 
 
+
 <div class="article-list">
   <div class="article-info">
-    <h1><a href="https://seraphinush-gaming.com/categories/patch-notes/">patch notes</a></h1>
+    <h3><a href="https://seraphinush-gaming.com/categories/patch-notes/">patch notes</a></h1>
   </div>
 </div>
 
 <div class="article-list">
   <div class="article-info">
-    <h1><a href="https://seraphinush-gaming.com/categories/dev-notes/">dev notes</a></h1>
+    <h3><a href="https://seraphinush-gaming.com/categories/dev-notes/">dev notes</a></h1>
   </div>
 </div>
 
 <div class="article-list">
   <div class="article-info">
-    <h1><a href="https://seraphinush-gaming.com/categories/article/">article</a></h1>
+    <h3><a href="https://seraphinush-gaming.com/categories/article/">article</a></h1>
   </div>
 </div>
 
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -55,7 +60,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -66,17 +76,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/patch/translation/2018/v75-02/">2018.07.19 patch notes | K TERA (v75.02)</a></h3>
   </div>
@@ -104,17 +103,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/patch/translation/2018/v75-01-01/">2018.07.13 patch notes | K TERA (v75.01.01)</a></h3>
   </div>
@@ -142,17 +130,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/patch/translation/2018/v75-01/">2018.07.12 patch notes | K TERA (v75.01)</a></h3>
   </div>
@@ -181,9 +158,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

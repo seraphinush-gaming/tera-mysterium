@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -55,7 +60,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -68,7 +78,66 @@
     <h1><a href="https://seraphinush-gaming.com/article/fishing/">Fishing</a></h1>
     <p> Jan 1, 2020 </p>
     <hr />
-    <h1 id="muricai-fishery">Muricai Fishery</h1>
+    <h1 id="angler-token">Angler Token</h1>
+<table>
+<thead>
+<tr>
+<th align="center">Grade</th>
+<th align="center">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">12</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">15</td>
+</tr>
+<tr>
+<td align="center">BAF</td>
+<td align="center">30</td>
+</tr>
+</tbody>
+</table>
+<h1 id="muricai-fishery">Muricai Fishery</h1>
 <table>
 <thead>
 <tr>
@@ -924,9 +993,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

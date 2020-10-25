@@ -6,6 +6,22 @@ tags = ["fishing"]
 single = true
 +++
 
+# Angler Token
+| Grade | Amount |
+| :-: | :-: |
+| 0 | 1 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 2 |
+| 4 | 2 |
+| 5 | 4 |
+| 6 | 6 |
+| 7 | 8 |
+| 8 | 10|
+| 9 | 12 |
+| 10 | 15 |
+| BAF | 30 |
+
 # Muricai Fishery
 | Grade | Fish |
 | :-: | :-: |

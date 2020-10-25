@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -53,7 +58,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -66,7 +76,8 @@
     <h1><a href="https://seraphinush-gaming.com/ko/about/">소개</a></h1>
     <p> Jan 9, 2014 </p>
     <hr />
-    <p>안녕하세요, 재능기부로 패치노트 번역하는 잡영어 유저 세라프입니다. 현재 테라 북미서버에서 활동중이고 가끔 한국서버도 만나보실 수 있겠습니다. 잘 부탁드리겠습니다.</p>
+    <p>안녕하세요, 재능기부로 패치노트 번역하는 잡영어 유저 세라프입니다. 현재 테라 북미서버에서 활동중이고 가끔 한국서버에서도 만나보실 수 있겠습니다. 잘 부탁드리겠습니다.</p>
+<p>배경 사진은 제가 직접 찍은 인게임 스크린샷입니다. 사용하실 시 출처만 부탁드리겠습니다.</p>
 <p>질문 있으시면 제 디스코드 <a href="https://discord.gg/A64RcA5"><strong>seraphinush#5417</strong></a> DM으로 연락주시면 최대한 빠르게 답변해드리겠습니다.</p>
 
   </div>
@@ -74,9 +85,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

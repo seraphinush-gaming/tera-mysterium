@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -53,7 +58,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -64,17 +74,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v67-01-02/">2017년 12월 28일 업데이트 안내 (v67.01.02)</a></h3>
   </div>
@@ -102,17 +101,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v67-01-01/">2017년 12월 22일 업데이트 안내 (v67.01.01)</a></h3>
   </div>
@@ -140,17 +128,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v67-01/">2017년 12월 21일 업데이트 안내 (v67.01)</a></h3>
   </div>
@@ -178,17 +155,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v66-02-01/">2017년 12월 14일 업데이트 안내 (v66.02.01)</a></h3>
   </div>
@@ -216,17 +182,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v66-02/">2017년 12월 07일 업데이트 안내 (v66.02)</a></h3>
   </div>
@@ -254,17 +209,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v66-01-01/">2017년 11월 30일 업데이트 안내 (v66.01.01)</a></h3>
   </div>
@@ -292,17 +236,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v66-01/">2017년 11월 23일 업데이트 안내 (v66.01)</a></h3>
   </div>
@@ -330,17 +263,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v65-02-01/">2017년 11월 16일 업데이트 안내 (v65.02.01)</a></h3>
   </div>
@@ -368,17 +290,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v65-02/">2017년 11월 09일 업데이트 안내 (v65.02)</a></h3>
   </div>
@@ -406,17 +317,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v65-01-01/">2017년 11월 02일 업데이트 안내 (v65.01.01)</a></h3>
   </div>
@@ -444,17 +344,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v65-01/">2017년 10월 26일 업데이트 안내 (v65.01)</a></h3>
   </div>
@@ -482,17 +371,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v64-02-01/">2017년 10월 20일 업데이트 안내 (v64.02.01)</a></h3>
   </div>
@@ -520,17 +398,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v64-02/">2017년 10월 19일 업데이트 안내 (v64.02)</a></h3>
   </div>
@@ -558,17 +425,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v64-01-01/">2017년 10월 12일 업데이트 안내 (v64.01.01)</a></h3>
   </div>
@@ -596,17 +452,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v64-01/">2017년 09월 28일 업데이트 안내 (v64.01)</a></h3>
   </div>
@@ -634,17 +479,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v63-02/">2017년 09월 21일 업데이트 안내 (v63.02)</a></h3>
   </div>
@@ -672,17 +506,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v63-01-01/">2017년 09월 14일 업데이트 안내 (v63.01.01)</a></h3>
   </div>
@@ -710,17 +533,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v63-01/">2017년 09월 07일 업데이트 안내 (v63.01)</a></h3>
   </div>
@@ -748,17 +560,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v62-02-01/">2017년 08월 31일 업데이트 안내 (v62.02.01)</a></h3>
   </div>
@@ -786,17 +587,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v62-02/">2017년 08월 24일 업데이트 안내 (v62.02)</a></h3>
   </div>
@@ -824,17 +614,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v62-01-02/">2017년 08월 17일 업데이트 안내 (v62.01.02)</a></h3>
   </div>
@@ -862,17 +641,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v62-01-01/">2017년 08월 11일 업데이트 안내 (V62.01.01)</a></h3>
   </div>
@@ -900,17 +668,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v62-01/">2017년 08월 10일 업데이트 안내 (v62.01)</a></h3>
   </div>
@@ -938,17 +695,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v61-02-01/">2017년 08월 03일 업데이트 안내 (v61.02.01)</a></h3>
   </div>
@@ -976,17 +722,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v61-02/">2017년 07월 27일 업데이트 안내 (v61.02)</a></h3>
   </div>
@@ -1014,17 +749,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v61-01-02/">2017년 07월 20일 업데이트 안내 (v61.01.02)</a></h3>
   </div>
@@ -1052,17 +776,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v61-01-01/">2017년 07월 14일 업데이트 안내 (v61.01.01)</a></h3>
   </div>
@@ -1090,17 +803,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v61-01/">2017년 07월 13일 업데이트 안내 (v61.01)</a></h3>
   </div>
@@ -1128,17 +830,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-04/">2017년 07월 06일 업데이트 안내 (v60.04)</a></h3>
   </div>
@@ -1166,17 +857,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-03-01/">2017년 06월 29일 업데이트 안내 (v60.03.01)</a></h3>
   </div>
@@ -1204,17 +884,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-03/">2017년 06월 22일 업데이트 안내 (v60.03)</a></h3>
   </div>
@@ -1242,17 +911,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-02-01/">2017년 06월 15일 업데이트 안내 (v60.02.01)</a></h3>
   </div>
@@ -1280,17 +938,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-02/">2017년 06월 08일 업데이트 안내 (v60.02)</a></h3>
   </div>
@@ -1318,17 +965,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-01-01/">2017년 06월 01일 업데이트 안내 (v60.01.01)</a></h3>
   </div>
@@ -1356,17 +992,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v60-01/">2017년 05월 25일 업데이트 안내 (v60.01)</a></h3>
   </div>
@@ -1394,17 +1019,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v59-02-01/">2017년 05월 18일 업데이트 안내 (v59.02.01)</a></h3>
   </div>
@@ -1432,17 +1046,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v59-02/">2017년 05월 11일 업데이트 안내 (v59.02)</a></h3>
   </div>
@@ -1470,17 +1073,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v59-01-01/">2017년 04월 28일 업데이트 안내 (v59.01.01)</a></h3>
   </div>
@@ -1508,17 +1100,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v59-01/">2017년 04월 27일 업데이트 안내 (v59.01)</a></h3>
   </div>
@@ -1546,17 +1127,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v58-02-01/">2017년 04월 20일 업데이트 안내 (v58.02.01)</a></h3>
   </div>
@@ -1584,17 +1154,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v58-02/">2017년 04월 13일 업데이트 안내 (v58.02)</a></h3>
   </div>
@@ -1622,17 +1181,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v58-01-01/">2017년 04월 06일 업데이트 안내 (v58.01.01)</a></h3>
   </div>
@@ -1660,17 +1208,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v58-01/">2017년 03월 30일 업데이트 안내 (v58.01)</a></h3>
   </div>
@@ -1698,17 +1235,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v57-02-01/">2017년 03월 23일 업데이트 안내 (v57.02.01)</a></h3>
   </div>
@@ -1736,17 +1262,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v57-02/">2017년 03월 16일 업데이트 안내 (v57.02)</a></h3>
   </div>
@@ -1774,17 +1289,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v57-01-02/">2017년 03월 08일 업데이트 안내 (v57.01.02)</a></h3>
   </div>
@@ -1812,17 +1316,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v57-01-01/">2017년 03월 03일 업데이트 안내 (v57.01.01)</a></h3>
   </div>
@@ -1850,17 +1343,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v57-01/">2017년 03월 02일 업데이트 안내 (v57.01)</a></h3>
   </div>
@@ -1888,17 +1370,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v56-02/">2017년 02월 23일 업데이트 안내 (v56.02)</a></h3>
   </div>
@@ -1926,17 +1397,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v56-01-01/">2017년 02월 16일 업데이트 안내 (v56.01.01)</a></h3>
   </div>
@@ -1964,17 +1424,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v56-01/">2017년 02월 09일 업데이트 안내 (v56.01)</a></h3>
   </div>
@@ -2002,17 +1451,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v55-02-01/">2017년 02월 02일 업데이트 안내 (v55.02.01)</a></h3>
   </div>
@@ -2040,17 +1478,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v55-02/">2017년 01월 25일 업데이트 안내 (v55.02)</a></h3>
   </div>
@@ -2078,17 +1505,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v55-01-01/">2017년 01월 19일 업데이트 안내 (v55.01.01)</a></h3>
   </div>
@@ -2116,17 +1532,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v55-01/">2017년 01월 12일 업데이트 안내 (v55.01)</a></h3>
   </div>
@@ -2154,17 +1559,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2017/v54-01-02/">2017년 01월 05일 업데이트 안내 (v54.01.02)</a></h3>
   </div>
@@ -2193,9 +1587,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

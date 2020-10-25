@@ -1,40 +1,43 @@
-/* header */
-
 #header {
+  display: flex;
+  position: fixed;
   width: 100%;
   min-height: 50px;
-  margin: 0 0;
-  padding: 0 0;
   background: #3C3C3C;
-  
-  position: fixed;
   top: 0px;
   z-index: 10;
 }
 
 /* left container */
+
 #header-left-container {
-  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 #header-title {
-  padding-left: 20px;
-  font-size: 20px;
-  vertical-align: -13px;
+  font-size: 1.5rem;
+  line-height: 50px;
 }
 
 #header-desc {
-  padding-left: 20px;
+  display: none;
+  margin-left: 2rem;
   font-weight: 100;
-  font-size: 20px;
-  vertical-align: -13px;
+  font-size: 1.5rem;
+  line-height: 50px;
   cursor: default;
 }
 
 /* right container */
+
 #header-right-container {
-  float: right;
-  margin-right: 20px;
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
 }
 
 div.nav-item {
@@ -42,7 +45,6 @@ div.nav-item {
   vertical-align: top;
   padding: 0 10px;
   margin-right: -4px;
-
   color: #CCC;
   text-align: center;
   line-height: 50px;
@@ -51,4 +53,54 @@ div.nav-item {
 
 div.nav-item:hover {
   background: #555;
+}
+
+@media screen and (min-width: 320px) {
+  #header-desc {
+    display: inline-block;
+  }
+}
+
+
+@media screen and (min-width: 720px) {
+  :root {
+    --content-width: 80%;
+  }
+  #header {
+    display: block;
+    left: 50%;
+    margin-left: calc(-1 * (var(--content-width) / 2));
+    width: var(--content-width);
+  }
+  #header-right-container {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  :root {
+    --content-width: 60%;
+  }
+  #header-left-container {
+    float: left;
+    text-align: none;
+  }
+  #header-title {
+    padding-left: 20px;
+    font-size: 1.5rem;
+    line-height: 50px;
+  }
+  #header-desc {
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 50px;
+    cursor: default;
+  }
+  #header-right-container {
+    float: right;
+    margin-right: 20px;
+    display: '';
+    margin-left: none;
+    width: auto;
+  }
 }

@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -55,7 +60,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -66,19 +76,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/09/">2020 September suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -97,19 +98,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/08/">2020 August suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -128,19 +120,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/07/">2020 July suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -159,19 +142,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/06/">2020 June suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -190,19 +164,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/05/">2020 May suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -221,19 +186,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/04/">2020 April suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -252,19 +208,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/03/">2020 March suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -283,19 +230,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/02/">2020 February suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -314,19 +252,10 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/dev-notes/">
-    <div class="article-type">
-      dev notes
-    </div>
-  </a>
-  
-  
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/dev/review/2020/01/">2020 January suggestions review result | K TERA</a></h3>
   </div>
+
   
   
   <div class="article-tags">
@@ -346,9 +275,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

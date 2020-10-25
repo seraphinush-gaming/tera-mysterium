@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -53,7 +58,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -64,17 +74,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2018/v78-02-01/">2018년 10월 25일 업데이트 안내 (v78.02.01)</a></h3>
   </div>
@@ -102,17 +101,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2018/v78-02/">2018년 10월 18일 업데이트 안내 (v78.02)</a></h3>
   </div>
@@ -140,17 +128,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2018/v78-01-01/">2018년 10월 11일 업데이트 안내 (v78.01.01)</a></h3>
   </div>
@@ -178,17 +155,6 @@
 
 
 <div class="article-list">
-  
-  
-  
-  <a href="/categories/patch-notes/">
-    <div class="article-type">
-      patch notes
-    </div>
-  </a>
-  
-  
-
   <div class="article-info">
     <h3><a href="https://seraphinush-gaming.com/ko/patch/raw/2018/v78-01/">2018년 10월 04일 업데이트 안내 (v78.01)</a></h3>
   </div>
@@ -217,9 +183,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

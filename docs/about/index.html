@@ -12,9 +12,14 @@
 <link rel="stylesheet" href='/css/header.css' />
 <link rel="stylesheet" href='/css/footer.css' />
 <link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
 
 
 <script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
 
 
 
@@ -55,7 +60,12 @@
     
   </div>
 </div>
-  <div id="content-frame">
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
     
 <div id="donate">
   <p>If you wish to support me, feel free to donate <a href="https://www.paypal.me/seraphinush">here</a> !</p>
@@ -69,6 +79,7 @@
     <p> Jan 9, 2014 </p>
     <hr />
     <p>Hi, my name is seraphinush aka. seraph and i translate K TERA patch notes and more. aside from that i&rsquo;m just your average TERA player with subpar DPS playing my main Archer on Velika, NA TERA and Glory of Arun, K TERA.</p>
+<p>This blog hosts translations of K TERA patch notes and articles that i&rsquo;ve written. all the background images are screenshots that i&rsquo;ve taken personally within the game. if you would like to use them yourself, please leave a credit in some way or form just as a small token of appreciation.</p>
 <p>If you have any questions, my discord tag is <a href="https://discord.gg/A64RcA5"><strong>seraphinush#5417</strong></a> and i&rsquo;ll be happy to answer any question to the best of my knowledge.</p>
 
   </div>
@@ -76,9 +87,7 @@
 
 
 
-    <div class="article-end" onclick="go_back()">
-      back
-    </div>
+    <div id="back_btn" class="button">back</div>
   </div>
   <div id="footer">
   <div id="footer-content">

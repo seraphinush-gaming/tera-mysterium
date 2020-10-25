@@ -26,3 +26,11 @@ single = true
 
 # Notes
 - soontm
+
+----
+
+Source and credit :
+```
+- 'We Hate Math' theorycrafting discord
+https://discord.gg/zY7bbFp
+```

@@ -1,27 +1,14 @@
 /* single */
 
 div.article-container {
+  margin-bottom: 10px;
   padding: 20px 20px;
-  background: #555;
+  background: rgba(60,60,60,0.8);
+  opacity: 1;
 }
 
-div.article-end {
-  display: inline-block;
-  margin-top: 10px;
-  min-width: 100%;
-  height: 20px;
-  background: var(--color-primary);
-  line-height: 20px;
-  text-align: center;
-  text-transform: uppercase;
-  color: #CCC;
-
-  cursor: pointer;
-}
-
-div.article-end:hover {
-  background: var(--color-primary-light);
-  color: #FFF;
+div.article-container::before {
+  opacity: 0.75;
 }
 
 /* list, section, taxonomy  */
@@ -29,40 +16,18 @@ div.article-end:hover {
 div.article-list {
   display: inline-block;
   margin-bottom: 10px;
-  min-width: 100%;
-  height: 50px;
-  background: #555;
-  overflow: hidden;
-}
-
-div.article-type {
-  display: inline-block;
-  vertical-align: top;
-  padding: 0 10px;
-  background: var(--color-primary);
-
-  text-align: center;
-  line-height: 50px;
-  text-transform: uppercase;
-  color: #CCC;
-  opacity: 0.95;
-}
-
-div.article-type:hover {
-  color: #FFF;
-  background: var(--color-primary-light);
+  padding: 10px;
+  min-width: calc(100% - 20px);
+  background: rgba(60,60,60,0.8);
 }
 
 div.article-info {
   display: inline-block;
-  margin-left: 10px;
-  line-height: 50px;
 }
 
 div.article-tags {
   display: inline-block;
   margin-left: 10px;
-  line-height: 50px;
   opacity: 0.5;
 }
 
