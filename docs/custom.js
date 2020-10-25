@@ -1,6 +1,6 @@
 const background_count = 30
 let random_int = Math.round(Math.random() * 29 + 1); // 1 - n 
-let link = 'url(/images/background/' + random_int + '.jpg)'
+let link = '/images/background/' + random_int + '.jpg'
 
 let preload = document.createElement('link')
 preload.href = link
