@@ -8,7 +8,7 @@ preload.rel = 'preload'
 preload.as = 'image'
 document.head.appendChild(preload)
 
-window.addEventListener('load', function() {
+document.addEventListener('DOMContentLoaded', function () {
   document.body.style.backgroundImage = 'url(/images/background/' + random_int + '.jpg)'
 })
 
