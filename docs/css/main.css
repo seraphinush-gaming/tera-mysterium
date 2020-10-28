@@ -14,7 +14,7 @@ html, body, div {
 }
 
 body {
-  background: #222;
+  background: #555;
   color: #CCC;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -96,12 +96,18 @@ th, td {
   padding: 4px;
 }
 
+pre {
+  padding: 1rem;
+}
+
 #container {
   margin-top: 70px;
   margin-left: auto;
   margin-right: auto;
   max-width: var(--content-width);
 }
+
+/* back */
 
 div.button {
   display: inline-block;
