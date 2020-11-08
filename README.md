@@ -1,8 +1,9 @@
-# mysterium [![](https://img.shields.io/badge/paypal-donate-333333.svg?colorA=0070BA&colorB=333333)](https://www.paypal.me/seraphinush)
-Blog repository for blog by seraphinush-gaming
 ```
 Support seraph via paypal donations, thanks in advance !
 ```
+
+# mysterium [![](https://img.shields.io/badge/paypal-donate-333333.svg?colorA=0070BA&colorB=333333)](https://www.paypal.me/seraphinush)
+Blog repository for blog by seraphinush-gaming
 
 Visit blog at : [https://seraphinush-gaming.com/](https://seraphinush-gaming.com)
 

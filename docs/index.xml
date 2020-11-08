@@ -126,7 +126,7 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2020/v98-03/</guid>
-      <description>1. Item  Greedhead Option Change Scroll  Changed item needed to lock options (Diamond -&amp;gt; Golden Essence (placeholder)) Added new items to lock options option Golden Essence (placeholder) / Golden Essence Rune (placeholder)       Item Description     Golden Essence (placeholder) Item used to lock an option, costs 6 of said item to lock 1 option   Golden Essence Rune (placeholder) Can be used with 100 Pure Refined Duranium Ore to obtain 1 Golden Essence (placeholder)       (Added 9/15) Adjusted Golden Cryolite cost to the following :  6 for 1 option for weapon, 4 for handwear, 2 for armor / footwear   (Added 9/3) Changed to be able to use +15 Jumpstart Enchantment Scroll [Exodor Scout] on Federation Supply: Exodor Scout gear    2.</description>
+      <description>1. Item  Greedhead Option Change Scroll  Changed item needed to lock options (Diamond -&amp;gt; Golden Cryolite) Added new items to lock options option Golden Cryolite / Golden Cryolite Refining Tome       Item Description     Golden Cryolite Item used to lock an option, costs 6 of said item to lock 1 option   Golden Cryolite Refining Tome Can be used with 100 Pure Refined Duranium Ore to obtain 1 Golden Cryolite       (Added 9/15) Adjusted Golden Cryolite cost to the following :  6 for 1 option for weapon, 4 for handwear, 2 for armor / footwear   (Added 9/3) Changed to be able to use +15 Jumpstart Enchantment Scroll [Exodor Scout] on Federation Supply: Exodor Scout gear    2.</description>
     </item>
     
     <item>
@@ -157,7 +157,7 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2020/v98-01-01/</guid>
-      <description>1. Other  Applied client revision to decrease game freezes Applied client revision to decrease UI loading delay  2. Velika : Civil Unrest  K TERA exclusive Velika : Civil Unrest reopen  K TERA exclusive comment on treasury balance to be divided by 15 appropriate disabling Velika: Civil Unrest for 15 weeks    Bug fixes  Fixed issue where client disconnects when instance matching for Commander&amp;rsquo;s Quarters (placeholder) completes Fixed issue where certain players cannot enter Velika : Civil Unrest even when conditions are satisfied   source : TERA 테라 | NEXON</description>
+      <description>1. Other  Applied client revision to decrease game freezes Applied client revision to decrease UI loading delay  2. Velika : Civil Unrest  K TERA exclusive Velika : Civil Unrest reopen  K TERA exclusive comment on treasury balance to be divided by 15 appropriate disabling Velika: Civil Unrest for 15 weeks    Bug fixes  Fixed issue where client disconnects when instance matching for Commander&amp;rsquo;s Residence completes Fixed issue where certain players cannot enter Velika : Civil Unrest even when conditions are satisfied   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -205,7 +205,7 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2020/v96-02/</guid>
-      <description>1. Inner Core Area  Changed Golden Caiman reward distribution  2. Guardian Legion Mission  Slightly decreased Guardian Legion point gain for Priest, Lancer Increased Guardian Legion point gain for Mystic  3. Other  Quest  Changed &amp;lsquo;Azart Disguise Kit&amp;rsquo; to no longer be able to discard Changed Murderwing and Mournwing near [Important] The Crash quest area to be prone (Added 6/11) Some of the Murderwing / Mournwing not in the quest path were not adjusted as appropriately, and will be fixed in the near future   Decreased damage from mosnters within Rogash&amp;rsquo;s Garden, Exodor Changed to display Commander&amp;rsquo;s Quarter (placeholder) entrance on world map and minimap Changed to teleport to Core Area, Exodor when using Commander&amp;rsquo;s Quarter (placeholder) Vanguard Request to teleport  Bug fixes  Fixed issue where using Ancient Accessory Morpher display failure animation Fixed issue where creating a new guild does not display effect Fixed issue in Corrupted Skynest (normal / hard) where Reaper&amp;rsquo;s Soul Reversal does not work on normal monsters Fixed issue in Core Area (PvP) where player dealing the last hit bonus also received additional parcel reward Fixed issue where Elin Valkyrie&amp;rsquo;s face and hair moved seperately when using second hit of Godsfall Fixed issue in Core Area (PvP) where Magnetic Shield (placeholder) tooltip description was awkwardly worded Fixed issue in Core Area (PvP) where standing at a particular place preventing player to be displayed on overlay map Fixed issue where reseting settings after resizing window size on windowed mode shifted buttons from working properly Fixed issue in Core Area (PvP) where no tooltip is displayed when using jump platform Fixed issue where no tooltip is displayed when hovering over Deliverable Items in Fish Crate Delivery Management Fixed issue where user&amp;rsquo;s mouse cursor moves off fullscreen window when using more than one monitor Fixed issue where [Crabs?</description>
+      <description>1. Inner Core Area  Changed Golden Caiman reward distribution  2. Guardian Legion Mission  Slightly decreased Guardian Legion point gain for Priest, Lancer Increased Guardian Legion point gain for Mystic  3. Other  Quest  Changed &amp;lsquo;Azart Disguise Kit&amp;rsquo; to no longer be able to discard Changed Murderwing and Mournwing near [Important] The Crash quest area to be prone (Added 6/11) Some of the Murderwing / Mournwing not in the quest path were not adjusted as appropriately, and will be fixed in the near future   Decreased damage from mosnters within Rogash&amp;rsquo;s Garden, Exodor Changed to display Commander&amp;rsquo;s Residence entrance on world map and minimap Changed to teleport to Core Area, Exodor when using Commander&amp;rsquo;s Residence Vanguard Request to teleport  Bug fixes  Fixed issue where using Ancient Accessory Morpher display failure animation Fixed issue where creating a new guild does not display effect Fixed issue in Corrupted Skynest (normal / hard) where Reaper&amp;rsquo;s Soul Reversal does not work on normal monsters Fixed issue in Core Area (PvP) where player dealing the last hit bonus also received additional parcel reward Fixed issue where Elin Valkyrie&amp;rsquo;s face and hair moved seperately when using second hit of Godsfall Fixed issue in Core Area (PvP) where Magnetic Shield (placeholder) tooltip description was awkwardly worded Fixed issue in Core Area (PvP) where standing at a particular place preventing player to be displayed on overlay map Fixed issue where reseting settings after resizing window size on windowed mode shifted buttons from working properly Fixed issue in Core Area (PvP) where no tooltip is displayed when using jump platform Fixed issue where no tooltip is displayed when hovering over Deliverable Items in Fish Crate Delivery Management Fixed issue where user&amp;rsquo;s mouse cursor moves off fullscreen window when using more than one monitor Fixed issue where [Crabs?</description>
     </item>
     
     <item>
@@ -238,7 +238,7 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2020/v96-01/</guid>
-      <description>1. Dungeon  Reopen : Rift&amp;rsquo;s Edge (5-Person)  Reopens temporarily until 6/25 maintenance Requires level 68, ilevel 452 to use Instance Matching System Costs 150 Adventure Coins, with 40 entries (80 entries if Elite or equivalent) per week Teleportal is located Timeless Woods, Essenia Instance teleportal scroll is sold by city specialty merchants Loot table includes Koleogg Token, Radiant accessory upgrade materials, Azart Exodor gear, Annihilation / Dark Light Exodor gear, Exodor Scout / Dark Shard Feedstock, Skill Advancement Scroll, Transcendent Mask, Naslow&amp;rsquo;s Treasure Map, Left Half of an Intelligence Report, Sea of Honor Voyage Map, Zenobia&amp;rsquo;s Breeze Crate, and Adventure Completion Ticket (placeholder) (Added 5/27) Koeleogg Tokens can be exchanged in Highwatch for Companion-related items   New : Commander&amp;rsquo;s Quarters (20-Person) (placeholder)  Requires level 70, ilevel 450 to use Instance Matching System Costs 300 Adventure Coins, with 1 entry (2 entries if Elite or equivalent) per week Entrance hours are between Friday 00:00 ~ Sunday 23:59  Teleportal is located Core Area, Exodor or can be teleportal to via Vanguard Request Core Area can be reaches via flying or Exodor&amp;rsquo;s Azart Force Platform Instance can only be entered after completing [Important] Exodor Advance Base quest   Entrance is limited by class  Requires at least 1 tank class or more, requires at least 2 healer class up to 5   (Edited 5/27) Loot table includes Maknakh Card Fragment, Adventure Completion Ticket (placeholder), Zenobia&amp;rsquo;s Breeze Crate, Brooch Etching II or IV, Superior Pet Food, Evolution Core, Unstable Option Conversion Scroll (Weapon/Armor/Handwear/Footwear) (placeholder), Legacy Essence, and Dark Shard Feedstock   Vanguard Request of Rift&amp;rsquo;s Edge and Commander&amp;rsquo;s Quarters (placeholder) is of the following :   Enabled trading in the following instances :  Akalath Quarantine, Sea of Honor, 2nd boss region of Gossamer&amp;rsquo;s Vault (hard)    2.</description>
+      <description>1. Dungeon  Reopen : Rift&amp;rsquo;s Edge (5-Person)  Reopens temporarily until 6/25 maintenance Requires level 68, ilevel 452 to use Instance Matching System Costs 150 Adventure Coins, with 40 entries (80 entries if Elite or equivalent) per week Teleportal is located Timeless Woods, Essenia Instance teleportal scroll is sold by city specialty merchants Loot table includes Koleogg Token, Radiant accessory upgrade materials, Azart Exodor gear, Annihilation / Dark Light Exodor gear, Exodor Scout / Dark Shard Feedstock, Skill Advancement Scroll, Transcendent Mask, Naslow&amp;rsquo;s Treasure Map, Left Half of an Intelligence Report, Sea of Honor Voyage Map, Zenobia&amp;rsquo;s Breeze Crate, and Adventure Completion Ticket (placeholder) (Added 5/27) Koeleogg Tokens can be exchanged in Highwatch for Companion-related items   New : Commander&amp;rsquo;s Residence (20-Person)  Requires level 70, ilevel 450 to use Instance Matching System Costs 300 Adventure Coins, with 1 entry (2 entries if Elite or equivalent) per week Entrance hours are between Friday 00:00 ~ Sunday 23:59  Teleportal is located Core Area, Exodor or can be teleportal to via Vanguard Request Core Area can be reaches via flying or Exodor&amp;rsquo;s Azart Force Platform Instance can only be entered after completing [Important] Exodor Advance Base quest   Entrance is limited by class  Requires at least 1 tank class or more, requires at least 2 healer class up to 5   (Edited 5/27) Loot table includes Maknakh Card Fragment, Adventure Completion Ticket (placeholder), Zenobia&amp;rsquo;s Breeze Crate, Brooch Etching II or IV, Superior Pet Food, Evolution Core, Unstable Option Conversion Scroll (Weapon/Armor/Handwear/Footwear) (placeholder), Legacy Essence, and Dark Shard Feedstock   Vanguard Request of Rift&amp;rsquo;s Edge and Commander&amp;rsquo;s Residence is of the following :   Enabled trading in the following instances :  Akalath Quarantine, Sea of Honor, 2nd boss region of Gossamer&amp;rsquo;s Vault (hard)    2.</description>
     </item>
     
     <item>
@@ -280,7 +280,7 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2020/v95-01/</guid>
-      <description>1. Partner fellowship  Changed partner fellowship increase range  Consumed Partner grade | before | after  Grade 1 | 1~6 | 3~4 Grade 2 | 1~6 | 3~5 Grade 3 | 1~6 | 3~5 Grade 4 | 1~6 | 3~5 Grade 5 | 1~6 | 4~5 Grade 6 | 1~6 | 4~5 Grade 7 | 1~6 | 4~5 Grade 8 | 1~6 | 4~6 Grade 9 | 1~6 | 4~6 Grade 10 | 1~6 | 4~6   Partner fellowship increase range is indiciated on partner license tooltip    !</description>
+      <description>1. Partner fellowship  Changed partner fellowship increase range  Consumed Partner grade | before | after  Grade 1 | 1~6 | 3~4 Grade 2 | 1~6 | 3~5 Grade 3 | 1~6 | 3~5 Grade 4 | 1~6 | 3~5 Grade 5 | 1~6 | 4~5 Grade 6 | 1~6 | 4~5 Grade 7 | 1~6 | 4~5 Grade 8 | 1~6 | 4~6 Grade 9 | 1~6 | 4~6 Grade 10 | 1~6 | 4~6   Partner fellowship increase range is indiciated on partner license tooltip    2.</description>
     </item>
     
     <item>
@@ -418,12 +418,30 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
     </item>
     
     <item>
+      <title>Class base stat values</title>
+      <link>https://seraphinush-gaming.com/article/class-base-stats/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/article/class-base-stats/</guid>
+      <description>Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
+    </item>
+    
+    <item>
       <title>Companions</title>
       <link>https://seraphinush-gaming.com/article/companions/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/article/companions/</guid>
       <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+    </item>
+    
+    <item>
+      <title>Dungeon crit resist values</title>
+      <link>https://seraphinush-gaming.com/article/crit-resist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/article/crit-resist/</guid>
+      <description>v99    Dungeon Boss Level target base resistance crit resistance     Forbidden Arena [Nightmare Undying Warlord] Nightmare Undying Warlord 73 90,000 300   Forbidden Arena [Undying Warlord] Undying Warlord 73 90,000 300   Draakon Arena (hard) Nightmare Commander Kalligar 73 80,000 300   Draakon Arena Commander Kalligar 73 80,000 300   Rampaging RK-9 Kennel Rampaging RK-9 73 43,000 290   Corrupted Skynest (hard) Nightmare Revived Kelsaik Level 80,000 300   Corrupted Skynest Kelsaik Level 80,000 300   Forbidden Arena [Hagufna] Hagufna 73 80,000 300   Sea of Honor Ironfang Dixie Level 40,000 230   Core Area Maknakh Level 0 210   Bahaar&amp;rsquo;s Sanctum Phase 1 Level 80,000 300   Bahaar&amp;rsquo;s Sanctum Phase 2 Level 80,000 300   Akalath Quarantine Akalath Kashir Level 20,000 220   Akalath Quarantine Akalath Travan Level 20,000 220   Gossamer Vault (hard) Nightmare Gossamer Regent Level 20,000 210   Gossamer Vault (hard) Hellgramite 71 20,000 210   Grotto of Lost Souls (hard) Nightmare Kylos Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Ptakum Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Nedra 71 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Antaroth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Kalioth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Ghergof 71 20,000 210   Red Refuge Argog Level 10,000 210   Red Refuge Thormentum Level 10,000 210   Red Refuge Kalavese Level 10,000 210   RK-9 Kennel RK-9 Level 10,000 210   RK-9 Kennel Hexapleon Level 10,000 210   RK-9 Kennel Ventarun 70 10,000 210   Training Ground Clawrider 68 90,000 300     Source and credit :</description>
     </item>
     
     <item>
@@ -443,15 +461,6 @@ This blog hosts translations of K TERA patch notes and articles that i&amp;rsquo
       <guid>https://seraphinush-gaming.com/article/mythic/</guid>
       <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
 One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
-    </item>
-    
-    <item>
-      <title>Theorycrafting</title>
-      <link>https://seraphinush-gaming.com/article/theorycrafting/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/article/theorycrafting/</guid>
-      <description>Class base stats    Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
     </item>
     
     <item>
@@ -803,7 +812,7 @@ One core equipment is necessary to retool superior Exodor gear into Mythic gear,
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/patch/translation/2019/v83-02/</guid>
-      <description>1. Servant (placeholder)  Revised Servant functions  Added on/off toggle for Servant chat bubbles  Option is available through Option &amp;gt; Game &amp;gt; Community   Added sort, delete function  Can be sorted through Servant UI, via &amp;lsquo;sort&amp;rsquo; button Can delete Servant through Servant UI, via &amp;lsquo;X&amp;rsquo; button   Changed to be able to summon Servant via hotkey  Option is available through Option &amp;gt; Key settings &amp;gt; Servant      2.</description>
+      <description>1. Partner  Revised Servant functions  Added on/off toggle for Servant chat bubbles  Option is available through Option &amp;gt; Game &amp;gt; Community   Added sort, delete function  Can be sorted through Servant UI, via &amp;lsquo;sort&amp;rsquo; button Can delete Servant through Servant UI, via &amp;lsquo;X&amp;rsquo; button   Changed to be able to summon Servant via hotkey  Option is available through Option &amp;gt; Key settings &amp;gt; Servant      2.</description>
     </item>
     
     <item>

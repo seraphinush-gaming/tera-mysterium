@@ -12,12 +12,30 @@
     
     
     <item>
+      <title>Class base stat values</title>
+      <link>https://seraphinush-gaming.com/article/class-base-stats/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/article/class-base-stats/</guid>
+      <description>Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
+    </item>
+    
+    <item>
       <title>Companions</title>
       <link>https://seraphinush-gaming.com/article/companions/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seraphinush-gaming.com/article/companions/</guid>
       <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+    </item>
+    
+    <item>
+      <title>Dungeon crit resist values</title>
+      <link>https://seraphinush-gaming.com/article/crit-resist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/article/crit-resist/</guid>
+      <description>v99    Dungeon Boss Level target base resistance crit resistance     Forbidden Arena [Nightmare Undying Warlord] Nightmare Undying Warlord 73 90,000 300   Forbidden Arena [Undying Warlord] Undying Warlord 73 90,000 300   Draakon Arena (hard) Nightmare Commander Kalligar 73 80,000 300   Draakon Arena Commander Kalligar 73 80,000 300   Rampaging RK-9 Kennel Rampaging RK-9 73 43,000 290   Corrupted Skynest (hard) Nightmare Revived Kelsaik Level 80,000 300   Corrupted Skynest Kelsaik Level 80,000 300   Forbidden Arena [Hagufna] Hagufna 73 80,000 300   Sea of Honor Ironfang Dixie Level 40,000 230   Core Area Maknakh Level 0 210   Bahaar&amp;rsquo;s Sanctum Phase 1 Level 80,000 300   Bahaar&amp;rsquo;s Sanctum Phase 2 Level 80,000 300   Akalath Quarantine Akalath Kashir Level 20,000 220   Akalath Quarantine Akalath Travan Level 20,000 220   Gossamer Vault (hard) Nightmare Gossamer Regent Level 20,000 210   Gossamer Vault (hard) Hellgramite 71 20,000 210   Grotto of Lost Souls (hard) Nightmare Kylos Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Ptakum Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Nedra 71 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Antaroth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Kalioth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Ghergof 71 20,000 210   Red Refuge Argog Level 10,000 210   Red Refuge Thormentum Level 10,000 210   Red Refuge Kalavese Level 10,000 210   RK-9 Kennel RK-9 Level 10,000 210   RK-9 Kennel Hexapleon Level 10,000 210   RK-9 Kennel Ventarun 70 10,000 210   Training Ground Clawrider 68 90,000 300     Source and credit :</description>
     </item>
     
     <item>
@@ -37,15 +55,6 @@
       <guid>https://seraphinush-gaming.com/article/mythic/</guid>
       <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
 One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
-    </item>
-    
-    <item>
-      <title>Theorycrafting</title>
-      <link>https://seraphinush-gaming.com/article/theorycrafting/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://seraphinush-gaming.com/article/theorycrafting/</guid>
-      <description>Class base stats    Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
     </item>
     
   </channel>

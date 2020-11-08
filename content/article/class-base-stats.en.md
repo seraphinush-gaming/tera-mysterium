@@ -1,12 +1,9 @@
 +++
 date = "2020-01-01"
-title = "Theorycrafting"
+title = "Class base stat values"
 categories = ["article"]
 tags = ["theorycrafting", "data"]
-single = true
 +++
-
-# Class base stats
 
 | Class | Base Power | Base Attack | Base Crit Factor | Base Attack Speed | Damage Modifier |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -23,9 +20,6 @@ single = true
 | Sorcerer | 65 | 4 | 50 | 110 | 1 |
 | Warrior | 58 | 4 | 52 | 120 | 1 |
 | Valkyrie | 52 | 4 | 58 | 100 | 0.85 |
-
-# Notes
-- soontm
 
 ----
 
