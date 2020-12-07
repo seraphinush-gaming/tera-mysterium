@@ -6,10 +6,19 @@
     <description>Recent content in v100 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/tags/v100/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 11월 12일 업데이트 안내 (v100.02.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2020/v100-02-01/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2020/v100-02-01/</guid>
+      <description>버그수정  기간제 각인서가 적용된 장비에 옵션 변환 스크롤 사용 시, 기간이 초기화되는 문제 [TBA] 전장에서 아이템 슬롯 변경 시, 아이템 제거/사용이 되지 않는 문제   source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020년 10월 29일 업데이트 안내 (v100.02)</title>

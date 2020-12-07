@@ -6,10 +6,28 @@
     <description>Recent content in patch notes on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/categories/patch-notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020.11.19 patch notes (v101.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/patch/translation/2020/v101-01/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/patch/translation/2020/v101-01/</guid>
+      <description>1. TBA  Added forum NPC to check battleground information in lobby Changed Shieldmaiden Kaia&amp;rsquo;s skill effects Changed coin loot effect  2. Dungeon  Commander&amp;rsquo;s Residence - LB-1  Changed to consume Adventure Coin and entry upon entering dungeon Changed to spawn boss when all 20 players have entered the dungeon (randomly spawns either Maknakh or LB-1) Vanguard Request reward is the same, except drops Unstable Option Change Scroll [Belt / Mask / Brooch] instead of Option Change Scroll [Gear]   Added dungeon specific rewards to Velik&amp;rsquo;s Sanctuary, Draakon Arena (until ~12/17(Thu) maintenance)  Velik&amp;rsquo;s Sanctuary  Lakan&amp;rsquo;s Lance (Lancer specific), Lakan&amp;rsquo;s Cape   Draakon Arena  Partner: Kalligar (Rare/Superior) Superior partner has [Eternal Force] as Bond Skill that while Power scales the same, abnormality does not end upon death     Draakon Arena, Forbidden Arena [Undying Warlord]  Changed select drops       Existing item Changed item     Card Fragment Random Box (Common) Common Card Fragment Box (placeholder)       Changed box contains newly added card fragments, details below   Draakon Arena (hard), Forbidden Arena [Nightmare Undying Warlord]  Changed select drops       Existing item Changed item     Card Fragment Random Box (Uncommon) Uncommon Card Fragment Box (placeholder)     Added boss types for select instances     Dungeon Boss Type     Velik&amp;rsquo;s Sanctuary Revived Dakuryon God   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Antaroth God   Gossamer Vault (hard) Hellgrammite Magical Creature   Gossamer Vault (hard) Nightmare Gossamer Regent Magical Creature   Thaumetal Refinery Lehnym Magical Creature   Thaumetal Refinery Gaaruksalk Magical Creature   Forbidden Arena [Hagufna] Hagufna Ancient   Forbidden Arena [Undying Warlord] Undying Warlord Ancient   Forbidden Arena [Nightmare Undying Warlord] Nightmare Undying Warlord Ancient     Macellarius Catacombs  Removed uncommon relic / halidom from drop   Removed uncommon Exodor gear from select instances, changed rare Exodor gear reward to Dark Shard Weapon / Armor Feedstock  Select instances : RK-9 Kennel, Red Refuge, Velik&amp;rsquo;s Hold, Thaumetal Refinery, Antaroth&amp;rsquo;s Abyss (hard), Grotto of Lost Souls (hard), Akalath Quarantine, Draakon Arena, Gossamer Vault (hard)    3.</description>
+    </item>
+    
+    <item>
+      <title>2020.11.12 patch notes (v100.02.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/patch/translation/2020/v100-02-01/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/patch/translation/2020/v100-02-01/</guid>
+      <description>Bug fixes  Fixed issue where duration of temporary etchings reset upon using Option Change Scroll on the equipment [TBA] Fixed issue where changing item slot during match removes / prevents usage of item   source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020.10.29 patch notes (v100.02) | K TERA</title>
