@@ -6,10 +6,28 @@
     <description>Recent content in 2020 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/patch/translation/2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020.12.03 patch notes (v101.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/patch/translation/2020/v101-02/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/patch/translation/2020/v101-02/</guid>
+      <description>1. Dungeon  Decreased attack of Red Refuge [Subjugation] (placeholder) tier 5  2. Returning player system  Changed &amp;lsquo;Infinity Mask Coupon&amp;rsquo; to &amp;lsquo;Infinity Mask Ticket&amp;rsquo; in returning player package  Infinity Mask Ticket cannot be sold to merchant    3. Guardian Legion Mission  Changed superior Guardian Legion Mission  Instead of &amp;lsquo;Avenging Talons&amp;rsquo; mission, new mission &amp;lsquo;Legendary Black Wolf Fenrir Subjugation&amp;rsquo; (placeholder) appears (K TERA specific servicing date)     Successfully completing the mission parcels &amp;lsquo;Fenrir&amp;rsquo;s Leather&amp;rsquo; (plceaholder) as reward, and can be used to exchange for various items Details in the event page  4.</description>
+    </item>
+    
+    <item>
+      <title>2020.11.26 patch notes (v101.01.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/patch/translation/2020/v101-01-01/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/patch/translation/2020/v101-01-01/</guid>
+      <description>Bug fixes  Fixed issue where redeeming Mileage (placeholder) when inventory is full results in Mileage Point (placeholder) deduction only Fixed issue where card system Mileage (placeholder) reward is not distributed  Missing Mileage reward (placeholder) was distributed through maintenance   Fixed issue were Mileage Point (placeholder) reduced to a negative value in select circumstances  Proper value will be displayed after maintenance   Fixed issue where monster name plate is displayed in red Fixed issue where cancelling party Instance Matching does not work properly Fixed issue where player cannot enter subjugation instance when held Adventure Coin is less than Adventure Coin cost while using Infinite Coin (Added) Fixed issue in Sky Cruiser Endeavor (hard) where attack patterns remain on combat area without visual effect   source : TERA 테라 | NEXON</description>
+    </item>
     
     <item>
       <title>2020.11.19 patch notes (v101.01) | K TERA</title>
