@@ -57,7 +57,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/tags/2020/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -72,17 +72,17 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/patch/translation/2020/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/patch/translation/2020/v101-02/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <loc>https://seraphinush-gaming.com/patch/translation/2020/v102-01/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/categories/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -97,7 +97,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -112,7 +112,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/categories/patch-notes/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -127,7 +127,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/tags/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -142,12 +142,32 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/tags/translation/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/tags/v102/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/v102/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/v102/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/patch/translation/2020/v101-02-01/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/tags/v101/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -158,6 +178,11 @@
                 hreflang="en"
                 href="https://seraphinush-gaming.com/tags/v101/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/patch/translation/2020/v101-02/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
