@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/patch/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,6 +48,86 @@
   </url>
   
   <url>
+    <loc>https://seraphinush-gaming.com/ko/tags/2021/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/categories/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/categories/patch-notes/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/categories/patch-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/categories/patch-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/tags/raw/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/tags/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/tags/v103/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seraphinush-gaming.com/ko/tags/2020/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,71 +150,6 @@
   <url>
     <loc>https://seraphinush-gaming.com/ko/patch/raw/2020/v102-01-01/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/ko/categories/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seraphinush-gaming.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://seraphinush-gaming.com/ko/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/ko/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seraphinush-gaming.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://seraphinush-gaming.com/ko/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/ko/categories/patch-notes/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seraphinush-gaming.com/categories/patch-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://seraphinush-gaming.com/ko/categories/patch-notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/ko/tags/raw/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/ko/tags/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seraphinush-gaming.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://seraphinush-gaming.com/ko/tags/"
-                />
   </url>
   
   <url>

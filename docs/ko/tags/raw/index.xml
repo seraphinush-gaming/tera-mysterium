@@ -6,10 +6,19 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 01월 27일 업데이트 안내 (v103.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01/</guid>
+      <description>1. 던전  신규 던전: 폭군의 처형장(5인)이 추가됩니다.     폭군의 처형장 입장 조건      입장 횟수 제한 없음   모험의 주화 280   입장 레벨 70   매칭 장비 레벨 496   분노한 폭군의 처형장 입장 조건    입장 횟수 제한 없음   모험의 주화 350   입장 레벨 70   매칭 장비 레벨 501     폭군의 처형장 보상  폭군의 허리띠, 기록 카드 조각 - 폭군 가르단, 해방된 카이아의 수정석, 툴사 군단의 진귀한 전리품 상자, 해방된 옵션 변환 스크롤, 강화 합금, 아르가프 군단의 진귀한 전리품 상자, 보물지도, 전설 유물/성물, 일반/고급 카드 상자를 확률적으로 획득할 수 있습니다.</description>
+    </item>
     
     <item>
       <title>2020년 12월 28일 업데이트 안내 (v102.01.01)</title>
