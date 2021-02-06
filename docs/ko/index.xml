@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,38 @@
       <description>안녕하세요, 재능기부로 패치노트 번역하는 잡영어 유저 세라프입니다. 현재 테라 북미서버에서 활동중이고 가끔 한국서버에서도 만나보실 수 있겠습니다. 잘 부탁드리겠습니다.
 배경 사진은 제가 직접 찍은 인게임 스크린샷입니다. 사용하실 시 출처만 부탁드리겠습니다.
 질문 있으시면 제 디스코드 seraphinush#5417 DM으로 연락주시면 최대한 빠르게 답변해드리겠습니다.</description>
+    </item>
+    
+    <item>
+      <title>2021년 02월 09일 업데이트 안내 (v103.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-02/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-02/</guid>
+      <description>1. 던전  폭군의 처형장 밸런스가 조정됩니다.  폭군 가르단의 공격력이 소폭 감소합니다. 폭군의 처형장의 얼음 장판의 지속시간 및 대미지가 하향 조정됩니다. 분노한 폭군의 처형장의 얼음 장판의 지속시간이 감소됩니다. 폭군의 처형장/분노한 폭군의 처형장의 폭주 패턴 전 끌어당긴 후 스킬 봉인 이상상태의 지속시간이 감소됩니다. 폭군의 처형장/분노한 폭군의 처형장의 냉기 방출 이상상태가 죽어도 해제되지 않도록 수정됩니다. 폭군의 처형장/분노한 폭군의 처형장의 폭주 시전 시 순간적인 무적 상태에서 피격판정이 있도록 수정됩니다. 폭군의 처형장/분노한 폭군의 처형장의 폭주 패턴 중 거인이 얼음 발사체를 사용하지 않도록 수정됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2021년 02월 03일 업데이트 안내 (v103.01.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01-02/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01-02/</guid>
+      <description>업데이트 1. 던전  광기의 투기장 [영원의 투신] 보스 몬스터의 HP가 하향됩니다. 다음의 던전 보상이 상향 조정됩니다.     대상 던전 내용     사령관의 수련장 해방된 옵션 스크롤 드랍률 증가, 투신의 액세서리 드랍률 증가, 아르가프/툴사 진귀한 전리품 상자 드랍률 증가   켈사이크 은폐지 &amp;rsquo;&amp;rsquo;   광기의 투기장 [영원의 투신] &amp;rsquo;&amp;rsquo;    2. 아이템  &amp;ldquo;낡은 맹세의 ~&amp;rdquo; 합성장비 상점 판매가격 10실버로 정상 표시되도록 수정됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2021년 01월 28일 업데이트 안내 (v103.01.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01-01/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01-01/</guid>
+      <description>1. 컨텐츠 일정   투기장 : 매일 17:00 ~ 05:00
+  일일 퀘스트 : 매일 07:00
+  길드 대전 : 토요일 18:00 입장, 20:00 시작
+  전장 : 아래 표 참고
+  컨텐츠 일정의 경우, 현재 게임이 적용된 시간과 다르게 적용되어 있는 것을 확인하여, 별도의 공지로 안내드리겠습니다. 서비스 이용에 불편을 끼쳐드려 대단히 죄송합니다.
+  버그 수정  벨릭의 부름 퀘스트 취소를 통해 점핑권의 아이템을 반복적으로 수령 가능한 문제 수정 신규 점핑권과 각성 퀘스트를 동시 진행하여 문장 포인트를 70포인트까지 달성 가능한 문제 수정 일일 출석체크 이벤트의 아이콘이 출력되지 않는 문제 수정 서버 선택화면에서 서버 보유 캐릭터 표기가 실제 캐릭터 보유 수와 일치하지 않는 문제 수정 벨릭의 성소에서 일반적인 방법으로 빠져나가는 방법이 없는 문제 수정 광전사 던전에서 가르단의 피가 1%일 때 보호막 패턴을 사용하지 않는 문제 수정 신규 점핑권 퀘스트 보상에 전설 문장 상자가 누락된 문제 수정 기존 문장포인트 70포인트 달성자를 전부 65포인트로 조정 69레벨 캐릭터가 라켈리스의 폐허, 베르아크 성채 하급차원의 마법석을 이용할 수 없는 문제 수정  상품 변경  [벨릭의 부름] 사용가능 레벨이 변경(Lv.</description>
     </item>
     
     <item>

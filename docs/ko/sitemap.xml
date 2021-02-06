@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/patch/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,17 +48,32 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/2021/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/2021/"
+                />
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-02/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/categories/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,7 +88,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,7 +103,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/categories/patch-notes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -104,12 +118,12 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/raw/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,6 +138,31 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/v103/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/v103/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/v103/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01-02/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01-01/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-01/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
