@@ -6,10 +6,19 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.02.24 patch notes (v104.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/patch/translation/2021/v104-01/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/patch/translation/2021/v104-01/</guid>
+      <description>Update 1. Dungeon  Adjusted to increase solo dungeon difficulty and reward appropriate to the latest gear set  Pit of Petrax Celestial Arena Ace Trials Echo of Aranea    2. Item / gear  Changed sale value of rare / superior tier Relic / Halidom to 5 Gold Decreased Travel Journal reuse cooldown from 30 seconds to 10 seconds Changed item icon display by tier  Removed tier mark at top left corner Changed display tier via icon background and border color  Icon background color is initially applied to select items, and will be updated for all items in the future   Removed select items that are no useful Changed the following items to be tradable  *Changed fishing Bait type items to be tradable and limit is no longer applied Fish Fillet Bait I~V Angleworm I-V Puppy Figurine, Piglet Figurine, Popori FIgurine   Removed Puppy Figurine from Merchant Changed Golden / Silver Talent related Crafting Designs to no longer be usable Removed Sergheto Box from Development Merchant    3.</description>
+    </item>
     
     <item>
       <title>2021.02.09 patch notes (v103.02) | K TERA</title>

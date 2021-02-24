@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v104 on mysterium</title>
+    <link>https://seraphinush-gaming.com/ko/tags/v104/</link>
+    <description>Recent content in v104 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/ko/tags/v104/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021년 02월 24일 업데이트 안내 (v104.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01/</guid>
+      <description>업데이트 1. 던전  솔로 던전의 난이도와 보상이 최신 장비에 맞춰 상향 조정합니다.  페트레 양성소 천공의 경기장 시험의 던전 라크난 성의 기억    2. 아이템 / 장비  희귀/전설 등급의 성물/유물의 상점 판매가격이 5골드로 변경됩니다. 여행자의 책 재사용 대기시간이 30초 -&amp;gt; 10초로 감소합니다. 아이템 아이콘 등급 표시 규칙이 변경됩니다.  아이콘 좌측 상단의 삼각형 표시가 삭제됩니다. 아이콘의 배경 화면 및 테두리 색상으로 등급을 표시합니다.  아이콘 배경 화면의 색상 변경은 일부 아이템에만 적용되며, 점차적으로 모든 아이템에 적용할 예정입니다.</description>
+    </item>
+    
+  </channel>
+</rss>

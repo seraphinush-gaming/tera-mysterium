@@ -137,8 +137,28 @@
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/ko/tags/v103/</loc>
+    <loc>https://seraphinush-gaming.com/ko/tags/v104/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/tags/v104/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/tags/v104/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-02/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/tags/v103/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -149,11 +169,6 @@
                 hreflang="ko"
                 href="https://seraphinush-gaming.com/ko/tags/v103/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v103-02/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
