@@ -48,7 +48,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/2021/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,17 +63,17 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01-02/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-02/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/categories/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -88,7 +88,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -103,7 +103,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/categories/patch-notes/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -118,12 +118,12 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/raw/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -138,7 +138,7 @@
   
   <url>
     <loc>https://seraphinush-gaming.com/ko/tags/v104/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -149,6 +149,11 @@
                 hreflang="ko"
                 href="https://seraphinush-gaming.com/ko/tags/v104/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01-02/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
