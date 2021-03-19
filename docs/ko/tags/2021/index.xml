@@ -6,10 +6,28 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/ko/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 03월 10일 업데이트 안내 (v104.01.02)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01-02/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01-02/</guid>
+      <description>업데이트 1. 던전  다음의 던전에서 강화 재료 드랍량이 상향됩니다.     던전명 주요 보상 적용 사항     루크미아의 환몽 루크미아의 날개 파편 드랍량 2배 증가   잔혹한 루크미아의 환몽 루크미아의 뿔 조각 드랍량 1.5배 증가   폭군의 처형장 폭군의 허리띠 드랍량 2배 증가   분노한 폭군의 처형장 폭군의 영혼 드랍량 1.5배 증가     루크미아의 환몽(시험의 던전) 보스 몬스터의 HP가 하향됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2021년 03월 03일 업데이트 안내 (v104.01.01)</title>
+      <link>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01-01/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/patch/raw/2021/v104-01-01/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업이 1차 완료되었습니다.  2. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다. 판매 상품: [랜덤] 아자작! 얼어붙은 할라트 무기 상품 판매 가격: 40블루 판매 기간: 2021년 3월 3일(수) 점검 후 ~ 2021년 3월 24일 8:59(점검 전까지)   source : TERA 테라 | BLUEHOLE</description>
+    </item>
     
     <item>
       <title>2021년 02월 24일 업데이트 안내 (v104.01)</title>
