@@ -40,7 +40,7 @@ customJs = true
   title = "소개"
   url = "/ko/about"
   [[Languages.ko.params.nav]]
-    title = "유투브"
+    title = "유튜브"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.ko.params.nav]]
     title = "트위치"

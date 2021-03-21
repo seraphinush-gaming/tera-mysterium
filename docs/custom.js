@@ -1,5 +1,5 @@
-const background_count = 32
-let random_int = Math.round(Math.random() * 29 + 1); // 1 - n 
+const background_count = 40
+let random_int = Math.round(Math.random() * 39 + 1); // 1 - n 
 let link = '/images/background/' + random_int + '.jpg'
 
 let preload = document.createElement('link')
