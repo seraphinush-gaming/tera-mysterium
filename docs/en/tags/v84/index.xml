@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v84 on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/tags/v84/</link>
+    <description>Recent content in v84 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/tags/v84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019.05.23 patch notes (v84.05) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-05/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-05/</guid>
+      <description>1. Dungeon  Demon&amp;rsquo;s Wheel (5-man)  Open until maintenance on 6/27 Requires level 65, and item level 446 to use instance matching system Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) Teleportal is located at Allementheia Outskirts   Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&amp;rsquo;s Claws, Dragon Skull, and [Event] Demoros&amp;rsquo; Supply Box. Mysterious Intel pieces and Dr.</description>
+    </item>
+    
+    <item>
+      <title>2019.05.16 patch notes (v84.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-04/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-04/</guid>
+      <description>1. Other  Leaderboard  Extended current season by 7 days (5/9~6/13)    Bug fixes  Fixed issue in Gossamer Vault (hard) where certain last boss mechanics prevented voice lines from playing Fixed issue in Argaff Hatchery where a certain enemy pushed Brawlers that are blocking Fixed issue in Argaff Hatchery where players could move inside of a certain enemy Fixed issue where event gear that maxes at +7 could be registered in enchant UI Fixed issue where registering pet bank skill to skillslot UI and moving the skill to another slot displayed a default skill icon Fixed issue where players could go through certain objectives using Priest&amp;rsquo;s Divine Charge Fixed issue where premium slot items did not rest occasionally Fixed issue where certain items could be stored in bank and guild bank Fixed issue where rested XP stacked differently than intended (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.05.09 patch notes (v84.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-03/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-03/</guid>
+      <description>1. Balance  Slayer  Overhand Strike: Focus  Adjusted to increased skill damage increase per stack from 1% to 2% (max stack from 15% to 30%)   Propulsion  Changed requirement to decrease cooldown of Measured Slice from &amp;lsquo;upon critical hit&amp;rsquo; to &amp;lsquo;upon hit&amp;rsquo; with Whirlwind   Punishing Blow  Increased skill damage by 10%      2. Content  Nomadic Caiman &amp;amp; Argaff Hatchery  Adjusted to increase chance to spawn Nomadic Caiman or Dimensional Door by 4 times Adjusted to decrease XP gained from defeating Nomadic Caiman Adjusted to decrease XP and skill advancement XP gained from defeating Hatchery monsters   Argaff Scout Intel  Changed Doubtful Intel piece to drop in the following dungeons  From Doubtful Intel (Left) to Doubtful Intel (Right)  Red Refuge RK9-Kennel Dark Reach Citadel Velik&amp;rsquo;s Sanctuary Shadow Sanguinary Grotto of Lost Souls Ruinous Manor Antaroth&amp;rsquo;s Abyss     Changed Doubtful Intel piece to drop from the following monsters  From Doubtful Intel (Left) to either Doubtful Intel (Left) or Doubtful Intel (Right) (by chance)  List of 28 level 65-70 monsters  그림자 경계병 철갑가시 오칸 병든 롱터스크 불타는 유적 길리두 성역의 파수꾼 오염된 롱터스크 오염된 뿌리약탈자 폐허 파괴자 알쿠스 부활의 나무 오염된 볼칸 야수의 숲 볼칸 폐허를 방황하는 악마 시간의 수호자 오염된 뿌리약탈자 아둔한 장물꾼 사막 바실리스크 푸른이끼부족 예언가 파르프 비열한 도굴꾼 폐허 하이에나 푸른이끼부족 주술사 파르폰 둥근 부리 파수꾼 검은불꽃 알쿠스 푸른이끼부족 전사 폭주한 황금 정원사 낡은 거인의 하수꾼 고블린 도둑          3.</description>
+    </item>
+    
+    <item>
+      <title>2019.05.02 patch notes (v84.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-02/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-02/</guid>
+      <description>1. Other  Changed path guide in Necromancer&amp;rsquo;s Tomb (1-man) Changed certain level progression instances to reset automatically upon re-entering the instance for convenience  Quest progression is adjusted accordingly Instances of the following quest are reset automatically :  Quest  1507 ???? (전염병의 원인을 찾아서) 2501 Secrets Not Meant to Be Known 2801 Vision of Destiny 3901 Unveil the Mask 401 Rescue the Core 5601 Drowned In Blood 5602 Sikander&amp;rsquo;s Bane 3702 Fragment of Hope 5201 Into the Furnace 17207 The Battle for Intrepid       Decreased chance of getting Banana Peel from Weird Sack (placeholder) from 50% to 20% for Stolen Cure quest  2.</description>
+    </item>
+    
+    <item>
+      <title>2019.04.25 patch notes (v84.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-01/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-01/</guid>
+      <description>1. Dungeon  New: Azart Hatchery (1-man)  Can be entered through a warp hole randomly generated by defeating Nomadic Caiman and/or level 65 and/or above monsters/BAMs Loot table includes Skill Advancement XP and Naga Guard&amp;rsquo;s Belongings (Blightoath gear, rare Halidom/Relic)  Nomadic Caiman     Nomadic Caiman spawns by defeating level 65 and/or above monsters from the following zones Loot table includes Skill Advancement XP and Worldly Crystal :  Location  Celestial Hills Essenian Crest Timeless Woods Balder&amp;rsquo;s Refuge Ex Prima Sienna Canyon Progression dungeon   Changed Relic Weapon drop to be class-relevant to the classes within party    2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,303 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="blog by seraphinush">
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+
+
+<script type="text/javascript" src="/custom.js"></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div id="header">
+  <div id="header-left-container">
+    <a href="/"><span id="header-title">mysterium</span></a>
+    <span id="header-desc">blog by seraphinush</span> 
+  </div>
+  <div id="header-right-container">
+    
+      <a href="/about"><div class="nav-item">소개</div></a>
+    
+      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">유튜브</div></a>
+    
+      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">트위치</div></a>
+    
+      <a href="https://www.patreon.com/seraphinush"><div class="nav-item">페이트리온</div></a>
+    
+      <a href="https://github.com/seraphinush-gaming/mysterium/issues"><div class="nav-item">피드백</div></a>
+    
+  </div>
+</div>
+  <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+  <div id="container">
+    
+
+<div class="article-container">
+  <div class="article">
+    <h1><a href="https://seraphinush-gaming.com/ko/patch/ko/2020/v93-02/">2020년 03월 12일 업데이트 안내 (v93.02)</a></h1>
+    <p> Mar 12, 2020 </p>
+    <hr />
+    <h3 id="1-던전">1. 던전</h3>
+<ul>
+<li>금비늘호(항해 지도 던전)
+<ul>
+<li>일반 몬스터(바다늑대 졸개/싸움꾼/베테랑) HP가 하향 조정됩니다.</li>
+</ul>
+</li>
+<li>왜곡된 리안의 지하 전당
+<ul>
+<li>패턴에 피격 시 발생되는 체인 라이트닝이 1인에게만 적용됩니다.</li>
+<li>휩쓸기 패턴으로 생성하는 구슬의 HP와 폭발 위력이 감소합니다.</li>
+<li>전기 충전 스택이 이상상태 스택으로 표시됩니다.</li>
+<li>던전 타임어택 시간이 30분으로 변경됩니다.</li>
+</ul>
+</li>
+<li>찬란한 파르퀴나의 둥지
+<ul>
+<li>던전 타임어택 시간이 30분으로 변경됩니다.</li>
+</ul>
+</li>
+<li>공허한 안타로스의 심연
+<ul>
+<li>안타로스의 일부 패턴 위력이 감소합니다.</li>
+<li>가두기 패턴에서 안타로스에게 부여되는 보호막 HP가 감소합니다.</li>
+<li>구슬 패턴의 위력이 감소하고, 마력 정화 이상상태의 지속시간이 소폭 증가합니다.</li>
+<li>안타로스의 마력 각성 제한 시간이 7분에서 20분으로 변경됩니다.</li>
+</ul>
+</li>
+<li>아래 던전의 오샤르 부활 주문서 비용이 하향됩니다. (500골드 -&gt; 250골드)
+<ul>
+<li>베르아크 성채 비밀 지역</li>
+<li>공허한 안타로스의 심연</li>
+<li>왜곡된 리안의 지하 전당</li>
+<li>찬란한 파르퀴나의 둥지</li>
+</ul>
+</li>
+<li>던전 매칭 UI에서 획득할 수 있는 아이템 목록이 최신화됩니다.
+<ul>
+<li>데모크론 실험실~불멸의 켈사이크 은폐지: 아르보레아의 숨결 상자</li>
+<li>불멸의 켈사이크 은폐지: 업화/냉기의 무기 상자</li>
+<li>상급 던전: 예리/단단한 다크샤드 응집 비법</li>
+</ul>
+</li>
+<li>65레벨 이상 던전에서 드랍되는 아르보레아의 숨결 상자의 드랍 확률이 하향 조정됩니다.</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>던전 및 보상 개편 업데이트 이후 상위 던전의 클리어 난이도에 대한 지속적인 피드백을 확인하였고, 약 1주간의 상위 던전에서의 사망 횟수 및 클리어율 확인 결과 난이도가 예상보다 높음을 확인하였습니다. 이를 통해 던전 패턴의 난이도 자체를 하향하는 것 보다는 전멸이 발생할 만한 요인에 대해 우선적으로 완화하였으며, 오샤르 비용을 하향 조정하여 상위 던전 트라이에 부담을 줄이고자 하였습니다.</li>
+<li>추가적으로 65레벨 이상 던전에서 드랍되는 아르보레아의 숨결 상자는 매우 낮은 확률로 던전에서 드랍되어 희귀한 가치를 가지는 보상 아이템이나, 현재 최초 기획 의도보다 많은 양의 아이템이 드랍되고 있는 것으로 확인되어 확률을 하향 조정하였습니다.</li>
+</ul>
+<h3 id="2-수호자-임무">2. 수호자 임무</h3>
+<ul>
+<li>비행 수호자 임무
+<ul>
+<li>비행 속도가 빨라지고, 수호자 포인트 획득량이 대폭 상향 조정됩니다.</li>
+<li>바람과 불의 광시곡
+<ul>
+<li>푸른 구슬과 붉은 구슬의 스택량이 조정됩니다. (10 -&gt; 5)</li>
+<li>콤보 유지시간이 증가하여 콤보 획득이 쉬워집니다.</li>
+</ul>
+</li>
+<li>정찰기 섬멸 작전
+<ul>
+<li>스파크 발사 연사 간격이 기존보다 빨라집니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>전설 수호자 임무
+<ul>
+<li>임무 등장 쿨타임이 변경됩니다. (1시간 -&gt; 2시간)</li>
+<li>마그누트, 에스트, 오스트의 HP가 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>일반 수호자 임무
+<ul>
+<li>후카의 훈련장: 점수 획득량이 상향 조정됩니다.</li>
+<li>갑각류의 식사시간: 말라코스라카의 HP가 상향 조정됩니다.</li>
+<li>작전명 모래바람: 바실리스크, 흉포한 바실리스크의 HP가 상향 조정됩니다.</li>
+<li>콜드락 보급 지원: 벨텐의 HP가 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>태양의 정원 구출 작전, 쿠차트와 검은 그림자의 보스 스폰 지역에서 캐릭터간 충돌이 삭제됩니다.</li>
+</ul>
+<h3 id="3-강화">3. 강화</h3>
+<ul>
+<li>엑소도르 장비 강화 확률이 개선됩니다.
+<ul>
+<li>전설/신화 장비
+<ul>
+<li>0~9단계 강화 성공 확률 및 다크샤드 강화석 소모 수량이 상향됩니다.</li>
+<li>6~9단계 강화 시도 시, 손상이 발생하지 않습니다.</li>
+<li>(3/18 추가) 영원의 전설 장비는 해당되지 않습니다.</li>
+</ul>
+</li>
+<li>희귀/고급 장비
+<ul>
+<li>0~15단계 강화 성공 확률이 상향됩니다.</li>
+<li>6~9단계 강화 시도 시, 손상이 발생하지 않습니다.</li>
+<li>10~15단계 강화 시도 시, 손상 및 하락 확률이 하향됩니다.</li>
+<li>0~9단계 다크샤드 강화석 소모 수량이 상향됩니다.</li>
+</ul>
+</li>
+<li>(3/18 추가) 엑소도르 무기/방어구 강화 주문서를 통한 성공 확률은 변동되지 않습니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-발키온-연합-지령서">4. 발키온 연합 지령서</h3>
+<ul>
+<li>65레벨 ~ 68레벨의 일일 퀘스트가 모두 삭제되고, 신규 발키온 지령서 4종이 추가됩니다.
+<ul>
+<li>수주 조건: 68레벨 / 장비레벨 446 이상</li>
+<li>발키온 연합 지령서 내 순간이동 기능을 이용하여 퀘스트 지역으로 이동할 수 있습니다.</li>
+<li>캐릭터 별로 1일 1회 진행할 수 있으며, 매일 오전 7시에 초기화됩니다.</li>
+</ul>
+</li>
+</ul>
+<p><img src="/images/patch/v93-02_1.png" alt=""></p>
+<ul>
+<li>엑소도르 스킬 연마 상자는 사용 시, 아래 아이템이 모두 획득됩니다.
+<ul>
+<li>획득 아이템
+<ul>
+<li>스킬 연마 스크롤 I 50개</li>
+<li>스킬 연마 스크롤 II 50개</li>
+<li>스킬 연마 스크롤 III 20개</li>
+<li>스킬 옵션 개방 스크롤 I 25개</li>
+<li>스킬 옵션 개방 스크롤 II 25개</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>기존의 일일 퀘스트는 꼬여 있는 동선과 수주/완료의 불편함이 있었고, 이를 해결하기 위해 기존의 일일 퀘스트가 모두 삭제되고 발키온 지령서 형태로 퀘스트를 추가하였습니다. 발키온 일일 보너스를 소비하지만 기존의 46개 일일 퀘스트의 보상을 4개의 지령서로 한 번에 획득할 수 있도록 하였으며, 추가로 대량의 경험치를 획득할 수 있습니다.</li>
+</ul>
+<h3 id="5-아이템상점">5. 아이템/상점</h3>
+<ul>
+<li>길리안 코인의 아이템명이 발키온 코인으로 변경됩니다.
+<ul>
+<li>창고 보관이 가능하도록 변경되며, 길리안의 숲/솔로 던전 발키온 연합 지령서 보상으로 획득할 수 있습니다.</li>
+<li>교환 가능 아이템에 액세서리 증폭제/길리안의 비밀 상자가 제거되며, 아래의 아이템이 추가됩니다.
+<ul>
+<li>아이템명 | 가격
+<ul>
+<li>중급 균형의 무기 강화석 | 15</li>
+<li>중급 균형의 방어구 강화석 | 5</li>
+<li>다크샤드 무기 강화석 | 60</li>
+<li>다크샤드 방어구 강화석 | 20</li>
+<li>예리한 다크샤드 응집 비법 | 1,300</li>
+<li>단단한 다크샤드 응집 비법 | 550</li>
+<li>(랜덤) 찬란한 엑소도르 무기 상자 | 300</li>
+<li>(랜덤) 찬란한 엑소도르 갑옷 상자 | 300</li>
+<li>(랜덤) 찬란한 엑소도르 장갑 상자 | 300</li>
+<li>(랜덤) 찬란한 엑소도르 신발 상자 | 300</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>승리의 인도자 평판 포인트 상점에 &lsquo;아르보레아의 은빛 결정체&rsquo; 아이템이 추가됩니다. (3,000 포인트)</li>
+<li>낚시꾼의 증표 상점에 크램 떡밥이 추가됩니다.</li>
+<li>고급 등급의 성물/유물 아이템이 &lsquo;착용 시 귀속&rsquo; 속성으로 변경됩니다.</li>
+<li>균형의 강화석을 펫 성장 재료로 사용할 수 있도록 변경됩니다.</li>
+<li>연합 보급품: 수호자의 가면/날카로운 마르샤 블랙 레이스 속옷이 파괴 가능하도록 변경됩니다.</li>
+<li>변화의 잔재 아이템의 스택 수량이 99,999개로 변경됩니다.</li>
+<li>스킬교본: 비행 가속 효율화 아이템이 거래 가능으로 변경됩니다.</li>
+</ul>
+<h3 id="6-퀘스트">6. 퀘스트</h3>
+<ul>
+<li>켈사이크 부활 저지 미션 퀘스트의 수행 조건인 &lsquo;켈사이크&rsquo; 몬스터의 HP가 하향 조정됩니다.</li>
+<li>[중요] 격추 시도 퀘스트 아이템 다시 받기 기능이 추가됩니다.</li>
+</ul>
+<h3 id="7-부가-서비스">7. 부가 서비스</h3>
+<ul>
+<li>T-cat 상점에 아래의 아이템이 추가됩니다.
+<ul>
+<li>스킬교본: 비행 가속 효율화 I (1,000T-cat)</li>
+<li>스킬교본: 비행 가속 효율화 II (9,800T-cat)</li>
+<li>스킬교본: 비행 가속 효율화 III (19,500T-cat)</li>
+</ul>
+</li>
+</ul>
+<h3 id="8-기타312-추가">8. 기타(3/12 추가)</h3>
+<ul>
+<li>길드대전 순위 엠블렘이 삭제됩니다.</li>
+</ul>
+<h3 id="버그수정">[버그수정]</h3>
+<ul>
+<li>출석체크 이벤트 UI에서 지난 날짜 보상을 수령하고 다시 UI를 오픈할 경우 보상받기 버튼이 활성화되지만 보상을 받을 수 없는 문제</li>
+<li>창기사 방패막기 스킬 사용 시, 추락하지 않는 문제</li>
+<li>마공사 빔 판넬 스킬이 해제될 때 스킬 사용이 불가능한 문제</li>
+<li>던전 매칭 UI 내 일부 던전의 보상이 잘못 표기된 문제</li>
+<li>일부 캐릭터에서 신규 추가된 패시브 스킬을 습득할 수 없는 문제</li>
+<li>일부 솔로 컨텐츠 및 전장 발키온 지령서에서 장비 숙련도를 지급하는 문제</li>
+<li>공허한 안타로스의 심연 던전에서 왜곡된 리안의 지하 전당 관련 카드가 드랍되는 문제</li>
+<li>비검사의 암흑채찍의 마법저항무시 효과가 스택 수만큼 적용되지 않는 문제</li>
+<li>상급 위상의 일부 던전에서 응집 비법 아이템이 2개씩 드랍되는 문제</li>
+<li>필드 보스 몬스터의 마지막 타격 보상과 대박 보상 툴팁이 어색한 문제
+<ul>
+<li>(일부 수정되지 않은 아이템이 있어 추후 적용될 예정입니다.)</li>
+</ul>
+</li>
+<li>매칭 진행 중 매칭 UI 아이콘이 우측으로 밀려 있는 문제</li>
+<li>시험의 던전-황금의 미궁에서 엑소도르 정찰대 장비가 드랍되는 문제</li>
+<li>(3/12 추가) 길드 패시브 &lsquo;엘리누의 생명&rsquo; 효과가 툴팁과 상이하게 적용되는 문제</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=430">TERA 테라 | NEXON</a></p>
+
+  </div>
+</div>
+
+
+
+    <div id="back_btn" class="button">back</div>
+  </div>
+  <div id="footer">
+  <div id="footer-content">
+    <span id="footer-title">mysterium</span>
+    <span>powered by Hugo, theme by seraphinush-gaming</span>
+  </div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/articles/</link>
+    <description>Recent content in Articles on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Class base stat values</title>
+      <link>https://seraphinush-gaming.com/en/articles/en/class-base-stats/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/articles/en/class-base-stats/</guid>
+      <description>Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
+    </item>
+    
+    <item>
+      <title>Companions : Introduction</title>
+      <link>https://seraphinush-gaming.com/en/articles/en/companions/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/articles/en/companions/</guid>
+      <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+    </item>
+    
+    <item>
+      <title>Dungeon crit resist values</title>
+      <link>https://seraphinush-gaming.com/en/articles/en/crit-resist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/articles/en/crit-resist/</guid>
+      <description>v99    Dungeon Boss Level target base resistance crit resistance     Forbidden Arena [Nightmare Undying Warlord] Nightmare Undying Warlord 73 90,000 300   Forbidden Arena [Undying Warlord] Undying Warlord 73 90,000 300   Draakon Arena (hard) Nightmare Commander Kalligar 73 80,000 300   Draakon Arena Commander Kalligar 73 80,000 300   Rampaging RK-9 Kennel Rampaging RK-9 73 43,000 290   Corrupted Skynest (hard) Nightmare Revived Kelsaik Level 80,000 300   Corrupted Skynest Kelsaik Level 80,000 300   Forbidden Arena [Hagufna] Hagufna 73 80,000 300   Sea of Honor Ironfang Dixie Level 40,000 230   Core Area Maknakh Level 0 210   Bahaar&amp;rsquo;s Sanctum Phase 1 Level 80,000 300   Bahaar&amp;rsquo;s Sanctum Phase 2 Level 80,000 300   Akalath Quarantine Akalath Kashir Level 20,000 220   Akalath Quarantine Akalath Travan Level 20,000 220   Gossamer Vault (hard) Nightmare Gossamer Regent Level 20,000 210   Gossamer Vault (hard) Hellgramite 71 20,000 210   Grotto of Lost Souls (hard) Nightmare Kylos Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Ptakum Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Nedra 71 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Antaroth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Kalioth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Ghergof 71 20,000 210   Red Refuge Argog Level 10,000 210   Red Refuge Thormentum Level 10,000 210   Red Refuge Kalavese Level 10,000 210   RK-9 Kennel RK-9 Level 10,000 210   RK-9 Kennel Hexapleon Level 10,000 210   RK-9 Kennel Ventarun 70 10,000 210   Training Ground Clawrider 68 90,000 300     Source and credit :</description>
+    </item>
+    
+    <item>
+      <title>Equipment : Mythic Gear (v91)</title>
+      <link>https://seraphinush-gaming.com/en/articles/en/mythic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/articles/en/mythic/</guid>
+      <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
+One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
+    </item>
+    
+    <item>
+      <title>Fishing : Fish locations</title>
+      <link>https://seraphinush-gaming.com/en/articles/en/fishing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/articles/en/fishing/</guid>
+      <description>Angler Token    Grade Amount     0 1   1 1   2 2   3 2   4 2   5 4   6 6   7 8   8 10   9 12   10 15   BAF 30    Muricai Fishery    Grade Fish     0 Stone Moroko   1 Crayfish   2 Angelfish   3 Squid   4 Sea Eel   5 Octopus   6 Eldritch Carp   7 Chroma Salmon   8 Dipturus   9 Mossback   10 Crimson Shark   BAF Golden Catfish    Vexatus Swamp Fishery    Grade Fish     0 Azurecheek Carp   1 Clownfish   2 Black-fin Clownfish   3 Crucian Carp   4 Sea Eel   5 Marlin   6 Catfish   7 Chroma Salmon   8 Dipturus   9 Golden Crayfish   10 Specklefin   BAF Golden Shark    Cutthroat Harbor Fishery    Grade Fish     0 Azurecheek Carp   1 Clownfish   2 Black-fin Clownfish   3 Squid   4 Sea Eel   5 Marlin   6 Mottled Ray   7 Gula Shark   8 Prism Carp   9 Bluefin   10 Gluda Shark   BAF Golden Sailfish    Lake of Tears Fishery    Grade Fish     0 Stone Moroko   1 Crayfish   2 Angelfish   3 Crucian Carp   4 Freshwater Eel   5 Prince Salmon   6 Channel Catfish   7 Electric Eel   8 Crimson Marlin   9 Crimson Squid   10 Makaira   BAF Fairy Snakehead    Celsian Lake Fishery    Grade Fish     0 Stone Moroko   1 Crayfish   2 Angelfish   3 Crucian Carp   4 Sea Eel   5 Prince Salmon   6 Mottled Ray   7 Yellowfin   8 Prism Carp   9 Bluefin   10 Shrieking Eel   BAF Queen Salmon    Seren&amp;rsquo;s Lake Fishery    Grade Fish     0 Azurecheek Carp   1 Clownfish   2 Black-fin Clownfish   3 Squid   4 Freshwater Eel   5 Octopus   6 Eldritch Carp   7 Electric Eel   8 Stone Octopus   9 Golden Eel   10 Makaira   BAF Golden Octopus     Azart Fish Farm    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Jarflower Cnidaria   4 Piranha   5 Cydippida   6 Electric Ray   7 Crimson Tuna   8 Azart Veiltail   9 Pink Slender Catfish   10 Crimson Salmon   BAF Golden Ray    Garden Bridge Fishery    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Jarflower Cnidaria   4 Veiltail   5 Cydippida   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Starsquid   10 Mimic Octopus   BAF Rainbow Cnidaria    Faerie Pond Fishery    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Core Anemone   4 Veiltail   5 Nautiloid   6 Pompom   7 Crimson Tuna   8 Red-Eyed Piranha   9 Starsquid   10 Crimson Salmon   BAF Ammonite    Cloudlake Island    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Jarflower Cnidaria   4 Veiltail   5 Cydippida   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Starsquid   10 Golden Cnidaria   BAF Cloud Anemone    Iridian Fishery    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Core Anemone   4 Piranha   5 Cydippida   6 Electric Ray   7 Crimson Tuna   8 Azart Veiltail   9 Electric Carp   10 Golden Cnidaria   BAF Giant Blue    Verrak Fountain Fishery    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Core Anemone   4 Veiltail   5 Nautiloid   6 Electric Ray   7 Crimson Tuna   8 Red-Eyed Piranha   9 Electric Carp   10 Mimic Octopus   BAF Azart Piranha    Exodor Farmlands    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Core Anemone   4 Piranha   5 Nautiloid   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Pink Slender Catfish   10 Crimson Salmon   BAF Golden Carp    Dazzling Garden    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Jarflower Cnidaria   4 Piranha   5 Cydippida   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Starsquid   10 Golden Cnidaria   BAF Jarflower Veiltail    Predator Territory (Iridian Wetlands)    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Core Anemone   4 Piranha   5 Cydippida   6 Electric Ray   7 Crimson Tuna   8 Red-Eyed Piranha   9 Electric Carp   10 Mimic Octopus   BAF Darkfin    </description>
+    </item>
+    
+  </channel>
+</rss>

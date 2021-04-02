@@ -4,6 +4,7 @@ publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-mysterium"
 defaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
 pluralizelisttitles = false
 
 [params]
@@ -22,14 +23,14 @@ customJs = true
     title = "about"
     url = "/about"
   [[Languages.en.params.nav]]
-    title = "lucidity"
-    url = "/lucidity"
-  [[Languages.en.params.nav]]
     title = "youtube"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.en.params.nav]]
     title = "twitch"
     url = "https://www.twitch.tv/seraphinush"
+  [[Languages.en.params.nav]]
+    title = "patreon"
+    url = "https://www.patreon.com/seraphinush"
   [[Languages.en.params.nav]]
     title = "feedback"
     url = "https://github.com/seraphinush-gaming/mysterium/issues"
@@ -37,14 +38,17 @@ customJs = true
 [Languages.ko]
   weight = 1
   [[Languages.ko.params.nav]]
-  title = "소개"
-  url = "/ko/about"
+    title = "소개"
+    url = "/about"
   [[Languages.ko.params.nav]]
     title = "유튜브"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.ko.params.nav]]
     title = "트위치"
     url = "https://www.twitch.tv/seraphinush"
+  [[Languages.ko.params.nav]]
+    title = "페이트리온"
+    url = "https://www.patreon.com/seraphinush"
   [[Languages.ko.params.nav]]
     title = "피드백"
     url = "https://github.com/seraphinush-gaming/mysterium/issues"

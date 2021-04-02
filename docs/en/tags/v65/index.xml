@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v65 on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/tags/v65/</link>
+    <description>Recent content in v65 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/tags/v65/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017.11.16 patch notes (v65.02.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2017/v65-02-01/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v65-02-01/</guid>
+      <description>1. Dungeon  Increased drop rate of &amp;lsquo;Soulshield Fragment&amp;rsquo; in RMHM  2. Chat  Updated Chat Security   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2017.11.09 patch notes (v65.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2017/v65-02/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v65-02/</guid>
+      <description>1. Skill and balance adjustment  Ninja  Skill : Burning Heart  Changed to the following to revise lag phenomenon upon skill usage and maintaining same effect regardless of size of monster Increase skill damage by 3 times Changed to hit at most once even if the target is large Decreased damage to players by 25% Fixed issue where Burning Heart projectile hit a bigger radi than its actual size   Talent : Burning Heart  Changed the cooldown reduction of Attunement upon successful hit to the following : Tier 1 : 0.</description>
+    </item>
+    
+    <item>
+      <title>2017.10.26 patch notes (v65.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2017/v65-01/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v65-01/</guid>
+      <description>1. Dungeon  Opened Rakelith&amp;rsquo;s Manor  Requires ilvl 439 in order to use IMS Teleportal is located at Popolion High tier material box, Aristan&amp;rsquo;s Tools, Hypnotic Device, Ominous Spell Scroll can be obtained   Opened Rakelith&amp;rsquo;s Manor (hard)  Requires ilvl 446 in order to use IMS Teleportal is located at Popolion High tier material box, Pansophic Ash, Dimensional Fragment, Copper Clasp, Artisan&amp;rsquo;s Tools, Ominous Spell Scroll, Carved Ornament, Soul Shield Fragment can be obtained  Soul Shield Fragment : Item is distributed to all members of the party.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v52 on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/tags/v52/</link>
+    <description>Recent content in v52 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/tags/v52/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016.10.27 patch notes (v52.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2016/v52-01/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2016/v52-01/</guid>
+      <description>1. Skill  Warrior  Revamped Edge system  Edge will stack on the player instead of the monster      - Stack UI will be display beneath the HP/MP bar   - Choosing the option shown above will display stack under the HP bar - Scythe - Changed Glyph of Carving from increase crit chance by 2 times to 3 times against monsters - Increased PvE damage by 10% - Smoke Aggressor - Changed to instantiate instantly - While Shadow is summoned, it will take 50% (PvP 20%) of the damage - Traverse Cut - Removed endurance debuff - Added 0.</description>
+    </item>
+    
+  </channel>
+</rss>

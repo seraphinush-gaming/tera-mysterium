@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>게시물 on mysterium</title>
+    <link>https://seraphinush-gaming.com/ko/articles/</link>
+    <description>Recent content in 게시물 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/ko/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>서번트 (wip)</title>
+      <link>https://seraphinush-gaming.com/ko/articles/ko/companions/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/ko/articles/ko/companions/</guid>
+      <description>서번트 펫과 파트너는 합쳐서 서번트라는 명칭으로 통합되며, 소환하여 게임플레이에 도우미되는 NPC입니다. 예전에는 스킬 UI를 통해 펫을 소환하기 가능했지만, v81부터 파트너가 추가되고 서번트 UI를 통해 소환이 가능해젔습니다. 특별한 능력이 있는 펫들은 아이템 루팅, 골드 루팅, 자동 채집 등 다양한 작업을 할 수 있습니다. 펫 능력과 설명은 다음과 같습니다 :
+   Ability Description     Auto-Caring Use a pet food or present when your pet&amp;rsquo;s Energy / Stamina drops below the percentage indicated.</description>
+    </item>
+    
+  </channel>
+</rss>

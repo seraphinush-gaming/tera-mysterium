@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kaia on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/tags/kaia/</link>
+    <description>Recent content in kaia on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/tags/kaia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Equipment : Mythic Gear (v91)</title>
+      <link>https://seraphinush-gaming.com/en/articles/en/mythic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/articles/en/mythic/</guid>
+      <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
+One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
+    </item>
+    
+  </channel>
+</rss>

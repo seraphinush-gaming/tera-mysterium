@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v73 on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/tags/v73/</link>
+    <description>Recent content in v73 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/tags/v73/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018.06.07 patch notes | K TERA (v73.02.01)</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-02-01/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-02-01/</guid>
+      <description>1. Dungeon  Shadow Sanguinary (hard)  Requires ilvl 446 Teleportal located at Highwatch Outskirts Drops Mask of the Beginning, and other top-tier enchanting materials   Shadow Sanguinary (normal)  Requires ilvl 439 Teleportal located at Highwatch Outskirts Drops Golden Talent, Silver Talent, and other high-tier enchanting materials    2. Item  Added new accessories  Transcendence Necklace Transcendence Earring Transcendence Ring Transcendence Circlet Heroic Vow Belt   Added items required to promote to new accessories  (Following items can be acquired from Antaroth&amp;rsquo;s Abyss (hard), RK-9 Kennel (hard), and Rakelith&amp;rsquo;s Manor (hard)) Worn crate Devil&amp;rsquo;s Claw Dragon&amp;rsquo;s Skull   Added Talent Reset Potion to Specialty Merchants at each town (K TERA exclusive)  Price : 2,000 gold    3.</description>
+    </item>
+    
+    <item>
+      <title>2018.05.31 patch notes | K TERA (v73.02)</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-02/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-02/</guid>
+      <description>1. Battleground  Added Bellicarium credits to rewards and enchanting material box  Revised reward  Corsairs&amp;rsquo; Stronghold  Win :  90,000 Bellicarium credits 7x enchanting material boxes   Lose :  30,000 Bellicarium credits 4x enchanting material boxes     Fraywind Canyon  Win :  90,000 Bellicarium credits 8x enchanting material boxes   Lose :  30,000 Bellicarium credits 5x enchanting material boxes     Champion&amp;rsquo;s Skyring (solo)  Win :  9,000 Bellicarium credits 7x Golden Talents   Lose :  3,000 Bellicarium credits 3x Silver Talents     Champion&amp;rsquo;s Skyring (team)  Win :  4,500 Bellicarium credits 7x Golden Talents   Lose :  1,500 Bellicarium credits 3x Silver Talents           Changed reward from Vanguard request from 1x Champion&amp;rsquo;s Enchanting Chest to 2x Champion&amp;rsquo;s Enchanting Chest Increased Bellicarium credit cap to 2,000,000 credits Added the following items to the Bellicarium credit merchant :  Liquid Metal – 3,000 points Hypnotic Device – 6,000 points Archdevan Surfactant – 30,000 points Artisan&amp;rsquo;s Tools – 9,600 points Copper Clasp – 18,000 points Pansophic Ash – 30,000 points Elemental Essence – 600,000 points Archdevan Formula – 6,000 points Carved Ornament – 12,000 points Otherworldly Shard – 200,000 points Last Element – 1,500,000 points Ruby – 10,000 points   One of the following items can be rewarded from the (new) enchanting material box :  35x Golden Talents 1x Liquid Metal 1x Hypnotic Device 1x Archdevan Surfactant 1x Artisan&amp;rsquo;s Tools 1x Copper Clasp 1x Pansophic Ash 1x Elemental Essence 35x Silver Talents 1x Archdevan Formula 1x Carved Ornament 1x Otherworldly Shard 1x Last Element 1x Mask of the Infinity   Removed Killing Spree and its credit merchant  Developer comment</description>
+    </item>
+    
+    <item>
+      <title>2018.05.24 patch notes | K TERA (v73.01.02)</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-02/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-02/</guid>
+      <description>1. Style shop  K TERA exclusive  2. Event item removal  K TERA exclusive  Bug fixes  Dungeon  Broken Prison, 3rd boss : Fixed issue where portals did not get destroyed occasionally Cruel Dreadspire, 8th floor : Fixed issue where 2 aggro marks were designated Kalivan&amp;rsquo;s Challenge : Fixed issue where defeating 1st boss did not open path to 2nd boss   UI  Fixed issue where certain profile elements were empty occasionally K TERA event exclusive   Skill  Lancer : Fixed issue where Adrenaline Rush talent effect to increase skill damage by 5% did not apply     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2018.05.18 patch notes | K TERA (v73.01.01)</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-01/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-01/</guid>
+      <description>Bug fixes  Skill  Fixed issue where shield-type skills absorbed a static amount of damage   Item  붉은 에메랄드 큐브 툴팁 획득 리스트에 희귀 스킬교본:블루/옐로우 리리가 누락된 문제 수정 (* 희귀 스킬교본: 피닉스,본드래곤 누락 문제 또한 차후 점검을 통해 수정할 예정입니다.)     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2018.05.17 patch notes | K TERA (v73.01)</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-01/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-01/</guid>
+      <description>1. Skill and balance adjustment  Priest  Mana Infusion  Decreased total casting time by 2 seconds, and increased casting speed by 10% Increased MP regeneration from 100 to 500 MP per second Decreased duration from 20 seconds to 10 seconds Increased cooldown from 10 seconds to 20 seconds Changed to maintain abnormality even after using attack skills or getting hit     Slayer  Energy Rush  Changed skill to apply as increase 25% crit chance as it is written in the skill tooltip rather than increase 25% crit factor     Reaper  Shadow Reaping  Changed cooldown from 120 seconds to 90 seconds   Enhanced Shadow Reaping  Changed attacks peed increase from 5% to 4%     Berserker  Thunder Strike  Decreased PVP damage by 5%      2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v67 on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/tags/v67/</link>
+    <description>Recent content in v67 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/tags/v67/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017.12.28 patch notes (v67.01.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2017/v67-01-02/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v67-01-02/</guid>
+      <description>Bug fixes  Skill Fixed issue where using Race Change Voucher on certain awakened classes removed awakening skills  This will no longer occur post-update; please contact Support to recover lost skills   Fixed issue where Priest&amp;rsquo;s Salvation abnormality description displayed Divine Intervention description Fixed issue where Priest&amp;rsquo;s Innervate tooltip had a typo Fixed issue where Berserker&amp;rsquo;s in their Berserk state and sub-zero HP would have their crystals break if hit by monsters Fixed issue where Lancer&amp;rsquo;s Bulwark abnormality had a chance to not disappear under specific circumstances Fixed issue where Warrior&amp;rsquo;s Deadly Gamble tooltip had a typo Fixed issue where Slayer&amp;rsquo;s Colossus Blade PvP damage was higher than intended Quest  Fixed issue where players could die during one of awakening quests&amp;rsquo; debuff   UI  Fixed issue where restarting servers would remove awakened icon in character selection screen     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2017.12.21 patch notes (v67.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2017/v67-01/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v67-01/</guid>
+      <description>1. Class Awakening  Lancer, Warrior, Berserker, Slayer, Brawler, Priest, Mystic - these 7 classes obtain Awakening skills Can proceed with Awakening via new quest Velika Banquet upon ilvl 439 Can obtain [Awakening skill] upon completing Velika Banquet  2. Skill and Balance adjustment  Added new skills and changed existing skills according to Class Awakening update  Lancer  [Awakening Skill] New skill (active) : Righteous Step  Leaps high forward to deliver to strike the ground Targets within 8 meter radius of landing area will take damage, decrease movement speed by 15%, and get lifted in the air Can be chained after Shield Counter and Wallop for casting casting speed, does not penetrate through monsters, and applies a frontal block effect   [Awakening Skill] New skill (active) : Bulwark  Summons a large shield to reflect melee attacks and protect allies Can block critical attacks, and cooldown is significantly increased upon successful block Can move while the large shield is summoned   [Awakening Skill] New skill (active) : Divine Aegis  Blocks damage for self and party members within 20 meters for 10 seconds, and increased combat movement speed is applied Skill casting is an iframe   [Awakening Skill] New skill (passive) : Walking Fortress  Allows movement while holding Standfast, as well as decreasing resolve consumption by 20%   [Awakening Skill] New skill (passive) : Spiked Shield  Reflects damage upon successful perfect block Perfect block against monsters applies an effect which recovers 5% of MP, decreases cooldown of Shield Counter by 0.</description>
+    </item>
+    
+  </channel>
+</rss>

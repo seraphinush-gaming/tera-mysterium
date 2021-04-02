@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on mysterium</title>
+    <link>https://seraphinush-gaming.com/en/patch/en/2019/</link>
+    <description>Recent content in 2019 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://seraphinush-gaming.com/en/patch/en/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019.12.24 patch notes (v91.01.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v91-01-01/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v91-01-01/</guid>
+      <description>Bug fixes  Fixed issue where relogging characters occasionally restored Adventure Coin Fixed issue where chat tab reset and chat UI reset   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.12.19 patch notes (v91.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v91-01/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v91-01/</guid>
+      <description>1. Class balance  Priest  Zenobia&amp;rsquo;s Vortex  Increased the chance to crit   Holy Burst  Slightly decreased the chance to crit      2. Dungeon  Removed Forsaken Island (nm/hm) New : Madness Arena (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Plains of the Damned, Elenea Loot table includes Annihilation/Dark Light Brooch, Annihilation/Dark Light Brooch Token, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Dungeon] Desert Wolf (new) quest Added 4 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythical gear promotion material, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Imporatant] Exodor Advance Base quest Added 5 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (hard) (5 man)  Requires level 69 and ilvl 480 to use Instance Matching System Requires 250 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythical gear promotion material, Mythical gear, Exodor rare/superior gear, Kelsaik&amp;rsquo;s style items (weapon skin), and Darkshad Feedstock Added 4 achievements and 2 hidden achievements and 1 server first clear achievement related to the instance  Server first clear achievement will not be imbued immediately and will be given upon checking appropriate clear  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name          3.</description>
+    </item>
+    
+    <item>
+      <title>2019.12.12 patch notes (v90.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v90-03/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v90-03/</guid>
+      <description>Bug fixes  Fixed issue where relogging reset chat UI position  Fixing this issue reset all chat settings   Fixed issue where UI positions reset for certain characters   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.12.05 patch notes (v90.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v90-02/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v90-02/</guid>
+      <description>Bug fixes    Issue where changed character position reset to the previous position will be revised for the week after   Fixed issue where certain character&amp;rsquo;s Adventure Coin displayed 0/0 Fixed issue where using Elite Status did not add additional Adventure Coins (from 1000 to 1680)  Did not restore above 1680   Fixed issue where character slots did not expand for Frontier account Fixed issue where Reapers with Argog weapon skin displayed Christmas themed weapon skin   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.11.28 patch notes (v90.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v90-01/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v90-01/</guid>
+      <description>1. Elin Valkyrie  Added [Valkyrie] class to Elin race  Cannot use race change voucher until 2020.01.09  Elin Valkyries can race change to Female Castanic Valkyries (but not vice versa)      2. Character slot  Increased max character slot from 22 slots to 23 slots  3. Character progression revision  Talent points (EP)  Changed starting Talent Point to 300 Existing characters with less than 300 Talent Points will be changed to 300   Experience points  Decreased XP required from level 65 to level 69 Decreased HP and damage of field monsters level 65 and above Increased level 65 and above party dungeon Vanguard Request XP and hunting XP Inrceased XP from daily quests Inceased fishing/crafting/gathering XP   Skill Advance  Increased Skill Advance XP gained from level 65 and above party dungeons Increased Skill Advance XP gained from Exodor story quests and zone quests Increased Skill Advance XP gained from Exodor daily quests   Skill Advance Scroll  Increased Skill Advance Scrolls gained from level 65 and above party dungeons Increased Skill Advance Scrolls gained from daily quests Added Skill Advance III Scrolls gained from Exodor daily quests Added Skill Advance III Scrolls to Exodor reputation merchants Increased Skill Advance Scrolls gained from field boss monster Ortan   Guardian gear  Revised necessary enchanting materials and item XP needed to enchant Frostmetal gear Revised necessary enchanting materials and item XP needed to enchant Stormcry gear Revised promotion success rate and necessary enchanting materials and item XP for the following accessories :  Below Entropic accessories Below Quatrefoil Brooch   Increased the promotion success rate of the following accessories :  Entropic accessories and above Quatrefoil Brooch/Marrow Brooch and above   Increased drop amount of Liquid Metal, Hypnotic Device  Lilith&amp;rsquo;s Keep Thaumetal Refinery Velik&amp;rsquo;s Hold Red Refuge Dark Reaches Cathedral Shadow Sanguinary Forsaken Island Rakelith&amp;rsquo;s Manor RK-9 Kennel Velik&amp;rsquo;s Sanctuary      4.</description>
+    </item>
+    
+    <item>
+      <title>2019.11.21 patch notes (v89.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v89-03/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v89-03/</guid>
+      <description>Event  K TERA exclusive returning player event  Bug fixes  Fixed issue where characters with name of &amp;lsquo;name_number&amp;rsquo; due to server merge could not be restored   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.11.14 patch notes (v89.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v89-02/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v89-02/</guid>
+      <description>1. Balance  Priest  Edict of Judgement  Reset cooldown of Zenobia&amp;rsquo;s Vortex and Holy Burst upon casting   Triple Nemesis [Stigma] Talent  Increased debuff duration from 12 seconds to 21 seconds     Mystic  Augmentation  Removed continuous MP consumption during effect   Arunic Release  Reduced MP cost from 1,050 to 700 Decreased skill damage from 9,750 to 8,287   Vollet of Curses [Stigma] Talent  Increased debuff duration from 12 seconds to 21 seconds     Valkyrie  Godsfall  Decreased cooldown from 5 minutes to 4 minutes   Talent  Changed Glaive Strike [Chained Speed Skating] talent to Glaive Strike [Velocity]  Before :  Glaive Strike [Chained Speed Skating] : Increase casting speed of the next skill   After :  Glaive Strike [Velocity] : Increase casting speed (of Glaive Strike) (max 20%)         Gunner  Revised Arcane Splash and damage skills  Skills generating Arcane Splash :  20% chance to generate 1 Arcane Splash per Mana Missile hit (removed explode feature) 15% chance to generate 1 Arcane Splash per Burst Fire hit and Bombardment hit (removed explode feature from Burst Fire) 100% chance to generate 1 Arcane Splash upon successful hit with Time Bomb 30% chance to generate 1 Arcane Splash upon successful hit with Targeted Burst Fire (removed explode feature) 20% chance to generate 1 Arcane Splash per Obliteration hit (removed explode feature and increase explode damage feature)   Skills exploding Arcane Splash :  Blast Arcane Barrage Laser of Remote Trigger Balder&amp;rsquo;s Vengeance II (Added effect to increase explode damage by 3 times upon successfully hitting Arcane Splash with Balder&amp;rsquo;s Vengeance)   Level 69 skill option  Modular Weapon System [Integration]  Added effect to increase explode damage by 2 times upon successfully hitting Arcane Splash with Arcane Barrage          2.</description>
+    </item>
+    
+    <item>
+      <title>2019.10.31 patch notes (v89.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v89-01/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v89-01/</guid>
+      <description>1. New dungeon: Sea of Honor  Eligible for players of level 65 and above, and requires a Wayfarer Map to enter  Wayfarer Map can randomly drop from ilvl 435 and above dungeons and monsters of level 65 and above  Macellarius Catacombs does not drop Wayfarer Map Wayfarer Map cannot be traded nor put in guild bank, and each map can be used to enter along with up to 5 party members     Entrance to the dungeon is at Cutthroat Harbor, via Roni (1 entry per week, 2 entry for Elite Status or equivalent) Upon entering the dungeon, players can select difficulty and use the Wayfarer Map to proceed Depending on the difficulty (1-4), monsters&amp;rsquo; HPs and damage varies, and additional mechanics may be added The following are the rewards for each difficulty  Bonus reward is given upon completing the instance in 30 minutes  Difficulty 1 (recommended ilvl 446 and above)  Reward : XP scroll, Golden/Silver Talent, Metamorphic Emblem   Difficulty 2 (recommended ilvl 453 and above)  Reward : Exodor Weapon Enchanting Scroll [rare], Exodor Armor Enchanting Scroll [rare], Azart Expedition Badge, Metamorphic Emblem   Difficulty 3 (recommended ilvl 461 and above)  Reward : Exodor Weapon Enchanting Scroll [superior], Exodor Armor Enchanting Scroll [superior], Azart Expedition Badge, Metamorphic Emblem   Difficulty 4 (recommended ilvl 475 and above)  Reward : Exodor Weapon Enchanting Scroll [superior], Exodor Armor Enchanting Scroll [superior], Ishara&amp;rsquo;s Halidom, Amarun&amp;rsquo;s Relic   Bonus  50-100x Sea Guardian Token     Exodor Weapon/Armor Enchanting Scrolls can be used on Exodor gear  Using the scroll to enchant costs no other materials, and enchanting success rate is the same as using the enchanting UI to enchant   The following items can be exchanged with Sea Guardian Token :  Skill Advance Scroll I-II, Skill Option Scroll I-II, Emerald, Dixie Pincher&amp;rsquo;s Sea Terror Hammer Dixie Pincher&amp;rsquo;s Sea Terror Hammer is a Berserker specific weapon skin      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.10.24 patch notes (v88.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v88-04/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v88-04/</guid>
+      <description>null
+ source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.10.17 patch notes (v88.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v88-03/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v88-03/</guid>
+      <description>1. Halloween event (K TERA exclusive)  Significantly decreased number of fake Gourdos Removed Frontera from spawn locations for Gourdos  Due to issue where too many spawned in areas that could not be accessed   Removed Gourdos Moongourd x2 from drop table, and adjusted drop rate of other items  Significantly increased the drop rate of Gourdos Moongourd x5    Bug fixes  Fixed issue where Halloween-themed style items disappeared upon entering dungeon/battlergound  Items lost due to this issue will be restored     source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.10.10 patch notes (v88.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v88-02/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v88-02/</guid>
+      <description>1. Field  New : Darkstone Cipher  Defeat monsters on the outer islands of Exodor to obtain materials to combine into &amp;lsquo;Decoded Darkstone Cipher&amp;rsquo;, which is used to obtain hidden treasures on Exodor  Materials :  Damaged Darkstone Cipher Incomplete Darkstone Cipher Flawed Darkstone Cipher Darkstone Cipher Decoding Solution   Using &amp;lsquo;Decoded Darkstone Cipher&amp;rsquo; spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir     New : Sealed Darkstone  Sealed Darkstones spawn on outer islands of Exodor  Sealed Darkstones can be unsealed using &amp;lsquo;Unsealing Scroll&amp;rsquo;, and a Darkstone Fragment can be obtained      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.09.26 patch notes (v88.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v88-01/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v88-01/</guid>
+      <description>1. Companion  Added new Partners Ello and Rico  New Partners can be obtained via Combining/Evolving randomly (uncommon ~ superior) Bond Skill  Ello : Increase magical damage for a set duration Rico : Increase physical damage for a set duration   Gifted Skill  Ello : [ Fellowship I~III (duration), Emergency Service I~III (MP), Rapid Growth I~III (XP), Gathering Support (I~III) ] Rico : [ Fellowship I~III (duration), Urgent Recovery I~III (HP), Dual Boost I~III (XP &amp;amp; Skill Advance), Backup Fisherman (I~III) ]      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.09.19 patch notes (v87.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v87-03/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v87-03/</guid>
+      <description>1. Dungeon  Celestial Arena  Changed required item level from 439 to 431  Adjusted to decrease HP of monsters to reflect the item level change      2. Services  PC bang  K TERA exclusive  K TERA exclusive K TERA exclusive      3. Item  Changed to allow switching between Intel pieces and Naslow&amp;rsquo;s Treasure Map pieces  It is a 1:1 exchange, and cannot be traded on trade broker    4.</description>
+    </item>
+    
+    <item>
+      <title>2019.09.10 patch notes (v87.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v87-02/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v87-02/</guid>
+      <description>1. Field boss  Field boss contents Machnak, Avion, Royal Azart have been disabled  2. Item  Changed the following items&amp;rsquo; names and icons  Physical Machnak Belt -&amp;gt; Red Sun Belt Magical Machnak Belt -&amp;gt; Blue Moon Belt Physical Avion Mask -&amp;gt; Red Sun Mask Magical Avion Mask -&amp;gt; Blue Moon Mask   Added the following items to the shops of the following items  The items are equivalent conversion to the Exodor field monster drops  [Machnak Jaw Bone] | Azart Legion Tag, 1 [Avion Dranium Fragment] | Azart Mark, 1 [Royal Azart Powder] | Azart Suppression Medal, 1     Added the following 4 items  Item  Azart Force Badge Azart Token Exodor Superior Belt Box Exodor Superior Mask Box      3.</description>
+    </item>
+    
+    <item>
+      <title>2019.09.05 patch notes (v87.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v87-01/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v87-01/</guid>
+      <description>1. Dungeon  Increased XP reward for completing level 65+ Vanguard Requests and lass boss in dungeons Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times  2. Partner  Changed to be able to transfer partner Abilities Conditions to activate Gifted Skills for XP boost and skill XP boost has been changed to upon using Bond Skill  3. Class balance  Warrior  Head On (passive)  Changed to only activate crit power effect during Defense Stance   Level 69 Skill Option : Deadly Gamble  Changed [Bellicosity] Skill Option to the following :  Before :  Increase Deadly Gamble duration by 20% during Assault Stance.</description>
+    </item>
+    
+    <item>
+      <title>2019.08.29 patch notes (v86.05) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-05/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-05/</guid>
+      <description>1. Dungeon  Increased XP reward of level 65 or above Vanguard Request and final boss Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times  2. Gear (delayed)  Added new superior brooch Agenvant Brooch Can be equipped starting level 69, and active skill applies Agenvant&#39;s Power buff Upon usage, Azart Energy abnormality is applied for 1.5 minutes, and applies an increase of 30 power, 30 crit factor, and 12% attack speed for 20 seconds  3.</description>
+    </item>
+    
+    <item>
+      <title>2019.08.22 patch notes (v86.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-04/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-04/</guid>
+      <description>1. Field boss monster  Machnak, Avion, Royal Gossamer reopens Changed Royal Gossamer to spawn only in channel 1 Switched last hit reward and jackpot reward  Last hit reward will remain the same to receive both jackpot reward and contribution reward Jackpot reward is randomly given to one participant who has made significant contribution  Boss | last hit reward | jackpot reward  Ortan | Ortan Field Boss Gold Box | Ortan&amp;rsquo;s Treasure Chest Hazard | Hazard Field Boss Gold Box | Hazard&amp;rsquo;s Treasure Chest Cerrus | Cerrus Field Boss Gold Box | Cerrus&amp;rsquo;s Treasure Chest Machnak | Machnak Field Boss Gold Box | Machnak&amp;rsquo;s Treasure Chest Avion | Avion Field Boss Gold Box | Avion&amp;rsquo;s Treasure Chest       New field boss Agenvant update is delayed until 08/29 (Thurs)  2.</description>
+    </item>
+    
+    <item>
+      <title>2019.08.14 patch notes (v86.03.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-03-01/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-03-01/</guid>
+      <description>1. Exodor  Increased channel count to 3 Temporarily disabled spawn of Royal Parf, Machnak, and Avion  There was an issue where reward was delivered twice; content will reopen as it is fixed    Bug fixes  Fixed issue where reward parcel message for defeating Machnak was awkward Fixed issue where Jump Platforms on outer islands did not operate Fixed issue where Skill Advance data reset after 07/23 maintenance, and items to restore Skill Advance have been sent Skill Advance XP, scrolls, and gems for gold have will be distributed soon   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.08.08 patch notes (v86.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-03/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-03/</guid>
+      <description>1. Field boss  New : Avion  Spawns south of Vernark Fortress, Exodor (channel 1)  Island can be accessed through Argaff Jump Platforms   Upon defeating Avion, the player dealing the last hit will receive one of the following rewards :  Avion Treasure Box (1 of the following items) :  Shining Avion Mask Fierce Avion Mask   One random participant will also receive the following reward :  Reward  Avion Raid Gold Box     The following contribution reward will be distributed depending on the amount of damage dealt  Damage contribution is party-based No reward will be distributed to players who have not contributed enough to defeat the boss  Reward  Avion Raid Silver Box Avion Raid Box Avion&amp;rsquo;s Dranium Piece           (Fixed) Changed field boss content reward distribution to parcel  As per fix, Machnak and Royal Parf    2.</description>
+    </item>
+    
+    <item>
+      <title>2019.08.01 patch notes (v86.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-02/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-02/</guid>
+      <description>1. Argaff&amp;rsquo;s Hatchery  Increased spawn rate of Nomadic Caimans and Dimensional Portal  2. Field Boss Monster  Reinforced criteria for earning wnd rank participation reward  3. Quest  Changed Card Index completion progress reward  Removed progression stage reward for completing Big Horn Argaff card set    Bug fixes  Fixed issue where Skill Advance points and Skill Advance state reset (to zero) Fixed issue where sorting inventory occasionally causes client to crash Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) Fixed issue where Slayer&amp;rsquo;s Measured Slice was coded as magical damage Fixed issue where Ninja&amp;rsquo;s Boomerang Shuriken&amp;rsquo;s skill damage was unexpectedly high Fixed issue where recent transactions on trade broker displayed irregular item levels Fixed issue where UI scaling did not affect pop-up UI for purchasing items Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard Fixed issue where Partners occasionally spoke about item level Fixed issue where players could proceed through without being directed by quest NPC Fixed issue where certain NPCs were stacked Fixed issue where Nomadic Merchants could spawn in all channels Fixed issue where players could receive multiple quest items through Etching Crafting tutorial Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank Fixed issue where cracked ground aesthetics for Machnak combat area seemed like it was floating Fixed issue where returning player items displayed different expire date and stats than intended Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed Fixed issue where summoned Partners displayed a chat upon spawning in each area Fixed a K TERA exclusive issue Fixed issue where using a skill in Velika: Civil Unrest causes self-damage   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.07.25 patch notes (v86.01.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-01-01/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-01-01/</guid>
+      <description>1. Exodor  Increased channel count in all Exodor regions except Core region Added sub-title Butterfly Signal Distractor to two of the monsters  2. Quest  K TERA exclusive comment  Bug fixes  Fixed issue where Baramara BAMs did not fight one another Fixed issue where zone quest did not count while completing dungeon as a raid Fixed issue in Verark Fortress where certain 2nd boss mechanic caused client to crash Fixed issue in Verark Fortress where players could mount flying mounts in combat arena Fixed issue where certain NPC for Exodor story quest was placed twice Fixed issue where defeating quest monster before talking to Jalena preventing quest progress Fixed issue where completing Gathering Effect in Index UI prevented changing tabs Fixed issue where a certain monster&amp;rsquo;s effects did not display properly Fixed issue where spawn rate of Dimensional Portal upon defeating Nomadic Caimans was unexpectedly high during party status Fixed issue where 2019 summer event items displayed faulty expiration date Fixed issue where system message upon trying to inspect a logged out character had a typo   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.07.23 patch notes (v86.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v86-01/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v86-01/</guid>
+      <description>1. Zone expansion  Expanded floating island “Exodor” zone  A new story quest is obtained from NPC 에키오르 라펠레이트 upon completing [Important] Bringing Down Exodor story quest Said NPC is located at Spring Valley Exodor consists of four regions :  Garden Ranch Viridian Wetland Verark Fortress      2. Dungeon  New : Vernark Fortress (5-man)  Instance Matching System can be accessed upon reaching level 69, and item level 458 Requires 385 Aventure Coins to enter, and is limited to 40 entries (80 for Elite) per week Teleportal is located on the upper floor of Verark Fortress, Exodor   Added Skill Advance XP reward to the following 12 dungeons  Dungeon :  Rakelith&amp;rsquo;s Manor (normal/hard) RK-9 Kennel (normal/hard) Velik&amp;rsquo;s Sanctuary (normal/hard) Grotto of Lost Souls (normal/hard) Antaroth&amp;rsquo;s Abyss (normal/hard) Forsaken Island Bahaar&amp;rsquo;s Sanctum     Ghillieglade  Changed starting location to the front of the bridge   Red Refuge  Added a dungeon-specific weapon design  Argog Weapon  Can be obtained as weapon skin box, or by combining Refined Metal (가공된 광물) and Argog&amp;rsquo;s Toenail obtained upon defeating Argog       Ace dungeon  Changed level appropriately, and adjusted reward accordingly  Lilith&amp;rsquo;s Trial : ilvl 431 Akasha&amp;rsquo;s Trial : ilvl 412 to ilvl 439 Baracos&amp;rsquo; Trial : ilvl 412 to ilvl 446   Adjusted to increased Golden Talent and Silver Talent Added to apply a movement speed buff through all Ace dungeons Increased elevator speed in Lilith&amp;rsquo;s Trial   Celestial Arena  Changed total stage count (from 7 to 5) Changed monster HP, and revised to move to the next stage faster upon defeating all monsters Adjusted to increase Golden Talent/Daric/Plate and Silver Talent/Daric/Plate reward Changed item level appropriately (from 412 to 439) Significantly increased audience cheer buff   Adjusted to increase the enchanting material reward of the following dungeons :  Ravenous Gorge Channelworks Velik&amp;rsquo;s Hold Thaumetal Refinery Lilith&amp;rsquo;s Keep    3.</description>
+    </item>
+    
+    <item>
+      <title>2019.07.11 patch notes (v85.05) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v85-05/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v85-05/</guid>
+      <description>1. Class  Priest  Zenobia&amp;rsquo;s Vortex Shocking Implosion  Increased HP regeneration of Zenobia&amp;rsquo;s Vortex by 2 times during Edict of Judgement   Triple Nemesis  Adjusted to increase duration of Glyph of Enfeeblement abnormality from 12 seconds to 21 seconds   Guardian&amp;rsquo;s Sanctuary  Changed HP regeneration Changed to casting to be instant instead of having a 1.5 second casting duration      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.07.04 patch notes (v85.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v85-04/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v85-04/</guid>
+      <description>1. Dungeon  Forsaken Island (hard) (5-man)  Instance matching system can be used starting level 65, at item level 453 and above Costs 150 Adventure Coins, and can be accessed once per day (twice for VIP) Teleportal is located at Cutthroat Harbor Loot table includes Stormcry gear box, Sacred Mallet, Weights, Halidoms/Relics, Naslow&amp;rsquo;s Treasure Map right piece, and Mysterious Intel right piece   Forsaken Island (5-man)  Instance matching system can be used starting level 65, at item level 438 and above Costs 75 Adventure Coins, and can be accessed once per day (twice for VIP) Teleportal is located at Cutthroat Harbor Loot table includes Frostmetal gear box, Carved Ornament, Artisan&amp;rsquo;s Tools, Otherworldly Shard, Onset Mask, Sacred Mallet, Weights, Halidoms/Relics, and Naslow&amp;rsquo;s Treasure Map left piece   Ghillieglade  Added Superior innerwear as item reward  Supperior innerwear can now be used with randomizer cube   Slightly increased Goldfinger Token drop rate and drop amount    2.</description>
+    </item>
+    
+    <item>
+      <title>2019.06.27 patch notes (v85.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v85-03/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v85-03/</guid>
+      <description>1. Dungeon  Demokron Factory (normal/hard)  Adjusted to reduce HP of bosses    2. Vanguard Initiative Request  Added level XP to the following solo content Vanguard Requests :  Content :  The Pit of Petrax Echoes of Aranea Celestial Arena Ace Dungeon : Lilith&amp;rsquo;s Trial Ace Dungeon : Akasha&amp;rsquo;s Trial Ace Dungeon : Baracos&amp;rsquo; Trial Island of Dawn : Hunt Brutal Naga Battlemasters Island of Dawn : Hunt Brutal Iron Giants Island of Dawn : Hunt Brutal Onyx Hydraths Island of Dawn : Hunt Brutal Bloodbound Teraliths Island of Dawn : Hunt Brutal Fimbrilisks Island of Dawn : Hunt Brutal Searing Fangspawns Island of Dawn : Hunt Brutal Basilisks Island of Dawn : Hunt Brutal Orisks Island of Dawn : Hunt Brutal Ovoliths      3.</description>
+    </item>
+    
+    <item>
+      <title>2019.06.20 patch notes (v85.02.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v85-02-01/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v85-02-01/</guid>
+      <description>Bug fixes  Fixed issue in Gossamer&amp;rsquo;s Vault (hard) where certain mechanics could be cancelled Fixed issue where certain Summer Festival event costumes could be used to as fodder for random costume box Fixed issue where Nomadic merchants spawned in all channels Fixed issue where gathering speed for certain gathering nodes was irregular   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.06.13 patch notes (v85.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v85-02/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v85-02/</guid>
+      <description>1. Balance  Mystic  Arunic Release  Increased crit chance by 2 times     Priest, Mystic  Battle Solution  Changed effect from increase attack speed to increase crit power  Crit power value is the same as other classes        2. Summer festival  K TERA comments  3. Dungeon  Adventure Coin cost has been reduced for the following dungeons :  Gossamer&amp;rsquo;s Vault (hard) : from 435 to 370 Bahaar&amp;rsquo;s Sanctum : from 345 to 295 Demokron Factory (hard) : from 390 to 330 Gossamer&amp;rsquo;s Vault : from 290 to 245 Demokron Factory : from 260 to 220    4.</description>
+    </item>
+    
+    <item>
+      <title>2019.06.03 patch notes (v85.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v85-01/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v85-01/</guid>
+      <description>1. Dungeon  New : Argaff&amp;rsquo;s Nest (hard)  Added a hard mode to existing Argaff&amp;rsquo;s Nest (1-man) Requires level 65, and can enter as a party (max 5-man)  Can only be accessed by party members of an existing party made before the dimensional portal spawns   Entry method is the same as is with existing Argaff&amp;rsquo;s Nest (1-man), and can receive approxiately 1.5 times the experience points   Reinforced certain wipe mechanics in Demon&amp;rsquo;s Wheel  2.</description>
+    </item>
+    
+    <item>
+      <title>2019.05.23 patch notes (v84.05) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-05/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-05/</guid>
+      <description>1. Dungeon  Demon&amp;rsquo;s Wheel (5-man)  Open until maintenance on 6/27 Requires level 65, and item level 446 to use instance matching system Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) Teleportal is located at Allementheia Outskirts   Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&amp;rsquo;s Claws, Dragon Skull, and [Event] Demoros&amp;rsquo; Supply Box. Mysterious Intel pieces and Dr.</description>
+    </item>
+    
+    <item>
+      <title>2019.05.16 patch notes (v84.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-04/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-04/</guid>
+      <description>1. Other  Leaderboard  Extended current season by 7 days (5/9~6/13)    Bug fixes  Fixed issue in Gossamer Vault (hard) where certain last boss mechanics prevented voice lines from playing Fixed issue in Argaff Hatchery where a certain enemy pushed Brawlers that are blocking Fixed issue in Argaff Hatchery where players could move inside of a certain enemy Fixed issue where event gear that maxes at +7 could be registered in enchant UI Fixed issue where registering pet bank skill to skillslot UI and moving the skill to another slot displayed a default skill icon Fixed issue where players could go through certain objectives using Priest&amp;rsquo;s Divine Charge Fixed issue where premium slot items did not rest occasionally Fixed issue where certain items could be stored in bank and guild bank Fixed issue where rested XP stacked differently than intended (수정) 휴식 경험치 획득 방식이 몬스터 처치 시 획득 경험치를 기준으로 적용되지 않고 있던 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.05.09 patch notes (v84.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-03/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-03/</guid>
+      <description>1. Balance  Slayer  Overhand Strike: Focus  Adjusted to increased skill damage increase per stack from 1% to 2% (max stack from 15% to 30%)   Propulsion  Changed requirement to decrease cooldown of Measured Slice from &amp;lsquo;upon critical hit&amp;rsquo; to &amp;lsquo;upon hit&amp;rsquo; with Whirlwind   Punishing Blow  Increased skill damage by 10%      2. Content  Nomadic Caiman &amp;amp; Argaff Hatchery  Adjusted to increase chance to spawn Nomadic Caiman or Dimensional Door by 4 times Adjusted to decrease XP gained from defeating Nomadic Caiman Adjusted to decrease XP and skill advancement XP gained from defeating Hatchery monsters   Argaff Scout Intel  Changed Doubtful Intel piece to drop in the following dungeons  From Doubtful Intel (Left) to Doubtful Intel (Right)  Red Refuge RK9-Kennel Dark Reach Citadel Velik&amp;rsquo;s Sanctuary Shadow Sanguinary Grotto of Lost Souls Ruinous Manor Antaroth&amp;rsquo;s Abyss     Changed Doubtful Intel piece to drop from the following monsters  From Doubtful Intel (Left) to either Doubtful Intel (Left) or Doubtful Intel (Right) (by chance)  List of 28 level 65-70 monsters  그림자 경계병 철갑가시 오칸 병든 롱터스크 불타는 유적 길리두 성역의 파수꾼 오염된 롱터스크 오염된 뿌리약탈자 폐허 파괴자 알쿠스 부활의 나무 오염된 볼칸 야수의 숲 볼칸 폐허를 방황하는 악마 시간의 수호자 오염된 뿌리약탈자 아둔한 장물꾼 사막 바실리스크 푸른이끼부족 예언가 파르프 비열한 도굴꾼 폐허 하이에나 푸른이끼부족 주술사 파르폰 둥근 부리 파수꾼 검은불꽃 알쿠스 푸른이끼부족 전사 폭주한 황금 정원사 낡은 거인의 하수꾼 고블린 도둑          3.</description>
+    </item>
+    
+    <item>
+      <title>2019.05.02 patch notes (v84.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-02/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-02/</guid>
+      <description>1. Other  Changed path guide in Necromancer&amp;rsquo;s Tomb (1-man) Changed certain level progression instances to reset automatically upon re-entering the instance for convenience  Quest progression is adjusted accordingly Instances of the following quest are reset automatically :  Quest  1507 ???? (전염병의 원인을 찾아서) 2501 Secrets Not Meant to Be Known 2801 Vision of Destiny 3901 Unveil the Mask 401 Rescue the Core 5601 Drowned In Blood 5602 Sikander&amp;rsquo;s Bane 3702 Fragment of Hope 5201 Into the Furnace 17207 The Battle for Intrepid       Decreased chance of getting Banana Peel from Weird Sack (placeholder) from 50% to 20% for Stolen Cure quest  2.</description>
+    </item>
+    
+    <item>
+      <title>2019.04.25 patch notes (v84.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v84-01/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v84-01/</guid>
+      <description>1. Dungeon  New: Azart Hatchery (1-man)  Can be entered through a warp hole randomly generated by defeating Nomadic Caiman and/or level 65 and/or above monsters/BAMs Loot table includes Skill Advancement XP and Naga Guard&amp;rsquo;s Belongings (Blightoath gear, rare Halidom/Relic)  Nomadic Caiman     Nomadic Caiman spawns by defeating level 65 and/or above monsters from the following zones Loot table includes Skill Advancement XP and Worldly Crystal :  Location  Celestial Hills Essenian Crest Timeless Woods Balder&amp;rsquo;s Refuge Ex Prima Sienna Canyon Progression dungeon   Changed Relic Weapon drop to be class-relevant to the classes within party    2.</description>
+    </item>
+    
+    <item>
+      <title>2019.04.18 patch notes (v83.06) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-06/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-06/</guid>
+      <description>1. Dungeon  Demokron Factory (nm/hm)  Changed 2nd boss to no longer be immune to damage during poison panel pattern    2. Item  Changed the following level progression quest items to be collected in its respective quest :  Quest name : Quest item  1506 ???? (붉은 저주의 마을) : 602033 ???? (광혈병 연구 보고서) 1507 ???? (전염병의 원인을 찾아서) : 602042 ???? (옛 보급창고 기록) 1505 Discredit Where Credit Is Due : 602039 ?</description>
+    </item>
+    
+    <item>
+      <title>2019.04.11 patch notes (v83.05) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-05/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-05/</guid>
+      <description>1. Dungeon  Demokron Factory (hard) .. 7-man instance  Level 67 dungeon, requiring ilvl 456 Costs 490 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, upgrade materials for Luminescent Necklace/Circlet, and Dr. Wilson&amp;rsquo;s Treasure Map (Right)   Demokron Factory .. 7-man instance  Level 66 dungeon, requiring ilvl 453 Costs 260 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, Devil&amp;rsquo;s Claws, Dragon Skull, and Dr.</description>
+    </item>
+    
+    <item>
+      <title>2019.04.09 patch notes (v83.04.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-04-01/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-04-01/</guid>
+      <description>1. Services  Changed XP Boost items to stack  Skill XP Boost, EP Boost, Reputation Boost  Stacked items are inactive, and activates upon expiration of the existing boost      Bug fixes  Fixed issue where XP Boost item effects ended upon entering Battleground   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.04.04 patch notes (v83.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-04/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-04/</guid>
+      <description>1. Balance  Mystic  Enhanced: Thrall of Life  Changed to recover HP and cleanse caster as well upon using skill     Healer (common)  Ressurection  Adjusted skill effect to display the actual effect radius Changed to display skill effect equally for all race types     Reaper  Level 69 Talyph Dark Veil  Changed to increase cooldown of Shadow Reaping by a factor of 2     Ninja  Enhanced Burning Heart  Adjusted skill hit range     Slayer  Savage Strike  Adjusted to decrease skill cancel time after first hit for fluid chaining of skills      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.03.28 patch notes (v83.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-03/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-03/</guid>
+      <description>1. Dungeon  Parquina&amp;rsquo;s Nest (hard)  Changed Adventure Coin cost from 535 to 435   Macellarius Catacombs (3-man)  Can access upon reaching level 65, item level 440 Costs 285 Adventure Coins, and can access up to 40 times (80 times for VIP) per week Teleportal is located in Arx Umbra Loot table contains Experience Scroll I (time limited), Emeralds, Relic/Hallow, merging material   Manglemire (5-man)  Reopened until April 18th Can access upon reaching level 65, item level 439 Costs 80 Adventure Coins, and can access up to 1 time (2 times for VIP) per day Teleportal is located in Pora Elinu Loot table contains Artisan&amp;rsquo;s Tools, Copper Clasp, Liquid Metal, Dyad Niveot Structure, Hypnotic Device, Archdevan Surfactant    2.</description>
+    </item>
+    
+    <item>
+      <title>2019.03.21 patch notes (v83.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-02/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-02/</guid>
+      <description>1. Partner  Revised Servant functions  Added on/off toggle for Servant chat bubbles  Option is available through Option &amp;gt; Game &amp;gt; Community   Added sort, delete function  Can be sorted through Servant UI, via &amp;lsquo;sort&amp;rsquo; button Can delete Servant through Servant UI, via &amp;lsquo;X&amp;rsquo; button   Changed to be able to summon Servant via hotkey  Option is available through Option &amp;gt; Key settings &amp;gt; Servant      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.03.14 patch notes (v83.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v83-01/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v83-01/</guid>
+      <description>1. Balance  Gunner  Bombardment  Changed cooldown start point to the start of missile launch After using skill, if the skill is cancelled before missile launch, then cooldown does not apply      2. Battleground  Battleground matching  Changed to form teams based on player rankings Applies to all battlegrounds with ranking    3. Merchant NPC  Added magic materials merchant in cities (Highwatch, Velika, Allementheia, Kaiator) The following items are sold :  Supreme Metal Enchantment Seal Accessory Morpher Uncommon Accessory Morpher Ancient Accessory Morpher   Added Ancient Accessory Morpher.</description>
+    </item>
+    
+    <item>
+      <title>2019.03.07 patch notes (v82.04) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v82-04/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v82-04/</guid>
+      <description>1. Balance  Sorcerer  Slightly decreased aggro obtained from the following skills :  Ice Lance Iceberg Prime Flame Arcane Storm Fusion     Priest  Focus Heal, focus talyph option  Changed from healing 2.5% HP per second for 5 seconds to healing 120 HP per second for 5 seconds Changed to apply effect from healing stats     Mystic  Arun&amp;rsquo;s Vitae - Glyph of Restoration  Changed from healing 20% HP to 35,000 HP after using skill      2.</description>
+    </item>
+    
+    <item>
+      <title>2019.02.28 patch notes (v82.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v82-03/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v82-03/</guid>
+      <description>1. Battleground  Wintera Snowfield  Reopened Wintera Snowfield  KTERA exclusive operation hours     Vanguard Request reward  100 Gold 1215 EP XP 1650 item XP Optional : [100 Gold|1215 EP XP]   Win/loss reward  Win : 40x Wintera Battleground Tokens, 130,000 BC credits Lose : 20x Wintera Battleground Tokens, 43,000 BC credits    2. Other  Added guide description to gift/feed servant in UI Added option to open pet bank through bank NPC  Option is only available to characters that have pets with bank abilities    Bug fixes  Fixed issue at 2nd boss of Parquina&amp;rsquo;s Nest where skill damage varied depending on whether or not the player is close to the center Fixed issue where Popori Brawler&amp;rsquo;s final Rhythmic Blows hit animation was awkward Fixed issue where range on Priest&amp;rsquo;s Focus Heal and Mystic&amp;rsquo;s _ was different from its respective tooltip Fixed issue where NPC Ron in charge of leading party to Treasure Box would get stuck on its path Fixed issue at 1st/2nd boss of Parquina&amp;rsquo;s Nest (hard) where skills that reset aggro did not reset aggro Fixed issue where cooldown of Ninja&amp;rsquo;s Death Blossom I was 10 seconds long Fixed issue in Parquina&amp;rsquo;s Nest where Warrior&amp;rsquo;s Combative Strike skill effect occasionally did not work Fixed issue where character event counter did not progress for defeating event monsters   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2019.02.21 patch notes (v82.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v82-02/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v82-02/</guid>
+      <description>1. Popori Brawler  Added new class [Brawler] to race Popori  Can be raced changed to Popori after March 28th   Expanded character limit from 21 slots to 22 slots  2. Dungeon  New : Parquina&amp;rsquo;s Nest (hard)  Can enter starting from ilvl 457 Teleportal is located in Essenian Crest, Essenia Can obtain Worldly Essence, Talyph XP, Supreme Metal, Weight Pendulum, Pure Essential Butterfly Gem, Pure Essential Butterfly Dust, Dr.</description>
+    </item>
+    
+    <item>
+      <title>2019.02.14 patch notes (v82.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v82-01/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v82-01/</guid>
+      <description>1. Field  Added Treasure Map content Treasure Map items can be obtained by merging two of Dr. Wilson&amp;rsquo;s Map Pieces (left, right)  조합  윌슨 박사의 지도 조각 왼반쪽 1개 윌슨 박사의 지도 조각 오른반쪽 1개   결과물  윌슨 박사의 보물 지도[???] 1개   Dr. Wilson&amp;rsquo;s Map Piece (Left) can be obtained from ilvl 435-445 dungeons, while Dr. Wilson&amp;rsquo;s Map Piece (Right) can be obtained from ilvl 446-456 dungeons While Map Pieces cannot be traded, it can however be deposited into Guild Bank  Map Pieces expire in 15 days   A random Treasure Map can be obtained by using Dr.</description>
+    </item>
+    
+    <item>
+      <title>2019.01.31 patch notes (v81.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v81-02/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v81-02/</guid>
+      <description>1. Dungeon  New : Parquina&amp;rsquo;s Nest  Level 65, ilvl 453 dungeon Teleportal is located in Essenian Crest Added Parquina&amp;rsquo;s Nest story quest (can be proceed after completing “In midst of falling and landing” story quest) Loot table includes Worldly Essence, talyph XP, Supreme Metal, Springy Draco Limb, Stormcry gear box, Veilthroch, Transcendence Mask, Transparent mask/weapon sheath, and accessories    2. Classic server open  Opened TERA classic server consisting of 2014 content such as Shandra Manaya and Kelsaik&amp;rsquo;s Nest Classic server can only be accessed through a separate client, and will be ported over to the same client as the client hosting Glory of Arun server on March 14th.</description>
+    </item>
+    
+    <item>
+      <title>2019.01.24 patch notes (v81.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v81-01/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v81-01/</guid>
+      <description>New : Partner system   Added partner system  Upon reaching level 66, story quest &amp;lsquo;Thrall Egg&amp;rsquo; can be accepted from NPC Lumin in Highwatch, and receive partner [Coco Mingming] as reward   Partner structure  Rank and affinity  Rank  Rank can increased via upgrade Upon upgrading, affinity is randomly increased  Higher affinity increases effect of affinity skill         Skill  Affinity skill  Can be used every 3 minutes while partner is summoned   Ability skill  Upon register a partner, one of the following skills is randomly granted  Partner : Mari  Strengthen affinity I-III Urgent HP restorative I-III Swift XP progression I-III Crafting support I-III   Partner : Kunkun  Strengthen affinity I-III Urgent MP restorative I-III Swift talyph progression I-III Fishing support I-III   Partner : Coco Mingming  Strengthen affinity I-III Shield I-III Swift multi progression I-III Gathering support I-III   루미  교감 강화 I~III 긴급 회복 I~III 성장 가속 I~III 제작 지원 I~III   Skill : Effect  Strengthen Affinity : Increase duration of affinity skill at a low chance upon entering combat Urgent HP restorative : Restore HP per second for a limited time at a low chance upon decreasing HP Urgent MP restorative : Restore MP per second for a limited time at a low chance upon decreasing MP Shield : Absorb damage for a limited time at a low chance upon decreasing HP Swift XP progression : Increase XP gained for a limited time at a low chance upon giving a gift to your partner Swift talyph progression : Increase talyph XP gained for a limited time at a low chance upon giving a gift to your partner Swift multi progression : Increase XP and talyph XP gained for a limited time at a low chance upon giving a gift to your partner Crafting support : Increase chance of critical success for a limited at a low chance upon crafting Fishing support : Increase chance to catch BAF for a limited time at a low chance upon fishing Gathering support : Decrease gathering time for a limited time at a low chance upon gathering         Transmission  Abilities that a pet possesses can be transferred to your partner   Stamina  Partner stamina decreases by 1 per minute while summoned  Partner stamina can be restored by using gift items  Gift items can be crafted or bought from the merchant  Gift item designs can be bought from the processing materials merchant Dog statue Pig statue Popori statue          2.</description>
+    </item>
+    
+    <item>
+      <title>2019.01.17 patch notes (v80.03) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v80-03/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v80-03/</guid>
+      <description>1. Server merge  Servers are now merged  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-man to 3-man instances Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer Changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
+    </item>
+    
+    <item>
+      <title>2019.01.10 patch notes (v80.02.01) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v80-02-01/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v80-02-01/</guid>
+      <description>Fishing   XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Talyph XP scroll I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
+    </item>
+    
+    <item>
+      <title>2019.01.03 patch notes (v80.02) | K TERA</title>
+      <link>https://seraphinush-gaming.com/en/patch/en/2019/v80-02/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/patch/en/2019/v80-02/</guid>
+      <description>1. Quest  Added story quest-specific 1-man level progression dungeons  Bastion of Lok (1-man)  Can enter via appropriate story quest   Sinistral Manor (1-man)  Can enter via appropriate story quest   Cultists&amp;rsquo; Refuge (1-man)  Can enter via appropriate story quest     Removed Kumas Royale story quest  Quest already received and not completed will automatically be completed upon update   Fixed to display escort quest NPCs on minimap via an orange dot marking  2.</description>
+    </item>
+    
+  </channel>
+</rss>
