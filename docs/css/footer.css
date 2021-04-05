@@ -12,3 +12,7 @@
   margin: 5px 0px;
   color: var(--color-footer-font);
 }
+
+.footer h4 {
+  margin: 0 !important;
+}

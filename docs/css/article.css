@@ -52,7 +52,7 @@ pre {
   background-color: var(--color-code) !important;
 }
 
-p code {
+p code, li code, table code {
   margin: 2px 2px;
   padding: 1px 4px;
   border-style: solid;
