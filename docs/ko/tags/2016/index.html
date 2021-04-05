@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="description" content="blog by seraphinush">
+<meta name="description" content='blog by seraphinush'>
 <link rel="icon" type="image/png" href='/favicon.png'>
 
 
@@ -15,11 +15,24 @@
 <link rel="stylesheet" href='/css/modal.css' />
 
 
-<script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/modal.js"></script>
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
 
 
-<script type="text/javascript" src="/custom.js"></script>
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  console.log(theme)
+  if (theme) {
+    document.documentElement.classList.add('dark-theme')
+  }
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
 
 
 
@@ -41,1395 +54,1188 @@
 
 
 <body>
-  <div id="header">
-  <div id="header-left-container">
-    <a href="/"><span id="header-title">mysterium</span></a>
-    <span id="header-desc">blog by seraphinush</span> 
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  <a href='/'>
+    
+    <img class="nav-logo" src='/logo.png' alt="" />
+    
+
+    <div class="links">
+      
+      <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+        <span class="line-wrap"><span class="line"></span>
+          유튜브
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.twitch.tv/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          트위치
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.patreon.com/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          페이트리온
+        </span>
+      </a>
+      
+      <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+        <span class="line-wrap"><span class="line"></span>
+          피드백
+        </span>
+      </a>
+      
+    </div>
+
+    <div class="desktop-theme flex-row">
+      <div class="separator-desktop"></div>
+      
+      <span class="link">디자인 :</span>
+      
+      <div id="desktop-theme" class="button">
+        <div id="desktop-theme-toggle" class="button-toggle"></div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
   </div>
-  <div id="header-right-container">
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
     
-      <a href="/about"><div class="nav-item">소개</div></a>
+    <h2>디자인 :</h2>
     
-      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">유튜브</div></a>
-    
-      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">트위치</div></a>
-    
-      <a href="https://www.patreon.com/seraphinush"><div class="nav-item">페이트리온</div></a>
-    
-      <a href="https://github.com/seraphinush-gaming/mysterium/issues"><div class="nav-item">피드백</div></a>
-    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
   </div>
 </div>
-  <div id="modal-container">
+    <div id="modal-container">
   <span id="modal-close">&times;</span>
   <span style="display: inline-block; height: 50%;"></span>
   <img id="modal-image" />
 </div>
-  <div id="container">
-    
+    <div class="content flex flex-column">
+      
 
 
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v54-01-01/">2016년 12월 29일 업데이트 안내 (v54.01.01)</a></h3>
-  </div>
-
+<div class="paths">
   
   
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v54/">v54</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
+  <a class="path" href="https://seraphinush-gaming.com/ko/">mysterium</a> / 
+  <a class="path" href="https://seraphinush-gaming.com/ko/tags/">Tags</a>
 </div>
 
 
+<h1 class="items-title">2016</h1>
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v54-01/">2016년 12월 22일 업데이트 안내 (v54.01)</a></h3>
-  </div>
+<div class="items flex flex-column">
 
   
-  
-  <div class="article-tags">
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v54-01-01/">
+      <h4>2016년 12월 29일 업데이트 안내 (v54.01.01)</h4>
+    </a>
+
     
-    <a href="/tags/2016/">2016</a>
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v54">v54</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
   </div>
   
-  <div class="article-tags">
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v54-01/">
+      <h4>2016년 12월 22일 업데이트 안내 (v54.01)</h4>
+    </a>
+
     
-    <a href="/tags/v54/">v54</a>
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v54">v54</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
   </div>
   
-  <div class="article-tags">
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v53-02/">
+      <h4>2016년 12월 13일 업데이트 안내 (v53.02)</h4>
+    </a>
+
     
-    <a href="/tags/raw/">raw</a>
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v53">v53</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
   </div>
   
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v53-01-01/">
+      <h4>2016년 12월 08일 업데이트 안내 (v53.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v53">v53</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
   
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v53-01/">
+      <h4>2016년 12월 01일 업데이트 안내 (v53.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v53">v53</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-02-02/">
+      <h4>2016년 11월 24일 업데이트 안내 (v52.02.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v52">v52</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-02-01/">
+      <h4>2016년 11월 17일 업데이트 안내 (v52.02.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v52">v52</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-02/">
+      <h4>2016년 11월 10일 업데이트 안내 (v52.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v52">v52</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-01-01/">
+      <h4>2016년 11월 03일 업데이트 안내 (v52.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v52">v52</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-01/">
+      <h4>2016년 10월 27일 업데이트 안내 (v52.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v52">v52</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02-01/">
+      <h4>2016년 10월 20일 업데이트 안내 (V51.02.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v51">v51</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02/">
+      <h4>2016년 10월 13일 업데이트 안내 (v51.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v51">v51</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01-01/">
+      <h4>2016년 10월 06일 업데이트 안내 (v51.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v51">v51</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01/">
+      <h4>2016년 09월 29일 업데이트 안내 (v51.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v51">v51</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v50-01-02/">
+      <h4>2016년 09월 22일 업데이트 안내 (v50.01.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v50">v50</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v50-01-01/">
+      <h4>2016년 09월 13일 업데이트 안내 (v50.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v50">v50</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v50-01/">
+      <h4>2016년 09월 08일 업데이트 안내 (v50.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v50">v50</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v49-01-02/">
+      <h4>2016년 09월 01일 업데이트 안내 (v49.01.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v49">v49</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v49-01-01/">
+      <h4>2016년 08월 30일 업데이트 안내 (v49.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v49">v49</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v49-01/">
+      <h4>2016년 08월 25일 업데이트 안내 (v49.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v49">v49</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-03-01/">
+      <h4>2016년 08월 18일 업데이트 안내 (v48.03.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v48">v48</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-03/">
+      <h4>2016년 08월 11일 업데이트 안내 (v48.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v48">v48</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-02-01/">
+      <h4>2016년 08월 04일 업데이트 안내 (v48.02.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v48">v48</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-02/">
+      <h4>2016년 07월 28일 업데이트 안내 (v48.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v48">v48</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-01/">
+      <h4>2016년 07월 21일 업데이트 안내 (v48.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v48">v48</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v47-01-02/">
+      <h4>2016년 07월 14일 업데이트 안내 (v47.01.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v47">v47</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v47-01-01/">
+      <h4>2016년 07월 07일 업데이트 안내 (v47.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v47">v47</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v47-01/">
+      <h4>2016년 06월 29일 업데이트 안내 (v47.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v47">v47</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-04-01/">
+      <h4>2016년 06월 23일 업데이트 안내 (v46.04.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-04/">
+      <h4>2016년 06월 16일 업데이트 안내 (v46.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-03-01/">
+      <h4>2016년 06월 09일 업데이트 안내 (v46.03.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-03/">
+      <h4>2016년 06월 02일 업데이트 안내 (v46.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-02-01/">
+      <h4>2016년 05월 26일 업데이트 안내 (v46.02.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-02/">
+      <h4>2016년 05월 19일 업데이트 안내 (v46.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-01-01/">
+      <h4>2016년 05월 12일 업데이트 안내 (v46.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-01/">
+      <h4>2016년 05월 03일 업데이트 안내 (v46.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v46">v46</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v45-02/">
+      <h4>2016년 04월 28일 업데이트 안내 (v45.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v45">v45</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v45-01-01/">
+      <h4>2016년 04월 21일 업데이트 안내 (v45.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v45">v45</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v45-01/">
+      <h4>2016년 04월 14일 업데이트 안내 (v45.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v45">v45</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v44-01-01/">
+      <h4>2016년 04월 07일 업데이트 안내 (v44.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v44">v44</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v44-01/">
+      <h4>2016년 03월 31일 업데이트 안내 (v44.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v44">v44</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v43-02/">
+      <h4>2016년 03월 24일 업데이트 안내 (43.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v43">v43</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v43-01-01/">
+      <h4>2016년 03월 17일 업데이트 안내 (43.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v43">v43</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v43-01/">
+      <h4>2016년 03월 10일 업데이트 안내 (v43.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/43">43</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-05/">
+      <h4>2016년 03월 03일 업데이트 안내 (v42.05)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v42">v42</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-04/">
+      <h4>2016년 02월 25일 업데이트 안내 (42.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v42">v42</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-03/">
+      <h4>2016년 02월 18일 업데이트 안내 (v42.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/42">42</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-02/">
+      <h4>2016년 02월 04일 업데이트 안내 (v42.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v42">v42</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-01-01/">
+      <h4>2016년 01월 28일 업데이트 안내 (v42.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v42">v42</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-01/">
+      <h4>2016년 01월 26일 업데이트 안내 (v42.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2016">2016</a>
+      
+      
+      <a class="tag" href="/ko/tags/v42">v42</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+
 </div>
 
 
+    </div>
+    <div class="footer flex flex-column">
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v53-02/">2016년 12월 13일 업데이트 안내 (v53.02)</a></h3>
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
   </div>
 
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v53/">v53</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
 </div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v53-01-01/">2016년 12월 08일 업데이트 안내 (v53.01.01)</a></h3>
   </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v53/">v53</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v53-01/">2016년 12월 01일 업데이트 안내 (v53.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v53/">v53</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-02-02/">2016년 11월 24일 업데이트 안내 (v52.02.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v52/">v52</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-02-01/">2016년 11월 17일 업데이트 안내 (v52.02.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v52/">v52</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-02/">2016년 11월 10일 업데이트 안내 (v52.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v52/">v52</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-01-01/">2016년 11월 03일 업데이트 안내 (v52.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v52/">v52</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v52-01/">2016년 10월 27일 업데이트 안내 (v52.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v52/">v52</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02-01/">2016년 10월 20일 업데이트 안내 (V51.02.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v51/">v51</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02/">2016년 10월 13일 업데이트 안내 (v51.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v51/">v51</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01-01/">2016년 10월 06일 업데이트 안내 (v51.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v51/">v51</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01/">2016년 09월 29일 업데이트 안내 (v51.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v51/">v51</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v50-01-02/">2016년 09월 22일 업데이트 안내 (v50.01.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v50/">v50</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v50-01-01/">2016년 09월 13일 업데이트 안내 (v50.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v50/">v50</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v50-01/">2016년 09월 08일 업데이트 안내 (v50.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v50/">v50</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v49-01-02/">2016년 09월 01일 업데이트 안내 (v49.01.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v49/">v49</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v49-01-01/">2016년 08월 30일 업데이트 안내 (v49.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v49/">v49</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v49-01/">2016년 08월 25일 업데이트 안내 (v49.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v49/">v49</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-03-01/">2016년 08월 18일 업데이트 안내 (v48.03.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v48/">v48</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-03/">2016년 08월 11일 업데이트 안내 (v48.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v48/">v48</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-02-01/">2016년 08월 04일 업데이트 안내 (v48.02.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v48/">v48</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-02/">2016년 07월 28일 업데이트 안내 (v48.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v48/">v48</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v48-01/">2016년 07월 21일 업데이트 안내 (v48.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v48/">v48</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v47-01-02/">2016년 07월 14일 업데이트 안내 (v47.01.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v47/">v47</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v47-01-01/">2016년 07월 07일 업데이트 안내 (v47.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v47/">v47</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v47-01/">2016년 06월 29일 업데이트 안내 (v47.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v47/">v47</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-04-01/">2016년 06월 23일 업데이트 안내 (v46.04.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-04/">2016년 06월 16일 업데이트 안내 (v46.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-03-01/">2016년 06월 09일 업데이트 안내 (v46.03.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-03/">2016년 06월 02일 업데이트 안내 (v46.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-02-01/">2016년 05월 26일 업데이트 안내 (v46.02.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-02/">2016년 05월 19일 업데이트 안내 (v46.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-01-01/">2016년 05월 12일 업데이트 안내 (v46.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v46-01/">2016년 05월 03일 업데이트 안내 (v46.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v46/">v46</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v45-02/">2016년 04월 28일 업데이트 안내 (v45.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v45/">v45</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v45-01-01/">2016년 04월 21일 업데이트 안내 (v45.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v45/">v45</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v45-01/">2016년 04월 14일 업데이트 안내 (v45.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v45/">v45</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v44-01-01/">2016년 04월 07일 업데이트 안내 (v44.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v44/">v44</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v44-01/">2016년 03월 31일 업데이트 안내 (v44.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v44/">v44</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v43-02/">2016년 03월 24일 업데이트 안내 (43.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v43/">v43</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v43-01-01/">2016년 03월 17일 업데이트 안내 (43.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v43/">v43</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v43-01/">2016년 03월 10일 업데이트 안내 (v43.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/43/">43</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-05/">2016년 03월 03일 업데이트 안내 (v42.05)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v42/">v42</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-04/">2016년 02월 25일 업데이트 안내 (42.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v42/">v42</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-03/">2016년 02월 18일 업데이트 안내 (v42.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/42/">42</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-02/">2016년 02월 04일 업데이트 안내 (v42.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v42/">v42</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-01-01/">2016년 01월 28일 업데이트 안내 (v42.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v42/">v42</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2016/v42-01/">2016년 01월 26일 업데이트 안내 (v42.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2016/">2016</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v42/">v42</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-
-
-    <div id="back_btn" class="button">back</div>
-  </div>
-  <div id="footer">
-  <div id="footer-content">
-    <span id="footer-title">mysterium</span>
-    <span>powered by Hugo, theme by seraphinush-gaming</span>
-  </div>
-</div>
 </body>
 
 </html>

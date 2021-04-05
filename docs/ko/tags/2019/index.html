@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="description" content="blog by seraphinush">
+<meta name="description" content='blog by seraphinush'>
 <link rel="icon" type="image/png" href='/favicon.png'>
 
 
@@ -15,11 +15,24 @@
 <link rel="stylesheet" href='/css/modal.css' />
 
 
-<script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/modal.js"></script>
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
 
 
-<script type="text/javascript" src="/custom.js"></script>
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  console.log(theme)
+  if (theme) {
+    document.documentElement.classList.add('dark-theme')
+  }
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
 
 
 
@@ -41,1368 +54,1167 @@
 
 
 <body>
-  <div id="header">
-  <div id="header-left-container">
-    <a href="/"><span id="header-title">mysterium</span></a>
-    <span id="header-desc">blog by seraphinush</span> 
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  <a href='/'>
+    
+    <img class="nav-logo" src='/logo.png' alt="" />
+    
+
+    <div class="links">
+      
+      <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+        <span class="line-wrap"><span class="line"></span>
+          유튜브
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.twitch.tv/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          트위치
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.patreon.com/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          페이트리온
+        </span>
+      </a>
+      
+      <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+        <span class="line-wrap"><span class="line"></span>
+          피드백
+        </span>
+      </a>
+      
+    </div>
+
+    <div class="desktop-theme flex-row">
+      <div class="separator-desktop"></div>
+      
+      <span class="link">디자인 :</span>
+      
+      <div id="desktop-theme" class="button">
+        <div id="desktop-theme-toggle" class="button-toggle"></div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
   </div>
-  <div id="header-right-container">
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
     
-      <a href="/about"><div class="nav-item">소개</div></a>
+    <h2>디자인 :</h2>
     
-      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">유튜브</div></a>
-    
-      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">트위치</div></a>
-    
-      <a href="https://www.patreon.com/seraphinush"><div class="nav-item">페이트리온</div></a>
-    
-      <a href="https://github.com/seraphinush-gaming/mysterium/issues"><div class="nav-item">피드백</div></a>
-    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
   </div>
 </div>
-  <div id="modal-container">
+    <div id="modal-container">
   <span id="modal-close">&times;</span>
   <span style="display: inline-block; height: 50%;"></span>
   <img id="modal-image" />
 </div>
-  <div id="container">
-    
+    <div class="content flex flex-column">
+      
 
 
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v91-01-01/">2019년 12월 24일 업데이트 안내 (v91.01.01)</a></h3>
-  </div>
-
+<div class="paths">
   
   
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v91/">v91</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
+  <a class="path" href="https://seraphinush-gaming.com/ko/">mysterium</a> / 
+  <a class="path" href="https://seraphinush-gaming.com/ko/tags/">Tags</a>
 </div>
 
 
+<h1 class="items-title">2019</h1>
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v91-01/">2019년 12월 19일 업데이트 안내 (v91.01)</a></h3>
-  </div>
+<div class="items flex flex-column">
 
   
-  
-  <div class="article-tags">
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v91-01-01/">
+      <h4>2019년 12월 24일 업데이트 안내 (v91.01.01)</h4>
+    </a>
+
     
-    <a href="/tags/2019/">2019</a>
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v91">v91</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
   </div>
   
-  <div class="article-tags">
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v91-01/">
+      <h4>2019년 12월 19일 업데이트 안내 (v91.01)</h4>
+    </a>
+
     
-    <a href="/tags/v91/">v91</a>
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v91">v91</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
   </div>
   
-  <div class="article-tags">
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v90-03/">
+      <h4>2019년 12월 12일 업데이트 안내 (v90.03)</h4>
+    </a>
+
     
-    <a href="/tags/raw/">raw</a>
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v90">v90</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
   </div>
   
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v90-02/">
+      <h4>2019년 12월 05일 업데이트 안내 (v90.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v90">v90</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
   
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v90-01/">
+      <h4>2019년 11월 28일 업데이트 안내 (v90.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v90">v90</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v89-03/">
+      <h4>2019년 11월 21일 업데이트 안내 (v89.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v89">v89</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v89-02/">
+      <h4>2019년 11월 14일 업데이트 안내 (v89.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v89">v89</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v89-01/">
+      <h4>2019년 10월 31일 업데이트 안내 (v89.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v89">v89</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-04/">
+      <h4>2019년 10월 24일 업데이트 안내 (v88.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-03/">
+      <h4>2019년 10월 17일 업데이트 안내 (v88.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-02/">
+      <h4>2019년 10월 10일 업데이트 안내 (v88.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-01/">
+      <h4>2019년 09월 26일 업데이트 안내 (v88.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v87-03/">
+      <h4>2019년 09월 19일 업데이트 안내 (v87.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v87">v87</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v87-02/">
+      <h4>2019년 09월 10일 업데이트 안내 (v87.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v87">v87</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v87-01/">
+      <h4>2019년 09월 05일 업데이트 안내 (v87.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v87">v87</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-05/">
+      <h4>2019년 08월 29일 업데이트 안내 (v86.05)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-04/">
+      <h4>2019년 08월 22일 업데이트 안내 (v86.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-03-01/">
+      <h4>2019년 08월 14일 업데이트 안내 (v86.03.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-03/">
+      <h4>2019년 08월 08일 업데이트 안내 (v86.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-02/">
+      <h4>2019년 08월 01일 업데이트 안내 (v86.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-01-01/">
+      <h4>2019년 07월 25일 업데이트 안내 (v86.01.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-01/">
+      <h4>2019년 07월 23일 업데이트 안내 (v86.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-05/">
+      <h4>2019년 07월 11일 업데이트 안내 (v85.05)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-04/">
+      <h4>2019년 07월 04일 업데이트 안내 (v85.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-03/">
+      <h4>2019년 06월 27일 업데이트 안내 (v85.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-02-01/">
+      <h4>2019년 06월 20일 업데이트 안내 (v85.02.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-02/">
+      <h4>2019년 06월 13일 업데이트 안내 (v85.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-01/">
+      <h4>2019년 06월 03일 업데이트 안내 (v85.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-05/">
+      <h4>2019년 05월 23일 업데이트 안내 (v84.05)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-04/">
+      <h4>2019년 05월 16일 업데이트 안내 (v84.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-03/">
+      <h4>2019년 05월 09일 업데이트 안내 (v84.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-02/">
+      <h4>2019년 05월 02일 업데이트 안내 (v84.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-01/">
+      <h4>2019년 04월 25일 업데이트 안내 (v84.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-06/">
+      <h4>2019년 04월 18일 업데이트 안내 (v83.06)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-05/">
+      <h4>2019년 04월 11일 업데이트 안내 (v83.05)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-04-01/">
+      <h4>2019년 04월 09일 업데이트 안내 (v83.04.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-04/">
+      <h4>2019년 04월 04일 업데이트 안내 (v83.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-03/">
+      <h4>2019년 03월 28일 업데이트 안내 (v83.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-02/">
+      <h4>2019년 03월 21일 업데이트 안내 (v83.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-01/">
+      <h4>2019년 03월 14일 업데이트 안내 (v83.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-04/">
+      <h4>2019년 03월 07일 업데이트 안내 (v82.04)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-03/">
+      <h4>2019년 02월 28일 업데이트 안내 (v82.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-02/">
+      <h4>2019년 02월 21일 업데이트 안내 (v82.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-01/">
+      <h4>2019년 02월 14일 업데이트 안내 (v82.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v81-02/">
+      <h4>2019년 01월 31일 업데이트 안내 (v81.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v81">v81</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v81-01/">
+      <h4>2019년 01월 24일 업데이트 안내 (v81.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v81">v81</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v80-03/">
+      <h4>2019년 01월 17일 업데이트 안내 (v80.03)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v80">v80</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v80-02-01/">
+      <h4>2019년 01월 10일 업데이트 안내 (v80.02.01)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v80">v80</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex flex-row">
+    <a class="item-title" href="https://seraphinush-gaming.com/ko/patch/ko/2019/v80-02/">
+      <h4>2019년 01월 03일 업데이트 안내 (v80.02)</h4>
+    </a>
+
+    
+    <div class="tags">
+      
+      
+      <a class="tag" href="/ko/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/ko/tags/v80">v80</a>
+      
+      
+      <a class="tag" href="/ko/tags/raw">raw</a>
+      
+    </div>
+    
+  </div>
+  
+
 </div>
 
 
+    </div>
+    <div class="footer flex flex-column">
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v90-03/">2019년 12월 12일 업데이트 안내 (v90.03)</a></h3>
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
   </div>
 
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v90/">v90</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
 </div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v90-02/">2019년 12월 05일 업데이트 안내 (v90.02)</a></h3>
   </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v90/">v90</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v90-01/">2019년 11월 28일 업데이트 안내 (v90.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v90/">v90</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v89-03/">2019년 11월 21일 업데이트 안내 (v89.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v89/">v89</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v89-02/">2019년 11월 14일 업데이트 안내 (v89.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v89/">v89</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v89-01/">2019년 10월 31일 업데이트 안내 (v89.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v89/">v89</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-04/">2019년 10월 24일 업데이트 안내 (v88.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-03/">2019년 10월 17일 업데이트 안내 (v88.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-02/">2019년 10월 10일 업데이트 안내 (v88.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v88-01/">2019년 09월 26일 업데이트 안내 (v88.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v87-03/">2019년 09월 19일 업데이트 안내 (v87.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v87/">v87</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v87-02/">2019년 09월 10일 업데이트 안내 (v87.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v87/">v87</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v87-01/">2019년 09월 05일 업데이트 안내 (v87.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v87/">v87</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-05/">2019년 08월 29일 업데이트 안내 (v86.05)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-04/">2019년 08월 22일 업데이트 안내 (v86.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-03-01/">2019년 08월 14일 업데이트 안내 (v86.03.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-03/">2019년 08월 08일 업데이트 안내 (v86.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-02/">2019년 08월 01일 업데이트 안내 (v86.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-01-01/">2019년 07월 25일 업데이트 안내 (v86.01.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v86-01/">2019년 07월 23일 업데이트 안내 (v86.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-05/">2019년 07월 11일 업데이트 안내 (v85.05)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-04/">2019년 07월 04일 업데이트 안내 (v85.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-03/">2019년 06월 27일 업데이트 안내 (v85.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-02-01/">2019년 06월 20일 업데이트 안내 (v85.02.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-02/">2019년 06월 13일 업데이트 안내 (v85.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v85-01/">2019년 06월 03일 업데이트 안내 (v85.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-05/">2019년 05월 23일 업데이트 안내 (v84.05)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-04/">2019년 05월 16일 업데이트 안내 (v84.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-03/">2019년 05월 09일 업데이트 안내 (v84.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-02/">2019년 05월 02일 업데이트 안내 (v84.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v84-01/">2019년 04월 25일 업데이트 안내 (v84.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-06/">2019년 04월 18일 업데이트 안내 (v83.06)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-05/">2019년 04월 11일 업데이트 안내 (v83.05)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-04-01/">2019년 04월 09일 업데이트 안내 (v83.04.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-04/">2019년 04월 04일 업데이트 안내 (v83.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-03/">2019년 03월 28일 업데이트 안내 (v83.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-02/">2019년 03월 21일 업데이트 안내 (v83.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v83-01/">2019년 03월 14일 업데이트 안내 (v83.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-04/">2019년 03월 07일 업데이트 안내 (v82.04)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-03/">2019년 02월 28일 업데이트 안내 (v82.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-02/">2019년 02월 21일 업데이트 안내 (v82.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v82-01/">2019년 02월 14일 업데이트 안내 (v82.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v81-02/">2019년 01월 31일 업데이트 안내 (v81.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v81/">v81</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v81-01/">2019년 01월 24일 업데이트 안내 (v81.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v81/">v81</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v80-03/">2019년 01월 17일 업데이트 안내 (v80.03)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v80/">v80</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v80-02-01/">2019년 01월 10일 업데이트 안내 (v80.02.01)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v80/">v80</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/ko/patch/ko/2019/v80-02/">2019년 01월 03일 업데이트 안내 (v80.02)</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v80/">v80</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/raw/">raw</a>
-  </div>
-  
-  
-</div>
-
-
-
-
-
-    <div id="back_btn" class="button">back</div>
-  </div>
-  <div id="footer">
-  <div id="footer-content">
-    <span id="footer-title">mysterium</span>
-    <span>powered by Hugo, theme by seraphinush-gaming</span>
-  </div>
-</div>
 </body>
 
 </html>

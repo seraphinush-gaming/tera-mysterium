@@ -1,24 +1,14 @@
-#footer {
-  position: relative;
-  margin: 0 0;
-  padding-top: 60px;
-  padding-bottom: 20px;
+.footer {
+  bottom: 0;
   width: 100%;
-  opacity: 0.5;
-  
-  text-align: center;
-
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
-  user-select: none;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-bg);
+  background-color: var(--color-footer);
 }
 
-#footer span {
-  font-size: 1rem;
-}
-
-#footer-title {
-  color: var(--color-primary);
+.footer p {
+  margin: 5px 0px;
+  color: var(--color-footer-font);
 }

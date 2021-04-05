@@ -1,158 +1,127 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
-:root {
-  --color-primary-light: #40CEDB;
-  --color-primary: #36ACB6;
-  --content-width: 100%;
-  --font-size: 10px;
-}
-
-html, body, div {
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+html, body, div, p, span, h1, h2, h3, h4, h5, h6, ol, ul {
   margin: 0 0;
   padding: 0 0;
-  font-family: 'Quicksand', sans-serif;
-  font-size: var(--font-size);
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
-  background: #555;
-  color: #CCC;
+  background: var(--color-bg);
+  color: var(--color-font);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 1.5rem;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  text-decoration: none;
-  font-weight: normal;
-  color: var(--color-primary);
-}
-
-h2 {
-  margin-bottom: 15px;
-  padding-bottom: 5px;
-  border-bottom: 1px solid var(--color-primary);
-}
-
 b, strong {
-  color: var(--color-primary-light);
-  font-weight: normal;
+  color: var(--color-font-bold);
 }
 
-p, span, ol, ul {
-  font-size: 1rem;
-}
-
-a {
-  font-weight: 400;
-  color: var(--color-primary);
+a, a:link, a:visited, a:hover, a:active {
   text-decoration: none;
+  color: var(--color-font);
 }
 
-a:hover {
-  color: var(--color-primary-light);
+a:hover, a:active {
+  color: var(--color-font-bold);
 }
 
-ul {
-  list-style-type: circle;
-  padding-left: 30px;
+.focus {
+  color: var(--color-primary) !important;
 }
 
-ol {
-  padding-left: 30px;
+.flex {
+  display: flex;
 }
 
-p img {
-  display: block;
-  margin: auto;
-  max-width: 100%;
-  height: auto;
-  padding: 0 0;
-  cursor: pointer;
+.flex-row {
+  flex-direction: row;
 }
 
-code {
-  word-wrap: break-word;
-  white-space: pre-wrap;
+.flex-column {
+  flex-direction: column;
 }
 
-table {
-  margin-top: 14px;
-  margin-bottom: 14px;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 80%;
-  border-collapse: collapse;
-  font-size: 1rem;
+.wrapper {
+  position: relative;
 }
 
-table, th, td {
-  border: 1px solid #CCC;
+.content {
+  margin-bottom: 20px;
+  min-height: calc(100vh - 220px);
 }
 
-th, td {
-  padding: 4px;
-}
+/* responsive */
 
-pre {
-  padding: 1rem;
-}
-
-#container {
-  margin-top: 70px;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: var(--content-width);
-}
-
-/* back */
-
-div.button {
-  display: inline-block;
-  margin-top: 10px;
-  margin-left: calc(50% - 50px);
-  width: 100px;
-  height: 26px;
-  background: var(--color-primary);
-  line-height: 26px;
-  text-align: center;
-  text-transform: uppercase;
-  color: #CCC;
-  cursor: pointer;
-}
-
-div.button:hover {
-  background: var(--color-primary-light);
-  color: #FFF;
-}
-
-/* scrollbar */
-
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--color-primary);
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: var(--color-primary-light);
-}
-
-@media screen and (min-width: 720px) {
-  :root {
-    --font-size: 12px;
+@media screen and (min-width: 0px) {
+  .content {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: calc(100% - 16px);
   }
-  #container {
-    margin-top: 120px;
+  h1 {
+    margin: 24px 0px;
+    font-size: 24px;
+  }
+  h2 {
+    margin: 22px 0px;
+    font-size: 22px;
+  }
+  h3 {
+    margin: 16px 0px;
+    font-size: 20px;
+  }
+  h4 {
+    margin: 14px 0px;
+    font-size: 18px;
+  }
+  h5 {
+    margin: 12px 0px;
+    font-size: 16px;
+  }
+  h6 {
+    margin: 10px 0px;
+    font-size: 14px;
+  }
+  p, ul, ol, li, pre, table {
+    font-size: 12px;
   }
 }
 
-@media screen and (min-width: 1200px) {
-  #container {
-    margin-top: 70px;
+@media screen and (min-width: 800px) {
+  h1 {
+    margin: 30px 0px;
+    font-size: 36px;
+  }
+  h2 {
+    margin: 28px 0px;
+    font-size: 32px;
+  }
+  h3 {
+    margin: 24px 0px;
+    font-size: 28px;
+  }
+  h4 {
+    margin: 20px 0px;
+    font-size: 24px;
+  }
+  h5 {
+    margin: 18px 0px;
+    font-size: 22px;
+  }
+  h6 {
+    margin: 24px 0px;
+    font-size: 18px;
+  }
+  p, ul, ol, li, pre, table {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
   }
 }

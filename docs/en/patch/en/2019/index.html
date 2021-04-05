@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="description" content="blog by seraphinush">
+<meta name="description" content='blog by seraphinush'>
 <link rel="icon" type="image/png" href='/favicon.png'>
 
 
@@ -15,11 +15,24 @@
 <link rel="stylesheet" href='/css/modal.css' />
 
 
-<script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/modal.js"></script>
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
 
 
-<script type="text/javascript" src="/custom.js"></script>
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  console.log(theme)
+  if (theme) {
+    document.documentElement.classList.add('dark-theme')
+  }
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
 
 
 
@@ -41,1368 +54,1167 @@
 
 
 <body>
-  <div id="header">
-  <div id="header-left-container">
-    <a href="/"><span id="header-title">mysterium</span></a>
-    <span id="header-desc">blog by seraphinush</span> 
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  <a href='/'>
+    
+    <img class="nav-logo" src='/logo.png' alt="" />
+    
+
+    <div class="links">
+      
+      <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+        <span class="line-wrap"><span class="line"></span>
+          Youtube
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.twitch.tv/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          Twitch
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.patreon.com/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          Patreon
+        </span>
+      </a>
+      
+      <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+        <span class="line-wrap"><span class="line"></span>
+          Feedback
+        </span>
+      </a>
+      
+    </div>
+
+    <div class="desktop-theme flex-row">
+      <div class="separator-desktop"></div>
+      
+      <span class="link">Appearance :</span>
+      
+      <div id="desktop-theme" class="button">
+        <div id="desktop-theme-toggle" class="button-toggle"></div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Youtube</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Twitch</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Patreon</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Feedback</h2>
+      </span>
+    </a>
+    
   </div>
-  <div id="header-right-container">
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
     
-      <a href="/about"><div class="nav-item">about</div></a>
+    <h2>Appearance :</h2>
     
-      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">youtube</div></a>
-    
-      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">twitch</div></a>
-    
-      <a href="https://www.patreon.com/seraphinush"><div class="nav-item">patreon</div></a>
-    
-      <a href="https://github.com/seraphinush-gaming/mysterium/issues"><div class="nav-item">feedback</div></a>
-    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
   </div>
 </div>
-  <div id="modal-container">
+    <div id="modal-container">
   <span id="modal-close">&times;</span>
   <span style="display: inline-block; height: 50%;"></span>
   <img id="modal-image" />
 </div>
-  <div id="container">
-    
+    <div class="content flex flex-column">
+      
 
 
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v91-01-01/">2019.12.24 patch notes (v91.01.01) | K TERA</a></h3>
-  </div>
-
+<div class="paths">
   
   
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v91/">v91</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
+  <a class="path" href="https://seraphinush-gaming.com/en/">mysterium</a> / 
+  <a class="path" href="https://seraphinush-gaming.com/en/patch/">Patch notes</a>
 </div>
 
 
+<h1 class="items-title">2019</h1>
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v91-01/">2019.12.19 patch notes (v91.01) | K TERA</a></h3>
-  </div>
+<div class="items flex flex-column">
 
   
-  
-  <div class="article-tags">
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v91-01-01/">
+      <h4>2019.12.24 patch notes (v91.01.01) | K TERA</h4>
+    </a>
+
     
-    <a href="/tags/2019/">2019</a>
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v91">v91</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
   </div>
   
-  <div class="article-tags">
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v91-01/">
+      <h4>2019.12.19 patch notes (v91.01) | K TERA</h4>
+    </a>
+
     
-    <a href="/tags/v91/">v91</a>
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v91">v91</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
   </div>
   
-  <div class="article-tags">
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v90-03/">
+      <h4>2019.12.12 patch notes (v90.03) | K TERA</h4>
+    </a>
+
     
-    <a href="/tags/translation/">translation</a>
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v90">v90</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
   </div>
   
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v90-02/">
+      <h4>2019.12.05 patch notes (v90.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v90">v90</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
   
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v90-01/">
+      <h4>2019.11.28 patch notes (v90.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v90">v90</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v89-03/">
+      <h4>2019.11.21 patch notes (v89.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v89">v89</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v89-02/">
+      <h4>2019.11.14 patch notes (v89.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v89">v89</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v89-01/">
+      <h4>2019.10.31 patch notes (v89.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v89">v89</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v88-04/">
+      <h4>2019.10.24 patch notes (v88.04) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v88-03/">
+      <h4>2019.10.17 patch notes (v88.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v88-02/">
+      <h4>2019.10.10 patch notes (v88.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v88-01/">
+      <h4>2019.09.26 patch notes (v88.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v88">v88</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v87-03/">
+      <h4>2019.09.19 patch notes (v87.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v87">v87</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v87-02/">
+      <h4>2019.09.10 patch notes (v87.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v87">v87</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v87-01/">
+      <h4>2019.09.05 patch notes (v87.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v87">v87</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-05/">
+      <h4>2019.08.29 patch notes (v86.05) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-04/">
+      <h4>2019.08.22 patch notes (v86.04) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-03-01/">
+      <h4>2019.08.14 patch notes (v86.03.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-03/">
+      <h4>2019.08.08 patch notes (v86.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-02/">
+      <h4>2019.08.01 patch notes (v86.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-01-01/">
+      <h4>2019.07.25 patch notes (v86.01.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v86-01/">
+      <h4>2019.07.23 patch notes (v86.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v86">v86</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v85-05/">
+      <h4>2019.07.11 patch notes (v85.05) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v85-04/">
+      <h4>2019.07.04 patch notes (v85.04) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v85-03/">
+      <h4>2019.06.27 patch notes (v85.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v85-02-01/">
+      <h4>2019.06.20 patch notes (v85.02.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v85-02/">
+      <h4>2019.06.13 patch notes (v85.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v85-01/">
+      <h4>2019.06.03 patch notes (v85.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v85">v85</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v84-05/">
+      <h4>2019.05.23 patch notes (v84.05) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v84-04/">
+      <h4>2019.05.16 patch notes (v84.04) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v84-03/">
+      <h4>2019.05.09 patch notes (v84.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v84-02/">
+      <h4>2019.05.02 patch notes (v84.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v84-01/">
+      <h4>2019.04.25 patch notes (v84.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v84">v84</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-06/">
+      <h4>2019.04.18 patch notes (v83.06) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-05/">
+      <h4>2019.04.11 patch notes (v83.05) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-04-01/">
+      <h4>2019.04.09 patch notes (v83.04.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-04/">
+      <h4>2019.04.04 patch notes (v83.04) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-03/">
+      <h4>2019.03.28 patch notes (v83.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-02/">
+      <h4>2019.03.21 patch notes (v83.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v83-01/">
+      <h4>2019.03.14 patch notes (v83.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v83">v83</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v82-04/">
+      <h4>2019.03.07 patch notes (v82.04) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v82-03/">
+      <h4>2019.02.28 patch notes (v82.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v82-02/">
+      <h4>2019.02.21 patch notes (v82.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v82-01/">
+      <h4>2019.02.14 patch notes (v82.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v82">v82</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v81-02/">
+      <h4>2019.01.31 patch notes (v81.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v81">v81</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v81-01/">
+      <h4>2019.01.24 patch notes (v81.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v81">v81</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v80-03/">
+      <h4>2019.01.17 patch notes (v80.03) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v80">v80</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v80-02-01/">
+      <h4>2019.01.10 patch notes (v80.02.01) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v80">v80</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+  <div class="item flex">
+    <a class="item-title" href="https://seraphinush-gaming.com/en/patch/en/2019/v80-02/">
+      <h4>2019.01.03 patch notes (v80.02) | K TERA</h4>
+    </a>
+
+    
+    <div class="tags flex flex-row">
+      
+      
+      <a class="tag" href="/en/tags/2019">2019</a>
+      
+      
+      <a class="tag" href="/en/tags/v80">v80</a>
+      
+      
+      <a class="tag" href="/en/tags/translation">translation</a>
+      
+    </div>
+    
+  </div>
+  
+
 </div>
 
 
+    </div>
+    <div class="footer flex flex-column">
 
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v90-03/">2019.12.12 patch notes (v90.03) | K TERA</a></h3>
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
   </div>
 
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v90/">v90</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
 </div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v90-02/">2019.12.05 patch notes (v90.02) | K TERA</a></h3>
   </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v90/">v90</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v90-01/">2019.11.28 patch notes (v90.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v90/">v90</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v89-03/">2019.11.21 patch notes (v89.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v89/">v89</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v89-02/">2019.11.14 patch notes (v89.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v89/">v89</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v89-01/">2019.10.31 patch notes (v89.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v89/">v89</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v88-04/">2019.10.24 patch notes (v88.04) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v88-03/">2019.10.17 patch notes (v88.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v88-02/">2019.10.10 patch notes (v88.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v88-01/">2019.09.26 patch notes (v88.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v88/">v88</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v87-03/">2019.09.19 patch notes (v87.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v87/">v87</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v87-02/">2019.09.10 patch notes (v87.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v87/">v87</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v87-01/">2019.09.05 patch notes (v87.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v87/">v87</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-05/">2019.08.29 patch notes (v86.05) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-04/">2019.08.22 patch notes (v86.04) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-03-01/">2019.08.14 patch notes (v86.03.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-03/">2019.08.08 patch notes (v86.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-02/">2019.08.01 patch notes (v86.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-01-01/">2019.07.25 patch notes (v86.01.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v86-01/">2019.07.23 patch notes (v86.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v86/">v86</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v85-05/">2019.07.11 patch notes (v85.05) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v85-04/">2019.07.04 patch notes (v85.04) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v85-03/">2019.06.27 patch notes (v85.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v85-02-01/">2019.06.20 patch notes (v85.02.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v85-02/">2019.06.13 patch notes (v85.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v85-01/">2019.06.03 patch notes (v85.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v85/">v85</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v84-05/">2019.05.23 patch notes (v84.05) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v84-04/">2019.05.16 patch notes (v84.04) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v84-03/">2019.05.09 patch notes (v84.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v84-02/">2019.05.02 patch notes (v84.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v84-01/">2019.04.25 patch notes (v84.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v84/">v84</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-06/">2019.04.18 patch notes (v83.06) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-05/">2019.04.11 patch notes (v83.05) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-04-01/">2019.04.09 patch notes (v83.04.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-04/">2019.04.04 patch notes (v83.04) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-03/">2019.03.28 patch notes (v83.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-02/">2019.03.21 patch notes (v83.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v83-01/">2019.03.14 patch notes (v83.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v83/">v83</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v82-04/">2019.03.07 patch notes (v82.04) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v82-03/">2019.02.28 patch notes (v82.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v82-02/">2019.02.21 patch notes (v82.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v82-01/">2019.02.14 patch notes (v82.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v82/">v82</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v81-02/">2019.01.31 patch notes (v81.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v81/">v81</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v81-01/">2019.01.24 patch notes (v81.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v81/">v81</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v80-03/">2019.01.17 patch notes (v80.03) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v80/">v80</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v80-02-01/">2019.01.10 patch notes (v80.02.01) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v80/">v80</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-<div class="article-list">
-  <div class="article-info">
-    <h3><a href="https://seraphinush-gaming.com/en/patch/en/2019/v80-02/">2019.01.03 patch notes (v80.02) | K TERA</a></h3>
-  </div>
-
-  
-  
-  <div class="article-tags">
-    
-    <a href="/tags/2019/">2019</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/v80/">v80</a>
-  </div>
-  
-  <div class="article-tags">
-    
-    <a href="/tags/translation/">translation</a>
-  </div>
-  
-  
-</div>
-
-
-
-
-
-    <div id="back_btn" class="button">back</div>
-  </div>
-  <div id="footer">
-  <div id="footer-content">
-    <span id="footer-title">mysterium</span>
-    <span>powered by Hugo, theme by seraphinush-gaming</span>
-  </div>
-</div>
 </body>
 
 </html>

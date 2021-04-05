@@ -1,0 +1,13 @@
+html.dark-theme {
+  --color-font: #DDD;
+  --color-font-light: #AAA;
+  --color-font-bold: #EEE;
+  --color-bg: #222;
+  --color-bg-bold: #333;
+  --color-code: #3A3C43;
+  --color-code-border: #6A7F81;
+  --color-primary: #36ACB6;
+  --color-primary-bold: #40CEDB;
+  --color-footer: #111;
+  --color-footer-font: #AAA;
+}

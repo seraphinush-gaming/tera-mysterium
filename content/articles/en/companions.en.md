@@ -4,6 +4,11 @@ title = "Companions : Introduction"
 categories = ["article"]
 tags = ["companion", "partner", "pet"]
 single = true
+source = [
+  "['Introduction to Companions', En Masse Support](https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions)",
+  "[2021.01.27 patch notes (v103.01) | K TERA](/en/patch/en/2021/v103-01/)",
+  "[2021.03.10 patch notes (v104.01.02) | K TERA](/en/patch/en/2021/v104-01-02/)"
+  ]
 lastmod = "2021-04-03"
 +++
 
@@ -121,17 +126,3 @@ Each Partner species is restricted to a set of Gifted Skills. The available Gift
 |''| Adventure Enhancement I~III
 
 A **Gifted Skill Change Voucher** is needed in order to change a Partner's Gifted Skill. The said item can be purchased with **Mystery Market Coins** from wandering **Mystery Merchants** randomly appearing in Val Oriyn, Northern Arun.
-
-----
-
-Source and credit :
-```
-- 'Introduction to Companions', En Masse Support
-https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions
-
-- 2021.01.27 patch notes (v103.01) | K TERA
-/patch/en/2021/v103-01/
-
-- 2021.03.10 patch notes (v104.01.02) | K TERA
-/patch/en/2021/v104-01-02/
-```

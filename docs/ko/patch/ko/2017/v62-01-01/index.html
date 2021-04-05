@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="description" content="blog by seraphinush">
+<meta name="description" content='blog by seraphinush'>
 <link rel="icon" type="image/png" href='/favicon.png'>
 
 
@@ -15,11 +15,24 @@
 <link rel="stylesheet" href='/css/modal.css' />
 
 
-<script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/modal.js"></script>
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
 
 
-<script type="text/javascript" src="/custom.js"></script>
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  console.log(theme)
+  if (theme) {
+    document.documentElement.classList.add('dark-theme')
+  }
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
 
 
 
@@ -41,38 +54,127 @@
 
 
 <body>
-  <div id="header">
-  <div id="header-left-container">
-    <a href="/"><span id="header-title">mysterium</span></a>
-    <span id="header-desc">blog by seraphinush</span> 
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  <a href='/'>
+    
+    <img class="nav-logo" src='/logo.png' alt="" />
+    
+
+    <div class="links">
+      
+      <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+        <span class="line-wrap"><span class="line"></span>
+          유튜브
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.twitch.tv/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          트위치
+        </span>
+      </a>
+      
+      <a class="link" href='https://www.patreon.com/seraphinush'>
+        <span class="line-wrap"><span class="line"></span>
+          페이트리온
+        </span>
+      </a>
+      
+      <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+        <span class="line-wrap"><span class="line"></span>
+          피드백
+        </span>
+      </a>
+      
+    </div>
+
+    <div class="desktop-theme flex-row">
+      <div class="separator-desktop"></div>
+      
+      <span class="link">디자인 :</span>
+      
+      <div id="desktop-theme" class="button">
+        <div id="desktop-theme-toggle" class="button-toggle"></div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
   </div>
-  <div id="header-right-container">
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
     
-      <a href="/about"><div class="nav-item">소개</div></a>
+    <h2>디자인 :</h2>
     
-      <a href="https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"><div class="nav-item">유튜브</div></a>
-    
-      <a href="https://www.twitch.tv/seraphinush"><div class="nav-item">트위치</div></a>
-    
-      <a href="https://www.patreon.com/seraphinush"><div class="nav-item">페이트리온</div></a>
-    
-      <a href="https://github.com/seraphinush-gaming/mysterium/issues"><div class="nav-item">피드백</div></a>
-    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
   </div>
 </div>
-  <div id="modal-container">
+    <div id="modal-container">
   <span id="modal-close">&times;</span>
   <span style="display: inline-block; height: 50%;"></span>
   <img id="modal-image" />
 </div>
-  <div id="container">
-    
+    <div class="content flex flex-column">
+      
 
-<div class="article-container">
-  <div class="article">
-    <h1><a href="https://seraphinush-gaming.com/ko/patch/ko/2017/v62-01-01/">2017년 08월 11일 업데이트 안내 (V62.01.01)</a></h1>
-    <p> Aug 11, 2017 </p>
-    <hr />
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://seraphinush-gaming.com/ko/">mysterium</a> / 
+  <a class="path" href="https://seraphinush-gaming.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://seraphinush-gaming.com/ko/patch/ko/2017/">2017</a>
+</div>
+
+
+<h1 class="items-title">2017년 08월 11일 업데이트 안내 (V62.01.01)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Aug 11, 2017 </p>
+      
+    </div>
     <h3 id="버그수정">[버그수정]</h3>
 <ul>
 <li>아이템
@@ -89,19 +191,25 @@
 <hr>
 <p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=292">TERA 테라 | NEXON</a></p>
 
+
+    
   </div>
+
 </div>
 
 
+    </div>
+    <div class="footer flex flex-column">
 
-    <div id="back_btn" class="button">back</div>
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
   </div>
-  <div id="footer">
-  <div id="footer-content">
-    <span id="footer-title">mysterium</span>
-    <span>powered by Hugo, theme by seraphinush-gaming</span>
-  </div>
+
 </div>
+  </div>
 </body>
 
 </html>
