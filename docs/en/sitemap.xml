@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://seraphinush-gaming.com/en/migration/</loc>
+    <lastmod>2021-04-06T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seraphinush-gaming.com/en/patch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +33,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://seraphinush-gaming.com/en/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seraphinush-gaming.com/en/</loc>
+    <lastmod>2021-04-06T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://seraphinush-gaming.com/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seraphinush-gaming.com/en/"
                 />
   </url>
   
@@ -68,21 +88,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://seraphinush-gaming.com/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://seraphinush-gaming.com/en/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://seraphinush-gaming.com/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seraphinush-gaming.com/en/"
                 />
   </url>
   

@@ -6,10 +6,23 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://seraphinush-gaming.com/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog notice : Migration</title>
+      <link>https://seraphinush-gaming.com/en/migration/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://seraphinush-gaming.com/en/migration/</guid>
+      <description>Hello, thank you for your interest in my blog.
+This blog&amp;rsquo;s domain will be updated from seraphinush-gaming.com to tera-mysterium.com in the next few days.
+For some duration of time, seraphinush-gaming.com will automatically redirect to tera-mysterium.com to allow a smooth transition from the old domain to the new one.
+If necessary, please make sure to update any links or other appropriate changes.
+Once again thank you for visiting this website from time to time and please stay tuned for more updates.</description>
+    </item>
     
     <item>
       <title>2021.03.31 patch notes (v105.01.01) | K TERA</title>
