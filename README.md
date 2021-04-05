@@ -5,7 +5,7 @@ Support seraph via paypal donations, thanks in advance !
 # mysterium [![](https://img.shields.io/badge/paypal-donate-333333.svg?colorA=0070BA&colorB=333333)](https://www.paypal.me/seraphinush)
 Blog repository for blog by seraphinush-gaming
 
-Visit blog at : [https://seraphinush-gaming.com/](https://seraphinush-gaming.com)
+Visit blog at : [https://tera-mysterium.com/](https://tera-mysterium.com)
 
 ## Discord webhook setup sample guide
 Discord
@@ -20,7 +20,7 @@ IFTTT
 - Go to 'My Applets'
 - 'Create' If `RSS Feed` Then `Webhooks`
 - Choose RSS Feed type : New Feed Item
-- Set RSS Feed 'URL' as : `https://www.seraphinush-gaming.com/en/index.xml`
+- Set RSS Feed 'URL' as : `https://www.tera-mysterium.com/en/index.xml`
 - Choose Webhooks type : Make a web request
 - Set Webhook 'URL' as : `<Webhook URL>`
 - Set 'Method' type as : POST
@@ -28,7 +28,7 @@ IFTTT
 - Sample Body :
 ```
 {
-  "content": "seraphinush-gaming made a new post !",
+  "content": "tera-mysterium made a new post !",
   "embeds": [
     {
       "color": 3583158,

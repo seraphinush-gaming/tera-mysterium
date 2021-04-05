@@ -6,7 +6,7 @@ weight = 1
 
 Hello, thank you for your interest in my blog.
 
-This blog's domain will be updated from `seraphinush-gaming.com` to `tera-mysterium.com` in the next few days.
+As of 2021-04-05 16:07 PST, this blog's domain has been updated from `seraphinush-gaming.com` to `tera-mysterium.com`.
 
 For some duration of time, `seraphinush-gaming.com` will automatically redirect to `tera-mysterium.com` to allow a smooth transition from the old domain to the new one.
 
