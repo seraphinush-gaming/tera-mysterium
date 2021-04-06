@@ -3,6 +3,7 @@ date = "2020-01-01"
 title = "Dungeon crit resist values"
 categories = ["article"]
 tags = ["theorycrafting", "data"]
+sources = ["['We Hate Math' theorycrafting discord](https://discord.gg/zY7bbFp)"]
 +++
 
 # v99
@@ -37,11 +38,3 @@ tags = ["theorycrafting", "data"]
 | RK-9 Kennel | Hexapleon | Level | 10,000 | 210 |
 | RK-9 Kennel | Ventarun | 70 | 10,000 | 210 |
 | Training Ground | Clawrider | 68 | 90,000 | 300 |
-
-----
-
-Source and credit :
-```
-- 'We Hate Math' theorycrafting discord
-https://discord.gg/zY7bbFp
-```

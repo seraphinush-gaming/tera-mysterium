@@ -3,6 +3,7 @@ date = "2020-01-01"
 title = "Class base stat values"
 categories = ["article"]
 tags = ["theorycrafting", "data"]
+sources = ["['We Hate Math' theorycrafting discord](https://discord.gg/zY7bbFp)"]
 +++
 
 | Class | Base Power | Base Attack | Base Crit Factor | Base Attack Speed | Damage Modifier |
@@ -20,11 +21,3 @@ tags = ["theorycrafting", "data"]
 | Sorcerer | 65 | 4 | 50 | 110 | 1 |
 | Warrior | 58 | 4 | 52 | 120 | 1 |
 | Valkyrie | 52 | 4 | 58 | 100 | 0.85 |
-
-----
-
-Source and credit :
-```
-- 'We Hate Math' theorycrafting discord
-https://discord.gg/zY7bbFp
-```
