@@ -76,7 +76,7 @@ p code, li code, table code {
 }
 
 .items-title {
-  color: var(--color-font-bold);
+  color: var(--color-header);
   margin-bottom: 20px;
 }
 

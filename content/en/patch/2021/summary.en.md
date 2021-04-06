@@ -1,13 +1,11 @@
 +++
 date = "2021-01-01"
+lastmod = "2021-04-07"
 title = "2021 summary"
 categories = ["patch notes"]
 tags = ["2021", "summary"]
 weight = 1
 +++
-
-[January](##January)
-[December](##December)
 
 ## January
 

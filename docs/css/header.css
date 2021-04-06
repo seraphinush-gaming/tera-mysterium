@@ -25,7 +25,7 @@
 }
 
 .link:hover {
-  color: var(--color-font-bold);
+  color: var(--color-header);
 }
 
 /* mobile */

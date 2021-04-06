@@ -23,7 +23,7 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 a:hover, a:active {
-  color: var(--color-font-bold);
+  color: var(--color-header);
 }
 
 .focus {
@@ -87,7 +87,7 @@ a:hover, a:active {
     font-size: 12px;
   }
   p {
-    margin-bottom: 4px;
+    margin: 4px 0;
   }
 }
 

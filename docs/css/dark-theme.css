@@ -1,7 +1,8 @@
 html.dark-theme {
   --color-font: #DDD;
   --color-font-light: #AAA;
-  --color-font-bold: #EEE;
+  --color-font-bold: #F0BF5C;
+  --color-header: #EEE;
   --color-bg: #222;
   --color-bg-bold: #333;
   --color-code: #3A3C43;
