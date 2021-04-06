@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summary on mysterium</title>
+    <link>https://tera-mysterium.com/en/tags/summary/</link>
+    <description>Recent content in summary on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/en/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021 summary</title>
+      <link>https://tera-mysterium.com/en/patch/2021/summary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/summary/</guid>
+      <description>January   v103.01
+ New dungeon : Killing Grounds (nm/hm) New dungeon : The Catalepticon Trial Leaderboard : Removed Forbidden Arena Exodor : Removed restriction from using flight and jump platform Quest : Added quest skip function Partner : Revised to guarantee (100%) obtaining a Partner upon using an Evolution Core Partner : Revised Partner Fellowship increase rate and amount Battleground : Revised Gridiron Card Collection : Increase Card Fragment drop rate in all instances Card Collection : Decreased cost of Card Fragment Boxes in Specialty Merchant Card Collection : Significantly increased Selective Card Fusion rate Vanguard Initiative : Added level 70 [Daily] Vanguard Request Item : Added +9 passive effect to Kaia’s Soul Armor / Hand Armor / Foot Armor Item : Changed Frost Monarch dragon-type mount active skill    v103.</description>
+    </item>
+    
+  </channel>
+</rss>
