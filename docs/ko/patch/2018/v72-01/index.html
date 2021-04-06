@@ -1,0 +1,588 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/2018/">2018</a>
+</div>
+
+
+<h1 class="items-title">2018년 04월 19일 업데이트 안내 (v72.01)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Apr 19, 2018 </p>
+      
+    </div>
+    <h3 id="1-수호자-임무">1. 수호자 임무</h3>
+<ul>
+<li>비행 수호자 임무 &lsquo;바람과 불의 광시곡'과 &lsquo;정찰기 섬멸작전'이 추가됩니다.
+<ul>
+<li>65레벨만 진행할 수 있으며, 일반 수호자 임무와 동일한 방식으로 참여 가능합니다.
+<ul>
+<li>월드맵 &gt; 수호자 모드 활성화 &gt; 아르보레아의 수호자 임무 추적 &gt; 수호자 임무 입장</li>
+</ul>
+</li>
+<li>공중에서 진행되는 컨텐츠로, 비행 탈것에 탑승해야만 임무를 정상적으로 수행할 수 있습니다.</li>
+<li>일반 수호자 임무와 동일하게 &lsquo;수호자 임무 점수'를 획득할 수 있으며, 포인트를 일정량 획득하면 수호자 임무 보석 상자, 장비 숙련도, 평판 포인트를 획득할 수 있습니다.</li>
+<li>비행 수호자 임무 클리어에 성공할 시, *[추가 보상]으로 &lsquo;비행사의 증표&rsquo; 1개~3개, 혹은 전설 각인서 상자 중 1종이 지급됩니다.
+<ul>
+<li>[추가 보상]이란?
+<ul>
+<li>수호자 임무에서 특정 조건을 달성할 시, 임무 시간 종료 후 우편을 통해 획득할 수 있는 보너스 보상입니다. 획득을 위한 조건은 아래와 같습니다.
+<ul>
+<li>조건 1 : 수호자 임무 성공 (진행도 100% 달성)</li>
+<li>조건 2 : 해당 수호자 임무에서 일정 점수 이상 획득</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>비행 수호자 임무 발키온 연합 지령서인 &lsquo;비행 수호자 임무를 정복하라!&lsquo;가 추가됩니다.
+<ul>
+<li>비행 수호자 임무에서 &lsquo;상호작용'을 일정 횟수 수행하면 완료할 수 있습니다.</li>
+<li>골드, 발키온 정찰대 평판 포인트, 녹테늄 강화탄, 용맹의 물약, 비행사의 증표, 특성 경험치, 변화의 증거를 획득할 수 있습니다.</li>
+<li>1일 1회 완료 가능합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>전설 수호자 임무 &lsquo;덮쳐오는 복수의 발톱'의 수호자 임무 점수 획득 효율이 하향 조정됩니다.</li>
+<li>전설 수호자 임무 &lsquo;덮쳐오는 복수의 발톱'에 [추가 보상]이 추가됩니다.
+<ul>
+<li>임무 성공 시 임무가 종료된 시점의 개인 점수 획득량에 따라 추가보상이 우편으로 지급됩니다.
+<ul>
+<li>루비, 다이아몬드, 아티팩트 원석 VII, 전설 각인서 상자, 녹테늄 강화탄 정제기[고급] 중 1종이 지급됩니다.</li>
+<li>[개인점수 175,000점 달성 시 아래 아이템 중 1종]
+<ul>
+<li>아이템 | 수량
+<ul>
+<li>루비 | 6</li>
+<li>녹테늄 강화탄 정제기[고급] | 2</li>
+<li>아티팩트 원석 VII | 1</li>
+<li>전설 각인서 상자 | 1</li>
+<li>다이아몬드 | 10</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>[개인점수 125,000점 달성 시 아래 아이템 중 1종]
+<ul>
+<li>아이템 | 수량
+<ul>
+<li>루비 | 4</li>
+<li>녹테늄 강화탄 정제기[고급] | 1</li>
+<li>아티팩트 원석 VII | 1</li>
+<li>전설 각인서 상자 | 1</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>[개인점수 62,500점 달성 시 아래 아이템 중 1종]
+<ul>
+<li>아이템 | 수량
+<ul>
+<li>루비 | 2</li>
+<li>녹테늄 강화탄 정제기[고급] | 1</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>*개인점수 62,500점 미만은 추가 보상 없음</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>전설 수호자 임무 &lsquo;덮쳐오는 복수의 발톱'에 등장하는 마그누트의 전방 어그로 획득량이 대폭 증가합니다.</li>
+</ul>
+<h3 id="2-던전">2. 던전</h3>
+<ul>
+<li>악녀 릴리스의 성, 라켈리스의 폐허, 알파 사이럭스 연구 기지, 뒤틀린 라칸의 제단 난이도가 하향 조정됩니다.</li>
+</ul>
+<h3 id="3-보상">3. 보상</h3>
+<ul>
+<li>아래 컨텐츠들의 보상이 변경됩니다.
+<ul>
+<li>혁명단 은거지
+<ul>
+<li>어둠이 깃든 정신 지배 장치 드랍량이 상향 조정됩니다.</li>
+<li>불길한 마법 스크롤 드랍량이 상향 조정됩니다.</li>
+<li>미지의 액체 금속이 드랍 보상에서 제거됩니다.</li>
+<li>정밀하게 세공된 장식 조각이 드랍 보상에서 제거됩니다.</li>
+<li>상급 아크데바 묘약이 드랍 보상에서 제거됩니다.</li>
+</ul>
+</li>
+<li>RK-9 격납고
+<ul>
+<li>어둠이 깃든 정신 지배 장치 드랍량이 상향 조정됩니다.</li>
+<li>불길한 마법 스크롤 드랍량이 하향 조정됩니다.</li>
+<li>상급 아크데바 묘약이 드랍 보상에서 제거됩니다.</li>
+</ul>
+</li>
+<li>엘카라스 호
+<ul>
+<li>어둠이 깃든 정신 지배 장치 드랍량이 상향 조정됩니다.</li>
+<li>불길한 마법 스크롤 드랍량이 하향 조정됩니다.</li>
+<li>상급 아크데바 묘약이 드랍 보상에서 제거됩니다</li>
+<li>이공간의 파편이 드랍 보상에 추가됩니다.</li>
+</ul>
+</li>
+<li>악녀 릴리스의 성
+<ul>
+<li>미지의 액체 금속 드랍량이 상향 조정됩니다.</li>
+<li>정밀하게 세공된 장식 조각 드랍량이 하향 조정됩니다.</li>
+<li>상급 아크데바 묘약이 드랍 보상에서 제거됩니다.</li>
+<li>이공간의 파편이 드랍 보상에 추가됩니다.</li>
+</ul>
+</li>
+<li>라켈리스의 폐허
+<ul>
+<li>어둠이 깃든 정신 지배 장치가 드랍 보상에서 제거됩니다.</li>
+<li>미지의 액체 금속이 드랍 보상에 추가됩니다.</li>
+<li>불길한 마법 스크롤이 드랍 보상에서 제거됩니다.</li>
+<li>정밀하게 세공된 장식 조각이 드랍 보상에 추가됩니다.</li>
+<li>상급 아크데바 묘약이 드랍 보상에서 제거됩니다.</li>
+<li>이공간의 파편이 드랍 보상에 추가됩니다.</li>
+</ul>
+</li>
+<li>알파 사이럭스 연구 기지
+<ul>
+<li>미지의 액체 금속이 드랍 보상에서 제거됩니다.</li>
+<li>정밀하게 세공된 장식 조각 드랍량이 상향 조정됩니다.</li>
+<li>상급 아크데바 묘약의 드랍량이 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>뒤틀린 라칸의 제단
+<ul>
+<li>미지의 액체 금속이 드랍 보상에서 제거됩니다.</li>
+<li>불길한 마법 스크롤이 드랍 보상에 추가됩니다.</li>
+<li>정밀하게 세공된 장식 조각이 드랍 보상에서 제거됩니다.</li>
+<li>상급 아크데바 묘약 드랍량이 상향 조정됩니다.</li>
+<li>이공간의 파편이 드랍 보상에 추가됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>장비레벨 439 던전에서 특정 던전에만 이용률이 치중되어 있는 것이 확인 되어 던전의 난이도 하향과 함께 보상을 변경하였습니다. 차가운 금속 장비 강화 재료들을 특정 던전에서만 얻을 수 있도록 분배한 대신, 보상의 총량을 늘려 여러 던전을 이용할 경우 이전보다 많은 보상을 얻을 수 있도록 변경하였습니다.</p>
+<ul>
+<li>초월한 라켈리스의 폐허
+<ul>
+<li>상급 강화 재료 상자가 드랍 보상에서 제거됩니다.</li>
+<li>발키온 지령서 골드 보상이 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>궁극의 RK-9 격납고
+<ul>
+<li>상급 강화 재료 상자가 드랍 보상에서 제거됩니다.</li>
+<li>발키온 지령서 골드 보상이 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>삼엄한 혁명단 은거지
+<ul>
+<li>상급 강화 재료 상자가 드랍 보상에서 제거됩니다.</li>
+<li>발키온 지령서 골드 보상이 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>안타로스의 심연
+<ul>
+<li>상급 강화 재료 상자가 드랍 보상에서 제거됩니다.</li>
+<li>발키온 지령서 골드 보상이 상향 조정됩니다.</li>
+</ul>
+</li>
+<li>공허한 안타로스의 심연
+<ul>
+<li>상급 강화 재료 상자가 드랍 보상에서 제거됩니다.</li>
+<li>발키온 지령서 골드 보상이 상향 조정됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>장비레벨 446이상 던전에서 드랍되는 상급 강화 재료 상자는 차가운 금속 장비 강화 재료가 주로 나오고 있으나 대부분의 수호자분들에게는 해당 아이템의 공급량이 과도하여 이를 해결하고자 드랍 보상에서 관련 강화 재료를 제거하고 그만큼 지령서 골드 보상을 상향하여 보상 총량을 보존하였습니다.</p>
+<ul>
+<li>시험의 던전 메달 상점
+<ul>
+<li>가공된 아크데바의 광석이 추가됩니다.</li>
+<li>중급 아크데바 묘약의 가격이 하향 조정됩니다.</li>
+</ul>
+</li>
+<li>여명의 정원
+<ul>
+<li>중급 여명의 강화 재료 상자에 가공된 아크데바의 광석이 추가됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>가공된 아크데바의 광석의 공급처를 늘려 변형된 마석 장비의 강화 허들을 낮추었습니다.</li>
+</ul>
+<h3 id="4-스킬-및-밸런스">4. 스킬 및 밸런스</h3>
+<ul>
+<li>광전사
+<ul>
+<li>폭주 스킬의 HP 소모량이 30% 감소합니다.
+<ul>
+<li>적용대상: 폭주, 폭주:좌수, 우수, 쌍수, 야수의 돌진</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>창기사
+<ul>
+<li>전투의 의지
+<ul>
+<li>몬스터 공격 시 스킬 위력이 5% 증가하는 효과가 추가됩니다.</li>
+</ul>
+</li>
+<li>방어구 부수기
+<ul>
+<li>맷집 감소 디버프 효과가 최대 3중첩에서 1중첩으로 변경됩니다.</li>
+<li>1회 중첩 시 맷집 감소 효과가 4%에서 12%로 변경됩니다.</li>
+</ul>
+</li>
+<li>작살 사슬
+<ul>
+<li>작살 사슬 사용 시 대상 효과가 최대 6인에서 5인(타켓1명, 주변4명)으로 변경됩니다.</li>
+<li>도발의 낙인 후 대상 효과가 30인에서 5인으로 변경됩니다. (PVP)</li>
+</ul>
+</li>
+<li>철갑의 의지
+<ul>
+<li>특성 [회복]의 HP 회복량이 50% 감소합니다.</li>
+</ul>
+</li>
+<li>천상의 방패
+<ul>
+<li>고정 대미지, 체력 비례 대미지를 막을 수 있도록 변경됩니다.</li>
+<li>재사용 대기 시간이 6분에서 8분으로 변경됩니다.</li>
+<li>버프 지속시간이 10초에서 5초로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>검투사
+<ul>
+<li>질풍 가르기, 종단 가르기
+<ul>
+<li>스택이 모두 쌓였을 때 스킬 숏컷이 출력되도록 변경됩니다.</li>
+<li>종단 가르기의 우선순위가 더 높게 출력됩니다</li>
+</ul>
+</li>
+<li>투지의 일격
+<ul>
+<li>강철의 결의 시 맷집 감소 효과가 8% 에서 12%로 상향됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>마법사
+<ul>
+<li>번개의 각인
+<ul>
+<li>조금 더 일찍 배울 수 있도록 레벨이 추가됩니다. (패치 이후 추가된 레벨만큼 추가 습득 필요)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>궁수
+<ul>
+<li>마비의 덫 화살
+<ul>
+<li>조금 더 일찍 배울 수 있도록 레벨이 추가됩니다. (패치 이후 추가된 레벨만큼 추가 습득 필요)</li>
+</ul>
+</li>
+<li>기절의 덫
+<ul>
+<li>최초 습득 레벨이 14로 변경됩니다. (패치 이후 추가된 레벨만큼 추가 습득 필요)</li>
+</ul>
+</li>
+<li>거미줄 덫
+<ul>
+<li>최초 습득 레벨이 12로 변경됩니다. (패치 이후 추가된 레벨만큼 추가 습득 필요)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>마공사
+<ul>
+<li>전하역류
+<ul>
+<li>경직, 다운 시에도 사용이 불가능하게 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>정령사
+<ul>
+<li>정령화
+<ul>
+<li>이펙트가 on/off 시에만 노출되도록 변경됩니다.</li>
+</ul>
+</li>
+<li>번개의 정령
+<ul>
+<li>PVP 공격력이 대폭 감소합니다.</li>
+</ul>
+</li>
+<li>정령왕
+<ul>
+<li>PVP 공격력이 대폭 감소합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>사제
+<ul>
+<li>강화 축복의 기운
+<ul>
+<li>기절 저항 효과가 제거됩니다.</li>
+<li>받는 피해량 감소량이 20%에서 30% 상향됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>이전 광전사의 [피의 보복] 패시브 및 사제의 [탈출] 특성의 피격 조건 관련 버그수정에 따라 해당 패시브 및 특성 효과가 다른 방식으로 개선이 될 예정입니다. 해당 업데이트는 빠른 시일 내에 적용시킬 수 있도록 하겠습니다.</li>
+</ul>
+<h3 id="5-부가서비스">5. 부가서비스</h3>
+<ul>
+<li>프리미엄 전용 공간 편의성이 개선되었습니다.
+<ul>
+<li>길리안과의 전투 종료 후 즉시 전투 상태가 풀리도록 변경됩니다.</li>
+<li>보상 상자가 등장하는 시간이 단축됩니다.</li>
+<li>보상 상자를 공격 후 즉시 전투가 풀리도록 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-사냥터">6. 사냥터</h3>
+<ul>
+<li>각 마을의 사용하지 않는 보상담당관 NPC가 삭제됩니다.</li>
+<li>65레벨 이하의 중형 몬스터의 회복 구슬 드랍량 및 드랍률이 상향됩니다.</li>
+<li>20레벨 바실리스크의 공격력이 하향되고, 일부 패턴이 수정됩니다.</li>
+</ul>
+<h3 id="7-초과-지급된-페트레-순위표-초기화-보상-회수">7. 초과 지급된 페트레 순위표 초기화 보상 회수</h3>
+<ul>
+<li>초과 지급된 [이벤트] GM의 초콜릿 상자 및 초콜릿을 회수하였습니다.</li>
+<li>인벤토리, 창고, 펫창고 등에 보관되어 있던 전체 소지량 회수 후 초과 지급된 수량을 제외한 수량은
+우편으로 재지급 해드렸습니다. (서버별 점검 전 최근 접속한 캐릭터의 우편으로 지급)</li>
+</ul>
+<p>[개발자코멘트]</p>
+<ul>
+<li>초과 지급된 모든 보상에 대해 즉시 회수를 진행하고자 하였지만, 작업 도중 문제가 발생하여 당일은 우편에 대해서만 회수가 진행되었습니다. 용맹의 물약 II, [이벤트] 양 불고기 등 모든 초과 지급된 보상을 회수할 경우, 보다 장시간의 점검이 필요하여 순위기록과 밸런스에 영향도가 큰 초콜릿에 대해서만 회수를 결정하였습니다. 위 문제로 혼란을 드려 죄송합니다. 이후에는 이런 일이 없도록 노력하겠습니다.</li>
+</ul>
+<h3 id="버그수정">[버그수정]</h3>
+<ul>
+<li>스킬
+<ul>
+<li>검투사 무쌍난무:찌르기 버프가 파티 탈퇴 후 다른 던전에서 유지되는 문제</li>
+<li>마법사 추적의 업화 - 정신의 문장 적용 후 소모되는 MP가 스킬 툴팁과 상이한 문제</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>던전 매칭 UI에서 거짓말쟁이 타르스키의 놀이터 재료 획득 내용이 탐욕스러운 라칸의 액세서리로 출력되는 문제</li>
+<li>클라이언트 강제종료 시 시스템 설정이 초기화 되는 문제</li>
+</ul>
+</li>
+<li>부가서비스
+<ul>
+<li>럭키 리리의 제멋대로의 선물 스킬 재사용 시간이 던전 및 전장에서 감소되지 않는 문제</li>
+<li>엘린의 일부 헤어 스타일로 파란리본 헐리웃 모자 장착 시 귀가 튀어나오는 문제</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=328">TERA 테라 | NEXON</a></p>
+
+
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

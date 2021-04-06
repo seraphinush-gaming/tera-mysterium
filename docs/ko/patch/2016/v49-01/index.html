@@ -1,0 +1,484 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/2016/">2016</a>
+</div>
+
+
+<h1 class="items-title">2016년 08월 25일 업데이트 안내 (v49.01)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Aug 25, 2016 </p>
+      
+    </div>
+    <h3 id="1-던전">1. 던전</h3>
+<ul>
+<li>신규 던전 파괴된 신계의 관문이 추가됩니다.
+<ul>
+<li>65레벨 30인 공격대 던전입니다.</li>
+<li>벨리카 근교에 위치한 차원의 마법석을 통해 입장하실 수 있습니다.</li>
+<li>파괴된 신계의 관문은 서버간 파티매칭을 지원하지 않습니다.</li>
+<li>파괴된 신계의 관문은 총 4단계에 걸쳐 진행되며, 각 단계 클리어 시 보상이 지급됩니다.
+(보상은 클리어 시 생성되는 보상 상자를 파괴하여 루팅할 수 있으며, 보상 상자가 파괴될 때 던전 안에 위치하고 있더라도 보상 상자 근처(약 100m)에 위치하지 않을 경우 보상을 획득할 수 없습니다)</li>
+<li>1단계 보상: 베르고스의 전투 주머니(하급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 허리띠/뼈조각/뿔조각, 전설 각인서 상자</li>
+<li>2단계 보상: 베르고스의 전투 주머니(중급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 허리띠/뼈조각/뿔조각, 전설 각인서 상자, 아티팩트 원석 VII, 빛나는 여신의 결정 가루, 베르고스의 구리빛 보물 상자</li>
+<li>3단계 보상: 베르고스의 전투 주머니(상급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 비늘/이빨, 아티팩트 원석 VII, 빛나는 여신의 결정 가루, 베르고스의 은빛 보물 상자</li>
+<li>4단계 보상: 베르고스의 전투 주머니(최상급), 고룡의 금빛 정수, 철기장:매혹 제작 도안, 고룡 베르고스의 비늘/이빨, 아티팩트 원석 VII, 빛나는 여신의 결정 가루, 빛나는 여신의 눈물, 베르고스의 금빛 보물 상자, 고룡의 머리</li>
+<li>4단계 클리어 보상인 고룡의 머리 획득 시 &lsquo;한이 서린 용의 눈빛&rsquo; 퀘스트를 수주할 수 있으며, 퀘스트 완료 시 &lsquo;고룡의 브로치&rsquo; 아이템을 획득할 수 있습니다.
+<ul>
+<li>고룡의 브로치 효과는 다음과 같습니다.</li>
+<li>힘 30 증가</li>
+<li>치명타 유발 30 증가</li>
+<li>공격 속도 12% 증가</li>
+<li>아이템 사용 시 사용자의 온 몸을 검붉은 기운이 감싸며 사용자의 외형이 변경됩니다.</li>
+<li>효과 지속 시간 20초</li>
+</ul>
+</li>
+<li>던전 내 모든 몬스터는 검투사 스택이 쌓이지 않으나 대신 검투사의 질풍 가르기가 항시 풀 스택의 위력을 지닙니다.</li>
+<li>던전에서 사망한 캐릭터의 네임 플레이트 색상이 검붉은색으로 변경됩니다.</li>
+</ul>
+</li>
+<li>던전 밸런스 조정
+<ul>
+<li>릴리스의 성
+<ul>
+<li>1네임드
+<ul>
+<li>불의 장막 패턴 발동 시 좀 더 안쪽으로 돌게 하여 이전보다 빨리 돌도록 수정 하였으며, 패턴 완료 시 불의 정령에게 부여하던 광폭화 이상상태를 삭제 하였습니다.</li>
+</ul>
+</li>
+<li>2네임드
+<ul>
+<li>왁스파이더가 속박에 걸린 대상을 향해 점프 공격을 하던 패턴의 쿨타임을 대폭 늘렸습니다.</li>
+</ul>
+</li>
+<li>3네임드
+<ul>
+<li>시간차 다중 누킹 패턴의 쿨타임이 소폭 증가하였습니다.</li>
+<li>전방 방어불가 공격 이후 원근폭 장판 패턴의 데미지가 하향 조정되었습니다.</li>
+<li>전투 공간 제한 패턴에서 외곽 지역 장판의 데미지 부여 주기가 1초에서 2초로 변경되었습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>악녀 릴리스의 성
+<ul>
+<li>1네임드
+<ul>
+<li>공격력이 소폭 하향되었습니다.</li>
+<li>전방 돌진 패턴의 쿨타임이 증가하였습니다.</li>
+<li>불의 장막 패턴 발동 시 좀 더 안쪽으로 돌게 하여 이전보다 빨리 돌도록 수정 하였으며, 패턴 완료 시 불의 정령에게 부여하던 광폭화 이상상태를 삭제 하였습니다.</li>
+</ul>
+</li>
+<li>2네임드
+<ul>
+<li>왁스파이더가 속박에 걸린 대상을 향해 점프 공격을 하던 패턴의 쿨타임을 대폭 늘렸습니다.</li>
+</ul>
+</li>
+<li>3네임드
+<ul>
+<li>공격력이 소폭 하향되었습니다.</li>
+<li>전방 방어불가 공격 이후 원근폭 장판 패턴의 데미지가 하향 되었으며, 쿨타임이 소폭 증가하였습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-스킬">2. 스킬</h3>
+<ul>
+<li>궁수
+<ul>
+<li>[궁수의 징표] 스킬 효과가 이제 시전자 자신을 포함한 모든 궁수 스킬에 영향을 주게 변경됩니다.</li>
+</ul>
+</li>
+<li>창기사
+<ul>
+<li>[도발의 포효] 스킬 사용 시 5초간 피격된 적의 적대치를 최대로 유지합니다.</li>
+</ul>
+</li>
+<li>검투사
+<ul>
+<li>[충격의 외침] 스킬 사용 시 5초간 피격된 적의 적대치를 최대로 유지합니다.</li>
+</ul>
+</li>
+<li>광전사
+<ul>
+<li>[광폭화] 스킬을 분노의 역류 상태에서 사용 시 5초간 피격된 적의 적대치를 최대로 유지합니다.</li>
+</ul>
+</li>
+<li>사제
+<ul>
+<li>[치유의 바람] 스킬 사용 시 HP가 낮은 대상부터 효과가 적용됩니다.</li>
+<li>[수호의 갑옷] 스킬 사용 시 HP가 낮은 대상부터 효과가 적용됩니다.</li>
+<li>[아룬의 축복] 스킬 최대 적용 인원이 30명으로 변경됩니다.</li>
+<li>[샤라의 축복] 스킬 최대 적용 인원이 30명으로 변경됩니다.</li>
+<li>[마력 재생] 스킬 최대 적용 인원이 30명으로 변경됩니다.</li>
+</ul>
+</li>
+<li>정령사
+<ul>
+<li>[정기 흡수 - 방출] 스킬 최대 적용 인원이 30명으로 변경됩니다.</li>
+</ul>
+</li>
+<li>무사
+<ul>
+<li>정예/중형 몬스터에 대한 대미지가 상승합니다.</li>
+<li>[진 일도양단]에 다음의 효과가 적용됩니다.
+<ul>
+<li>[일도양단]과 같은 녹테늄 강화탄 효과가 적용됩니다.</li>
+<li>다음 문장의 효과가 진 일도양단에도 적용됩니다.
+<ul>
+<li>후려치기: 연계 투지의 문장 [일도양단]</li>
+<li>턱부수기: 연계 투지의 문장 [일도양단]</li>
+</ul>
+</li>
+<li>특성 일도양단: 강화 효과가 적용됩니다.</li>
+</ul>
+</li>
+<li>가슴 방어구 &lsquo;일도양단 대미지 10%증가&rsquo; 옵션의 영향을 받습니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-길드">3. 길드</h3>
+<ul>
+<li>동시에 3 개의 길드 임무를 진행할 수 있도록 변경됩니다.</li>
+<li>길드 성장 보너스 시스템이 업데이트됩니다.</li>
+<li>길드에 가입한 초보 유저가 레벨업 시 길드 경험치와 공헌도를 획득할 수 있습니다.
+<ul>
+<li>달성 레벨 | 획득 길드 경험치 | 획득 공헌도 | 비고
+<ul>
+<li>20 | 20 | 60 |</li>
+<li>25 | 25 | 75 |</li>
+<li>30 | 30 | 90 |</li>
+<li>35 | 35 | 105 |</li>
+<li>40 | 40 | 120 |</li>
+<li>45 | 45 | 135 |</li>
+<li>50 | 50 | 150 |</li>
+<li>55 | 55 | 165 |</li>
+<li>60 | 60 | 180 | 비검사 획득 가능</li>
+<li>65 | 65 | 195 | 비검사 획득 가능</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>캐릭터 생성/삭제를 통한 반복 획득을 방지하기 위해 20레벨 이상부터 길드 성장 보너스 획득이 가능합니다.</li>
+<li>비검사는 튜토리얼 구간을 지난 60레벨 이후부터 길드 성장 보너스 획득이 가능합니다.</li>
+<li>이벤트 : 고속 성장 주문서와 같은 즉시 레벨업 아이템을 사용해 레벨을 달성할 경우 길드 성장 보너스를 획득할 수 없습니다.</li>
+</ul>
+<h3 id="4-전장">4. 전장</h3>
+<ul>
+<li>평점 투지의 전장, 개인 평점 투지의 전장에서 녹테늄 강화탄 사용이 가능해 집니다.</li>
+<li>개인 평점 투지의 전장 입장 시 지급되는 통일장비의 색상이 변경됩니다.</li>
+</ul>
+<h3 id="5-비행-지역-확장">5. 비행 지역 확장</h3>
+<ul>
+<li>다음의 지역까지 비행 가능 지역으로 확장됩니다.
+<ul>
+<li>실바니아 가드</li>
+<li>로스 아카디아 가드</li>
+<li>카이아도르 직할령</li>
+<li>로스 티리키아 가드</li>
+<li>헬칸 특별지구</li>
+<li>로스 카이아나 가드</li>
+</ul>
+</li>
+<li>이제 특별한 경우를 제외하면 아르보레아 대륙 모든 지역에서 비행이 가능합니다.</li>
+</ul>
+<h3 id="6-여명의-정원">6. 여명의 정원</h3>
+<ul>
+<li>여명의 정원 사냥터 채널 수가 4개 -&gt; 8개로 증가됩니다.</li>
+</ul>
+<h3 id="7-ui">7. UI</h3>
+<ul>
+<li>공격대 UI가 개편됩니다.
+<ul>
+<li>최대 구성 인원 수가 기존 20인에서 30인까지 구성할 수 있도록 변경됩니다.</li>
+<li>최대 구성 인원 수가 늘어난 만큼, 더 많은 인원 수의 공격대원 정보창을 표시해도 화면을 덜 가리도록 공격대원 정보창의 크기 및 디자인이 작고 간략하게 변경됩니다.</li>
+<li>공격대 구성 시, “내 파티 간략하게 표시” 옵션으로 자신의 파티원 정보창 역시 공격대원 정보창과 동일하게 작게 표시할 수 있습니다. 기본값은 작게 표시되는 것이 기본이며, 설정을 켜고 끌 수 있습니다.</li>
+<li>공격대원 정보창의 정리정돈을 더 쉽게 할 수 있도록 공격대원 정보창에 자석기능이 추가됩니다.</li>
+<li>공격대원 초대 기능이 추가됩니다. 공격대장과 공격대장이 초대권한을 부여한 인원만 초대가능하며, 친구목록과 길드원 목록에서 선택해서 초대할 수 있습니다.</li>
+<li>*공격대원 정보창의 크기 조절이 불가한 문제는 현재 파악되었으며, 개선 예정에 있습니다.</li>
+</ul>
+</li>
+<li>스킬 이펙트 퀄리티를 조정하여 랙 현상을 완화할 수 있게 개선됩니다.
+<ul>
+<li>[시스템 설정] – [비디오 설정] – [이펙트 품질] – [이펙트 품질 제한] 슬라이드 바 추가</li>
+</ul>
+</li>
+<li>착용 중인 아이템과 미착용중인 아이템을 구분하기 어려운 문제가 개선됩니다.
+<ul>
+<li>소지품 아이템 툴팁에 테두리 삽입</li>
+<li>착용 중인 아이템에 &lsquo;착용중&rsquo; 문구 삽입</li>
+<li>제작 도안/제작 결과물 아이템 자동비교 툴팁의 제작 결과물에 &lsquo;제작 결과물&rsquo; 문구 삽입</li>
+</ul>
+</li>
+<li>여행자의 책 : 장소이동 사용 방식이 개선됩니다.
+<ul>
+<li>기존 더블 클릭을 통해서만 장소 이동이 가능한 문제를 개선
+<ul>
+<li>저장된 장소의 장소명 옆에 &lsquo;이동&rsquo; 버튼 추가</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="8-장비">8. 장비</h3>
+<ul>
+<li>빛나는 투사의 신발의 옵션과 성능 수치가 변동됩니다.
+<ul>
+<li>“고정 옵션 : PVP 방어력 5(명품시 7) 증가”가 추가 됩니다.</li>
+<li>방어 성능과 균형 보정 수치가 하락 합니다.
+<ul>
+<li>빛나는 투사의 장비 세트는 PVP에서만 큰 효율을 발휘할 수 있게끔 기획 되었으나, 신발의 경우 높은 방어력/균형 수치 때문에 의도와는 다르게 PVE에서도 매우 높은 효율을 보이고 있었습니다. PVE 아이템들간의 위상 조절과 아이템의 본 목적성을 찾기 위하여, 해당 아이템에PVP옵션을 추가하며 그 상승치 만큼의 방어 성능 수치를 하향합니다. (빛나는 투사 방어구 세트의 PVP 효율은 전과 동일 합니다)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="9-보상">9. 보상</h3>
+<ul>
+<li>강철의 전장 일일 퀘스트가 추가되며 평판과 경험치, 보물상자등을 보상으로 지급합니다.
+<ul>
+<li>퀘스트의 보상으로 &lsquo;강철의 승리자 상자'를 획득할 수 있습니다.
+<ul>
+<li>각종 보석과 요사스러운 뿔조각, 귀부인의 손수건을 획득 가능합니다.</li>
+<li>강화석과 전투비약, 거래불가 단련의 가루와 재봉인 주문서도 획득 가능합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>전장 일일 퀘스트 보상 상자의 구성품 및 확률이 소폭 변동됩니다.
+<ul>
+<li>포화의 상자 : 8단계 강화석 대신 9단계 강화석을 획득 가능합니다.</li>
+<li>명예로운 보상 : 심해의 파편 대신 상급 전투 비약을 획득 가능합니다.</li>
+<li>승리한 쿠마스의 상자 : 요사스러운 뿔조각의 획득 수량과 확률이 소폭 변동 됩니다.</li>
+</ul>
+</li>
+</ul>
+<h2 id="버그수정">버그수정</h2>
+<ul>
+<li>스킬
+<ul>
+<li>권술사 스킬인 &lsquo;거인의 힘'을 장시간 유지하고 있을 때 랙 현상이 발생하는 문제가 수정되었습니다.</li>
+<li>엘린 종족 정령사로 회복의 정기, 마력의 정기 스킬 사용 중 이동으로 스킬 취소가 되지 않는 문제가 수정되었습니다.</li>
+</ul>
+</li>
+<li>던전
+<ul>
+<li>초월한 라켈리스의 광역 밀치기 패턴에 확률적으로 피격되지 않는 문제가 수정되었습니다.</li>
+<li>정령, 센트리 타워 등의 소환수가 초월한 라켈리스의 영혼 구체에 피격되는 문제가 수정되었습니다.</li>
+<li>오샤르의 부활 주문서로 부활 시 일부 스킬의 재사용 시간 감소 효과가 적용되지 않는 문제가 수정되었습니다.</li>
+</ul>
+</li>
+<li>텍스처 품질 자동조절 기능
+<ul>
+<li>텍스처 해상도 조절에 설정된 수치보다 상향 조절되는 문제가 수정되었습니다.</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>길드 임시창고가 존재하는 상태에서 길드 창고 개방 시 임시 창고를 사용할 수 없는 문제가 수정되었습니다.</li>
+</ul>
+</li>
+</ul>
+<p>[버그수정 내역] – 8월 26일(금) 임시점검으로 수정된 내역 안내</p>
+<ul>
+<li>던전
+<ul>
+<li>2페이즈에서 베르고스의 패턴이 비정상적으로 진행되며 다음 단계로 진행이 되지 않는 문제가 수정되었습니다.</li>
+</ul>
+</li>
+<li>아이템
+<ul>
+<li>베르고스의 머리 아이템이 창고 보관이 가능한 문제가 수정되었습니다.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>source : <del>[TERA 테라 | NEXON]</del></p>
+
+
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

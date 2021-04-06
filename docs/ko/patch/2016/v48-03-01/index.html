@@ -1,0 +1,243 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/2016/">2016</a>
+</div>
+
+
+<h1 class="items-title">2016년 08월 18일 업데이트 안내 (v48.03.01)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Aug 18, 2016 </p>
+      
+    </div>
+    <h3 id="1-던전">1. 던전</h3>
+<ul>
+<li>릴리스의 성 일부 패턴의 밸런스가 하향됩니다.
+<ul>
+<li>왁스파이더와 전투 시 생성되는 굳어가는 촛농 게이지가 1초에 1씩 상승하도록 변경</li>
+<li>릴리스의 원거리 브레스 패턴 데미지 하향</li>
+<li>광역 밀쳐내기에 피격 시 부여되는 이동속도 감소 이상상태 제거</li>
+<li>전투공간 제한 패턴의 맵 중앙에 생성되는 도트 장판 제거</li>
+</ul>
+</li>
+<li>포악한 베르노의 실험실에서 &lsquo;라켈리스의 목걸이: 치명&rsquo;, &lsquo;라켈리스의 목걸이: 힘'이 추가 드랍됩니다.</li>
+<li>아래 던전은 서버간 파티매칭으로만 입장할 수 있게 변경됩니다.
+※ 일반 던전은 최대 4인 파티 후 매칭, 베르노는 최대 5인 파티 후 매칭 시 입장이 가능합니다.
+<ul>
+<li>릴리스의 성</li>
+<li>듀리온의 안식처</li>
+<li>포악한 베르노의 실험실</li>
+<li>부활한 회당</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-전장">2. 전장</h3>
+<ul>
+<li>포화의 전장에서 획득할 수 있는 승리의 인도자/광기의 학살자 포인트 획득 효율이 증가하였습니다.
+<ul>
+<li>승리의 인도자
+<ul>
+<li>변경 전: 승리 시 3500 / 공헌보너스 2000</li>
+<li>변경 후: 승리 시 6000 / 공헌보너스 3000</li>
+</ul>
+</li>
+<li>광기의 학살자
+<ul>
+<li>변경 전: 승리 시 2000 / 공헌보너스 900</li>
+<li>변경 후: 승리 시 2500 / 공헌보너스 1500</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-캐시-아이템-구매-관련">3. 캐시 아이템 구매 관련</h3>
+<ul>
+<li>수호자 여러분들의 안전한 캐시 아이템 구매를 위해 8월 19일(금) &lsquo;게임 내 캐릭터 레벨이 15레벨 이상'이어야만 선물하기가 가능하도록 조건이 추가됩니다.(별도 공지 안내 예정)</li>
+</ul>
+<hr>
+<p>source : <del>[TERA 테라 | NEXON]</del></p>
+
+
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,421 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/2018/">2018</a>
+</div>
+
+
+<h1 class="items-title">2018년 08월 16일 업데이트 안내 (v76.03)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Aug 16, 2018 </p>
+      
+    </div>
+    <h3 id="1-스킬-밸런스">1. 스킬 밸런스</h3>
+<ul>
+<li>권술사
+<ul>
+<li>임전무퇴(신규 Passive)
+<ul>
+<li>65레벨에 습득이 가능합니다.</li>
+<li>몬스터 전방 타격 시 스킬 위력이 7%, 적대치가 15% 상승합니다.</li>
+</ul>
+</li>
+<li>폭연타
+<ul>
+<li>점혈 최대 중첩수가 8 -&gt; 3으로 변경됩니다.</li>
+<li>점혈 1중첩 당 맷집 감소율이 1.5% -&gt; 4%로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>광전사
+<ul>
+<li>야수의 돌진
+<ul>
+<li>스킬을 시전하는 동안 받는 피해가 50% 감소합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>월광무사
+<ul>
+<li>승격참
+<ul>
+<li>2타 타격 시, 월광력이 10만큼 추가로 회복됩니다.</li>
+</ul>
+</li>
+<li>반월참
+<ul>
+<li>타격 시, 월광력 추가 회복량이 16 -&gt; 15로 감소합니다.</li>
+</ul>
+</li>
+<li>승격참, 신월: 달빛의 공명, 반월참
+<ul>
+<li>툴팁에 월광력 추가 회복 수치가 표기됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>검투사
+<ul>
+<li>강철의 결의 강화(신규 Passive)
+<ul>
+<li>65레벨에 습득이 가능합니다.</li>
+<li>[강철의 결의 II] 상태에서 몬스터의 전방 타격 시, 스킬 위력이 8% 상승합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>마법사
+<ul>
+<li>3원소
+<ul>
+<li>원소 획득 스킬의 위력이 4% 증가합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>궁수
+<ul>
+<li>광풍살
+<ul>
+<li>스킬 전체 위력이 소폭 증가합니다.</li>
+<li>차징 속도가 소폭 증가합니다.</li>
+</ul>
+</li>
+<li>약점 관찰
+<ul>
+<li>스킬에 이펙트가 추가됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>광풍살의 후폭풍 효과가 의도와는 다르게 2회 중복 적용되어 과도한 위력을 발휘하던 문제를 수정하였으며, 스킬의 감소된 위력 및 위상을 감안하여, 광풍살 스킬의 위력 및 차징 속도를 소폭 증가 시켰습니다.</p>
+</li>
+<li>
+<p>현재 ST 회복 주기에 대한 문제로, 많은 불편이 있으신 것을 알고 있기에 빠르게 수정하고자 하였으나 다른 문제로 금주에 반영되지 못했습니다. 신속히 수정될 수 있도록 최선을 다하겠습니다.</p>
+</li>
+<li>
+<p>인술사</p>
+<ul>
+<li>선인화
+<ul>
+<li>재사용 대기 시간이 40% 감소합니다.</li>
+<li>[강화 부메랑 수리검]의 위력이 33% 감소합니다.</li>
+<li>[강화 표창 연사]의 타격횟수가 약 40% 감소합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>비검사</p>
+<ul>
+<li>속박의 낫
+<ul>
+<li>시전 중 모션 끝까지 무적 효과가 추가됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>무사</p>
+<ul>
+<li>일섬
+<ul>
+<li>[참격] 이후에 연계 가능하도록 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>9월 중 일부 딜러 클래스의 밸런스 추가 조정이 진행될 예정입니다.</li>
+</ul>
+<h3 id="2-각성-퀘스트">2. 각성 퀘스트</h3>
+<ul>
+<li>등장 NPC의 체력 하향 등 난이도가 하향됩니다.</li>
+</ul>
+<h3 id="3-전장">3. 전장</h3>
+<ul>
+<li>쿠마스의 놀이터
+<ul>
+<li>매칭 인원이 5:5로 변경됩니다.</li>
+<li>쿠마스 NPC들의 체력이 조정됩니다.
+<ul>
+<li>대장 쿠마스 HP 1,000,000 -&gt; 500,000</li>
+<li>아기 쿠마스 HP 30,000 -&gt; 60,000</li>
+</ul>
+</li>
+<li>승리의 인도자 및 학살자 경험치가 제거됩니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-발키온-지령서">4. 발키온 지령서</h3>
+<ul>
+<li>일일보너스3
+<ul>
+<li>일일 지령서 16회 완료 시 획득 할 수 있는 보상이 추가됩니다.
+<ul>
+<li>지령서 완료 개수가 9~16개까지 출력됩니다.
+<ul>
+<li>레벨 10~29 | 루비1개</li>
+<li>레벨 30~49 | 사파이어1개</li>
+<li>레벨 50~59 | 사파이어2개</li>
+<li>레벨 60~64 | 사파이어3개</li>
+<li>레벨 65 | 사파이어3개, 녹테늄 강화탄200개</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="5-uiux">5. UI/UX</h3>
+<ul>
+<li>프리미엄 혜택 슬롯이 UI모드에서 항상 출력되는 사양 변경</li>
+<li>캐릭터 이벤트 상태일 때 캐릭터 이벤트 UI가 출력되도록 변경</li>
+<li>마법사 속성 UI 기능 추가
+<ul>
+<li>활성화된 복원력 속성에 따라 속성 UI 슬롯이 깜빡이게 됩니다.</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-기타">6. 기타</h3>
+<ul>
+<li>바하르의 신전 리더보드 1위 대상자의 레플리카가 설치됩니다.</li>
+<li>황금/다이아 티켓, 하급/중급/상급 HP, MP, 변화의 증거 아이템의 최대 스택 수량이 늘어납니다.</li>
+<li>사용처가 없어진 연맹 회복 물약의 아이템명이 (구)연맹 회복 물약 으로 변경되며, 상점판매 가격이 조정됩니다.</li>
+<li>필드 네임드가 최초 스폰 지점에서 일정 범위 이상 벗어나도 HP, 어그로가 초기화되지 않은 상태로 되돌아가도록 수정됩니다.
+<ul>
+<li>폭염의 산맥: 폭풍의 카나쉬</li>
+<li>뱀의 섬: 사샤라크</li>
+<li>고대 전쟁의 폐허: 퀘스겔렌</li>
+<li>아카디아 협곡: 라키누아</li>
+<li>잊혀진 자들의 설원: 스내글투스</li>
+<li>아메나 콰틀라: 카자스탄</li>
+</ul>
+</li>
+<li>리더보드 툴팁 문구가 조금 더 구체적으로 변경됩니다.
+<ul>
+<li>각 네임드가 &lsquo;전투 상태'가 되는 시점에 &lsquo;던전 내부'에 있는 파티원의 수나 구성원이 한 번이라도 일치하지 않으면 기록이 등록되지 않는 점을 구체적으로 명시</li>
+</ul>
+</li>
+</ul>
+<h2 id="버그-수정">버그 수정</h2>
+<ul>
+<li>스킬
+<ul>
+<li>궁수 광풍살 후폭풍이 2번 적용되던 문제</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>파티원 이상상태를 모두 보기로 설정 후 클라이언트 재접속 시 간략보기로 출력되는 문제</li>
+<li>메인 메뉴가 숏컷과 겹칠 경우 동작하지 않는 문제</li>
+</ul>
+</li>
+<li>던전
+<ul>
+<li>왜곡된 리안의 지하 전당/리안의 지하 전당 3네임드 비석 패턴에서 비석 폭발이 주는 데미지를 &lsquo;회피 연막술&rsquo; 과 같은 무적 스킬로 막을 수 있는 문제</li>
+<li>왜곡된 리안의 지하 전당/리안의 지하 전당에서 권술사 &lsquo;거인의 힘&rsquo; 방어 판정이 3네임드의 특정 스킬에서 적용되지 않는 문제</li>
+</ul>
+</li>
+<li>부가서비스
+<ul>
+<li>엘린 권술사 클래스로 설빔 스타일 아이템 착용 시 어깨 부분의 그래픽이 깨지는 문제</li>
+<li>(추가) 엘린 종족으로 보석헤어 A 아이템 사용 시 귀에 이펙트가 적용되지 않던 문제</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=352">TERA 테라 | NEXON</a></p>
+
+
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

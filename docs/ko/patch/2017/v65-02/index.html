@@ -1,0 +1,264 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/2017/">2017</a>
+</div>
+
+
+<h1 class="items-title">2017년 11월 09일 업데이트 안내 (v65.02)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Nov 9, 2017 </p>
+      
+    </div>
+    <h3 id="1-스킬-및-밸런스-조정">1. 스킬 및 밸런스 조정</h3>
+<ul>
+<li>인술사
+<ul>
+<li>스킬: 화염술
+<ul>
+<li>화염술 사용 시 발생하는 렉 현상 개선 및 몬스터 크기에 상관없이 동일한 효과를 갖도록 하기 위해 아래와 같이 변경됩니다.</li>
+<li>스킬 위력 3배 증가</li>
+<li>덩치가 큰 대상에게 사용해도 최대 1회까지만 타격되도록 변경</li>
+<li>플레이어가 대상일 경우 위력 25% 감소</li>
+<li>화염술 투사체 크기에 비해 타격 범위가 다소 넓었던 문제 수정</li>
+</ul>
+</li>
+<li>특성: 화염술 추진력
+<ul>
+<li>적중 시 차크라 회복술 재사용 대기시간 감소 효과가 아래와 같이 변경됩니다.</li>
+<li>1단계: 0.6초</li>
+<li>2단계: 1.2초</li>
+<li>3단계: 1.8초</li>
+<li>4단계: 2.4초</li>
+<li>5단계: 3.0초</li>
+<li>6단계: 3.6초</li>
+<li>7단계: 4.2초</li>
+<li>8단계: 4.8초</li>
+<li>9단계: 5.4초</li>
+<li>10단계: 6.0초</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-ui">2. UI</h3>
+<ul>
+<li>프레임 드랍 개선</li>
+</ul>
+<h3 id="버그수정">[버그수정]</h3>
+<ul>
+<li>스킬
+<ul>
+<li>스킬 사용 중 사망 시 부활 후 스킬이 자동으로 발동되는 문제</li>
+</ul>
+</li>
+<li>호문쿨루스
+<ul>
+<li>호문쿨루스 사망 시 아이템이 반환되지 않는 문제</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>파티창 UI에 파티원의 버프가 확률적으로 일부만 출력되는 문제</li>
+<li>변경한 크로스헤어 설정 값이 장소 이동, 탈 것 해제 시 변경되는 문제</li>
+<li>월드맵 UI에 수호자 임무 전용 UI가 출력되지 않는 문제</li>
+</ul>
+</li>
+<li>수호자 임무
+<ul>
+<li>수호자 임무 보상 잔여 점수가 던전 플레이 후 초기화되는 문제</li>
+</ul>
+</li>
+<li>업적
+<ul>
+<li>월광무사가 아닌 클래스로 [먼지쌓인 책 퀘스트]를 완료하여도 <code>월광무사의 잊혀진 이야기</code> 업적이 달성되지 않던 문제</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=305">TERA 테라 | NEXON</a></p>
+
+
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

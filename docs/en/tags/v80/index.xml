@@ -13,46 +13,46 @@
     
     <item>
       <title>2019.01.17 patch notes (v80.03) | K TERA</title>
-      <link>https://tera-mysterium.com/en/patch/en/2019/v80-03/</link>
+      <link>https://tera-mysterium.com/en/patch/2019/v80-03/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/patch/en/2019/v80-03/</guid>
+      <guid>https://tera-mysterium.com/en/patch/2019/v80-03/</guid>
       <description>1. Server merge  Servers are now merged  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-man to 3-man instances Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer Changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
     </item>
     
     <item>
       <title>2019.01.10 patch notes (v80.02.01) | K TERA</title>
-      <link>https://tera-mysterium.com/en/patch/en/2019/v80-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/2019/v80-02-01/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/patch/en/2019/v80-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/2019/v80-02-01/</guid>
       <description>Fishing   XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Talyph XP scroll I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
     </item>
     
     <item>
       <title>2019.01.03 patch notes (v80.02) | K TERA</title>
-      <link>https://tera-mysterium.com/en/patch/en/2019/v80-02/</link>
+      <link>https://tera-mysterium.com/en/patch/2019/v80-02/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/patch/en/2019/v80-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/2019/v80-02/</guid>
       <description>1. Quest  Added story quest-specific 1-man level progression dungeons  Bastion of Lok (1-man)  Can enter via appropriate story quest   Sinistral Manor (1-man)  Can enter via appropriate story quest   Cultists&amp;rsquo; Refuge (1-man)  Can enter via appropriate story quest     Removed Kumas Royale story quest  Quest already received and not completed will automatically be completed upon update   Fixed to display escort quest NPCs on minimap via an orange dot marking  2.</description>
     </item>
     
     <item>
       <title>2018.12.27 patch notes | K TERA (v80.01.01)</title>
-      <link>https://tera-mysterium.com/en/patch/en/2018/v80-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/2018/v80-01-01/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/patch/en/2018/v80-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/2018/v80-01-01/</guid>
       <description>1. Achievement  Added first level 70 achievement for each class  Bug fixes  Fixed issue where XP gained from goblin thieves was higher than intended Fixed issue where XP bar UI did not display up to two decimal places K TERA exclusive  K TERA exclusive     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.12.22 patch notes | K TERA (v80.01)</title>
-      <link>https://tera-mysterium.com/en/patch/en/2018/v80-01/</link>
+      <link>https://tera-mysterium.com/en/patch/2018/v80-01/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/patch/en/2018/v80-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/2018/v80-01/</guid>
       <description>1. Balance  Adjusted to increase XP on ilvl 412-456 dungeon bosses  Changed XP ranges differently per dungeon   Decreased XP required to level up between level 66-70  Developer comment
  First off we increased XP earned through dungeons by 3 times through this maintenance. The XP gain has been adjusted using difficulty and clear time as basis, and therefore each each dungeon provides a different amount of XP.</description>
     </item>

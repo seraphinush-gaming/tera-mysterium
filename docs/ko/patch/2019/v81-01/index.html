@@ -1,0 +1,640 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/">패치노트</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/patch/2019/">2019</a>
+</div>
+
+
+<h1 class="items-title">2019년 01월 24일 업데이트 안내 (v81.01)</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      <p>Published : Jan 24, 2019 </p>
+      
+    </div>
+    <h3 id="1-신규-파트너-시스템">1. 신규: 파트너 시스템</h3>
+<ul>
+<li>파트너 시스템이 추가됩니다.
+<ul>
+<li>레벨 66이되면 이르카 지역에 있는 NPC 루민을 통해 “정령의 알” 미션 퀘스트 진행이 가능하며, 보상으로 [코코밍밍] 파트너를 획득하실 수 있습니다.</li>
+</ul>
+</li>
+<li>파트너 구조
+<ul>
+<li>등급과 교감도
+<ul>
+<li>등급
+<ul>
+<li>승급을 통해 상승시킬 수 있습니다.</li>
+<li>등급이 상승 시 교감도가 랜덤으로 상승합니다.
+<ul>
+<li>교감도가 높아지면 교감 스킬 성능이 향상됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>스킬
+<ul>
+<li>교감 스킬
+<ul>
+<li>파트너가 소환된 상태에서 3분마다 사용할 수 있습니다.</li>
+</ul>
+</li>
+<li>재능 스킬
+<ul>
+<li>파트너 등록 시 랜덤한 재능 스킬 1종이 부여됩니다.</li>
+<li>파트너 별로 획득할 수 있는 스킬은 다음과 같습니다.
+<ul>
+<li>마리
+<ul>
+<li>교감 강화 I~III</li>
+<li>긴급 회복 I~III</li>
+<li>성장 가속 I~III</li>
+<li>제작 지원 I~III</li>
+</ul>
+</li>
+<li>쿤쿤
+<ul>
+<li>교감 강화 I~III</li>
+<li>긴급 지원 I~III</li>
+<li>연마 가속 I~III</li>
+<li>낚시 지원 I~III</li>
+</ul>
+</li>
+<li>코코밍밍
+<ul>
+<li>교감 강화 I~III</li>
+<li>보호막 I~III</li>
+<li>복합 가속 I~III</li>
+<li>채집 지원 I~III</li>
+</ul>
+</li>
+<li>루미
+<ul>
+<li>교감 강화 I~III</li>
+<li>긴급 회복 I~III</li>
+<li>성장 가속 I~III</li>
+<li>제작 지원 I~III</li>
+</ul>
+</li>
+<li>재능 스킬
+<ul>
+<li>교감 강화 : 전투 진입 시 낮은 확률로 일정 시간 동안 교감 스킬의 지속 시간이 일정량 증가합니다.</li>
+<li>긴급 회복 : HP 감소 시 낮은 확률로 일정 시간 동안 매 초당 HP를 일정량 회복시킵니다.</li>
+<li>긴급 지원 : MP 감소 시 낮은 확률로 일정 시간 동안 매 초당 MP를 일정량 회복시킵니다.</li>
+<li>보호막 : HP 감소 시 낮은 확률로 일정 시간 동안 일정량의 피해를 흡수합니다.</li>
+<li>성장 가속 : 파트너에게 선물을 줄 때 낮은 확률로 일정 시간 동안 사냥 시 경험치 획득량이 일정량 증가합니다.</li>
+<li>연마 가속 : 파트너에게 선물을 줄 때 낮은 확률로 일정 시간 동안 사냥 시 연마 경험치 획득량이 일정량 증가합니다.</li>
+<li>복합 가속 : 파트너에게 선물을 줄 때 낮은 확률로 일정 시간 동안 사냥 시 경험치 획득량 및 연마 경험치 획득량이 일정량 증가합니다.</li>
+<li>제작 지원 : 제작 시 낮은 확률로 일정 시간 동안 대성공 확률이 일정량 증가합니다.</li>
+<li>낚시 지원 : 낚시 시 낮은 확률로 일정 시간 동안 대물 낚을 확률이 일정량 증가합니다.</li>
+<li>채집 지원 : 채집 시 낮은 확률로 일정 시간 동안 채집 소요 시간이 일정량 감소합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>전수
+<ul>
+<li>펫이 보유하고 있는 능력을 파트너로 이전시킬 수 있습니다.</li>
+</ul>
+</li>
+<li>피로도
+<ul>
+<li>파트너는 소환된 상태에서 1분당 피로도 1이 감소합니다.
+<ul>
+<li>파트너에게 선물 아이템으로 피로도를 회복할 수 있습니다.
+<ul>
+<li>선물아이템은 제작 또는 잡화상점에서 구입할 수 있습니다.
+<ul>
+<li>선물 아이템 제작도안은 가공 제작 상인을 통해 구입할 수 있습니다.</li>
+</ul>
+</li>
+<li>선물아이템 명
+<ul>
+<li>강아지 조각상</li>
+<li>돼지 조각상</li>
+<li>포포리 조각상</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-밸런스">2. 밸런스</h3>
+<ul>
+<li>검투사
+<ul>
+<li>근성 연타 연계 쾌속 특성의 시전속도 상승 효과가 1,2타 모두에게 적용되도록 변경됩니다.</li>
+<li>시전 속도 증가효과는 50% → 25%로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>검투사 근성 연타의 경우 쾌속 특성을 통해 두 번째 타격의 시전 속도만 과도하게 증가하여 조작감 및 연출이 어색해지는 문제가 있었습니다. 따라서, 근성연타 쾌속 특성의 시전 속도 상승 값이 감소하는 대신 효과가 첫 번째, 두 번째 타격 모두에 적용되도록 하여 전반적인 속도 및 연출을 개선하였습니다.</p>
+</li>
+<li>
+<p>광전사</p>
+<ul>
+<li>혼신의 일격 데미지가 HP에 따라 위력이 변경됩니다.
+<ul>
+<li>HP 50~100% 구간에서는 기존보다 위력이 증가합니다.</li>
+<li>HP 50% 미만에서는 기존보다 위력이 감소합니다.</li>
+</ul>
+</li>
+<li>무기 방어 사용 시 MP 가 50 소모됩니다.</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>특정 상황에서 혼신의 일격 스킬의 효율이 지나치게 증가하는 현상을 완화하여 클래스 숙련도에 따른 전투 효율의 편차를 줄이고자 하였습니다. 또한 무기 막기의 경우 자원 소모 없이 스킬을 계속 사용 할 수 있는 문제가 있어, 전투 시 스킬을 적절한 시점에 활용해야 하도록 MP 소모량을 추가하였습니다.</p>
+</li>
+<li>
+<p>궁수</p>
+<ul>
+<li>약점 관찰
+<ul>
+<li>적중 대상에게 100%확률로 효과가 발동되도록 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>마법사</p>
+<ul>
+<li>융합
+<ul>
+<li>태초의 불꽃, 빙하 융기, 비전 폭풍, 원소 융합의 시전속도가 10% 증가합니다.</li>
+<li>태초의 불꽃, 빙하 융기의 투사체 속도가 10% 증가합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>기존에 융합 관련 스킬들의 시전 속도가 느려 플레이어와의 전투에서 활용되기 어려운 문제가 있었습니다. 따라서 시전 속도를 증가시켜 플레이어와의 전투에서 보다 의미있게 활용될 수 있도록 하였습니다.</p>
+</li>
+<li>
+<p>비검사</p>
+<ul>
+<li>어둠 강림
+<ul>
+<li>사전 모션을 취소하고 다음 행동을 할 수 있는 시간이 빨라집니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>어둠 강림 스킬이 다른 클래스의 유사한 버프 스킬에 비해 시전시간이 길었던 문제를 개선하였습니다.</p>
+</li>
+<li>
+<p>사제</p>
+<ul>
+<li>징벌의 손길
+<ul>
+<li>천벌의 연쇄, 신의 숨결 사용 이후에 연계 가능한 시간이 소폭 증가합니다.</li>
+</ul>
+</li>
+<li>마력 재생
+<ul>
+<li>차징 단계에 따른 초당 MP 회복량이 3%~8%(비율) -&gt; 232~619(수치)로 변경됩니다.</li>
+</ul>
+</li>
+<li>혼신의 주문
+<ul>
+<li>차징 단계에 따른 초당 MP 회복량이 3%~8%(비율) -&gt; 232~774(수치)로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>정령사</p>
+<ul>
+<li>대지의 분노
+<ul>
+<li>징벌의 장막 사용 이후에 연계 가능한 시간이 소폭 증가합니다.</li>
+</ul>
+</li>
+<li>회복의 정기
+<ul>
+<li>소환된 정기의 유지시간이 180초로 증가합니다.</li>
+</ul>
+</li>
+<li>마력의 정기
+<ul>
+<li>소환된 정기의 유지시간이 180초로 증가합니다.</li>
+<li>MP 회복량이 20%(비율) -&gt; 1546(수치)으로 변경됩니다.</li>
+</ul>
+</li>
+<li>생명의 정령
+<ul>
+<li>[정령화] 상태에서 생명의 정령 사용 시, MP회복량이 10%(비율) -&gt; 773(수치)으로 변경됩니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>정령사와 사제의 특정 공격 스킬은 매우 빠른 속도로 연계 키를 눌러야 적용되는 경우가 있었습니다. 따라서, 연계 가능 시간을 길게 변경하여 스킬 연계를 쉽게 할 수 있도록 개선하였습니다. 또한, 두 클래스의 MP 회복 스킬의 경우 % 값에서 고정 값으로 변경되며, 기존대비 더 많은 MP를 회복할 수 있도록 변경됩니다.</p>
+</li>
+<li>
+<p>권술사</p>
+<ul>
+<li>분노의 난타
+<ul>
+<li>스킬 시전속도가 10% 증가합니다.</li>
+<li>이동거리가 최대 20 -&gt; 8m로 감소합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>
+<p>분노의 난타 스킬을 먼 거리까지 단숨에 이동하는 형태로 활용하여 원거리 &amp; 근거리 클래스간의 거리 격차를 과도하게 좁힐 수 있는 상황이었습니다. 따라서, 최대 이동거리는 감소되지만 기존보다 빠른 속도로 공격을 이어나갈 수 있도록 스킬 속도를 개선하였습니다.</p>
+</li>
+<li>
+<p>창기사</p>
+<ul>
+<li>포획
+<ul>
+<li>적중 판정 범위가 증가합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>[개발자 코멘트]</p>
+<ul>
+<li>기존 포획 스킬은 적을 정확하게 조준하여 사용했을 때만 발동되어, 플레이어와의 전투 시 유저 숙련도에 따른 편차를 크게하는 요소였습니다. 따라서, 숙련도에 따른 편차를 완화시켜 보다 많은 유저들이 스킬을 활용할 수 있도록 스킬 적중 난이도를 감소시켰습니다.</li>
+</ul>
+<h3 id="3-사냥터-개선">3. 사냥터 개선</h3>
+<ul>
+<li>하기의 사냥터에서 일부 몬스터 AI 패턴 및 배치가 소폭 조정됩니다.
+<ul>
+<li>여명의 정원</li>
+<li>영원의 분지</li>
+<li>바라카 유적터</li>
+<li>에세니아 구릉지대</li>
+<li>생명의 계곡</li>
+<li>고대의 숲</li>
+<li>태양의 정원</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-신규-서번트-등록">4. 신규: 서번트 등록</h3>
+<ul>
+<li>앞으로 파트너와 펫이 서번트로 명명되며, 각 등록증 아이템을 사용하면 서번트를 등록할 수 있게 됩니다.
+<ul>
+<li>서번트 등록 시 서번트 목록 UI에 추가됩니다.
+<ul>
+<li>해당 UI는 소셜 UI에 위치합니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>기존 펫 스킬 교본은 펫 등록증으로 변경되며, 소환은 서번트 등록 후 서번트 목록에서 하는 방식으로 변경됩니다.</li>
+<li>서번트(펫+파트너)이름변경은 최초 1회는 무료이나, 이후 부터는 서번트 이름 변경권 아이템이 필요합니다.</li>
+</ul>
+<h3 id="5-펫">5. 펫</h3>
+<ul>
+<li>성장
+<ul>
+<li>레벨이 도입되며, 레벨은 10단계입니다.
+<ul>
+<li>각종 아이템을 통해 레벨을 상승시킬 수 있습니다.
+<ul>
+<li>사용 가능 아이템
+<ul>
+<li>각종 강화 재료</li>
+<li>각종 채집/제작 재료</li>
+<li>합성 재료용 장비</li>
+<li>유물/성물</li>
+<li>크리스탈</li>
+<li>펫 전용 사탕</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>진화
+<ul>
+<li>레벨이 10레벨을 달성하면 진화석과 골드를 소모하여 확률적으로 펫을 파트너로 진화시킬 수 있습니다.</li>
+<li>(추가)진화실패 시 펫의 레벨이 1 하락하며, 진화 성공 시에는 랜덤한 파트너를 획득할 수 있으며 펫의 능력은 전수되지 않습니다.
+<ul>
+<li>진화석은 제작을 통해 획득이 가능합니다.
+<ul>
+<li>진화석 도안은 연금 제작 상인을 통해 구입할 수 있습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>합성
+<ul>
+<li>두 펫을 합성하면 펫 또는 파트너를 획득할 수 있습니다.
+<ul>
+<li>두 펫의 레벨이 높을수록 파트너를 획득할 확률이 상승합니다.</li>
+<li>(추가)합성에 사용한 2개의 펫은 소모되며, 합성 결과로 새로운 펫 또는 파트너를 랜덤으로 획득하게 됩니다.</li>
+<li>(추가) 재료 펫이 보유하고 있던 능력은 합성 시 전수되지 않습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>획득처
+<ul>
+<li>65레벨 이상 필드 일반/중형 몬스터에서 “세계의 결정” 아이템을 획득하여 펫 등록증으로 교환하실 수 있습니다.</li>
+</ul>
+</li>
+<li>먹이
+<ul>
+<li>신규 펫먹이가 추가됩니다.
+<ul>
+<li>일반 사료/좋은 사료/ 고급 사료</li>
+<li>제작 또는 잡화상점에서 구입할 수 있습니다.
+<ul>
+<li>먹이 도안은 낚시 잡화 상인을 통해 구입할 수 있습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-경험치">6. 경험치</h3>
+<ul>
+<li>일부 65레벨 이상 구간의 중형 몬스터 경험치가 상향됩니다.
+<ul>
+<li>그림자 경계병</li>
+<li>정예 성역의 파수꾼</li>
+<li>부활의 나무</li>
+<li>시간의 수호자</li>
+<li>오염된 뿌리약탈자</li>
+<li>파르프</li>
+<li>파르폰</li>
+<li>폐허 파괴자 알쿠스</li>
+<li>검은불꽃 알쿠스</li>
+</ul>
+</li>
+<li>파티 던전 각 네임드의 경험치가 약 5배 가량 증가합니다.</li>
+</ul>
+<h3 id="7-ui">7. UI</h3>
+<ul>
+<li>스킬 연마
+<ul>
+<li>현재 단계와 다음 단계의 증가되는 수치가 텍스트로 표시됩니다.</li>
+</ul>
+</li>
+<li>파티창/공격대창/공격대 구성창에 표시되는 직업별 클래스 마커 색상이 추가됩니다.
+<ul>
+<li>사제, 정령사
+<ul>
+<li>노란색</li>
+</ul>
+</li>
+<li>검투사, 월광무사, 마공사, 궁수, 마법사, 인술사, 비검사, 광전사, 무사
+<ul>
+<li>붉은색</li>
+</ul>
+</li>
+<li>창기사, 권술사
+<ul>
+<li>푸른색</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="8-기타">8. 기타</h3>
+<ul>
+<li>일부 스킬 연마 옵션 텍스트가 어색한 문제 개선
+<ul>
+<li>광전사:출혈, 마법사:한파, 궁수:뇌운, 권술사:공명, 허점 찌르기, 인술사:수면탄, 끈끈이탄</li>
+</ul>
+</li>
+<li>로딩화면 이미지 업데이트</li>
+</ul>
+<h2 id="버그-수정">버그 수정</h2>
+<ul>
+<li>무사 일도양단 이펙트에 비해 타겟팅 범위가 작았던 문제</li>
+<li>바하르의 신전 2페이즈에서 어그로 대상이 있음에도 주시 패턴 대상이 되는 문제</li>
+<li>오염된 뿌리약탈자 몬스터가 간헐적으로 어색하게 움직이는 문제</li>
+<li>창기사 전투의 의지 연마 스킬을 습득 시 전투의 의지 스킬 문장 효과가 적용되는 문제</li>
+<li>탈 것 탑승 시 스킬연마 옵션이 적용되지 않는 문제</li>
+<li>카이아도르 내 마법 아카데미 입장 시 아카'테'미로 시스템 메시지가 출력되는 문제</li>
+<li>발키온 연합 지원 미션 퀘스트에서 &lsquo;절대로 받으면 안되는 퀘스트'가 선행 퀘스트로 출력되는 문제</li>
+<li>&lsquo;격추 시도&rsquo; 퀘스트 진행시에 필요한 퀘스트 아이템을 삭제하면 퀘스트를 진행할 수 없는 문제</li>
+<li>마력강화 스킬연마 – 신비 지속시간 효과가 시간의 문장과 중복되지 않는 문제</li>
+<li>켈사이크 부활 저지 퀘스트 진행 시 켈사이크가 사망하면 퀘스트가 진행되지 않는 문제</li>
+</ul>
+<hr>
+<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=376">TERA 테라 | NEXON</a></p>
+
+
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

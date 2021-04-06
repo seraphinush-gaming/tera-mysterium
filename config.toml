@@ -19,6 +19,7 @@ adsenseId = "ca-pub-3598595244893452"
 [Languages]
 [Languages.en]
   weight = 0
+  contentDir = "content/en"
   [[Languages.en.params.nav]]
     title = "Youtube"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
@@ -34,6 +35,7 @@ adsenseId = "ca-pub-3598595244893452"
 
 [Languages.ko]
   weight = 1
+  contentDir = "content/ko"
   [[Languages.ko.params.nav]]
     title = "유튜브"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"

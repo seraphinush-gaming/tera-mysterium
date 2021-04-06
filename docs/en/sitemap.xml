@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tera-mysterium.com/en/migration/</loc>
-    <lastmod>2021-04-06T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/patch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -37,21 +32,6 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/</loc>
-    <lastmod>2021-04-06T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/tags/2021/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -67,13 +47,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v105-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v105-01-01/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v105-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v105-01-01/"
+                />
   </url>
   
   <url>
@@ -88,6 +88,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tera-mysterium.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/"
                 />
   </url>
   
@@ -142,13 +157,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v105-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v105-01/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v105-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v105-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v104-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v104-02/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v104-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v104-02/"
+                />
   </url>
   
   <url>
@@ -167,23 +202,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v104-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v104-01-02/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v104-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v104-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v104-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v104-01-01/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v104-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v104-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v104-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v104-01/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v104-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v104-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v103-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v103-02/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v103-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v103-02/"
+                />
   </url>
   
   <url>
@@ -202,18 +277,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v103-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v103-01-02/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v103-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v103-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v103-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v103-01-01/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v103-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v103-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2021/v103-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2021/v103-01/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v103-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v103-01/"
+                />
   </url>
   
   <url>
@@ -232,13 +337,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v102-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v102-01-01/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v102-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v102-01-01/"
+                />
   </url>
   
   <url>
@@ -257,13 +382,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v102-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v102-01/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v102-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v102-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v101-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v101-02-01/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v101-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v101-02-01/"
+                />
   </url>
   
   <url>
@@ -282,23 +427,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v101-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v101-02/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v101-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v101-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v101-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v101-01-01/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v101-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v101-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v101-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v101-01/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v101-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v101-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v100-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v100-02-01/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v100-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v100-02-01/"
+                />
   </url>
   
   <url>
@@ -317,28 +502,58 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v100-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v100-02/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v100-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v100-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v100-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v100-01/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v100-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v100-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/09/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/09/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v99-02-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v99-02-02/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v99-02-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v99-02-02/"
+                />
   </url>
   
   <url>
@@ -362,28 +577,68 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v99-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v99-02-01/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v99-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v99-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v99-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v99-02/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v99-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v99-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v99-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v99-01/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v99-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v99-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/08/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/08/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v98-03-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v98-03-01/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v98-03-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v98-03-01/"
+                />
   </url>
   
   <url>
@@ -402,33 +657,83 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v98-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v98-03/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v98-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v98-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v98-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v98-02/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v98-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v98-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/07/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/07/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v98-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v98-01-01/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v98-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v98-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v98-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v98-01/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v98-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v98-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v97-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v97-01/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v97-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v97-01/"
+                />
   </url>
   
   <url>
@@ -447,13 +752,23 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/06/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/06/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v96-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v96-02-01/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v96-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v96-02-01/"
+                />
   </url>
   
   <url>
@@ -472,28 +787,68 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v96-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v96-02/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v96-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v96-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v96-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v96-01-01/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v96-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v96-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/05/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/05/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v96-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v96-01/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v96-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v96-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v95-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v95-02/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v95-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v95-02/"
+                />
   </url>
   
   <url>
@@ -512,23 +867,53 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v95-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v95-01-01/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v95-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v95-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/04/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/04/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v95-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v95-01/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v95-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v95-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v94-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v94-02/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v94-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v94-02/"
+                />
   </url>
   
   <url>
@@ -547,23 +932,53 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v94-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v94-01-01/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v94-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v94-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/03/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/03/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v94-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v94-01/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v94-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v94-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v93-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v93-02/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v93-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v93-02/"
+                />
   </url>
   
   <url>
@@ -582,18 +997,38 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/02/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/02/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v93-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v93-01/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v93-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v93-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v92-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v92-02/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v92-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v92-02/"
+                />
   </url>
   
   <url>
@@ -612,18 +1047,38 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v92-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v92-01/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v92-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v92-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/2020/01/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/2020/01/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v91-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v91-03/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v91-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v91-03/"
+                />
   </url>
   
   <url>
@@ -642,13 +1097,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v91-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v91-02-01/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v91-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v91-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2020/v91-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2020/v91-02/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2020/v91-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2020/v91-02/"
+                />
   </url>
   
   <url>
@@ -667,7 +1142,7 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/class-base-stats/</loc>
+    <loc>https://tera-mysterium.com/en/articles/class-base-stats/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -687,8 +1162,18 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/companions/</loc>
+    <loc>https://tera-mysterium.com/en/articles/companions/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/articles/companions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/articles/companions/"
+                />
   </url>
   
   <url>
@@ -697,12 +1182,12 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/crit-resist/</loc>
+    <loc>https://tera-mysterium.com/en/articles/crit-resist/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/mythic/</loc>
+    <loc>https://tera-mysterium.com/en/articles/mythic/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -712,7 +1197,7 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/fishing/</loc>
+    <loc>https://tera-mysterium.com/en/articles/fishing/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -782,23 +1267,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v91-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v91-01-01/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v91-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v91-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v91-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v91-01/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v91-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v91-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v90-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v90-03/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v90-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v90-03/"
+                />
   </url>
   
   <url>
@@ -817,18 +1342,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v90-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v90-02/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v90-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v90-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v90-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v90-01/</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v90-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v90-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v89-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v89-03/</loc>
     <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v89-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v89-03/"
+                />
   </url>
   
   <url>
@@ -847,18 +1402,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v89-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v89-02/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v89-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v89-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v89-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v89-01/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v89-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v89-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v88-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v88-04/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v88-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v88-04/"
+                />
   </url>
   
   <url>
@@ -877,23 +1462,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v88-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v88-03/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v88-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v88-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v88-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v88-02/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v88-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v88-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v88-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v88-01/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v88-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v88-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v87-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v87-03/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v87-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v87-03/"
+                />
   </url>
   
   <url>
@@ -912,18 +1537,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v87-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v87-02/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v87-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v87-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v87-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v87-01/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v87-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v87-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-05/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-05/</loc>
     <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-05/"
+                />
   </url>
   
   <url>
@@ -942,38 +1597,108 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-04/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-04/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-03-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-03-01/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-03-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-03-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-03/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-02/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-01-01/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v86-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v86-01/</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v86-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v86-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v85-05/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v85-05/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v85-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v85-05/"
+                />
   </url>
   
   <url>
@@ -992,33 +1717,93 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v85-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v85-04/</loc>
     <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v85-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v85-04/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v85-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v85-03/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v85-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v85-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v85-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v85-02-01/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v85-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v85-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v85-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v85-02/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v85-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v85-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v85-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v85-01/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v85-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v85-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v84-05/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v84-05/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v84-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v84-05/"
+                />
   </url>
   
   <url>
@@ -1037,28 +1822,78 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v84-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v84-04/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v84-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v84-04/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v84-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v84-03/</loc>
     <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v84-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v84-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v84-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v84-02/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v84-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v84-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v84-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v84-01/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v84-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v84-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-06/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-06/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-06/"
+                />
   </url>
   
   <url>
@@ -1077,38 +1912,108 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-05/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-05/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-05/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-04-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-04-01/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-04-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-04-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-04/</loc>
     <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-04/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-03/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-02/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v83-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v83-01/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v83-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v83-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v82-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v82-04/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v82-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v82-04/"
+                />
   </url>
   
   <url>
@@ -1127,23 +2032,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v82-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v82-03/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v82-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v82-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v82-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v82-02/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v82-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v82-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v82-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v82-01/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v82-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v82-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v81-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v81-02/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v81-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v81-02/"
+                />
   </url>
   
   <url>
@@ -1162,13 +2107,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v81-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v81-01/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v81-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v81-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v80-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v80-03/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v80-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v80-03/"
+                />
   </url>
   
   <url>
@@ -1187,13 +2152,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v80-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v80-02-01/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v80-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v80-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2019/v80-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2019/v80-02/</loc>
     <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2019/v80-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2019/v80-02/"
+                />
   </url>
   
   <url>
@@ -1212,23 +2197,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v80-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v80-01-01/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v80-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v80-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v80-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v80-01/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v80-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v80-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-05-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-05-02/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-05-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-05-02/"
+                />
   </url>
   
   <url>
@@ -1247,43 +2272,123 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-05-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-05-01/</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-05-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-05-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-05/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-05/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-05/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-03-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-03-01/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-03-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-03-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-03/</loc>
     <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-02-01/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-02/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v79-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v79-01/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v79-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v79-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v78-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v78-02-01/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v78-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v78-02-01/"
+                />
   </url>
   
   <url>
@@ -1302,23 +2407,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v78-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v78-02/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v78-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v78-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v78-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v78-01-01/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v78-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v78-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v78-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v78-01/</loc>
     <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v78-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v78-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v77-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v77-02/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v77-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v77-02/"
+                />
   </url>
   
   <url>
@@ -1337,13 +2482,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v77-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v77-01/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v77-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v77-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-03-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-03-03/</loc>
     <lastmod>2018-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-03-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-03-03/"
+                />
   </url>
   
   <url>
@@ -1362,38 +2527,108 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-03-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-03-02/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-03-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-03-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-03-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-03-01/</loc>
     <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-03-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-03-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-03/</loc>
     <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-02-01/</loc>
     <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-02/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v76-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v76-01/</loc>
     <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v76-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v76-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v75-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v75-02/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v75-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v75-02/"
+                />
   </url>
   
   <url>
@@ -1412,18 +2647,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v75-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v75-01-01/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v75-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v75-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v75-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v75-01/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v75-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v75-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v74-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v74-02/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v74-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v74-02/"
+                />
   </url>
   
   <url>
@@ -1442,18 +2707,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v74-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v74-01-01/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v74-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v74-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v74-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v74-01/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v74-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v74-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v73-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v73-02-01/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v73-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v73-02-01/"
+                />
   </url>
   
   <url>
@@ -1472,28 +2767,78 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v73-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v73-02/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v73-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v73-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v73-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v73-01-02/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v73-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v73-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v73-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v73-01-01/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v73-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v73-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v73-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v73-01/</loc>
     <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v73-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v73-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v72-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v72-02-01/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v72-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v72-02-01/"
+                />
   </url>
   
   <url>
@@ -1512,28 +2857,78 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v72-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v72-02/</loc>
     <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v72-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v72-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v72-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v72-01-02/</loc>
     <lastmod>2018-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v72-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v72-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v72-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v72-01-01/</loc>
     <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v72-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v72-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v72-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v72-01/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v72-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v72-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v71-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v71-02/</loc>
     <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v71-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v71-02/"
+                />
   </url>
   
   <url>
@@ -1552,18 +2947,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v71-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v71-01-01/</loc>
     <lastmod>2018-04-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v71-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v71-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v71-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v71-01/</loc>
     <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v71-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v71-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-04-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-04-01/</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-04-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-04-01/"
+                />
   </url>
   
   <url>
@@ -1582,48 +3007,138 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-04/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-04/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-03-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-03-01/</loc>
     <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-03-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-03-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-03/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-02-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-02-02/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-02-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-02-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-02-01/</loc>
     <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-02/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-01-01/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v69-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v69-01/</loc>
     <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v69-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v69-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v68-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v68-01-01/</loc>
     <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v68-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v68-01-01/"
+                />
   </url>
   
   <url>
@@ -1642,8 +3157,18 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v68-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v68-01/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v68-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v68-01/"
+                />
   </url>
   
   <url>
@@ -1662,13 +3187,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/</loc>
     <lastmod>2017-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v67-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v67-01-02/</loc>
     <lastmod>2017-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v67-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v67-01-02/"
+                />
   </url>
   
   <url>
@@ -1687,13 +3232,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v67-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v67-01/</loc>
     <lastmod>2017-12-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v67-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v67-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v66-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v66-02-01/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v66-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v66-02-01/"
+                />
   </url>
   
   <url>
@@ -1712,23 +3277,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v66-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v66-02/</loc>
     <lastmod>2017-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v66-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v66-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v66-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v66-01-01/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v66-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v66-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v66-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v66-01/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v66-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v66-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v65-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v65-02-01/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v65-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v65-02-01/"
+                />
   </url>
   
   <url>
@@ -1747,18 +3352,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v65-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v65-02/</loc>
     <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v65-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v65-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v65-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v65-01/</loc>
     <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v65-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v65-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v64-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v64-02-01/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v64-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v64-02-01/"
+                />
   </url>
   
   <url>
@@ -1777,23 +3412,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v64-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v64-02/</loc>
     <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v64-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v64-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v64-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v64-01-01/</loc>
     <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v64-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v64-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v64-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v64-01/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v64-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v64-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v63-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v63-02/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v63-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v63-02/"
+                />
   </url>
   
   <url>
@@ -1812,18 +3487,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v63-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v63-01-01/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v63-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v63-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v63-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v63-01/</loc>
     <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v63-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v63-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v62-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v62-02-01/</loc>
     <lastmod>2017-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v62-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v62-02-01/"
+                />
   </url>
   
   <url>
@@ -1842,23 +3547,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v62-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v62-02/</loc>
     <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v62-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v62-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v62-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v62-01-02/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v62-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v62-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v62-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v62-01/</loc>
     <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v62-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v62-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v61-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v61-02-01/</loc>
     <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v61-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v61-02-01/"
+                />
   </url>
   
   <url>
@@ -1877,23 +3622,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v61-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v61-02/</loc>
     <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v61-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v61-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v61-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v61-01-02/</loc>
     <lastmod>2017-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v61-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v61-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v61-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v61-01/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v61-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v61-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v60-04/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v60-04/</loc>
     <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v60-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v60-04/"
+                />
   </url>
   
   <url>
@@ -1912,23 +3697,63 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v60-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v60-03/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v60-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v60-03/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v60-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v60-02-01/</loc>
     <lastmod>2017-06-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v60-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v60-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v60-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v60-01/</loc>
     <lastmod>2017-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v60-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v60-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v59-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v59-01-01/</loc>
     <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v59-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v59-01-01/"
+                />
   </url>
   
   <url>
@@ -1947,13 +3772,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v59-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v59-01/</loc>
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v59-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v59-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v58-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v58-02/</loc>
     <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v58-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v58-02/"
+                />
   </url>
   
   <url>
@@ -1972,13 +3817,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v58-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v58-01/</loc>
     <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v58-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v58-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v57-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v57-02-01/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v57-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v57-02-01/"
+                />
   </url>
   
   <url>
@@ -1997,18 +3862,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v57-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v57-01-02/</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v57-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v57-01-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v57-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v57-01/</loc>
     <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v57-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v57-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v56-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v56-02/</loc>
     <lastmod>2017-02-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v56-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v56-02/"
+                />
   </url>
   
   <url>
@@ -2027,18 +3922,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v56-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v56-01-01/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v56-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v56-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v56-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v56-01/</loc>
     <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v56-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v56-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v55-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v55-02-01/</loc>
     <lastmod>2017-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v55-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v55-02-01/"
+                />
   </url>
   
   <url>
@@ -2057,13 +3982,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v55-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v55-02/</loc>
     <lastmod>2017-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v55-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v55-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v55-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v55-01/</loc>
     <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v55-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v55-01/"
+                />
   </url>
   
   <url>
@@ -2082,13 +4027,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/</loc>
     <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v54-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v54-01/</loc>
     <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v54-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v54-01/"
+                />
   </url>
   
   <url>
@@ -2107,8 +4072,18 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v53-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v53-01-01/</loc>
     <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v53-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v53-01-01/"
+                />
   </url>
   
   <url>
@@ -2127,13 +4102,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v53-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v53-01/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v53-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v53-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v52-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v52-01/</loc>
     <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v52-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v52-01/"
+                />
   </url>
   
   <url>
@@ -2152,8 +4147,18 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v51-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v51-02/</loc>
     <lastmod>2016-10-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v51-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v51-02/"
+                />
   </url>
   
   <url>
@@ -2172,13 +4177,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v51-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v51-01/</loc>
     <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v51-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v51-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v50-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v50-01-02/</loc>
     <lastmod>2016-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v50-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v50-01-02/"
+                />
   </url>
   
   <url>
@@ -2197,18 +4222,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v50-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v50-01-01/</loc>
     <lastmod>2016-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v50-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v50-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v50-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v50-01/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v50-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v50-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v49-01-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v49-01-02/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v49-01-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v49-01-02/"
+                />
   </url>
   
   <url>
@@ -2227,18 +4282,48 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v49-01-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v49-01-01/</loc>
     <lastmod>2016-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v49-01-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v49-01-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v49-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v49-01/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v49-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v49-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v48-03/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v48-03/</loc>
     <lastmod>2016-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v48-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v48-03/"
+                />
   </url>
   
   <url>
@@ -2257,20 +4342,50 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2016/v48-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2016/v48-01/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2016/v48-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2016/v48-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2017/v57-02/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2017/v57-02/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2017/v57-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2017/v57-02/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/en/2018/v74-02-01/</loc>
+    <loc>https://tera-mysterium.com/en/patch/2018/v74-02-01/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2018/v74-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2018/v74-02-01/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/articles/en/review/</loc>
+    <loc>https://tera-mysterium.com/en/articles/review/</loc>
   </url>
   
 </urlset>

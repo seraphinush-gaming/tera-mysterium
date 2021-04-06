@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 on mysterium</title>
+    <link>https://tera-mysterium.com/ko/patch/2020/</link>
+    <description>Recent content in 2020 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/ko/patch/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020년 12월 28일 업데이트 안내 (v102.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v102-01-01/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v102-01-01/</guid>
+      <description>1. 던전  신규 던전: 잔혹한 루크미아의 환몽(5인)이 추가됩니다.     잔혹한 루크미아의 환몽 입장 조건     입장 횟수 제한 없음   모험의 주화 350   입장 레벨 70   매칭 장비 레벨 501     주요 보상으로 루크미아의 뿔 조각, 브로치 각인서 IV, 강화 판금, 해방된 탐욕의 옵션 변환 스크롤 등을 획득할 수있습니다. 발키온 연합 지령서 보상은 아래와 같습니다.     던전명 기본 보상 수량 추가 보상(일 1회)     잔혹한 루크미아의 환몽 토벌 골드 6,000 빛바랜 동화 50개, 바라카니아 경제인 연합 금화 1개   &amp;rsquo;&amp;rsquo; 캐릭터 경험치 100,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 특성 경험치++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 발키온 정찰대 평판 100 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 용의 날개 비늘 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 녹테늄 강화탄 100 &amp;rsquo;&amp;rsquo;     파르퀴나의 둥지  파르퀴나 처치 이후 재생되는 동영상을 스킵할 수 있도록 변경됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 12월 17일 업데이트 안내 (v102.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v102-01/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v102-01/</guid>
+      <description>1. 던전  신규 던전: 루크미아의 환몽(5인)이 추가됩니다.     루크미아의 환몽 입장 조건     입장 횟수 제한 없음   모험의 주화 280   입장 레벨 70   매칭 장비 레벨 498     주요 보상으로 해방된 카이아의 장비 강화 재료, 악세서리각인서 IV, 해방된 탐욕의 옵션 변환 스크롤, 전설 성/유물 등을 획득할 수 있습니다. 관련 퀘스트로 &amp;lsquo;[중요]베르고스 유산의 행방&#39;이 추가됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 12월 10일 업데이트 안내 (v101.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v101-02-01/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v101-02-01/</guid>
+      <description>1. 부가서비스  T-cat 상점에 [랜덤] 미리 메리 크리스마스 박스 아이템이 추가됩니다. (2,000T-cat)  2020년 12월 28일(월) 점검 전까지 판매되며, 구성품 및 확률은 아래와 같습니다. | 아이템명 | 수량 | 확률 | | :-: | :-: | :-: | | [확정] 산타 복장 상자 | 1 | 1.0% | | [확정] 2013 산타 복장 상자(여성 전용) | 1 | 0.8% | | [확정][염색] 2013 산타 복장 상자 [여성 전용] | 1 | 0.</description>
+    </item>
+    
+    <item>
+      <title>2020년 12월 03일 업데이트 안내 (v101.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v101-02/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v101-02/</guid>
+      <description>1. 던전  혁명단 은거지[토벌] 5단계 공격력이 40% 하향됩니다.  2. 복귀자 시스템  복귀자 대상으로 지급되는 보상 아이템 중, &amp;lsquo;무한의 가면 교환 쿠폰&#39;이 &amp;lsquo;무한의 가면 교환권&#39;으로 변경됩니다.  무한의 가면 교환권은 상점 판매가 불가합니다.    3. 수호자 임무  전설 수호자 임무가 변경됩니다.  기존 임무인 &amp;lsquo;덮쳐오는 복수의 발톱&amp;rsquo; 임무 대신, 신규 임무인 &amp;lsquo;전설의 블랙 울프 펜리르 토벌 작전&#39;이 등장합니다. (~ 2021년 1월 25일(월) 정기점검 전까지)     펜리르 토벌 성공 시 우편으로 &amp;lsquo;펜리르의 가죽&#39;이 지급되며, 해당 아이템을 모아 다양한 보상과 교환할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 11월 26일 업데이트 안내 (v101.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v101-01-01/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v101-01-01/</guid>
+      <description>버그수정  인벤토리가 가득 찬 상태에서 카드 마일리지 보상 수령 시 점수만 차감되는 문제 카드 마일리지 보상이 간헐적으로 획득되지 않는 문제  위 2가지 문제로 마일리지만 차감된수호자님께는 점검을 통해 차감된 마일리지가 지급되었습니다.   카드 마일리지가 특정 상황에서 마이너스 값이 되는 문제  UI상 –로 표기되었던 문제로, 수정 이후 보유하고 있으신 마일리지를 정상적으로확인하실 수 있습니다.   몬스터 네임 플레이트가 붉게 출력되는 문제 파티매칭 취소가 정상적으로 작동하지 않는 문제 모험의 주화 보유량이 토벌 던전 입장 필요량보다 적을 경우, 무한의주화를 사용하더라도 토벌 던전에 입장할 수 없는 문제 작열하는 엘카라스호에서 패턴 이펙트가 사라졌음에도 데미지 판정이 남아있는 문제(추가)   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 11월 19일 업데이트 안내 (v101.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v101-01/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v101-01/</guid>
+      <description>1. TBA  로비에 전장 정보를 확인할 수 있는 게시판 NPC가 추가됩니다. 전신 카이아의 일부 스킬 이펙트가 변경됩니다. 금화 획득 이펙트가 변경됩니다.  2. 던전  군단장의 거처 – 아비온  던전 입장과 동시에 모험의 주화 및 입장 횟수가 차감되도록 변경됩니다. 20인이 모두 던전에 입장 시, 몬스터가 스폰되도록 변경됩니다. (마흐나크/아비온 랜덤 스폰) 발키온 연합 지령서 보상과 기본 드랍 보상은 동일하나, 아비온처치 시 불안정한 옵션 변환 스크롤(장비) 대신 허리띠/가면/브로치 스크롤을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 11월 12일 업데이트 안내 (v100.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v100-02-01/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v100-02-01/</guid>
+      <description>버그수정  기간제 각인서가 적용된 장비에 옵션 변환 스크롤 사용 시, 기간이 초기화되는 문제 [TBA] 전장에서 아이템 슬롯 변경 시, 아이템 제거/사용이 되지 않는 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 10월 29일 업데이트 안내 (v100.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v100-02/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v100-02/</guid>
+      <description>1. 축제  할로윈 축제가 시작됩니다.(~ 11월 19일(목) 점검 전까지)  할로윈 던전은 캐릭터 당 1일 3회 입장이 가능하며, 마녀의성 [티티아나] NPC를 통해 입장하거나 던전 매칭을 통해 입장할 수 있습니다. 이 외 자세한 내용은 [할로윈 이벤트 진행 안내] 공지사항을 통해 확인해 주시기 바랍니다.   풍요의 축제/후카피카 축제가 시작됩니다. (~ 11월 19일(목) 점검 전까지)  축제 일일 퀘스트 완료 시, [가을 축제 토큰]이 보상으로 지급됩니다.  토큰을 통해 스타일 머리, 펫 등록증, 스킬교본, 소모품 등을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 10월 15일 업데이트 안내 (v100.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v100-01/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v100-01/</guid>
+      <description>1. TBA 모드  신규 영웅 3종이추가됩니다. (10/15 내용 추가)   영웅 별 [기상공격] 스킬이 추가됩니다. (10/15 내용추가)  다운되거나 공중에 뜬 상태에서 사용할 수 있습니다.   랭크 게임이 추가됩니다. (10/14 수정) 프리 시즌에는 랭크 게임 이용이 가능하지 않으며, 이용 가능 시점은 추후 다시 안내드리겠습니다.  매칭 시작 전, 일반/랭크게임을 선택할 수 있습니다.   유저 정보, 우편기능이 추가됩니다.   유저 정보에서는 계정 정보(개요), 대전 기록, 랭크, 업적등을 확인할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 10월 08일 업데이트 안내 (v99.02.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v99-02-02/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v99-02-02/</guid>
+      <description>버그수정  TBA모드 아스티나 영웅의 얼음 폭풍 스킬 쿨타임이 비정상적인 문제 던전과 전장 UI 스크롤바가 간헐적으로 자동 이동되는 문제 티라노 탈 것 스킬 사용 후, 재접속/채널 변경 시 영물 스킬 쿨타임이 초기화되는 문제 TBA 전장 서버 크래시 문제 수정   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 09월 25일 업데이트 안내 (v99.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v99-02-01/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v99-02-01/</guid>
+      <description>1. 던전  재오픈: 사이럭스연구기지(3인)  68레벨, 장비레벨 457 달성 시 파티 매칭을 이용할수 있습니다. 입장 시, 모험의 주화 170이소모됩니다. (입장 횟수 제한 없음) 매칭 UI를 통해 입장하거나 판노니아 가드 차원의 마법석을통해 입장 가능합니다. 기존 5인 던전 대비 각 네임드별 패턴 난이도가 감소합니다. 균형의 강화석, 다크샤드 강화석, 희귀/전설 엑소도르 장비, 신성한아르보레아의 숨결 상자, 윌슨 박사의 보물 지도, 모험 즉시완료권, 액세서리 승급 재료, 일반/고급 등급 기록 카드 조각 등을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 09월 24일 업데이트 안내 (v99.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v99-02/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v99-02/</guid>
+      <description>1. 9월 클래스밸런스  인술사  검기술  스킬 스택이 기존 1%씩 10회 축적에서 2%씩5회 축적으로 변경됩니다.     권술사  도발  재사용 대기 시간이 감소합니다. (15초 -&amp;gt; 10초)   지면 강타  마지막 공격에 5초간 최대 적대치가 부여됩니다.      2. 던전  (추가) 폭주하는 RK-9 격납고 운영 기간이 10/15(목) 점검 전까지로 연장됩니다. (추가) 폭주하는 RK-9 격납고, 광기의 투기장[불멸의 투사] 던전 특화 보상 드랍은 10/15(목) 점검 전까지 유지 됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 09월 17일 업데이트 안내 (v99.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v99-01/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v99-01/</guid>
+      <description>1. 신규 모드(TERA BATTLE ARENA) - 오픈 연기  점검 중, 예기치 못한 문제가 확인되어 TBA 모드 오픈 일정이 연기되었습니다. [공지사항] 기다려주신 수호자 여러분들께 사과드립니다. 오픈 시점은 확정되면 다시 안내드리겠습니다. TERA BATTLE ARENA(TBA) 모드가 추가됩니다.  서버 선택 후, 플레이 모드를 선택하여 입장할 수 있습니다.   18종의 테라 영웅을 선택하여 플레이 할 수 있으며, 3인 1팀으로 전장이 진행됩니다.  영웅 목록  브라가 길버트 그레이스 샤오룽 엘리온 쿠벨 시즈나 테오룽 시벨 에키오르 라펠레이트 아스티나 시오즈 에르한 딕시 핀쳐 우푸 프레이아 로헨 트로 무타르 리원 포아롱     TBA에 대한 자세한 내용은 GM노트를 통해 확인하실 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 09월 03일 업데이트 안내 (v98.03.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v98-03-01/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v98-03-01/</guid>
+      <description>버그수정  옵션 변환 스크롤[신발]을 허리띠에 사용할 수 있는 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 08월 27일 업데이트 안내 (v98.03)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v98-03/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v98-03/</guid>
+      <description>1. 아이템  탐욕의 옵션 변환 스크롤  옵션 보존 재물 아이템이 변경됩니다. (다이아몬드 -&amp;gt; 금빛 수정석) 신규 옵션 보존 아이템으로 금빛 수정석/금빛 수정석 제련서가 추가됩니다.  금빛 수정석 제련서는 이르카에 있는 마법 재료 상인에게 구입할 수 있습니다.         아이템명 설명     금빛 수정석 장비 옵션 보존을 위해 사용할 수 있으며, (9/15 수정) 옵션 1개 보존 당 6개가 소모됩니다.   금빛 수정석 제련서 순수한 드라니움 가공석 100개를 재료로 사용하여 금빛 수정석 1개를 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 08월 13일 업데이트 안내 (v98.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v98-02/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v98-02/</guid>
+      <description>1. 8월 클래스 밸런스  비검사  순간 도약  관통 가능 시간이 증가됩니다.   비검 역회수  스킬 사용 후, 비검 올려치기와 연계할 수 있도록 변경됩니다.   반격  스킬 사용 후, 비검 가르기 또는 비검 내려치기와 연계할 수 있도록 변경됩니다.      2. 전장   통일 장비를 사용하는 전장의 장비가 신규 옵션으로 변경됩니다.
+ 대상 전장: 포화의 전장, 투지의 전장(개인), 지하의 격전장 노병 크로아스의 장비, 유물/성물 액세서리(반지, 귀걸이, 목걸이, 서클릿, 가면, 허리띠)는 개인 장비로 변경됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 07월 30일 업데이트 안내 (v98.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v98-01-01/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v98-01-01/</guid>
+      <description>1. 기타  게임 멈춤 현상 개선 작업이 적용됩니다. UI 로딩 지연 현상 개선 작업이 적용됩니다.  2. 길드대전  길드대전이 재오픈됩니다.  국고는 임시 중단되었던 15주간 누적된 값의 평균 값(총 누적 값/15)으로 설정되어 진행됩니다.    [버그수정]  군단장의 거처 매칭 완료 시, 일부 캐릭터의 서버 연결이 중단되는 문제 일부 PC가 길드대전 입장 조건을 만족한 상태에서 입장이 되지 않는 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 07월 23일 업데이트 안내 (v98.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v98-01/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v98-01/</guid>
+      <description>1. 7월 클래스 밸런스  마공사  아케인 빔 포격, 비전 미사일 발사 MP 소모량이 감소됩니다. 속사포 발사, 아케인 빔 연사 스킬 사용 시, 공격 속도가 적용됩니다.    2. 던전  연습 던전: 바하르의 신전  70레벨 달성 시, 1~5인까지 입장할 수 있습니다. 이르카 수호자 훈련소 교관 &amp;lsquo;어두운하늘 휘락&amp;rsquo; NPC를 통해 입장할 수 있습니다. 캐릭터 사망 후 마을 부활 시, 던전 내부 입구에서 부활합니다. 5인 파티로 전투 공간에 입장할 경우 창기사, 사제 마석이 존재하지 않습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 07월 09일 업데이트 안내 (v97.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v97-01/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v97-01/</guid>
+      <description>1. 7월 클래스밸런스  광전사  광기의 외침 발동 시 무적 시간 및 리액션 저항 시간이 증가합니다.(1초 -&amp;gt; 1.3초)   권술사  분노의 난타  스킬 발동 조건이 분노에서 MP로 변경되며, 재사용 시간이 적용됩니다. 스킬 적중 시마다 분노가 생성되며, 모두 명중시킬 경우 최대 500의 분노가 생성됩니다.   일격타 – 공명 옵션의 효과가 변경됩니다.  기존  적군 적중 시, 8초간 파티원의 스킬 위력 1.5% 증가   변경 후  적중 시, 10초간 대상의 받는 피해가 2% 증가     일격타 – 허점찌르기 옵션에 효과가 추가됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 06월 25일 업데이트 안내 (v96.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v96-02-01/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v96-02-01/</guid>
+      <description>[버그수정]  UI 및 기타 크래시 현상 수정 로비에서 영상 재생 시 애니메이션이 출력되지 않는 문제 서버 선택창에서 월드 진입 시 히칭 현상 완화 히칭 현상 로깅 작업 보강 및 오류 수정 클라이언트 로그 수정   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 06월 11일 업데이트 안내 (v96.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v96-02/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v96-02/</guid>
+      <description>1. 코어 이면 지구  황금 시누스 보상 지급 방식이 변경됩니다.  2. 수호자 임무  사제, 창기사의 포인트 획득량이 소폭 감소합니다. 정령사의 포인트 획득량이 증가합니다.  3. 기타  퀘스트  [중요] 베르아크 성채 퀘스트 아이템인 &amp;lsquo;아르가프 변장도구&#39;가 버리기 불가로 변경됩니다. 에세니아 가드 [중요] 추락과 착지 사이 퀘스트 진행 지역 주변의 파르프, 파르폰이 비선공몬스터로 변경됩니다. (6/11 추가) 퀘스트 진행 경로 외에 파르프/파르폰은 비선공 몬스터로 변경되지 않은 문제가 확인되었으며, 이는 추후 수정될 예정입니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 06월 04일 업데이트 안내 (v96.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v96-01-01/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v96-01-01/</guid>
+      <description>1. 기타  최대 프레임 옵션 설정이 추가됩니다.  시스템 설정(O) -&amp;gt; 비디오 설정 -&amp;gt; 화면 표현에서 설정하실 수 있습니다.     기본 프레임 제한은 62이며, 최소 24 ~ 최대 300까지 설정이 가능합니다.  [버그수정]  정령사로 정령왕을 소환하는 중 HP가 0이되면 클라이언트 크래시가 발생하는 문제 정령사로 정기 폭발 스킬 사용 시, 확률적으로 클라이언트 크래시가 발생하는 문제 클로버의 행운 이상상태가 적용된 캐릭터가 타 지역의 캐릭터와 근접한 곳에 스폰될 때, 클라이언트 크래시가 발생하는 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 05월 28일 업데이트 안내 (v96.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v96-01/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v96-01/</guid>
+      <description>1. 던전  재오픈: 카슈바르의협곡 (5인)  6/25(목) 점검전까지 기간 한정으로 오픈됩니다. 68레벨, 장비레벨 452 달성 시, 파티 매칭 기능을 이용하실 수 있습니다. 입장 시 모험의 주화가 150 소모되며, 주간 40회(VIP/월간패스80회) 입장 가능합니다. 에세니아 가드 &amp;gt; 고대의 숲에 위치한 차원의 마법석을통해 입장할 수 있습니다. 각 도시 명품관 NPC를 통해 &amp;lsquo;이동 주문서: 카슈바르 협곡&#39;을구매/사용하여 던전 입구로 이동할 수 있습니다. 카슈바르 토큰, 초월 액세서리 승급 재료, 용맹/마력의 아르가프 장비, 절멸/검은 태양 장비, 균형의/다크샤드강화석, 스킬 연마 스크롤, 초월의 가면, 윌슨 박사의 보물지도, 의문의 첩보 왼반쪽, 항해 지도, 아르보레아의 숨결 상자, 모험 즉시 완료권 등을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 05월 14일 업데이트 안내 (v95.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v95-02/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v95-02/</guid>
+      <description>1. 5월 클래스밸런스  비검사  암흑 채찍 스킬의 속성과 계수가 변경됩니다. (물리 -&amp;gt; 마법)   궁수  집중 사격, 관통사격 스킬의 오버차지 위력이 기존보다 상향됩니다.   월광무사  월파참  적중 시, 월광흔 생성 개수 2배 증가   달빛 증폭  최대 중첩 횟수 2배 증가 (최대 4중첩)   신월: 달빛의공명  2타 적중 시, 추가 월광력 회복량 2배 증가   일부 스킬의 스킬 연계 초기화 기능이 조정됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 04월 29일 업데이트 안내 (v95.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v95-01-01/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v95-01-01/</guid>
+      <description>[버그수정]  궁수 바람걸음/관통사격/집중사격 스킬의 데미지가 변경된 문제 세그레토 NPC 상점을 이용할 수 없는 문제 투신의 액세서리 랜덤 옵션의 물리/마법 관통, 저항 무시 수치가 바뀐 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 04월 23일 업데이트 안내 (v95.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v95-01/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v95-01/</guid>
+      <description>1. 파트너 교감도  파트너 교감도 상승 범위가 변경됩니다.  재료 파트너 등급 | 업데이트 전 | 업데이트 후  1등급 | 1~6 | 3~4 2 등급 | 1~6 | 3~5 3 등급 | 1~6 | 3~5 4 등급 | 1~6 | 3~5 5 등급 | 1~6 | 4~5 6 등급 | 1~6 | 4~5 7 등급 | 1~6 | 4~5 8 등급 | 1~6 | 4~6 9 등급 | 1~6 | 4~6 10 등급 | 3~6 | 4~6   파트너 교감도 상승 범위는 파트너 아이템 툴팁을 통해서도 표기됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 04월 09일 업데이트 안내 (v94.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v94-02/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v94-02/</guid>
+      <description>1. 4월 전투 밸런스  광전사  혼신, 오버차지 스킬  최대 HP에 비례하여 스킬 위력이 증가합니다.     마법사  최대 MP에 비례하여 전반적인 스킬 위력이 증가합니다.    개발자 코멘트 다양한 수단의 캐릭터 커스터마이징을 위해, 광전사의 HP 참조 계수와 마법사의 MP 참조 계수를 상향합니다. 이번 패치를 통해 물리/마법 증폭이나 힘 등의 직접적인 스탯만이 아닌 다양한 스탯들의 가치를 보장하여 더욱 다양한 종류의 옵션 설정과 플레이 스타일의 발판을 마련하고자 합니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 04월 02일 업데이트 안내 (v94.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v94-01-01/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v94-01-01/</guid>
+      <description>[버그수정]  임의의 파트너가 모험 진행 중일 때, 서번트 목록창을 닫은 상태로는 서번트 소환 단축키가 작동하지 않는 문제 페이퍼돌의 채집레벨 UI(채집 종류)가 비정상적으로 출력되는 문제 렉이 발생했을 때, 파트너 모험 완료를 연타하면 보상이 중복되어 획득되는 문제 찬란한 파르퀴나의 둥지 2네임드와 전투 중, 분신이 사라지지 않는 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 03월 26일 업데이트 안내 (v94.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v94-01/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v94-01/</guid>
+      <description>1. 던전  벨릭의 신전/벨리카 지하 관문  엑소도르 정찰대 장비 강화 재료 드랍량이 증가합니다.   RK-9 격납고/혁명단 은거지  던전 매칭 및 발키온 지령서 출력 조건이 변경됩니다. (장비레벨 453 -&amp;gt; 452)   금비늘호  딕시 핀쳐의 보물상자 보상 목록에서 &amp;lsquo;변화의 증거&#39;가 삭제됩니다.    2. 아이템  강화 손상/하락 보호권  차원의 비밀상인 세그레토에게 강화 손상/하락 보호권을 획득할 수 있습니다. 상급 이상 위상의 던전에서 마지막 네임드 처치 시, 확률적으로 비밀상인이 출현합니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 03월 12일 업데이트 안내 (v93.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v93-02/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v93-02/</guid>
+      <description>1. 던전  금비늘호(항해 지도 던전)  일반 몬스터(바다늑대 졸개/싸움꾼/베테랑) HP가 하향 조정됩니다.   왜곡된 리안의 지하 전당  패턴에 피격 시 발생되는 체인 라이트닝이 1인에게만 적용됩니다. 휩쓸기 패턴으로 생성하는 구슬의 HP와 폭발 위력이 감소합니다. 전기 충전 스택이 이상상태 스택으로 표시됩니다. 던전 타임어택 시간이 30분으로 변경됩니다.   찬란한 파르퀴나의 둥지  던전 타임어택 시간이 30분으로 변경됩니다.   공허한 안타로스의 심연  안타로스의 일부 패턴 위력이 감소합니다. 가두기 패턴에서 안타로스에게 부여되는 보호막 HP가 감소합니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 02월 27일 업데이트 안내 (v93.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v93-01/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v93-01/</guid>
+      <description>컨텐츠 업데이트 1. 던전 및 보상 개편  15종의 던전 운영이 중단됩니다.  던전명  베르노의 실험실 하르키아의 안식처 포악한 베르노의 실험실 궁극의 RK-9 격납고 듀리온의 안식처 안타로스의 심연 릴리스의 성 테네브리스 성채 라켈리스의 폐허 고대의 지하수로 초월한 라켈리스의 폐허 파르퀴나의 둥지 함락된 벨릭의 신전 리안의 지하 전당 사이럭스 연구 기지   일부 던전은 추후 리뉴얼을 통해 재오픈 예정입니다.   벨리카 지하 관문의 입장 인원이 변경됩니다. (7 -&amp;gt; 5) 찬란한 파르퀴나의 둥지가 순위표에서 제외됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 02월 13일 업데이트 안내 (v92.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v92-02/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v92-02/</guid>
+      <description>1. 기타  T-cat 상점의 탭 명칭이 수정됩니다.  기능성과 전투소모품 상품 → 전투 외형과 뷰티 상품 → 성장 &amp;amp; 편의 펫과 낚시, 기타 상품 → 낚시, 서번트, 기타    [버그수정]  켈사이크 부활 저지 퀘스트 조건이 명확하지 않은 문제 채팅 채널의 개수가 초과된 ID에 접속 시, 채팅 탭이 &amp;lsquo;기본&#39;탭만 존재하는 문제 모험의 주화가 소모된 상태에서 월간패스 사용 시, ID 내 다른 캐릭터의 주화가 증가하지 않는 문제    점검 전까지 위 오류로 불편을 겪으신 수호자님께는 별도로 보상을 지급해드릴 예정입니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 02월 06일 업데이트 안내 (v92.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v92-01/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v92-01/</guid>
+      <description>1. PVP 컨텐츠 개선  전장 순위표 각 직업 전체 랭킹 1위에게 고유 보상이 추가됩니다. (2/7 수정)  포화의 전장 : 포화의 전장 시즌 1위 트로피 해안 점령지 : 해안 점령지 시즌 1위 트로피  고유 보상은 상점에 25만 골드로 판매하거나, 6개/10개를 모아 6관왕/10관왕 트로피로 교환할 수 있습니다. (2/7 수정)  6관왕/10관왕 트로피는 아이템 우클릭 시 열리는 전용 상점에서 구매가 가능합니다. (2/7 추가) 6관왕 트로피를 보유하고 있을 경우, 원하는 커스텀 칭호를 제작해 드립니다.</description>
+    </item>
+    
+    <item>
+      <title>2020년 01월 16일 업데이트 안내 (v91.03)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v91-03/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v91-03/</guid>
+      <description>1. 1월 전투 밸런스  광전사  69레벨 격노 [광분] 연마  격노 [광분] 스킬 사용 시, 적용되는 광기 증폭 효과의 지속 시간이 18초에서 21초로 증가합니다.      [개발자 코멘트]
+  그 동안 격노[광분] 스킬과 함께 폭주 스킬을 사용했을 때, 폭주의 지속시간 중 마지막 2~3초 구간은 광기 증폭의 효과를 받지 못했습니다. 이번 조정을 통해 폭주 지속시간 동안 끝까지 &amp;lsquo;폭주&amp;rsquo; 하실 수 있도록 개선합니다.
+  창기사</description>
+    </item>
+    
+    <item>
+      <title>2020년 01월 09일 업데이트 안내 (v91.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v91-02-01/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v91-02-01/</guid>
+      <description>1. 던전  광기의 투기장  불멸의 투사 회전 베기 스킬의 데미지가 감소됩니다. 끌어당기기 패턴 사용 시, 불멸의 투사와 캐릭터가 겹치지 않도록 조정됩니다.    2. 엘린 월광무사  엘린 월광무사로 종족 변경이 가능해집니다.  [버그수정]  광기의 투기장 네임드의 클래스 별 데미지 편차가 존재하던 문제 필드보스 마지막 타격 보상과 대박 보상이 서로 변경되어 드랍되는 문제 광기의 투기장 불멸의 투사 어그로 대상이 어색한 문제   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>2020년 01월 02일 업데이트 안내 (v91.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2020/v91-02/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2020/v91-02/</guid>
+      <description>1. 순위표  12시즌이 종료되며, 불멸의 켈사이크 은폐지 던전이 순위표에 추가됩니다.  2. 던전  불멸의 켈사이크 은폐지  불멸의 켈사이크 HP 15% 붕괴 패턴 시, 아르곤 기생충 이상상태가 해제되도록 변경됩니다. 일부 화면을 가리는 효과가 완화됩니다.    [버그수정]    채팅창 UI 위치가 초기화되는 문제는 1/16(목) 수정될 예정이며, 채팅창 UI 설정이 초기화되는 문제는 현재 확인 중에 있습니다. 가능한 빠르게 수정될 수 있도록 최선을 다하겠습니다. 이용에 불편을 끼쳐드려 죄송합니다.</description>
+    </item>
+    
+  </channel>
+</rss>
