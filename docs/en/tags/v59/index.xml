@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v59 on mysterium</title>
-    <link>https://seraphinush-gaming.com/en/tags/v59/</link>
+    <link>https://tera-mysterium.com/en/tags/v59/</link>
     <description>Recent content in v59 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/en/tags/v59/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/en/tags/v59/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2017.04.28 patch notes (v59.01.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2017/v59-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2017/v59-01-01/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v59-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2017/v59-01-01/</guid>
       <description>Bug fixes  Quest  Fixed issue where multiple players could not progress with the starting quest for Demoros&amp;rsquo;s Roulette During Demoros&amp;rsquo; Roulette quests, qest to follow NPC Diana to the town of San Alema has been fixed for multiple players to complete simultaneously   Skill  Lancer  Fixed issue where crit chance correction on Shield Counter did not work   Archer  Fixed issue where stagger animation for Sequential Fire did not apply Fixed issue where chance to knockdown for Sequential Fire was too high   Warrior  Fixed issue where enhancement from Rain of Blows did not apply for certain races Fixed issue where Traverse Cut could not be chained for certain races Fixed issue where Attack Speed buff from Traverse Cut was applied to the target Fixed issue where Scythe III~IX did not take effect from Screen Shake Reduction option   Sorcerer  Fixed issue where Meteor Strike VIII~X did not take effect from Screen Shake Reduction option   Brawler  Fixed issue where damage for Ground Pounder XII was low     Other  Damage splash not displaying for certain classes will soon be fixed    Additional maintenance notes  Skill  Archer  Fixed issue where damage for Radiant Arrow XI was low (Female High Elf) Fixed issue where damage for Rain of Arrows X triggered Rain of Arrows VI (Female Amani)   Warrior  Fixed issue where damage for Traverse Cut X triggered Traverse Cut IX when chained (Baraka) Fixed issue where damage for Blade Draw VII did not take effect from Deadly Gamble (Female High Elf)   Priest  Fixed issue where damage for Zenobia&amp;rsquo;s Vortex II-X triggered Zenobia&amp;rsquo;s Vortex I (Male Castanic)   Mystic  Fixed issue where Contagion III-IX triggered Contagion I (Female Amani)   Slayer  Fixed issue where Measured Slice damage splash did not display (Female High Elf, Female Human)       source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2017.04.27 patch notes (v59.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2017/v59-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2017/v59-01/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v59-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2017/v59-01/</guid>
       <description>1. Dungeon  Added new dungeon &amp;lsquo;Demoros&amp;rsquo; Roulette&amp;rsquo;  Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS Teleportal is located near Allementheia   Tier 2 Lakan accessories, Visionmaker material (VM8), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork/Extensive Alkahest, Goddess&amp;rsquo; Tear, Goldfinger Token, Gold Ticket, etc can be obtained. Removed Manglemire  2. Skill  Reaper  Soul Reversal  Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to     Mystic  Volley of Curses (Glyph of Enfeeblement)  Changed endurance debuff from 9% to 10%   Aura of the Merciless  Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
     </item>
     

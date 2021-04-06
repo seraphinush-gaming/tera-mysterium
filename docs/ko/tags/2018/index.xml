@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/tags/2018/</link>
+    <link>https://tera-mysterium.com/ko/tags/2018/</link>
     <description>Recent content in 2018 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018년 12월 27일 업데이트 안내 (v80.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v80-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v80-01-01/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v80-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v80-01-01/</guid>
       <description>1. 업적  각 클래스 별로 최초 70레벨 달성 업적이 추가됩니다.  버그 수정  고블린 도적 떼 처치 경험치가 기획수치와 다르게 적용되었던 문제 경험치 바 수치가 소수점 둘째 자리까지 노출되지 않던 문제 월간 패스 일일 T-cat 주머니 쿨타임이 게임 미접속 시 적용되지 않는 문제  (*월간 패스 T-cat 주머니 쿨타임 오류 보상은 확정 시 안내드릴 예정입니다.)     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 12월 22일 업데이트 안내 (v80.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v80-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v80-01/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v80-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v80-01/</guid>
       <description>1. 밸런스  412~456 레벨 던전 네임드 경험치가 상향 조정됩니다.  던전 별로 경험치 변경 수준은 상이합니다.   66레벨 ~ 70레벨 구간 레벨 달성 경험치 요구량이 하향되었습니다.  [개발자코멘트]
  우선 금일 점검을 통해 던전에서 얻을 수 있는 경험치를 기존대비 3배 정도로 상향하였습니다. 난이도와 클리어 타임 기준으로 획득 경험치량을 조절하였기에 던전별 획득 경험치가 상이할 수 있습니다. 추후 보다 다양한 경로로 경험치를 획득하실 수 있도록 적용해 나가겠습니다.  버그 수정  칠흑의 테네브리스 성채(7인), 공허한 안타로스의 심연(7인), 왜곡된 리안의 지하 전당(7인) 던전에 파티의 즐거움 버프가 적용되지 않는 문제 미션 퀘스트 [장비 지급] 바라카들의 호의 퀘스트 보상인 스킬 교본: 갈색 비행 군마 소환 아이템이 파괴 불가 속성인 문제 공격대로 필드 보스 몬스터 처치 시 간헐적으로 보상 상자가 드랍되지 않는 문제 PC방 대여 아이템이 파괴불가, 창고 보관 불가 속성인 문제 오칸의 잡동사니 상자에서 경험치를 대량 획득할 수 있는 문제 부활의 나무 중형 몬스터 처치 시 네임드 처치 업적이 달성되는 문제 인술사, 마법사 캐릭터에게 VIP 만능 전투 비약의 치명타 위력 증가가 적용되지 않는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 12월 20일 업데이트 안내 (v79.05.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-05-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-05-02/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-05-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-05-02/</guid>
       <description>1. 최대 레벨 확장  캐릭터 최대 레벨이 LV70까지 확장됩니다. 신규 미션 퀘스트 “악몽의 시작”이 추가됩니다.  각성을 완료해야 진행이 가능합니다.   58~65레벨의 필요 경험치가 조정됩니다. 58레벨 이상 몬스터, 퀘스트, 발키온 지령서 경험치 지급이 조정되었습니다. 신규: 스킬 연마 시스템  스킬 연마와 옵션 개방을 할 수 있게 됩니다.  스킬 연마  66/68/70레벨 도달 시 스킬 연마 할 수 있습니다. . 스킬 연마 단계를 승급시키기 위해서는 스킬 연마 스크롤 I,II,III과 골드가 필요합니다.</description>
     </item>
     
     <item>
       <title>2018년 12월 13일 업데이트 안내 (v79.05.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-05-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-05-01/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-05-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-05-01/</guid>
       <description>1. 밸런스 (추가)  무사  파괴의 기백 사용 시, 일도양단의 재사용 대기시간이 0으로 변경됩니다.    2. 눈싸움 전장  해당 전장 이용 시 노병 크로아스 통일 장비가 적용됩니다. 라운드 시스템 메시지가 변경됩니다.  3. 기타  여행자의 책 장소저장 개수가 10개로 변경되었습니다.  버그 수정  인던 퇴장 후 녹테늄 강화탄 비활성화가 원활하지 못한 문제 월광무사 개전 스킬에 반월참 연계효과가 적용되지 않는 문제 비검사 어둠 강림 사용 중 비검 내려치기 기회의 문장 효과 적용 시 시스템 메시지에 스킬 이름이 출력되지 않는 문제 눈싸움 전장 승리 조건에 제한 시간 초과 시 남은 인원 수에 따른 승리 문구가 추가되지 않은 문제 무사 &amp;lsquo;후퇴 차기 – 전투 가속&amp;rsquo; 특성 툴팁에 발동 조건이 잘못 표기된 문제 비검사 &amp;lsquo;비검 휘두르기 – 전투 가속&amp;rsquo; 특성 툴팁에 발동 조건이 잘못 표기된 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 12월 06일 업데이트 안내 (v79.05)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-05/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-05/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-05/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-05/</guid>
       <description>1. 눈싸움 전장  중앙으로 점차 좁혀지는 눈보라 지역이 추가됩니다.  눈보라 지역에 있으면 초당 5,000의 데미지를 입습니다.   단판제로 변경 됩니다.  승리 조건 : 모든 적을 처치 시   발키온 지령서 보상이 추가됩니다.  긴급지령  눈싸움 전장에서 전투를!  골드 : 100 특성 경험치 : 1215 장비 숙련도 경험치 : 1650     선택지령  눈싸움 전장에서 전투를!  골드 : 100 특성 경험치 : 1215       승패 보상은 하기와 같습니다.</description>
     </item>
     
     <item>
       <title>2018년 11월 29일 업데이트 안내 (v79.03.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-03-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-03-01/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-03-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-03-01/</guid>
       <description>UI   몬스터 체력바 분노 표시 개선  분노 시작 이후 남은 분노시간이 표시되도록 개선됩니다.    버그 수정  무사클래스 회전 베기를 일도양단으로 캔슬 시 스킬 레벨에 따라 캔슬 타이밍이 상이한 문제 월광무사 클래스의 회피 스킬로 축복 류 스킬을 피할 수 없는 문제 비검사 &amp;lsquo;반격&#39;스킬 툴팁에 &amp;lsquo;PVP에서 투사체 공격에 반격 불가&#39;에 대한 설명이 부족한 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 11월 22일 업데이트 안내 (v79.03)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-03/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-03/</link>
       <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-03/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-03/</guid>
       <description>밸런스   정령사  생명의 정령  시전자를 인지하는 속도 향상 개선  소환 직후, 시전자와 거리에 상관 없이 광역 정화와 회복 스킬을 사용하도록 변경됩니다. 소환 후 확정으로 광역 도트 힐/광역 정화 사용 시전 속도가 소폭 상향됩니다. 시전자와 멀어지면 다가가는 거리가 5 → 20M로 변경됩니다.        [개발자 코멘트]
   소환 직후 시전자와 생명의 정령의 거리가 멀어질 경우, 스킬을 사용하지 않고 시전자만 따라다니던 문제를 수정하여 스킬의 활용성을 개선하였습니다.</description>
     </item>
     
     <item>
       <title>2018년 11월 15일 업데이트 안내 (v79.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-02-01/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-02-01/</guid>
       <description>1. 던전  폭군 듀리온의 안식처  장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. 바라카니아 가드&amp;gt; 이르카 근교&amp;gt; 차원의 마법석을 통해 입장하실 수 있습니다. 시작의 가면, 최상위 장비 강화 재료, 투명 액세서리 등을 획득하실 수 있습니다. 해당 던전 길드 임무가 추가됩니다.   듀리온의 안식처  장비 레벨 439 달성 시 파티매칭을 통해 입장할 수 있습니다. 바라카니아 가드&amp;gt; 이르카 근교&amp;gt; 차원의 마법석을 통해 입장하실 수 있습니다. 상위 장비 강화 재료, 투명 액세서리 등을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 11월 08일 업데이트 안내 (v79.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-02/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-02/</guid>
       <description>1. 보상  공허한 안타로스의 심연 던전의 보상이 추가됩니다.  공허한 안타로스 처치 시 드랍되는 낡은 보급품 아이템 지급 개수가 소폭 증가합니다. 공허한 안타로스 드랍 보상에 용의 두개골 아이템이 추가됩니다.    [개발자 코멘트]
   공허한 안타로스의 심연 보상효율이 다른 453던전에 비해 부족한 것으로 판단되어 보상을 추가하였습니다.
   바하르의 신전 보상에 &amp;lsquo;초월의 가면&#39;이 제외되고, 신규 &amp;lsquo;바하르의 가면&amp;rsquo; 이 추가됩니다.
@@ -99,147 +99,147 @@
     
     <item>
       <title>2018년 11월 01일 업데이트 안내 (v79.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v79-01/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v79-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v79-01/</guid>
       <description>밸런스   클래스 별 기본 맷집이 80으로 변경되며, 방어구의 방어 성능과 클래스별 보정치가 변경됩니다. 광전사  혼신의 일격  스킬 위력이 15% 증가합니다. PVP 스킬 위력이 30% 감소합니다. 자신의 체력이 낮을수록 증가하는 데미지 상승률이 감소합니다. Mp소모량이 0 -&amp;gt; 300으로 증가합니다.   모아 치기  포포리 종족의 타격 시점이 다른 종족과 유사한 수준으로 조정됩니다.   연속 공격  각 종족의 첫 타격 시점이 엘린 종족과 유사한 수준으로 조정됩니다.</description>
     </item>
     
     <item>
       <title>2018년 10월 25일 업데이트 안내 (v78.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v78-02-01/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v78-02-01/</guid>
       <description>1. 던전  신규: 수호자 훈련소  바라카니아 가드&amp;gt;이르카 근교&amp;gt;이르카 지역에 있는 “어두운하늘 휘락” 훈련소 교관을 통해서 입장이 가능합니다. 해당 던전은 입장횟수 제한이 없으며, 특정 몬스터와의 전투를 통해 자유롭게 DPS를 측정하거나, 플레잉 연습을 할 수 있습니다.    2. 보안 업데이트  보안 프로그램이 업데이트 됩니다.  3. 엘린 마공사/권술사  엘린 마공사/권술사로 종족 변경이 가능해집니다.  버그 수정  포화의 전장 대기 중에 비검사 역포획으로 문을 통과 할 수 있는 문제 무사 급소 치기 기회의 문장 효과 발동 시 시스템 메세지에 스킬명이 출력되지 않는 문제 사교도의 은신처 던전에 &amp;lsquo;사교도 무기상자&amp;rsquo; 오브젝트가 잡초로 보이는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 10월 18일 업데이트 안내 (v78.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v78-02/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v78-02/</guid>
       <description>1. 던전  바하르의 신전 밸런스 조정  2페이즈 바하르의 분노 상태에서 사용하는 분노의 난타 피해량이 감소합니다. 보상으로 바하르의 보물상자가 추가됩니다.  보물 상자는 1페이즈 클리어 시 2페이즈 지역에서 스폰 됩니다. 바하르의 보물 상자로 획득할 수 있는 아이템은 하기와 같습니다.  바하르의 증폭제 코인은 바하르의 장갑 증폭제 또는 바하르의 신발 증폭제로 교환할 수 있습니다.  획득 아이템 (확률드랍)  고급 금속물 용족의 활대 무게추 바하르의 증폭제 코인 바하르의 장갑 증폭제 바하르의 신발 증폭제           성장 구간 던전에서 클래스 상관 없이 매칭 수락 팝업창이 매칭 30초뒤 팝업되도록 변경됩니다.</description>
     </item>
     
     <item>
       <title>2018년 10월 11일 업데이트 안내 (v78.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v78-01-01/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v78-01-01/</guid>
       <description>1. 던전  환영의 탑, 파계된 신계의 관문 이용이 임시 종료됩니다.  환영의 탑은 리더보드에서 시즌 오프됩니다.    2. 아이템  브로치 승급  고룡의 브로치 승급 시 악룡의 브로치를 획득 할 수 있습니다. 빛나는 여신의 브로치를 승급 하여 신규 브로치 찬란한 여신의 브로치를 획득 할 수 있습니다. 승급 비용은 하기와 같습니다.    3. 스타일샵  발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다.  새로운 외형으로 &amp;lsquo;무흐락 블랙라벨&amp;rsquo; 시리즈를 판매합니다.</description>
     </item>
     
     <item>
       <title>2018년 10월 04일 업데이트 안내 (v78.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v78-01/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v78-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v78-01/</guid>
       <description>1. 퀘스트  “중앙 경비대의 방식” 퀘스트가 추가되며 이르카에 있는 강철바람 문트 NPC에게 수주할 수 있습니다.  439 아이템 장비 레벨이 되어야 수주가 가능하며, 한 캐릭터 당 1일 1회 참여할 수 있습니다. 보상  이름 | 개수  미지의 액체 금속 | 6 어둠이 깃든 정신 지배 장치 | 4 아크데바 장인의 강화 도구 | 3 피로 물든 금속 구조물 | 2 무언의 가루 | 1 불길한 마법 스크롤 | 4 정밀하게 세공된 장식 조각 | 2 낡은 보급품 | 1        2.</description>
     </item>
     
     <item>
       <title>2018년 09월 20일 업데이트 안내 (v77.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v77-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v77-02/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v77-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v77-02/</guid>
       <description>1. 밸런스 (개발자 코멘트 추가)  무사  섬단 스킬 후에 [회전 베기], [급소 치기], [후려 치기]가 연계되도록 추가됩니다. 괴력 특성 1레벨부터 20레벨까지의 발동 확률이 [22~34%] 에서 [22~60%]로 변경됩니다.    [개발자 코멘트]
   무사의 경우 괴력 특성의 발동 확률이 낮아 관련 특성을 최대 단계로 올려도 효과를 제대로 받기 어려운 문제가 있었습니다. 따라서, 괴력 발동 확률을 상향 조정하여 특성 효과를 보다 잘 활용할 수 있도록 하였습니다. 또한, 섬단 스킬에 주요 시작스킬을 연계할 수 있도록 하여 상황에 맞춰 자유롭게 딜사이클을 운용할 수 있도록 개선하였습니다.</description>
     </item>
     
     <item>
       <title>2018년 09월 13일 업데이트 안내 (v77.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v77-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v77-01/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v77-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v77-01/</guid>
       <description>1. 낚시  낚시 가이드 퀘스트 &amp;lsquo;낚시! 좋아하세요?&amp;rsquo; 가 추가됩니다.  65레벨 달성 후 이르카의 제레미 웨잉 NPC를 통해 퀘스트를 진행할 수 있습니다. 발키온 지령서 “낚시는 즐거워!” 가 추가되며, 지령서 완료 보상은 아래와 같습니다.  500골드 발키온 평판 포인트 50 특성 경험치 500 낚시꾼의 증표 20개 최하급 지렁이 5개 채집 재료 상자 1개       낚시터 물가에서 낚싯대와 미끼를 이용하여 낚시를 진행할 수 있습니다.  낚시대를 사용하기 전에, 미끼 아이템을 사용하여 미끼를 활성화시켜야 합니다.</description>
     </item>
     
     <item>
       <title>2018년 09월 06일 업데이트 안내 (v76.03.03)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03-03/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-03-03/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03-03/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-03-03/</guid>
       <description>1. 서버 안정화  서버 안정화 작업이 진행되었습니다.  2. DB 장비 교체  DB 장비교체로 점검 시간이 다소 길어진 점 양해 부탁드립니다.  [개발자코멘트]
  리리 제멋대로의 선물 오류 원인 파악이 완료되어 차주 정기점검 시 수정될 예정입니다. 불편을 끼쳐 드려 죄송합니다.   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 08-30월 일 업데이트 안내 (v76.03.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-03-02/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-03-02/</guid>
       <description>1. 서버 안정화  서버 렉 현상 완화를 위한 안정화 작업이 진행되었습니다.  [버그수정]  성장지원 이벤트 퀘스트 의뢰서 사용이 불가능한 문제 레이더 옵션에서 몬스터 마커 표시 체크가 자동으로 해제되는 문제 신규 복귀 이벤트의 일부 아이템 속성이 사양과 상이한 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 08월 23일 업데이트 안내 (v76.03.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-03-01/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-03-01/</guid>
       <description>1. 투기장  경기 시간이 변경됩니다.  몬스터들의 경기 시간이 180초로 변경됩니다. 황금 티켓 경기 10분 1회 -&amp;gt; 5분 1회 다이아 티켓 경기 매 시 50분(1회) -&amp;gt; 매 시 25분, 55분(2회)   황금 티켓과 다이아 티켓의 속성이 거래 불가로 변경되며, 상점 판매 가격이 변동됩니다.  황금 티켓(90은 -&amp;gt; 1금), 다이아 티켓(9금 -&amp;gt; 10금)   베팅 시간 및 베팅 제한이 변경됩니다.  베팅 시간  베팅 시간이 90초로 변경 됩니다.</description>
     </item>
     
     <item>
       <title>2018년 08월 16일 업데이트 안내 (v76.03)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-03/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-03/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-03/</guid>
       <description>1. 스킬 밸런스  권술사  임전무퇴(신규 Passive)  65레벨에 습득이 가능합니다. 몬스터 전방 타격 시 스킬 위력이 7%, 적대치가 15% 상승합니다.   폭연타  점혈 최대 중첩수가 8 -&amp;gt; 3으로 변경됩니다. 점혈 1중첩 당 맷집 감소율이 1.5% -&amp;gt; 4%로 변경됩니다.     광전사  야수의 돌진  스킬을 시전하는 동안 받는 피해가 50% 감소합니다.     월광무사  승격참  2타 타격 시, 월광력이 10만큼 추가로 회복됩니다.</description>
     </item>
     
     <item>
       <title>2018년 08월 09일 업데이트 안내 (v76.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-02-01/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-02-01/</guid>
       <description>1. 던전  바하르의 신전  던전 입장 아이템 레벨 제한이 사라집니다. 지령서 수주 장비레벨이 457에서 456으로 조정됩니다. 장비레벨 456달성 시 파티매칭을 통해 입장할 수 있게 됩니다. 고급 금속물, 신성한 망치 드랍량이 상향 조정됩니다.    2. 장비  비장한 맹세 장비 2 -&amp;gt; 3강화 비용이 변경됩니다.  3. 스타일샵  발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다.  새로운 외형으로 &amp;lsquo;수호 컬렉션 의상&#39;시리즈를 판매합니다.  해당 아이템은 9월 13일 정기점검 전까지 구입하실 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 08월 02일 업데이트 안내 (v76.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-02/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-02/</guid>
       <description>1. 던전  신규: 바하르의 신전  장비레벨 457달성 시 파티매칭을 통해 입장할 수 있습니다. (1일 1회 입장 가능/VIP 2회) 동부 가드&amp;gt;폭염의 산맥&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. 신성한 망치, 용족의 활대, 무게추, 고급 금속물, 증폭제II, 초월의 가면, 자동물약 펫, 전설 각인서 상자, 고등어태비 냥이 속옷 등의 아이템을 보상으로 획득할 수 있습니다. 리더보드에 바하르의 신전이 추가됩니다.  리더보드 보상으로 레플리카가 추가됩니다.      레플리카 설치/변경 기준  이전 시즌 전체 1위 파티 대상(서버)   첫 시즌에는 레플리카가 설치되지 않으며, 시즌이 바뀔 때 기존 레플리카는 모두 제거됩니다.</description>
     </item>
     
     <item>
       <title>2018년 07월 26일 업데이트 안내 (v76.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v76-01/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v76-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v76-01/</guid>
       <description>1. 엘린 권술사  엘린 종족으로 선택 가능한 직업에 [권술사]가 추가됩니다.  종족 변경권으로 변경 할 수 없습니다.    2. 캐릭터 소켓 확장  최대 소켓이 20칸에서 21칸으로 확장됩니다.  엘린 권술사 이벤트 페이지에 방문하여 캐릭터 소켓 확장권을 지급받으실 수 있습니다.    3. 전장 보상  일부 전장 획득 강화 재료 툴팁이 사양에 맞게 수정됩니다.  4. 스킬&amp;amp;밸런스  월광무사  보스 몬스터 타격 시 공격력이 약 11% 상승합니다.</description>
     </item>
     
     <item>
       <title>2018년 07월 19일 업데이트 안내 (v75.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v75-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v75-02/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v75-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v75-02/</guid>
       <description>1. 던전  신규: 왜곡된 리안의 지하 전당  장비레벨 455달성 시 파티매칭을 통해 입장할 수 있습니다. (1일 1회/VIP 2회 입장 가능) 실바니아 가드&amp;gt;그림자 숲&amp;gt;차원의 마법석을 통해 입장할 수 있습니다. 고급 금속물, 용족의 활대, 무게추, 액세서리 증폭제 I,II, 초월의 가면, 고등어태비 냥이 속옷 5종 (강인한, 생명의, 날카로운, 수호의, 흐름의)등의 아이템을 보상으로 획득할 수 있습니다.   신규: 리안의 지하 전당  장비레벨 453달성 시 파티매칭을 통해 입장할 수 있습니다. (1일 1회/VIP 2회 입장 가능) 실바니아 가드&amp;gt;그림자 숲&amp;gt;차원의 마법석을 통해 입장할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 07월 13일 업데이트 안내 (v75.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v75-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v75-01-01/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v75-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v75-01-01/</guid>
       <description>1. 스킬  이어지는 스킬이 7월 12일 업데이트 이전 사양으로 변경됩니다.  [개발자 코멘트]
   자동으로 설정된 이어지는 스킬과 직접 설정한 이어지는 스킬을 동시에 이용하는 수호자님의 불편을 고려하여 기존의 방식대로 되돌렸습니다.
   마공사
@@ -248,264 +248,264 @@
     
     <item>
       <title>2018년 07월 12일 업데이트 안내 (v75.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v75-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v75-01/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v75-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v75-01/</guid>
       <description>각성 및 스킬 업데이트 1. 클래스 각성  궁수,인술사,마공사,비검사,월광무사,마법사 6개 클래스에게 각성 스킬이 추가됩니다.  장비레벨 439 달성 시 신규 미션 퀘스트 &amp;lsquo;미스텔의 길&#39;을 통해 각성을 진행할 수 있으며, 퀘스트 완료 시 [각성 스킬]을 획득할 수 있습니다.   정령사를 제외한 1차 클래스들의 추천문장과 모든 클래스들의 이어지는 스킬이 현재 딜사이클에 맞춰 조정됩니다.  2. 스킬 및 밸런스 조정  클래스 각성 업데이트에 따라 신규 스킬이 추가되고 일부 기존 스킬이 변경됩니다. 마법사  [각성 스킬] 신규 스킬(Active): 속성 시스템  기존 공격계열 스킬에 속성이 부여되며, 속성은 각각 화염, 냉기, 비전으로 나뉩니다.</description>
     </item>
     
     <item>
       <title>2018년 07월 05일 업데이트 안내 (v74.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v74-02-01/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v74-02-01/</guid>
       <description>1. 레벨 달성 보상 UI 개선  보상을 누적하여 한번에 수령 가능하도록 개선됩니다.    이미 보상 UI가 4개를 초과하여 보상을 받지 못하신 수호자님께 오늘 중 보상을 지급해드릴 예정이었으나, 대상자 추출에 문제가 있어 07/12(목)으로 지급일이 연기되었습니다. 안내드린 일정을 지키지 못해 죄송합니다.      [버그수정]  스킬  권술사 클래스로 연타, 강타, 태풍연타를 반복 사용하여 진동 버프를 무한 유지하는 문제 수정   아이템  장비 패시브 옵션 효과가 간헐적으로 적용되지 않는 문제 수정     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 06월 28일 업데이트 안내 (v74.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v74-02/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v74-02/</guid>
       <description>1. 엘린 마공사  엘린 마공사를 상시 생성할 수 있게 됩니다.  종족 변경권으로 엘린 마공사로 변경은 할 수 없습니다.    2. 밸런스  비검사를 제외한 클래스들의 성장구간 밸런스가 소폭 조정됩니다.  [버그수정]  순위표  네임 플레이트가 회수되지 않은 문제 수정   여명의 정원  여명의 정원에서 시누스 도둑이 출현하지 않는 문제 수정     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 06월 21일 업데이트 안내 (v74.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v74-01-01/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v74-01-01/</guid>
       <description>1. 아이템  투명 얼굴 장식 아이템이 추가됩니다.  해당 아이템을 얼굴 스타일 슬롯에 장착할 경우 얼굴에 장착되어 있는 가면이 보이지 않게 됩니다. 65레벨 파티 던전에서 일정 확률로 드랍됩니다. T-cat 상점에서 8,000 T-cat 에 판매됩니다.   투명 등 장식 아이템이 추가됩니다.  해당 아이템을 등 스타일 슬롯에 장착할 경우 평화 상태에서 등에 있는 무기가 보이지 않게 됩니다. 65레벨 파티 던전에서 일정 확률로 드랍됩니다. T-cat 상점에서 8,000 T-cat 에 판매됩니다.   T-cat 판매 금액이 잘못기재 되어 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2018년 06월 14일 업데이트 안내 (v74.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v74-01/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v74-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v74-01/</guid>
       <description>1. 여름 축제  07/12(목)까지 여름 축제가 오픈되며, 여름 축제 홍보용 NPC가 배치됩니다.  여름 축제 NPC 배치 장소  대도시 내부-벨리카, 알레만시아, 카이아도르 축제장소-태양의 정원, 뱀의 섬      2. 수호자 임무  전설 수호자 임무 &amp;lsquo;덮쳐오는 복수의 발톱&amp;rsquo; 에 등장하는 에스트, 오스트의 HP가 하향됩니다. &amp;lsquo;덮쳐오는 복수의 발톱&amp;rsquo; 임무 시간이 15분 30초 -&amp;gt; 18분 30초로 조정됩니다.  3. 잔혹한 환영의 탑  5층과 10층의 보상이 조정됩니다.  골드 보상이 상향 조정됩니다.</description>
     </item>
     
     <item>
       <title>2018년 06월 07일 업데이트 안내 (v73.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v73-02-01/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v73-02-01/</guid>
       <description>1. 던전  폭군 듀리온의 안식처  장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. 바라카니아 가드&amp;gt; 고대 바라카 유적터&amp;gt; 차원의 마법석을 통해 입장하실 수 있습니다. 시작의 가면, 최상위 장비 강화 재료 등을 획득하실 수 있습니다.   듀리온의 안식처  장비 레벨 439 달성 시 파티매칭을 통해 입장할 수 있습니다. 바라카니아 가드&amp;gt; 고대 바라카 유적터&amp;gt; 차원의 마법석을 통해 입장하실 수 있습니다. 아르보레아의 금빛 결정체, 아르보레아의 은빛 결정체 및 상위 장비 강화 재료 등을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 05월 31일 업데이트 안내 (v73.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v73-02/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v73-02/</guid>
       <description>1. 전장  전장 보상에 승리의 인도자 평판 포인트가 추가되며, 강화 재료 상자가 추가 지급됩니다.  개편 보상     포화/명예의 전장 지령서 보상 중 투사의 강화재료 상자 1개가 투사의 강화 재료 상자II 2개로 변경됩니다. 승리의 인도자 평판 포인트 최대치가 2,000,000으로 상승합니다. 승리의 인도자 평판 상점 정보는 아래와 같습니다.  평판 포인트 상점  아이템 이름 | 구매 포인트  미지의 액체 금속 | 3,000 어둠이 깃든 정신 지배 장치 | 6,000 상급 아크데바 묘약 | 30,000 아크데바 장인의 강화 도구 | 9,600 피로 물든 금속 구조물 | 18,000 무언의 가루 | 30,000 신비의 성수 | 600,000 불길한 마법 스크롤 | 6,000 정밀하게 세공된 장식 조각 | 12,000 이공간의 파편 | 200,000 마지막 원소 | 1,500,000 루비 | 10,000       강화 재료 상자를 통해 아래 아이템 중 1종을 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 05월 24일 업데이트 안내 (v73.01.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-01-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v73-01-02/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-01-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v73-01-02/</guid>
       <description>1. 스타일샵  발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다.  새로운 외형으로 &amp;lsquo;무자비한 무기&amp;rsquo; 시리즈를 판매합니다.  해당 아이템은 6월 21일 정기점검 전까지 구입하실 수 있습니다.      2. 이벤트 아이템 삭제  슈퍼위크 럭키 이벤트 아이템인 [이벤트] 잔칫상, 정제된 녹테늄 강화탄[전설], [이벤트] 용맹의 물약II 가 기간종료로 삭제됩니다.  [버그수정]  던전  뒤틀린 라칸의 제단 3네임드 발바토스 차원의 문이 확률적으로 파괴되지 않는 문제 잔혹한 환영의 탑 8층에서 보스 몬스터의 어그로 마크가 2개 생성되는 문제 약화된 켈리반의 돌격선에서 1네임드 처치 후 다음 지역으로 가는 문이 열리지 않는 문제   UI  특정 상황에서 캐릭터 기본정보 UI가 빈 상태로 출력되는 문제 붉은 에메랄드 큐브 툴팁에 획득 가능한 아이템이 일부 누락되어 있는 문제   스킬  창기사 전투의 의지 스킬의 지속 특성 유지시간 중 스킬 위력 5% 효과가 적용되지 않는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 05월 18일 업데이트 안내 (v73.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v73-01-01/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v73-01-01/</guid>
       <description>[버그수정]  스킬  보호막류 스킬이 고정 데미지를 흡수하는 문제 수정   아이템  붉은 에메랄드 큐브 툴팁 획득 리스트에 희귀 스킬교본:블루/옐로우 리리가 누락된 문제 수정 (* 희귀 스킬교본: 피닉스,본드래곤 누락 문제 또한 차후 점검을 통해 수정할 예정입니다.)     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 05월 17일 업데이트 안내 (v73.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v73-01/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v73-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v73-01/</guid>
       <description>1. 스킬 밸런스 조정  사제  마력 회복  전체 시전시간이 2초 감소하며, 시전속도가 10% 상승합니다. 1초당 MP 회복량이 100에서 500으로 증가합니다. 회복 유지시간이 20초에서 10초로 감소합니다. 재사용 대기시간이 10초에서 20초로 증가합니다. 공격 스킬 사용 시, 피격 시에 효과가 삭제되지 않도록 변경됩니다.     무사  기력방출  툴팁에 치명타 확률 25% 로 기재되어 있었으나 치명타 유발 25% 증가로 적용되고 있던 부분을 툴팁 사양대로 변경하였습니다.     비검사  어둠 강림  재사용 대기시간이 120초에서 90초로 변경됩니다.</description>
     </item>
     
     <item>
       <title>2018년 05월 10일 업데이트 안내 (v72.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v72-02-01/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v72-02-01/</guid>
       <description>1. 이벤트 아이템 삭제  [이벤트] 타르스키 코인, [이벤트] 타르스키 코인 정제수, [이벤트] 정제된 타르스키 코인이 삭제됩니다.  2. 수호자 임무 추가 보상 지급  04/19(목) ~ 04/26(목) 점검 전 까지 오류로 미지급 된 수호자 임무 추가 보상이 지급됩니다.  비행/전설 수호자 임무에서 추가 보상 지급 기준을 달성하였으나, 미지급 된 수량만큼 참여 캐릭터의 우편으로 보상이 지급됩니다.    [버그수정]  UI  창기사 완벽한 방어 UI가 반사 데미지 효과 시간보다 오래 출력되는 문제 이벤트로 지급된 수량성 전투 소모품 아이템을 단축키에 등록할 수 없는 문제   던전  데모로스의 룰렛 1네임드의 장판 공격이 1네임드 사망 시 즉시 폭발하는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 05월 03일 업데이트 안내 (v72.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v72-02/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v72-02/</guid>
       <description>1. 데모로스의 룰렛  5인 파티 던전 데모로스의 룰렛이 05/31(목) 점검 전까지 오픈됩니다. 알레만시아 인근 &amp;lsquo;산 알레마 마을&#39;의 게이트를 통해 던전에 입장할 수 있습니다. 장비 레벨 439 달성 시 발키온 지령서 선택 지령 목록에 데모로스의 룰렛이 표시됩니다.  아티팩트 원석 VII, [이벤트] 아프로 헤어, [이벤트] 양 불고기 등 다양한 보상을 획득 할 수 있습니다.    2. 길드대전  길드 전초기지 건설 권한이 길드 자금 사용 권한을 가진 길드원만 설치 가능하도록 변경됩니다.</description>
     </item>
     
     <item>
       <title>2018년 04월 26일 업데이트 안내 (v72.01.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-01-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v72-01-02/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-01-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v72-01-02/</guid>
       <description>1. 던전  잔혹한 환영의 탑 밸런스가 조정됩니다.  각 네임드의 체력이 하향 조정되었습니다. 3층 듀리온 패턴 빈도수를 하향하였습니다. 6층 퀴르갈 중첩 디버프 난이도를 하향하였습니다.   타르스키의 놀이터가 입장 불가로 변경됩니다. 순위기록 컨텐츠에서 초콜렛 아이템을 사용할 수 없도록 변경됩니다. 컨텐츠 이용 전, 이미 사용한 초콜릿의 효과는 입장 시 제거됩니다. 초콜렛을 사용할 수 없는 컨텐츠는 아래와 같습니다.  잔혹한 환영의 탑 공허한 안타로스의 심연 페트레 양성소    [개발자 코멘트]</description>
     </item>
     
     <item>
       <title>2018년 04월 20일 업데이트 안내 (v72.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v72-01-01/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v72-01-01/</guid>
       <description>[버그수정]  비행 수호자 임무  서버 불안정 요인 수정 및 임무 재오픈   스킬  일부 보호막류 스킬 사용 시 보호막 수치보다 높은 고정 데미지까지 모두 흡수하는 문제   아이템  중급 여명의 강화 재료 상자 툴팁에 일부 획득 가능 아이템 내용이 누락되어 있는 문제   던전  라켈리스의 폐허 3네임드가 아티팩트 원석을 드랍하는 문제 4월 19일 패치내역 중 사양과 다르게 적용된 사항이 발견되어 아래와 같이 수정됩니다.</description>
     </item>
     
     <item>
       <title>2018년 04월 19일 업데이트 안내 (v72.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v72-01/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v72-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v72-01/</guid>
       <description>1. 수호자 임무  비행 수호자 임무 &amp;lsquo;바람과 불의 광시곡&#39;과 &amp;lsquo;정찰기 섬멸작전&#39;이 추가됩니다.  65레벨만 진행할 수 있으며, 일반 수호자 임무와 동일한 방식으로 참여 가능합니다.  월드맵 &amp;gt; 수호자 모드 활성화 &amp;gt; 아르보레아의 수호자 임무 추적 &amp;gt; 수호자 임무 입장   공중에서 진행되는 컨텐츠로, 비행 탈것에 탑승해야만 임무를 정상적으로 수행할 수 있습니다. 일반 수호자 임무와 동일하게 &amp;lsquo;수호자 임무 점수&#39;를 획득할 수 있으며, 포인트를 일정량 획득하면 수호자 임무 보석 상자, 장비 숙련도, 평판 포인트를 획득할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 04월 12일 업데이트 안내 (v71.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v71-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v71-02/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v71-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v71-02/</guid>
       <description>1. PVP  무법자 컨텐츠가 임시 중단됩니다. 기존에 습득한 무법자 스킬도 off 되며, 악명 포인트가 0으로 초기화 됩니다.  [개발자 코멘트]
  의도치 않은 악용이 지속 발생하고 있으며, 사용성 개선이 필요하다고 판단하여 일시적으로 무법자 컨텐츠를 중단하게 되었습니다. 추후 개선된 모습으로 업데이트 될 예정입니다.  [버그수정]  환영의 탑  바포메트의 전방 올려치기 공격에 피격 시 사망위치가 플레이어별로 상이한 문제 3층에서 &amp;lsquo;저주받은 실험체의 환영&#39;이 발사한 구슬에 피격될 시 즉시 사망하는 문제   스킬  바라카 사제의 재생의 바람 IX 스킬 시전 속도가 다른 종족과 상이한 문제 검투사 이단 검무 스킬 툴팁에 재사용 대기시간이 출력되지 않는 문제 창기사 방패 방어 스킬 사용 시 캐릭터 정보 UI (기본 능력치)에서 이동속도 수치가 증가하는 문제 인술사 연쇄도약 스킬 이동 거리가 툴팁과 실제 거리가 상이한 문제 비검사 위치 교환 – 연계 쾌속 특성을 중형 몬스터에게 사용 시 효과가 적용되지 않는 문제 (추가) 광전사 피의 보복 패시브 효과가 힐/정화를 받을 때도 적용이 되던 문제 (추가) 사제 수호자의 성역 탈출 특성이 찬란한 섬광에 의한 본인 피격에도 적용되던 문제    [개발자 코멘트]</description>
     </item>
     
     <item>
       <title>2018년 04월 05일 업데이트 안내 (v71.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v71-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v71-01-01/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v71-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v71-01-01/</guid>
       <description>1. 던전  잔혹한 환영의 탑  5층 클리어 보상으로 마지막 원소가 추가됩니다. 파티의 즐거움이 적용되도록 변경하여 골드 보상을 제외한 아이템 드랍율이 2배 증가합니다.   페트레 양성소  페트레에게 대미지 없이 적대치 획득만으로는 분노상태를 유발할 수 없게 변경됩니다. 타이머 조건이 페트레에게 대미지가 적용되는 순간 시작으로 변경됩니다.    2. 순위표  페트레 양성소 기록이 비정상적인 방법으로 기록되어 이전 기록을 초기화합니다. 잔혹한 환영의 탑 순위표 등록 조건을 변경합니다.  4층 클리어 -&amp;gt; 1층 클리어    3.</description>
     </item>
     
     <item>
       <title>2018년 03월 29일 업데이트 안내 (v71.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v71-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v71-01/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v71-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v71-01/</guid>
       <description>1. 던전  신규: [잔혹한 환영의 탑]  1~10층까지 보스 몬스터로만 구성된 5인 파티 던전입니다. 장비레벨에 따른 입장제한은 없으며, 65레벨 달성 시 1일 1회(vip 1일 2회) 입장할 수 있습니다. 던전 입장 차원의 마법석은 웨스토니아 가드 &amp;gt; 얼어붙은 해안 &amp;gt; 빙하의 만에 위치해 있으며, 월드맵을 통해 상세 위치를 확인해 보실 수 있습니다. 층 별 보상은 아래와 같습니다.     던전 순위표에 잔혹한 환영의 탑이 추가됩니다. 거짓말쟁이 타르스키의 놀이터 오픈  5인 파티 던전 거짓말쟁이 타르스키의 놀이터가 기간한정으로 재오픈 됩니다.</description>
     </item>
     
     <item>
       <title>2018년 03월 22일 업데이트 안내 (v69.04.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-04-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-04-01/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-04-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-04-01/</guid>
       <description>[버그수정]  부가서비스  구름 류 스타일 아이템을 위치 또는 회전 변환 시 게임이 종료되는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 03월 15일 업데이트 안내 (v69.04)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-04/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-04/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-04/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-04/</guid>
       <description>1. 전장  &amp;lsquo;포화의 전장&amp;rsquo;, &amp;lsquo;명예의 전장&#39;의 보상이 조정됩니다.  승리 보상  포화의 전장 – 투사의 강화 재료 상자 5개 → 7개 지급 명예의 전장 – 투사의 강화 재료 상자 6개 → 8개 지급   패배 보상  포화의 전장 – 투사의 강화 재료 상자 1개 → 4개 지급 명예의 전장 – 투사의 강화 재료 상자 1개 → 5개 지급     &amp;lsquo;투사의 강화 재료 상자&#39;로 획득 가능한 아이템이 추가됩니다.</description>
     </item>
     
     <item>
       <title>2018년 03월 08일 업데이트 안내 (v69.03.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-03-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-03-01/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-03-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-03-01/</guid>
       <description>###1. 전장
  쿠마스 놀이터  추방 투표율이 변경됩니다.  100% 찬성 → 추방 대상자 제외 80% 찬성으로 변경   패배 보상이 조정됩니다.  1개 지급되던 &amp;lsquo;전사 꿈나무 격려문&amp;rsquo; 지급 수량이 3개로 조정      2. 이벤트/퀘스트 아이템 삭제  혁명단 은거지/안타로스의 심연 의뢰서 아이템 및 퀘스트 삭제 코드네임 : TERA 이벤트 관련 아이템 (글자조각, 파편, 글자 조합 상자, GM의 두근두근 선물 상자) 삭제  [버그수정]  부가서비스  특정 상황에서 스타일 모자 탈착 반복 시 게임이 종료되는 문제   던전  안타로스의 심연(상급/하급) 던전 클리어 후, 인던 초기화를 진행해도 던전 밖으로 이동되지 않던 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 02월 28일 업데이트 안내 (v69.03)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-03/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-03/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-03/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-03/</guid>
       <description>스킬 및 밸런스   월광무사  달빛의 가호  &amp;lsquo;월광력 회복&amp;rsquo; 효과가 추가로 적용되어 자연 감소하지 않고, 초당 67씩 회복됩니다. &amp;lsquo;월광력 회복&amp;rsquo; 효과는 달빛의 가호 버프가 종료되거나, 전투상태로 돌입할 경우 즉시 해제됩니다.   월광력  캐릭터가 사망해도 월광력이 초기화되지 않도록 변경됩니다. 캐릭터가 사망해도 월광력 감소를 억제하는 달빛 집중, 월광력 최대 충전 효과가 제거되지 않습니다. 월광력이 1,000이 되었을 때 월광력이 감소하지 않도록 하는 &amp;lsquo;월광력 최대 충전&amp;rsquo; 효과의 지속시간이 60초에서 40초로 변경됩니다.</description>
     </item>
     
     <item>
       <title>2018년 02월 22일 업데이트 안내 (v69.02.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-02-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-02-02/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-02-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-02-02/</guid>
       <description>1. 던전 서버 안정화  던전 플레이 시 발생했던 끊김 및 렉 현상 완화를 위한 안정화 작업이 진행되었습니다.  2. Proxy 차단  Proxy 사용 차단 보완 업데이트가 진행되었습니다.  [버그수정]  던전  던전 내에서 몬스터의 특정 패턴 대응 시 플레이어의 위치 싱크가 맞지 않는 문제   퀘스트  알레만시아의 위기 퀘스트 진행 중 NPC 대사의 지역명이 잘못 표기된 문제 폭염의 산맥의 슈리안 대항기지에 유레시안 실버레인, 키이나 란 NPC가 존재하지 않는 문제 비검사 호위대 승인 퀘스트를 비검 가르기 II로 진행이 불가능한 문제   부가서비스  엘린 종족의 특정 헤어 올림머리가 일부 클래스에서 깨져 보이는 문제   스킬  창기사 전투의 의지 I, II 이상상태 툴팁에 스킬 위력 증가 내용이 출력되는 문제 마공사의 일반 포탄 스킬 사용 시 포탄이 마공포가 아닌 외부에서 발사되는 문제 권술사가 정신의 문장이 적용된 분노의 승천타 스킬 사용 시 분노 게이지가 모두 차는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 02월 08일 업데이트 안내 (v69.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-02-01/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-02-01/</guid>
       <description>1. 퀘스트  고대 바라카의 유적터에서 진행하는 &amp;lsquo;실험실의 비극&amp;rsquo; 퀘스트 진행 중 실험체 수용소 감옥 창살이 재스폰되도록 개선하였습니다.  [버그수정]  파티  던전/전장 입장 후, 오프라인 상태인 플레이어 추방 시도 시 추방 투표 UI가 출력되지 않는 문제   던전  안타로스의 심연(상급/하급) 3네임드 처치와 동시에 파티 전멸 시 3네임드 전투 공간으로 재진입 할 수 없는 문제   스킬  바라카 검투사로 그림자 분신 스킬 사용 시 그림자가 소환되지 않는 문제   아이템  11/23(목) 점검 이후 접속 시 소지하고 있던 마도공학회 엘리트 유니폼이 삭제되었던 문제 (오늘 중 우편으로 복구해드릴 예정입니다.</description>
     </item>
     
     <item>
       <title>2018년 02월 01일 업데이트 안내 (v69.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-02/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-02/</guid>
       <description>1. 전장  지하의 격전장 점수 획득 밸런스가 조정됩니다.  검투사 공격점수 획득비율 상향 창기사 테크닉점수 획득비율 상향 인술사 공격점수 획득비율 상향 월광무사 공격점수 획득비율 상향 마법사 공격점수 획득비율 하향 궁수 공격점수 획득비율 하향 사제 테크닉점수 획득비율 하향    2. 던전  페트레 양성소  클래스 별 페트레 HP 보정치가 개선됩니다. 페트레의 HP 보정치가 변경됨에 따라 던전 순위가 초기화 됩니다.   공허한 안타로스의 심연  3네임드 광폭화 시 이동속도가 증가합니다.</description>
     </item>
     
     <item>
       <title>2018년 01월 25일 업데이트 안내 (v69.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-01-01/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-01-01/</guid>
       <description>1. 스킬 및 밸런스  창기사  전투의 의지  몬스터 공격 시 공격력 5% 증가 효과가 삭제됩니다.     검투사  이단 검무  도발 난무, 충격의 외침 스킬의 사후 모션을 취소시킬 수 없었던 문제가 수정됩니다.     광전사  폭주 : 우수 I  스킬 위력이 25% 감소합니다.   폭주 : 좌수 I  스킬 위력이 25% 감소합니다.   폭주 : 쌍수 I  스킬 위력이 25% 감소합니다.</description>
     </item>
     
     <item>
       <title>2018년 01월 18일 업데이트 안내 (v69.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v69-01/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v69-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v69-01/</guid>
       <description>1. 던전  신규: 안타로스의 심연  장비 레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. 벨리카 직할령 &amp;gt; 벨리카 근교 &amp;gt; 차원의 마법석을 통해 입장할 수 있습니다. 에메랄드, 다이아몬드, 상위/최상위 장비 강화 재료, 상위 액세서리 강화 재료, 시작의 가면 등을 획득할 수 있습니다.   신규: 공허한 안타로스의 심연  장비 레벨 453 달성 시 파티매칭을 통해 입장할 수 있습니다. 벨리카 직할령 &amp;gt; 벨리카 근교 &amp;gt; 차원의 마법석을 통해 입장할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2018년 01월 11일 업데이트 안내 (v68.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v68-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v68-01-01/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v68-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v68-01-01/</guid>
       <description>1. 던전  초월한 라켈리스의 폐허  라켈리스의 리스폰 시간이 증가합니다.  전투 시작 후 어그로 초기화 등을 이용하여 일부 패턴이 동작하지 않는 현상 방지     삼엄한 혁명단 은거지, 혁명단 은거지  카라부스의 원거리/근거리 폭발 스킬 시전 이펙트 가시성이 개선됩니다. 카라부스로 이동 시 오브젝트로 인해 이동이 불편하던 현상이 개선됩니다.    2. 업적 시즌8 시작  지난 주 오류로 인해 시작되지 못했던 업적 시즌8 이 시작됩니다.  [버그수정]  던전  삼엄한 혁명단 은거지, 혁명단 은거지 배경 음악이 나오지 않던 문제   UI  수호자 임무 지역을 벗어났음에도 수호자 임무 UI가 출력되는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018년 01월 04일 업데이트 안내 (v68.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2018/v68-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2018/v68-01/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2018/v68-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2018/v68-01/</guid>
       <description>1. 던전  신규: 혁명단 은거지  장비레벨 439 달성 시 파티매칭을 통해 입장할 수 있습니다. 판노니아 가드 &amp;gt; 야만의 계곡 &amp;gt; 차원의 마법석을 통해 입장할 수 있습니다. 차가운 금속 장비 상자, 에메랄드, 다이아몬드, 상위/최상위 장비 강화 재료, 상위 액세서리 강화 재료 등을 획득할 수 있습니다.   신규: 삼엄한 혁명단 은거지  장비레벨 446 달성 시 파티매칭을 통해 입장할 수 있습니다. 판노니아 가드 &amp;gt; 야만의 계곡 &amp;gt; 차원의 마법석을 통해 입장할 수 있습니다.</description>
     </item>
     

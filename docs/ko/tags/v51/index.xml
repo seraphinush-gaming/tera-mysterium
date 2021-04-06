@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v51 on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/tags/v51/</link>
+    <link>https://tera-mysterium.com/ko/tags/v51/</link>
     <description>Recent content in v51 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/tags/v51/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/tags/v51/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2016년 10월 20일 업데이트 안내 (V51.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2016/v51-02-01/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2016/v51-02-01/</guid>
       <description>1. 아이템  이벤트 관련 아래 아이템이 삭제되었습니다. (신규/복귀자 이벤트가 일부 캐릭터에 적용되던 오류는 10월 13일(목) 정기점검 시 수정 완료되었습니다.) 삭제 대상 아이템  [이벤트] 9단계 +12 강화 주문서 (100%) [이벤트] 9단계 +12 강화 주문서 [이벤트] 베르노 코인    버그수정  업적  업적 시즌이 변경되지 않았으나 10월 13일(목) 업데이트 이후 업적 점수가 상승한 문제가 수정되었습니다.     source : [TERA 테라 | NEXON]</description>
     </item>
     
     <item>
       <title>2016년 10월 13일 업데이트 안내 (v51.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2016/v51-02/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2016/v51-02/</guid>
       <description>1. 축제  할로윈 축제가 시작됩니다.  할로윈 축제는 10월 13일부터 11월 10일까지 시행됩니다. 축제 기간 동안 각 마을 및 대도시에 [마녀의 성 지상 1층]으로 순간이동 시켜주는 &amp;lsquo;꼬마 마녀&#39;들이 등장합니다. 마녀의 성 지상 1층에서 &amp;lsquo;마녀탐정 티티아나&amp;rsquo; NPC와 대화하여 할로윈 퀘스트를 받을 수 있습니다.     마녀의 성 연회장  할로윈 호박 대포에 탑승하여 몰려오는 몬스터를 처치하는 디펜스 형태의 던전입니다. 마녀의 성 연회장에서 &amp;lsquo;하르니아&amp;rsquo; NPC와 대화하여 게임을 시작할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2016년 10월 06일 업데이트 안내 (v51.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2016/v51-01-01/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2016/v51-01-01/</guid>
       <description>1. 아이템  궁수 이벤트 종료로 지급된 퀘스트 아이템이 삭제되었습니다.  2. 퀘스트  궁수 이벤트 종료로 아래의 퀘스트들이 삭제 됩니다.  삭제 대상 퀘스트명  병아리급 궁수를 위한 과제 참새급 궁수를 위한 과제 까마귀급 궁수를 위한 과제 올빼미급 궁수를 위한 과제 솔개급 궁수를 위한 과제 검독수리급 궁수를 위한 과제      버그수정  던전  뒤틀린 라칸의 제단 3네임드의 속성 차원의 문 패턴을 통해 생성된 독장판이 간혹 비정상적으로 출력되는 문제를 수정하였습니다.</description>
     </item>
     
     <item>
       <title>2016년 09월 29일 업데이트 안내 (v51.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2016/v51-01/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2016/v51-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2016/v51-01/</guid>
       <description>1. 던전  신규 던전 [뒤틀린 라칸의 제단]이 추가됩니다.  뒤틀린 라칸의 제단은 65레벨 5인 파티 던전입니다. 아르카니아 가드 &amp;gt; 잊혀진 숲 &amp;gt; 패잔병의 은신처 근방에 위치한 차원의 마법석을 통해 입장할 수 있으며, 아이템 레벨 417 달성 시 서버간 파티매칭을 통해서도 입장할 수 있습니다. 보상 아이템으로 초월한 라켈리스의 귀걸이/반지, 철기장 복수 허리띠, 정화의 토템(전설), 오르피우스의 메달, 매혹의 향수, 라켈리스의 보물상자, 철기장:복수 제작도안, 철기장:매혹 제작도안, 희귀 잿빛 속옷, 아티팩트 원석 등을 획득할 수 있습니다.</description>
     </item>
     

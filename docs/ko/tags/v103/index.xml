@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v103 on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/tags/v103/</link>
+    <link>https://tera-mysterium.com/ko/tags/v103/</link>
     <description>Recent content in v103 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/tags/v103/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/tags/v103/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2021년 02월 09일 업데이트 안내 (v103.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2021/v103-02/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2021/v103-02/</guid>
       <description>업데이트 1. 던전  폭군의 처형장 밸런스가 조정됩니다.  폭군 가르단의 공격력이 소폭 감소합니다. 폭군의 처형장의 얼음 장판의 지속시간 및 대미지가 하향 조정됩니다. 분노한 폭군의 처형장의 얼음 장판의 지속시간이 감소됩니다. 폭군의 처형장/분노한 폭군의 처형장의 폭주 패턴 전 끌어당긴 후 스킬 봉인 이상상태의 지속시간이 감소됩니다. 폭군의 처형장/분노한 폭군의 처형장의 냉기 방출 이상상태가 죽어도 해제되지 않도록 수정됩니다. 폭군의 처형장/분노한 폭군의 처형장의 폭주 시전 시 순간적인 무적 상태에서 피격판정이 있도록 수정됩니다. 폭군의 처형장/분노한 폭군의 처형장의 폭주 패턴 중 거인이 얼음 발사체를 사용하지 않도록 수정됩니다.</description>
     </item>
     
     <item>
       <title>2021년 02월 03일 업데이트 안내 (v103.01.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-01-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2021/v103-01-02/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-01-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2021/v103-01-02/</guid>
       <description>업데이트 1. 던전  광기의 투기장 [영원의 투신] 보스 몬스터의 HP가 하향됩니다. 다음의 던전 보상이 상향 조정됩니다.     대상 던전 내용     사령관의 수련장 해방된 옵션 스크롤 드랍률 증가, 투신의 액세서리 드랍률 증가, 아르가프/툴사 진귀한 전리품 상자 드랍률 증가   켈사이크 은폐지 &amp;rsquo;&amp;rsquo;   광기의 투기장 [영원의 투신] &amp;rsquo;&amp;rsquo;    2. 아이템  &amp;ldquo;낡은 맹세의 ~&amp;rdquo; 합성장비 상점 판매가격 10실버로 정상 표시되도록 수정됩니다.</description>
     </item>
     
     <item>
       <title>2021년 01월 28일 업데이트 안내 (v103.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2021/v103-01-01/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2021/v103-01-01/</guid>
       <description>1. 컨텐츠 일정   투기장 : 매일 17:00 ~ 05:00
   일일 퀘스트 : 매일 07:00
   길드 대전 : 토요일 18:00 입장, 20:00 시작
@@ -45,10 +45,10 @@
     
     <item>
       <title>2021년 01월 27일 업데이트 안내 (v103.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2021/v103-01/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2021/v103-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2021/v103-01/</guid>
       <description>Update 1. 던전  신규 던전: 폭군의 처형장(5인)이 추가됩니다.     폭군의 처형장 입장 조건      입장 횟수 제한 없음   모험의 주화 280   입장 레벨 70   매칭 장비 레벨 496       분노한 폭군의 처형장 입장 조건      입장 횟수 제한 없음   모험의 주화 350   입장 레벨 70   매칭 장비 레벨 501     폭군의 처형장 보상  폭군의 허리띠, 기록 카드 조각 - 폭군 가르단, 해방된 카이아의 수정석, 툴사 군단의 진귀한 전리품 상자, 해방된 옵션 변환 스크롤, 강화 합금, 아르가프 군단의 진귀한 전리품 상자, 보물지도, 전설 유물/성물, 일반/고급 카드 상자를 확률적으로 획득할 수 있습니다.</description>
     </item>
     

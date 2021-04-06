@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v90 on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/tags/v90/</link>
+    <link>https://tera-mysterium.com/ko/tags/v90/</link>
     <description>Recent content in v90 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/tags/v90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/tags/v90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019년 12월 12일 업데이트 안내 (v90.03)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2019/v90-03/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2019/v90-03/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2019/v90-03/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2019/v90-03/</guid>
       <description>[버그수정]
  캐릭터 선택창으로 이동 후 재접속 시 채팅창의 위치가 초기화되는 문제  오류가 수정되며 채팅창 설정이 초기화되었습니다. 번거로우시겠지만, 재설정 후 이용 부탁드립니다.   특정 캐릭터의 UI가 초기화되는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019년 12월 05일 업데이트 안내 (v90.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2019/v90-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2019/v90-02/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2019/v90-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2019/v90-02/</guid>
       <description>[버그수정]    캐릭터 선택창으로 이동 후 재접속 시 채팅창의 위치가 초기화되는 문제는 UI 관련 코드에도 영향이 있어 보다 면밀한 테스트를 위해 12/12(목) 정기점검을 통해 수정될 예정입니다. 불편을 끼쳐드려 죄송합니다.   일부 캐릭터의 모험의 주화가 0/0으로 표시되는 문제 월간패스/VIP를 사용하여 모험의 주화 최대치가 1,000에서 1,680으로 확장될 때, 일부 캐릭터의 모험의 주화가 추가 충전되지 않는 문제  최대 680까지 충전되며, 1,680을 초과해서 충전되지는 않습니다.   11/28(목) 업데이트 이후 프론티어 ID의 캐릭터 슬롯이 확장되지 않은 문제 아스란의 비검 장착 시 크리스마스 외형이 출력되는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2019년 11월 28일 업데이트 안내 (v90.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2019/v90-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2019/v90-01/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2019/v90-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2019/v90-01/</guid>
       <description>1. 엘린 월광무사  엘린 종족으로 선택 가능한 직업에 [월광무사]가 추가됩니다.  2020년 1월 9일 점검 전까지 종족 변경권으로 변경할 수 없습니다.  엘린에서 케스타닉 여자로는 변경이 가능합니다. (케스타닉에서 엘린으로는 불가)      2. 캐릭터 소켓  최대 확장 가능한 슬롯 개수가 22개 → 23개로 변경됩니다.  (11/29 추가) 기본 슬롯 개수가 6개 → 7개로 확장된 것으로, 기존 보유 슬롯 개수에 1개가 확장되었습니다.    3. 캐릭터 성장 허들 완화  특성 포인트  시작 특성 포인트가 300으로 변경됩니다.</description>
     </item>
     

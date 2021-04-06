@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v77 on mysterium</title>
-    <link>https://seraphinush-gaming.com/en/tags/v77/</link>
+    <link>https://tera-mysterium.com/en/tags/v77/</link>
     <description>Recent content in v77 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/en/tags/v77/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/en/tags/v77/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018.09.20 patch notes | K TERA (v77.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v77-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v77-02/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v77-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v77-02/</guid>
       <description>1. Balance  Slayer  Added chains to use [Whirlwind], [Heart Thrust], and [Knockdown Strike] after Savage Strike Changed chance to proc Aggression talent level 1 to level 20 from [22-34%] to [22-60%]    Developer comment
  Archer  Find Weakness lv 3  Decreased attack damage increase of [Thunderbolt, Radiant Arrow, Penetrating Arrow] from 20% increase to 15% increase   Crackshot lv 2, 3  Decreased additional damage to monsters from 7% to 6%     Ninja  Boomerang Shuriken  Decreased skill damage by 15%   Changed power buff from Aggression talent level 1 to level 20 from [5-24] to [8.</description>
     </item>
     
     <item>
       <title>2018.09.13 patch notes | K TERA (v77.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v77-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v77-01/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v77-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v77-01/</guid>
       <description>1. Fishing  Fishing can be learned through quest  Quest can be found in Highwatch via NPC Jeremy Wayng Added Vanguard Request “Fshing is fun!” and the following is rewarded :  500 gold 50 Vanguard Initiative credit 500 Item XP 20 Fisherman&amp;rsquo;s Token 5 low-tier worm 1 Gathering supply box     The following can be given from the Gather supply box :  Produce Corn Carrot Orange Mushroom Old Pumpkin Apple Gem Uncut Cobala Gem Uncut Shadmetal Gem Uncut Xermetal Gem Uncut Normetal Gem Uncut &amp;lsquo;Galvorn&amp;rsquo; Gem Crystal Red Essential Energy Green Essential Energy Blue Essential Energy White Essential Energy Black Essential Energy     Fishing is done by using bait with fishing rod near fishing spots  Before attempting to fish, bait must be activated by using bait 1 Bait is consumed if there is a bite while fishing Fishing spots can be found via Worldmap UI  Murial Ruins fishing spot Cutthroat Harbor fishing spot Lake of Tears fishing spot Hungry Caverns fishing spot Lake of Frozen Tears fishing spot Seren&amp;rsquo;s Lake fishing spot   Fishing does not consume Production Point If there is no action for 3 minutes upon a bite, game will automatically switch automated mode and fish until all bait is used or inventory is full There are four (old, metal, ashwood, faewing) types of fishing rod, and all types excluding old fishing rod can be promoted to tier 8   42 different types of fish can be caught, and it can be either cooked or delivered  Fish are graded from tier 0 to tier 10 and by size, and large fish can only be caught manually Delivery  Fish can be delivered to an NPC located in cities and fishing spots Demand list changes every day at 6am Fish can only be delivered a limited amount of times, and resets at 6am      2.</description>
     </item>
     

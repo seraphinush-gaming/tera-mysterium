@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v104 on mysterium</title>
-    <link>https://seraphinush-gaming.com/en/tags/v104/</link>
+    <link>https://tera-mysterium.com/en/tags/v104/</link>
     <description>Recent content in v104 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/en/tags/v104/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/en/tags/v104/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2021.03.17 patch notes (v104.02) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2021/v104-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2021/v104-02/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2021/v104-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2021/v104-02/</guid>
       <description>Update 1. Server stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 보상  3/10(수) 정기점검시 진행된, &amp;lsquo;사용처 소실 아이템 제거&amp;rsquo; 진행 중, 의도치 않게 삭제된 아이템을 다시 복구하였습니다. 3/17(수) 정기점검 이후, 해당 아이템 삭제로 인해 불편을 겪으신 수호자 여러분께 다음과 같은 보상이 우편으로 지급됩니다.     삭제된 아이템 명 보상 아이템 수량     마일리지 토큰 고급 카드 조각 상자 10   &amp;rsquo;&amp;rsquo; 여행자의 비약 5   승리의 증표 승리의 증표 100   &amp;rsquo;&amp;rsquo; 여행자의 비약 5    3.</description>
     </item>
     
     <item>
       <title>2021.03.10 patch notes (v104.01.02) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2021/v104-01-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2021/v104-01-02/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2021/v104-01-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2021/v104-01-02/</guid>
       <description>Update 1. Dungeon  Increased enchanting materials drop amount in the following instances :     Dungeon Reward Change log     Catalepticon Lumikan&amp;rsquo;s Wing Fragment Increase drop amount by 2x   Catalepticon (hard) Lumikan&amp;rsquo;s Horn Piece Increase drop amount by 1.5x   Killing Ground Tyrant&amp;rsquo;s Belt Increase drop amount by 2x   Killing Ground (hard) Tyrant&amp;rsquo;s Soul Increase drop amount by 1.5x     Decreased HP of boss monster in Lumikan&amp;rsquo;s Trial (Ace Dungeon)  2.</description>
     </item>
     
     <item>
       <title>2021.03.03 patch notes (v104.01.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2021/v104-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2021/v104-01-01/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2021/v104-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2021/v104-01-01/</guid>
       <description>Update 1. Server stabilization  Completed stage 1 of server stabilization process  2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다. 판매 상품: [랜덤] 아자작! 얼어붙은 할라트 무기 상품 판매 가격: 40블루 판매 기간: 2021년 3월 3일(수) 점검 후 ~ 2021년 3월 24일 8:59(점검 전까지)  </description>
     </item>
     
     <item>
       <title>2021.02.24 patch notes (v104.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2021/v104-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2021/v104-01/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2021/v104-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2021/v104-01/</guid>
       <description>Update 1. Dungeon  Adjusted to increase solo dungeon difficulty and reward appropriate to the latest gear set  Pit of Petrax Celestial Arena Ace Trials Echo of Aranea    2. Item / gear  Changed sale value of rare / superior tier Relic / Halidom to 5 Gold Decreased Travel Journal reuse cooldown from 30 seconds to 10 seconds Changed item icon display by tier  Removed tier mark at top left corner Changed display tier via icon background and border color  Icon background color is initially applied to select items, and will be updated for all items in the future   Removed select items that are no useful Changed the following items to be tradable  *Changed fishing Bait type items to be tradable and limit is no longer applied Fish Fillet Bait I~V Angleworm I-V Puppy Figurine, Piglet Figurine, Popori FIgurine   Removed Puppy Figurine from Merchant Changed Golden / Silver Talent related Crafting Designs to no longer be usable Removed Sergheto Box from Development Merchant    3.</description>
     </item>
     

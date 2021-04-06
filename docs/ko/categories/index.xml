@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/categories/</link>
+    <link>https://tera-mysterium.com/ko/categories/</link>
     <description>Recent content in Categories on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>patch notes</title>
-      <link>https://seraphinush-gaming.com/ko/categories/patch-notes/</link>
+      <link>https://tera-mysterium.com/ko/categories/patch-notes/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/categories/patch-notes/</guid>
+      <guid>https://tera-mysterium.com/ko/categories/patch-notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>article</title>
-      <link>https://seraphinush-gaming.com/ko/categories/article/</link>
+      <link>https://tera-mysterium.com/ko/categories/article/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/categories/article/</guid>
+      <guid>https://tera-mysterium.com/ko/categories/article/</guid>
       <description></description>
     </item>
     

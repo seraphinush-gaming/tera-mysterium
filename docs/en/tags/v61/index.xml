@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v61 on mysterium</title>
-    <link>https://seraphinush-gaming.com/en/tags/v61/</link>
+    <link>https://tera-mysterium.com/en/tags/v61/</link>
     <description>Recent content in v61 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/en/tags/v61/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/en/tags/v61/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2017.08.03 patch notes (v61.02.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2017/v61-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2017/v61-02-01/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v61-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2017/v61-02-01/</guid>
       <description>1. Dungeon  Decreased difficulty of Alpha Cyrux Research Facility  Decreased damage of certain skills for each boss Increased stun duration of 1st boss after tackling tree Decreased penalty/damage of explosive goblins during 3rd boss    Developer comment (paraphrased; point form)
  Too many players were trying to take advantage of the market by obtaining tradeable items from Token/Mark of Change and eventually trading gold for real money so they changed items to be untradeable.</description>
     </item>
     
     <item>
       <title>2017.07.27 patch notes (v61.02) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2017/v61-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2017/v61-02/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v61-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2017/v61-02/</guid>
       <description>1. Dungeon  New dungeon : Hangar RK-9  ilvl required : 439 Portal location : Spring Valley Items obtainable : High-tier encahnting box, Dark mind-control device, Arch Devan artisan tool, etc.   New dungeon : Alpha Cyrux Research Facility (hard mode)  ilvl required : 439 Portal location : Savage Reach Items obtainable : High-tier encahnting box, Unknown liquid metal, Blood-soaked metal, etc.    2. Skill and balance adjustment  Valkyrie  Shining Crescent  Decreased crit power by 10%   Runeburst  Decreased crit power by 10%   Glaive Strike  Decreased crit power by 10%   Backstab  Removed stagger effect Added grounding effect   Balder&amp;rsquo;s Tears  Changed Glyph of Persistence : Decreased effect duration to 6 seconds Changed glyph points to 2     Warrior  Cross Parry  Decreases Blade Draw cooldown by 0.</description>
     </item>
     
     <item>
       <title>2017.07.20 patch notes (v61.01.02) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2017/v61-01-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2017/v61-01-02/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v61-01-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2017/v61-01-02/</guid>
       <description>1. Dungeon  Sky Cruiser Endeavor  Decreased the HP of mobs for 1st boss Significantly decreased the HP of 2nd and 3rd boss   Nightmare Lilith&amp;rsquo;s Keep  Significantly decreased the HP of 1st, 2nd, and 3rd boss   Harrowhold  Reoponed 20-man raid Harrowhold Teleportal is located at Velika Outskirts Harrowhold does not support IMS Harrowhold proceeds through 4 phases, rewarding loot per phase (same conditions apply to looting)    Reward change comment</description>
     </item>
     
     <item>
       <title>2017.07.13 patch notes (v61.01) | K TERA</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2017/v61-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2017/v61-01/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2017/v61-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2017/v61-01/</guid>
       <description>1. Gear progression system  Changed enchantment method of all gear to material enchanting method  Enchanting will proceed not using Feedstock/Alkahest but a different material depending on gear   Removed same gear enchanting system Added gear upgrade system  UI can be displayed by pressing Shift + T Fully enchanted gear can be upgraded to +0 enchantment gear of the next tier Upgrading will proceed by consuming specified material as it is with enchanting Gear rolls, etching, crystal/dyads, dual option reset upon upgrading Accessories can also be upgraded   Added gear proficiency system  Proficiency can be obtained through Vanguard Initiative quests Higher the proficiency, higher the chance of success for enchanting and upgrading While you can obtain more than the maximum proficiency, the amount of proficiency actually consumed upon enchanting/upgrading is less than the cap, and the chance of success is reinforced up to its max   Changed rerollable system  Can freely select desired options for the first time upon upgrading gear/accessory Spellbind, Master Enigmatic Scroll/Intricate Identification Scroll and related items are no longer usable Semi-Enigmatic Scrolls are now used to change all gear rolls  Amount of SES consumed varies depending on the type of options selected   Semi-Enigmatic Scrolls are required to change dual options   Exist dismantling function is removed, and exchanged with a revamped dismantling function  Can be used in the same way as before through the &amp;lsquo;dismantle&amp;rsquo; icon through inventory New enchanting materials can be obtained dismantling old enchanting materials   Removed masterworking system Removed awakening system Old gear can still use old enchanting materials to enchant Old enchanting materials can no longer be obtained from boxes (Premiere Box)  New enchanting materials now replace old enchanting materials from existing boxes (Premiere Box)    2.</description>
     </item>
     

@@ -1,5 +1,5 @@
 title = "mysterium"
-baseURL = "https://seraphinush-gaming.com"
+baseURL = "https://tera-mysterium.com"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-mysterium"

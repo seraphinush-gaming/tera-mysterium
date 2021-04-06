@@ -2,504 +2,504 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on mysterium</title>
-    <link>https://seraphinush-gaming.com/en/tags/2018/</link>
+    <link>https://tera-mysterium.com/en/tags/2018/</link>
     <description>Recent content in 2018 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/en/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/en/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018.12.27 patch notes | K TERA (v80.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v80-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v80-01-01/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v80-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v80-01-01/</guid>
       <description>1. Achievement  Added first level 70 achievement for each class  Bug fixes  Fixed issue where XP gained from goblin thieves was higher than intended Fixed issue where XP bar UI did not display up to two decimal places K TERA exclusive  K TERA exclusive     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.12.22 patch notes | K TERA (v80.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v80-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v80-01/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v80-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v80-01/</guid>
       <description>1. Balance  Adjusted to increase XP on ilvl 412-456 dungeon bosses  Changed XP ranges differently per dungeon   Decreased XP required to level up between level 66-70  Developer comment
  First off we increased XP earned through dungeons by 3 times through this maintenance. The XP gain has been adjusted using difficulty and clear time as basis, and therefore each each dungeon provides a different amount of XP.</description>
     </item>
     
     <item>
       <title>2018.12.20 patch notes | K TERA (v79.05.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-05-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-05-02/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-05-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-05-02/</guid>
       <description>1. Level cap expansion  Increased level cap to level 70 Added new story quest Break of Nightmare  Can progress post-awakening   Adjusted required XP for levels 58 to 65 Adjusted XP rewarded from monsters level 58 and above, quest, and Vanguard Request New : Talyph System  Players can now use Talyph and Option Unlock Talyph  Players can use Talyph upon reaching levels 66, 68, 70 Talyph requires Talyph Scroll I, II, III and gold to improve skills   Option Unlock  Players can unlock options upon reaching levels 67, 69 Each (unlockable) skill has 3 options, and requires Option Unlock Scroll I, II and gold to unlock   Options can be selected/changed out of combat  Talyph Scroll, Option Unlock Scrolls can be exchanged  7 Talyph Scroll I : 1 Talyph Scroll III 3 Option Unlock Scroll I : 1 Talyph Scroll III 7 Talyph II : 1 Talyph Scroll III 3 Option Unlock Scroll II : 1 Talyph Scroll III         Achievement  Started achievement season 10 Added 1 level-related achievement  Level 70   Added 11 Talyph-related achievements  First Option Unlock 2 Options Unlocked 4 Options Unlocked 6 Options Unlocked First Talyph Used Talyph 30 times Used Talyph 60 times Used Talyph 90 times Used Talyph 120 times Used Talyph 150 times Used Talyph 180 times   Added Talent-related achievements  Achievement : All my life 2  Used 500 Talent points       Credit Faction  Added 3 new Reputation Factions  Exodor Investigators Crystallization Countermeasure Headquarters Valkyon Community Support      2.</description>
     </item>
     
     <item>
       <title>2018.12.13 patch notes | K TERA (v79.05.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-05-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-05-01/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-05-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-05-01/</guid>
       <description>1. Balance  Slayer  Changed to reset cooldown of Overhand Strike to 0 upon using In Cold Blood    2. Wintera Snowfield  Applies equalized gear in this battleground Changed round specific system message  3. Miscellaneous  Changed Travel Journal limit to 10 locations  Bug fixes  Fixed issue where deactivating Noctenium Infusion in dungeons did not work properly Fixed issue where Valkyrie&amp;rsquo;s Godsfall skill did not receive chain effect from Gungnir&amp;rsquo;s Bite Fixed issue where during Reaper&amp;rsquo;s Shadow Reaping, Grim Strike&amp;rsquo;s Glyph of Persistence&amp;rsquo;s system message did not display the skill&amp;rsquo;s name in its message Fixed issue where Wintera Snowfield description did not include win condition upon timeout to be dependent on number of team players remaining Fixed issue where Slayer&amp;rsquo;s Startling Kick - Empowered Speed talent did not display its activation requirement properly Fixed issue where Reaper&amp;rsquo;s Death Spiral - Empowered Speed talent did not display its activation requirement properly   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.12.06 patch notes | K TERA (v79.05)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-05/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-05/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-05/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-05/</guid>
       <description>1. Wintera Snowfield  Added a shrinking snowstorm area  Snowstorm area induces 5,000 damage per second   Changed to single round instance  Winning condition is to defeat all enemy players   Added relevant Vanguard Request  Vanguard Request  눈싸움 전장에서 전투를!  Gold: 100 talentXP: 1215 itemXP: 1650     Optional  눈싸움 전장에서 전투를!  Gold: 100 talentXP: 1215       The following denotes win and loss rewards :  Win reward  40 Wintera Token 216,000 BC   Loss reward  20 Wintera Token 72,000 BC   Wintera Token Shop  Archdevan Surfactant : 400 Elemental Essence : 1,650 Veilthroch : 3,600 Devil&amp;rsquo;s Claws : 1,100 Dragon Skull : 360 Fireworks set : 20 Dragon firework : 40 Green Wintera Scarf : 100 Green Wintera Scarf : 100 Green Wintera Scarf : 100 Green Wintera Scarf : 100 Bravery Potion II : 100 Lamb Bulgogi : 100 Rejuvenation Elixir : 300 EP Reset Potion : 1,000 Frost Mantle of Indifference : 2,000 Wintersilk Dress Box (14 days) : 3,000 Snowflake firework (30 days) : 3,000      2.</description>
     </item>
     
     <item>
       <title>2018.11.29 patch notes | K TERA (v79.03.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-03-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-03-01/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-03-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-03-01/</guid>
       <description>1. UI  Revised boss gage info enrage information  Revised to display the amount of enrage time remaining    Bug fixes  Fixed issue where cancelling Slayer&amp;rsquo;s Whirlwind with Overhand Strike had discrepancies in cancelling time due at different skill levels Fixed issue where Valkyries could not iframe debuff-type skills Fixed issue where Reaper&amp;rsquo;s Retribution tooltip was insufficient to explain &amp;lsquo;cannot use Retribution against projectiles in PvP&amp;rsquo;   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.11.22 patch notes | K TERA (v79.03)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-03/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-03/</link>
       <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-03/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-03/</guid>
       <description>1. Balance  Mystic  Thrall of Life  Revised to increase speed of summoner recognition  Changed to use area of effect cleanse and healing skill immediately after summoning regardless of the distance between thrall and summoner Slightly increased casting speed of area of effect cleanse and area of effect heal used after being summoned Changed the maximum distance from summoner before attempting to move towards the summoner from 5m to 20m        Developer comment</description>
     </item>
     
     <item>
       <title>2018.11.15 patch notes | K TERA (v79.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-02-01/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-02-01/</guid>
       <description>1. Dungeon  Shadow Sanguinary (hard)  Gear requirement : ilvl 446 Teleportal location : Highwatch Outskirts Potential reward : Onset Mask, top-tier enchanting material, transparent accessories (mask, back), etc. Added appropriate guild quest   Shadow Sanguinary  Gear requirement : ilvl 439 Teleportal location : Highwatch Outskirts Potential reward, high-tier enchanting material, transparent accessories, etc. Added appropriate guild quest   Velik&amp;rsquo;s Sanctuary (hard)  Gear requirement : ilvl 453 Teleportal location : Velika Potential require : Infinity Mask, top-tier enchanting material, crafting additive I, transparent accessories, etc.</description>
     </item>
     
     <item>
       <title>2018.11.08 patch notes | K TERA (v79.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-02/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-02/</guid>
       <description>1. Reward  Added rewards to Antaroth&amp;rsquo;s Abyss (hard)  Slightly increased the drop amount of Old Supply Crate upon defeating Nightmare Antaroth Added Dragon&amp;rsquo;s Skull to loot table    Developer comment
  Added new “Bahaar&amp;rsquo;s Mask” to replace “Transcendence Mask” in Bahaar&amp;rsquo;s Temple  Bahaar&amp;rsquo;s Mask  Upper tier item that has one static line and 3 random static lines (can have the same stat)     Fixed field/dungeon item drop during level progression  Decreased gold rate rate while increasing drop amount Removed gold drop from dungeons Decreased crystal drop rate in field/dungeon    2.</description>
     </item>
     
     <item>
       <title>2018.11.01 patch notes | K TERA (v79.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v79-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v79-01/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v79-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v79-01/</guid>
       <description>1. Balance  Changed all class&amp;rsquo; base Endurance to 80, class-specific stats, and defense stats on gear Berserker  Lethal Strike  Increased skill damage by 15% Decreased PvP skill damage by 30% Decreased the additional damage received as player&amp;rsquo;s HP decreases Increased MP cost from 0 to 300   Thunder Strike  Adjusted Popori&amp;rsquo;s hit point relative to the hit point of other race   Combo Attack  Adjusted all race&amp;rsquo;s hit point relative to race Elin&amp;rsquo;s hit point   Leaping Strike  Fixed issue where Leaping Strike could cancel Cyclone   Cyclone  Adjusted to apply stagger to other players without pulling them in if overcharged   Triumphant Shout  Changed immunity effect duration from 6 seconds to 5 seconds   Fearsome Shout  Changed to be cleansable   Unleash  Changed to be able to cancel with Regression/Plague of Exhaustion      Developer comment</description>
     </item>
     
     <item>
       <title>2018.10.25 patch notes | K TERA (v78.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v78-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v78-02-01/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v78-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v78-02-01/</guid>
       <description>1. Dungeon  New : Guardian Training Room  Can be accessed in Highwatch Can fight against a specified BAM to measure DPS and freely practice without entry limit    2. Security update  Updated security program  3. Elin Gunner/Brawler  Can now use Race Change Voucher to race Elin  Bug fixes  Fixed issue where Reverse Scythe Retrieval allowed Reapers to clip through walls Fixed issue where using Heart Thrust did not display skill name in system message Fixed issue where Cultist&amp;rsquo;s Weapon Chest was rendered as weed in Cultist&amp;rsquo;s Refuge   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.10.18 patch notes | K TERA (v78.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v78-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v78-02/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v78-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v78-02/</guid>
       <description>1. Dungeon  Adjusted balance of Bahaar&amp;rsquo;s Temple  Decreased daamge of 2nd phase Bahaar&amp;rsquo;s Fury Swipes during enrage Added Bahaar&amp;rsquo;s Treasure Chest as reward  Spawns at 2nd phase area after completing 1st phase  Bahaar&amp;rsquo;s Amplifier Token can be exchanged for Bahaar&amp;rsquo;s Glove Amplifier or Bahaar&amp;rsquo;s Boot Amplifier  Treasure Chest contains the following :  Rare Metal Dragon&amp;rsquo;s Bow Balance Weights Bahaar&amp;rsquo;s Amplifier Token Bahaar&amp;rsquo;s Glove Amplifier Bahaar&amp;rsquo;s Boot Amplifier           성장 구간 던전에서 클래스 상관 없이 매칭 수락 팝업창이 매칭 30초뒤 팝업되도록 변경됩니다.</description>
     </item>
     
     <item>
       <title>2018.10.11 patch notes | K TERA (v78.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v78-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v78-01-01/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v78-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v78-01-01/</guid>
       <description>1. Dungeon  Temporarily closed Dreadspire, Harrowhold  Removed Dreadspire from Leaderboard    2. Item  Brooch promotion  Marrow Brooch can now be promoted to Oblit Brooch Quatrefoil Brooch can now be promoted to Brilliant Quatrefoil Brooch Cost for promotion [for both brooch] is the following :  158,994 item XP 85 Silver Plate 39 Old Supply Crate 8 Devil&amp;rsquo;s Toenail 8 Dragon&amp;rsquo;s Skull 3 Diamond 9,114 Gold      3.</description>
     </item>
     
     <item>
       <title>2018.10.04 patch notes | K TERA (v78.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v78-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v78-01/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v78-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v78-01/</guid>
       <description>1. Quest  Added new quest at Highwatch to be received from Strong wind Moont  Can receive at ilvl 439, and can complete once per day per character Reward :  6 Liquid Metal 4 Hypnotic Device 3 Artisan&amp;rsquo;s Tools 2 Copper Clasp 1 Pansophic Ash 4 Archdevan Formula 2 Carved Ornament 1 Old Supply Crate      2. Dungeon  Shattered Fleet is closed Adjusted balance for Celestial Arena  Increased HP of monters by 5 times per stage, decreased movement speed by 80% Added reward by ranking (rank 1-3) :  Rank 1 :  Archdevan Oil Refined Archdevan Metal (new item) Celestial Arena Box   Rank 2-3 :  Archdevan Oil Refined Archdevan Metal (new item)   Celestial Arena Box (1 of) :  Metamorphic Emblem Otherworldly Shard Devil&amp;rsquo;s Toenail Dragon&amp;rsquo;s Skull Elemental Essence Veiltroch        3.</description>
     </item>
     
     <item>
       <title>2018.09.20 patch notes | K TERA (v77.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v77-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v77-02/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v77-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v77-02/</guid>
       <description>1. Balance  Slayer  Added chains to use [Whirlwind], [Heart Thrust], and [Knockdown Strike] after Savage Strike Changed chance to proc Aggression talent level 1 to level 20 from [22-34%] to [22-60%]    Developer comment
  Archer  Find Weakness lv 3  Decreased attack damage increase of [Thunderbolt, Radiant Arrow, Penetrating Arrow] from 20% increase to 15% increase   Crackshot lv 2, 3  Decreased additional damage to monsters from 7% to 6%     Ninja  Boomerang Shuriken  Decreased skill damage by 15%   Changed power buff from Aggression talent level 1 to level 20 from [5-24] to [8.</description>
     </item>
     
     <item>
       <title>2018.09.13 patch notes | K TERA (v77.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v77-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v77-01/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v77-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v77-01/</guid>
       <description>1. Fishing  Fishing can be learned through quest  Quest can be found in Highwatch via NPC Jeremy Wayng Added Vanguard Request “Fshing is fun!” and the following is rewarded :  500 gold 50 Vanguard Initiative credit 500 Item XP 20 Fisherman&amp;rsquo;s Token 5 low-tier worm 1 Gathering supply box     The following can be given from the Gather supply box :  Produce Corn Carrot Orange Mushroom Old Pumpkin Apple Gem Uncut Cobala Gem Uncut Shadmetal Gem Uncut Xermetal Gem Uncut Normetal Gem Uncut &amp;lsquo;Galvorn&amp;rsquo; Gem Crystal Red Essential Energy Green Essential Energy Blue Essential Energy White Essential Energy Black Essential Energy     Fishing is done by using bait with fishing rod near fishing spots  Before attempting to fish, bait must be activated by using bait 1 Bait is consumed if there is a bite while fishing Fishing spots can be found via Worldmap UI  Murial Ruins fishing spot Cutthroat Harbor fishing spot Lake of Tears fishing spot Hungry Caverns fishing spot Lake of Frozen Tears fishing spot Seren&amp;rsquo;s Lake fishing spot   Fishing does not consume Production Point If there is no action for 3 minutes upon a bite, game will automatically switch automated mode and fish until all bait is used or inventory is full There are four (old, metal, ashwood, faewing) types of fishing rod, and all types excluding old fishing rod can be promoted to tier 8   42 different types of fish can be caught, and it can be either cooked or delivered  Fish are graded from tier 0 to tier 10 and by size, and large fish can only be caught manually Delivery  Fish can be delivered to an NPC located in cities and fishing spots Demand list changes every day at 6am Fish can only be delivered a limited amount of times, and resets at 6am      2.</description>
     </item>
     
     <item>
       <title>2018.09.06 patch notes | K TERA (v76.03.03)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-03-03/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-03-03/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-03-03/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-03-03/</guid>
       <description>1. Server stabilization 2. DB gear exchange Developer comment
  source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.08.30 patch notes | K TERA (v76.03.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-03-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-03-02/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-03-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-03-02/</guid>
       <description>1. Server stabilization Bug fixes  Fixed issue where character boss event quest item was not usable Fixed issue where option to see monters on radar UI would automatically uncheck Fixed issue where certain new/returning player event items would have different item type than described   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.08.23 patch notes | K TERA (v76.03.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-03-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-03-01/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-03-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-03-01/</guid>
       <description>1. Bamarama  Changed round times  Changed time per round to 180 seconds Changed Gold Ticket round from once every 10 minutes to once every 5 minutes Changed Diamond Ticket round from every 50 minute of the hour to every 25 and 55 minute of the hour   Changed Gold Ticket and Diamond Ticket to cannot trade status, and changed sale price  Golden Ticket : 90 silver to 1 gold, Diamond Ticket : 9 gold to 10 gold   Changed betting time and betting limit  Time  Changed betting time to 90 seconds   Golden Ticket  Changed round frequency from 10 minutes to 5 minutes, and changed maximum betting limit from 30k tickets to 100k tickets   Diamond Ticket  Changed round frequency from 60 minutes to 30 minutes, and changed maximum betting limit from 10k tickets to 30k tickets     Applied tariff upon winning  From 0% to 10%   Place a Trade Broker (beside banker) Changed Bamarama BAM HP and enrage duration by half, and changed minimum HP required to use ultimate [from below 30%] to below 40%  2.</description>
     </item>
     
     <item>
       <title>2018.08.16 patch notes | K TERA (v76.03)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-03/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-03/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-03/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-03/</guid>
       <description>1. Skill / balance  Brawler  Never Retreat (new passive)  Acquired at level 65 Increase frontal skill damage by 7% and aggro by 15%   Jackhammer  Changed max endurance debuff stack from 8 to 3 Changed endurance debuff effect from 1.5% to 4.0%     Berserker  Unleashed: Beast Fury  Decrease damage received by 50% while casting     Valkyrie  Leaping Slash  Recover 10 Ragnarok Point upon successful 2nd hit   Half-moon Slice  Decreased Ragnarok Point recovered from 16 to 15 upon successful hit   Leaping Slash, Shining Crescent, Half-moon Slice  Now displays Ragnarok Point recovered in tooltip     Warrior  Enhanced Defensive Stance (new passive)  Acquired at level 65 Increase frontal skill damage by 8% while in Defensive Stance     Sorcerer  Elemental Cores  Increase skill damage by 4% upon obtaining a core     Archer  Tempest Arrow  Slightly increased total skill damage Slightly increased casting speed   Find Weakness  Added an effect to the skill      Developer comment</description>
     </item>
     
     <item>
       <title>2018-08-09 patch notes | K TERA (v76.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-02-01/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-02-01/</guid>
       <description>1. Dungeon  Bahaar&amp;rsquo;s Temple  Removed ilvl access restriction Adjusted Vanguard Request ilvl requirement from 457 to 456 Can now use IMS upon reaching ilvl 456 Adjusted drop rate of Rare Metal, Sacred Hammer    2. Gear  Changed Heroic Oath enchanting cost for +2 -&amp;gt; +3  Weapon  Gold : From 109,447 to 91,206 Golden Plate : From 382 to 153 Silver Plate : From 96 to 38 Rare Metal : From 395 to 237 Balance Weights : From 29 to 29 Sacred Hammer : From 9 to 20 Diamond : From 9 to 0   Armor  Gold : From 65,668 to 54,723 Golden Plate : From 229 to 92 Silver Plate : From 57 to 23 Rare Metal : From 237 to 142 Balance Weights : From 17 to 17 Sacred Hammer : From 5 to 12 Diamond : From 6 to 0   Gloves, boots  Gold : From 43,779 to 36,383 Golden Plate : From 153 to 61 Silver Plate : From 38 to 15 Rare Metal : From 158 to 95 Balance Weights : From 11 to 11 Sacred Hammer : From 3 to 7 Diamond : From 4 to 0      3.</description>
     </item>
     
     <item>
       <title>2018.08.02 patch notes | K TERA (v76.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-02/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-02/</guid>
       <description>1. Dungeon  Bahaar&amp;rsquo;s Temple  Requires ilvl 457 to use IMS Located at Frymount Drops Sacred Hammer, Dragon&amp;rsquo;s Bow, Balance Weights, Rare Metal, Amplifier II, Transcendence Mask, auto-pot pet, Superior Etchings, and Meownya Innerwear (all 5 types) Added Bahaar&amp;rsquo;s Temple to Leaderboard  Added Replica Statue as Leaderboard reward      Replica standards  Previous season rank 1 party  No replica is installed for the first season, and existing replicas are removed when seasons change Only the rank 1 party will have their replica installed   Replica look saved as right before server maintenance  Replica look will reflect the look right before server maintenance.</description>
     </item>
     
     <item>
       <title>2018.07.26 patch notes | K TERA (v76.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v76-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v76-01/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v76-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v76-01/</guid>
       <description>1. Elin Brawler  Added class [Brawler] to class Elin  Cannot use Race Change Voucher    2. Character limit  Expanded character limi from 20 slots to 21 slots  Can receive Additional Character Slot from Elin Brawler event page    3. Battleground reward  Fixed tool tip on enchanting material that can be received from Battleground  4. Skill and balance  Valkyrie  Added 11% additional damage to boss monsters Changed armor option [Shining Crescent] Increase critical damage by 8% to Increase all skill damage by 3.</description>
     </item>
     
     <item>
       <title>2018.07.19 patch notes | K TERA (v75.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v75-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v75-02/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v75-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v75-02/</guid>
       <description>1. Dungeon  New : Lyan&amp;rsquo;s Underground Temple (hard)  Requires ilvl 455 to use IMS (1 entry, 2 with VIP) Located at Dragonfall Drops Rare Metal, Dragons Bow, Balance Weights, Accessory Amplifier I/II, Transcendence Mask, and Meownya Innerwear (all 5 types)   New : Lyan&amp;rsquo;s Underground Temple  Requires ilvl 453 to use IMS (1 entry, 2 with VIP) Located at Dragonfall Drops Elemental Essence, Pansophic Ash, Brooch etchings I/II, Accessory Amplifier I, Infinity Mask, etc.</description>
     </item>
     
     <item>
       <title>2018.07.13 patch notes | K TERA (v75.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v75-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v75-01-01/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v75-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v75-01-01/</guid>
       <description>1. Skill  Revert chain skill to the state before 07.12  Developer comment
  Gunner  Rolling Reload  Changed skill cooldown to 4 seconds after using just 1 time, to be able to use 2 times   Dashing Reload  Changed skill cooldown to 4 seconds after using just 1 time, to be able to use 2 times      Bug fixes  Skill  Sorcerer : Fixed issue where Elemental Fusion skill did not immediately go on cooldown Fixed issue where charging skills would go off earlier than expected Ninja : Fixed issue where using Leaves on the Wind as a chain skill in between Boomerang Shuriken occasionally crashed client Gunner : Fixed issue where [Blast] related glyphs did not take effect on additional missiles from [Summon Beam Panel]-applied [Arcane Beam] Fixed issue where hit from behind buff of Apex passive skills did not specify on monsters   UI  Fixed issue where Champion laurel did not display on party UI Fixed issue where whisper alert setting would alert as undefined Fixed issue where adjusting font size on chat UI would apply to all tabs (not fixed) Fixed issue where adjusting shortcuts did not work properly Fixed issue where skill or items did not register on item slot after immediately removing skill or item off the skill slot by drag and drop Fixed issue where chain skills did not work upon registering in the right extended skill slot Fixed issue where shortcut settings before 07.</description>
     </item>
     
     <item>
       <title>2018.07.12 patch notes | K TERA (v75.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v75-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v75-01/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v75-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v75-01/</guid>
       <description>Apex and skill udpate 1. Class Awakening  Added Apex Skills to 6 classes : Archer, Ninja, Gunner, Reaper, Valkyrie, Sorcer  Mission quest can be proceeded upon reaching ilvl 439 and acquire [Apex Skills].   Adjusted recommended glyph setup and chain skills for all Class Awakening part. 1 classes except Mystic  2. Skill and balance adjustments  Added new skills and changed a few existing skills appropriate to the Class Awakening update Sorcerer  [Apex Skill] Elemental Cores (active)  Imbues elements to existing offensive skills, and elements divide into Flame, Frost, and Lightning Depending on the combination of collected elements, skills enabled by [Elemental Fusion] changes Normally you are allowed to fuse 2 elements, but during [Mana Boost] you can fuse up to 3 elements   [Apex Skill] Ice Spear (active)  Throws frost projectiles forward.</description>
     </item>
     
     <item>
       <title>2018.06.28 patch notes | K TERA (v74.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v74-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v74-02/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v74-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v74-02/</guid>
       <description>1. Elin Gunner  Can now create Elin Gunner  Cannot use Race Change Voucher to create an Elin Gunner    2. Balance  Slightly adjusted balancing of all classes except reaper throughout level progression  Bug fixes  Leaderboard  Fixed issue where ranking titles were not collected from players   Island of Dawn  Fixed issue where caiman thieves did not spawn     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.06.21 patch notes | K TERA (v74.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v74-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v74-01-01/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v74-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v74-01-01/</guid>
       <description>1. Item  Added clear face cosmetic  This item equipped in the face style slot hides the expressed appearance of masks Randomly drops from level 65 party dungeons Sells for 8,000 T-cat in the T-cat merchant   Added clear back cosmetic  to level 65 dungeons and Tikat This item equipped in the back style slot hides the expressed appearance of weapons Randomly drops from level 65 party dungeons Sells for 8,000 T-cat in the T-cat merchant    2.</description>
     </item>
     
     <item>
       <title>2018.06.14 patch notes | K TERA (v74.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v74-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v74-01/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v74-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v74-01/</guid>
       <description>1. Summer festival  K TERA exclusive  2. Guardian Legion mission  Decreased HP of the initial two dragons for Superior GLM Adjusted Superior GLM time from 15:30 minutes to 18:30 minutes  3. Cruel Dreadspire  Adjusted 5th floor and 10th floor reward  Adjusted to increase gold reward  5th floor : 22,000 gold to 30,000 gold 10th floor : 22,000 gold to 50,000 gold   Removed the following rewards  Carved Ornament Copper Clasp Otherwordly SHard Pansophic Ash   Added combat consumables  Bravery Potion, Superior Noctenium Infusion, Fed: Health Potion, Fed: Rejuvenation Potion      4.</description>
     </item>
     
     <item>
       <title>2018.06.07 patch notes | K TERA (v73.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v73-02-01/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v73-02-01/</guid>
       <description>1. Dungeon  Shadow Sanguinary (hard)  Requires ilvl 446 Teleportal located at Highwatch Outskirts Drops Mask of the Beginning, and other top-tier enchanting materials   Shadow Sanguinary (normal)  Requires ilvl 439 Teleportal located at Highwatch Outskirts Drops Golden Talent, Silver Talent, and other high-tier enchanting materials    2. Item  Added new accessories  Transcendence Necklace Transcendence Earring Transcendence Ring Transcendence Circlet Heroic Vow Belt   Added items required to promote to new accessories  (Following items can be acquired from Antaroth&amp;rsquo;s Abyss (hard), RK-9 Kennel (hard), and Rakelith&amp;rsquo;s Manor (hard)) Worn crate Devil&amp;rsquo;s Claw Dragon&amp;rsquo;s Skull   Added Talent Reset Potion to Specialty Merchants at each town (K TERA exclusive)  Price : 2,000 gold    3.</description>
     </item>
     
     <item>
       <title>2018.05.31 patch notes | K TERA (v73.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v73-02/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v73-02/</guid>
       <description>1. Battleground  Added Bellicarium credits to rewards and enchanting material box  Revised reward  Corsairs&amp;rsquo; Stronghold  Win :  90,000 Bellicarium credits 7x enchanting material boxes   Lose :  30,000 Bellicarium credits 4x enchanting material boxes     Fraywind Canyon  Win :  90,000 Bellicarium credits 8x enchanting material boxes   Lose :  30,000 Bellicarium credits 5x enchanting material boxes     Champion&amp;rsquo;s Skyring (solo)  Win :  9,000 Bellicarium credits 7x Golden Talents   Lose :  3,000 Bellicarium credits 3x Silver Talents     Champion&amp;rsquo;s Skyring (team)  Win :  4,500 Bellicarium credits 7x Golden Talents   Lose :  1,500 Bellicarium credits 3x Silver Talents           Changed reward from Vanguard request from 1x Champion&amp;rsquo;s Enchanting Chest to 2x Champion&amp;rsquo;s Enchanting Chest Increased Bellicarium credit cap to 2,000,000 credits Added the following items to the Bellicarium credit merchant :  Liquid Metal – 3,000 points Hypnotic Device – 6,000 points Archdevan Surfactant – 30,000 points Artisan&amp;rsquo;s Tools – 9,600 points Copper Clasp – 18,000 points Pansophic Ash – 30,000 points Elemental Essence – 600,000 points Archdevan Formula – 6,000 points Carved Ornament – 12,000 points Otherworldly Shard – 200,000 points Last Element – 1,500,000 points Ruby – 10,000 points   One of the following items can be rewarded from the (new) enchanting material box :  35x Golden Talents 1x Liquid Metal 1x Hypnotic Device 1x Archdevan Surfactant 1x Artisan&amp;rsquo;s Tools 1x Copper Clasp 1x Pansophic Ash 1x Elemental Essence 35x Silver Talents 1x Archdevan Formula 1x Carved Ornament 1x Otherworldly Shard 1x Last Element 1x Mask of the Infinity   Removed Killing Spree and its credit merchant  Developer comment</description>
     </item>
     
     <item>
       <title>2018.05.24 patch notes | K TERA (v73.01.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v73-01-02/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v73-01-02/</guid>
       <description>1. Style shop  K TERA exclusive  2. Event item removal  K TERA exclusive  Bug fixes  Dungeon  Broken Prison, 3rd boss : Fixed issue where portals did not get destroyed occasionally Cruel Dreadspire, 8th floor : Fixed issue where 2 aggro marks were designated Kalivan&amp;rsquo;s Challenge : Fixed issue where defeating 1st boss did not open path to 2nd boss   UI  Fixed issue where certain profile elements were empty occasionally K TERA event exclusive   Skill  Lancer : Fixed issue where Adrenaline Rush talent effect to increase skill damage by 5% did not apply     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.05.18 patch notes | K TERA (v73.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v73-01-01/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v73-01-01/</guid>
       <description>Bug fixes  Skill  Fixed issue where shield-type skills absorbed a static amount of damage   Item  붉은 에메랄드 큐브 툴팁 획득 리스트에 희귀 스킬교본:블루/옐로우 리리가 누락된 문제 수정 (* 희귀 스킬교본: 피닉스,본드래곤 누락 문제 또한 차후 점검을 통해 수정할 예정입니다.)     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.05.17 patch notes | K TERA (v73.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v73-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v73-01/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v73-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v73-01/</guid>
       <description>1. Skill and balance adjustment  Priest  Mana Infusion  Decreased total casting time by 2 seconds, and increased casting speed by 10% Increased MP regeneration from 100 to 500 MP per second Decreased duration from 20 seconds to 10 seconds Increased cooldown from 10 seconds to 20 seconds Changed to maintain abnormality even after using attack skills or getting hit     Slayer  Energy Rush  Changed skill to apply as increase 25% crit chance as it is written in the skill tooltip rather than increase 25% crit factor     Reaper  Shadow Reaping  Changed cooldown from 120 seconds to 90 seconds   Enhanced Shadow Reaping  Changed attacks peed increase from 5% to 4%     Berserker  Thunder Strike  Decreased PVP damage by 5%      2.</description>
     </item>
     
     <item>
       <title>2018.05.10 patch notes | K TERA (v72.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v72-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v72-02-01/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v72-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v72-02-01/</guid>
       <description>1. Event item removal  Removed Manglemire event related items  2. Guardian Legion mission additional reward  Distributed additional rewards that were not distributed to players properly  Distributed via parcel    Bug fixes  UI  Fixed issue where Lancer&amp;rsquo;s perfect block UI would display longer than the reflected damage splash Fixed issue where items distributed through events could not be registered on a skill slot   Dungeon  Demon&amp;rsquo;s Wheel, 1st boss : Fixed issue where aoe attacks would explode immediately when boss is defeated     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.05.03 patch notes | K TERA (v72.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v72-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v72-02/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v72-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v72-02/</guid>
       <description>1. Demon&amp;rsquo;s Wheel  5 man dungeon reopen Teleportal : Alementheia Outskirts ilvl required : 439  Dyad Niveot Structure, [Event] Afro, [Event] Lamb Bulgogi can be earned    2. Civil Unrest  Changed so that only guild members with authority can place Guild Tower  3. Underground Arena  Changed operating hours  Changed rank rewards  1st : 9x medals 2-3rd : 7x medals 4-7th : 6x medals 8-10th : 5x medals   Medal shop  2 : Health Potion 4 : Bravery Potion II 14 : Rare Noctenium Refiner 6 : Underground arena golden talent box 240 : Rare innerwear exchange voucher 10 : Dragonscale 120 : Niveot Structure 800 : Smart Niveot Structure      Developer comment</description>
     </item>
     
     <item>
       <title>2018.04.26 patch notes | K TERA (v72.01.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v72-01-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v72-01-02/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v72-01-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v72-01-02/</guid>
       <description>1. Dungeon  Adjusted balance on Cruel Dreadspire  Adjusted to decrease HP of each monster Decreased the frequency of patterns for 3rd floor Dakuryon Decreased the stack debuff difficulty of 6th floor Krakatox   Closed Manglemire Disabled usage of Chocolates (consumables) in ranking contents. entering dungeons with the buffs will removes the consumables. the following dungeons are affected :  Cruel Dreadspire Antaros&amp;rsquo; Abyss (hard) Pit of Petrax    Developer comment</description>
     </item>
     
     <item>
       <title>2018.04.20 patch notes | K TERA (v72.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v72-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v72-01-01/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v72-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v72-01-01/</guid>
       <description>Bug fixes  Flying Guardian Legion mission  Fixed issue regarding server instability and reopen mission   Skill  Fixed issue where certain shield-type skills were able to absorb more damage than it should   Item  Fixed issue where mid-tier Island of Dawn enchanting box had missing possible items in its tool tip   Dungeon  Fixed issue in Rakelith&amp;rsquo;s Manor where 3rd boss dropped Dyad Niveot Structure Fixed the drops of the following dungeons :  Rebel&amp;rsquo;s Hideout  Adjusted to decrease drop amount of Archdevan Formula   Island of Dawn  Adjusted to increase drop amount of Golden Talents to maximum in mid-tier Island of Dawn enchanting boxes   Rk-9 Kennel (hard)  Removed Enchanting Crate from reward   Sky Cruiser Endeavor  Adjusted to increase drop amount of Hypnotic Device       Event  K TERA exclusive     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.04.19 patch notes | K TERA (v72.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v72-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v72-01/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v72-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v72-01/</guid>
       <description>1. Guardian Legion mission  Added flying Guardian Legion missions Rhapsody of Wind and Fire and Recon Eradication Mission  Can only be taken by level 65 players, and can participate in the same way as existing Guardian Legion missions  World map &amp;gt; Guardian Legion mode toggle &amp;gt; Track mission &amp;gt; Enter mission   As the mission partakes in the air, you can only carry out the mission with a flying mount You can gain Guardian Legion points in the same way as existing Guardian Legion missions, and with enough points you can earn Guardian Legion gem box, item XP, and Guardian Legion credits Successfully clearing flying Guardian Legion missions can reward either 1-3x Mark of Flight or a Superior Etching Box as [additional reward]  Additional reward ?</description>
     </item>
     
     <item>
       <title>2018.04.12 patch notes | K TERA (v71.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v71-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v71-02/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v71-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v71-02/</guid>
       <description>1. PVP  Disabled Outlaw content Existing skill is turned off, and Infamy reset to 0  Developer comment
 Bug fixes  Dreadspire  Fixed issue where player&amp;rsquo;s death location was different per player Fixed issue on 3rd floor where projectiles from demokrons one shot players   Skill  Fixed issue where Baraka Priest&amp;rsquo;s Zenobia&amp;rsquo;s Vortex IX skill casting speed was different compared to other races Fixed issue where Warrior&amp;rsquo;s Blade Frenzy tooltip did not have cooldown information Fixed issue where using Lancer&amp;rsquo;s Stand Fast increased based attack speed stat in Profile UI Fixed issue where Ninja&amp;rsquo;s Jagged Path tooltip information of distance was different from actual distance traversed Fixed issue where Reaper&amp;rsquo;s Soul Reversal talent did not apply to large monsters    Developer comment</description>
     </item>
     
     <item>
       <title>2018.04.05 patch notes | K TERA (v71.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v71-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v71-01-01/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v71-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v71-01-01/</guid>
       <description>1. Dungeon  Cruel Dreadspire  Added Final Element to 5th floor reward Increased item drop rate by 2 times excluding gold by changing Joy of Partying to apply   Pit of Petrax  Changed Petrax to not enrage regardless of aggro unless damage is dealt Changed timer condition to upon hitting monster    2. Leaderboard  Due to rankings made with a bug, Pit of Petrax rankings has been reset Changed ranking conditions for Dreadspire  From clearing 4th floor -&amp;gt; to 1st floor    3.</description>
     </item>
     
     <item>
       <title>2018.03.29 patch notes | K TERA (v71.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v71-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v71-01/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v71-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v71-01/</guid>
       <description>1. Dungeon  New dungeon : Cruel Dreadspire  10 floor 5-man dungeon There is no ilvl requirement, and 1 entry (2 for VIP) per day upon reaching level 65 Dungeon teleportal is located at Tempest Reach The following items are rewarded per floor :  Floor 5  Elemental Essence Copper Clasp Pansophic Ash Archdevan Formula Carved Ornament Otherworldly Shard Gold Reward   Floor 10  Final Element Copper Clasp Pansophic Ash Archdevan Formula Carved Ornament Otherworldly Shard Gold Reward   Floor 1-5  Dreadspire Helmet   Floor 6-10  Dreadspire Armor         Added Cruel Dreadspire to leaderboard Reopen Manglemire  5-man dungeon reopen Requires ilvl 439 to use IMS Dungeon teleportal is located at Pora Elinu Can receive rewards of ilvl 439 dungeons   Ace Dungeon  Changed to spawn teleportal to Highwatch upon clear   Pit of Petrax  Added one of the following to be static drops upon clear  Prime Battle Solution Bravery Potion Raw Moonlight Fruit (restores 100 production points) Complete Crystalbind (1 hour) Goldfinger Token Dragonscale   Adjusted to lower Archdevan archer damage Adjusted timer requirement  Start requirement  (From) Petrax recognizing user by aggro -&amp;gt; (to) approaching a certain distance to Petrax; displays a message of the combat and starts the timer   Pause requirement  Death during combat with Petrax; timer does not reset even though aggro has been reset     Removed Petrax HP recovery mechanic    2.</description>
     </item>
     
     <item>
       <title>2018.03.22 patch notes | K TERA (v69.04.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-04-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-04-01/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-04-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-04-01/</guid>
       <description>Bug fixes  Services  Fixed issue where Restyle Hat on cloud-type cosmetics crashed client     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.03-15 patch notes | K TERA (v69.04)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-04/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-04/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-04/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-04/</guid>
       <description>Battleground   Adjusted rewards for Corsair&#39;s Stronghold, Fraywind Canyon  Win reward  Corsair&amp;rsquo;s Stronghold - Champion&amp;rsquo;s Enchanting Chest x5 -&amp;gt; x7 Fraywind Canyon - Champion&amp;rsquo;s Enchanting Chest x6 -&amp;gt; x8   Lose reward  Corsair&amp;rsquo;s Stronghold - Champion&amp;rsquo;s Enchanting Chest x1 -&amp;gt; x4 Fraywind Canyon - Champion&amp;rsquo;s Enchanting Chest x1 -&amp;gt; x5     Added the following items to Champion&#39;s Enchanting Chest :  Last Element, Mask of Infinity   Changed Corsair&#39;s Stronghold cooldown  Changed from 15 minutes -&amp;gt; 10 minutes    Bug fixes  Skill  Lancer : Fixed issue where nearby PC emotes were cancelled upon holding shield Mystic : Talent comment Priest : Fixed issue where two of Backstep, Fiery Escape skills were displayed in the Chain Skill UI Berserker : Fixed issue where maximum viewing distance would decrease upon dying during Berserk status Priest : Fixed issue where Salvation (ie.</description>
     </item>
     
     <item>
       <title>2018.03.08 patch notes | K TERA (v69.03.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-03-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-03-01/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-03-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-03-01/</guid>
       <description>1. Battleground  Kumas Royale  Changed kick vote rate  Changed from 100% yes votes to 80% yes votes excluding player to be kicked   Adjusted lose reward  Adjusted from 1 Kumas Royale Receipt to 3 Kumas Royale Receipts      2. Item/quest item deletion  K TERA exclusive K TERA exclusive  Bug fixes  Services  Fixed issue where game would crash when equipping and unequipping hat accesssory repeatedly   Dungeon  Fixed issue in Antaros&amp;rsquo; Abyss where resetting instance did not teleport players out of the instance     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.02.28 patch notes | K TERA (v69.03)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-03/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-03/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-03/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-03/</guid>
       <description>1. Skill and balance  Valkyrie  Balder&amp;rsquo;s Tears  Added Ragnarok Healing effect to prevent decay, while recovering 67 points per second Added Ragnorok Healing effect immediately ends upon end of Balder&amp;rsquo;s Tears, or entering combat   Ragnarok point  Changed to not reset upon death Changed Gjallar Horn and Max Ragnarok effects from ending upon death Changed effect duration of Max Ragnarok which prevents decay upon 1000 Ragnarok points from 60 seconds to 40 seconds Changed base decay rate to 50 points per second   Gunner  Talent : Burst Fire - [Force] (x% chance to apply y power which stacks up to 5 times)  Changed Talent effect duration from 5 seconds to 12 seconds   Command : Recall  Decreased cooldown at each skill level by 10 seconds   Bombardment  Decreased Arcane Energy cost from 1500 to 1000 Increased skill damage by 20%   Burst Fire  Increased skill damage by 15% Increased Arcane Energy cost from 70 to 75   Mana Missiles  Increased skill damage by 8%   Scattershot  Increased skill damage by 10%   Energy shot (HB shot)  Increased skill daamge by 10%     Slayer  Piercing Lunge (Awakened skill)  Changed to immediately cancel any previous skill motion Changed all attacks to be considered from behind after the 2nd hit (from 5 seconds) to 4 seconds     Priest  Innervate  Changed crit power increase description in the tooltip     Mystic  Augmentation  Changed crit power increase description in the tooltip     Sorcerer  Arcane Pulse  Decreased charging time by 20% (ie.</description>
     </item>
     
     <item>
       <title>2018.02.22 patch notes | K TERA (v69.02.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-02-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-02-02/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-02-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-02-02/</guid>
       <description>1. Dungeon server stabilization  Proceeded with sabilization update to reduce player lag issues  2. Proxy block  Proceeded with security update to block Proxy usage (memeslash block)  Bug fixes  Dungeon  Fixed issue where player location did not sync with the server during certain dungeon mechanics   Quest  Fixed issue where The Traitor of Acarum quest NPC stated the wrong location Fixed issue where Frymount NPCs Eurice and Kenela did not exist Fixed issue where Reaper quest could not proceed by using Double Shear II   Services  Fixed issue where Elin&amp;rsquo;s upswept hairstyle did not display properly to certain classes   Skill  Lancer : Fixed issue where Adrenaline Rush tooltip stated skill damage increase Gunner : Fixed issue where blast was shot not out of Arcannon but elsewhere Brawler : Fixed issue where using Divine Wrath glyphed with Energetic glyph fully filled rage gauge     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.02.08 patch notes | K TERA (v69.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-02-01/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-02-01/</guid>
       <description>1. Quest  Revised Tragedy and Triumph story quest at Ex Prima to respawn experiment cage while progressing the quest  Bug fixes  Party  Fixed issue where vote UI for kicking offline players did not display after entering dungeon/battleground   Dungeon  Fixed issue in Antaros&amp;rsquo; Abyss (nm/hm) where players could not re-enter when defeating final boss and wiping simultaneously   Skill  Fixed issue where summoning shadow as Baraka Warrior did not summon shadow   Item  Cosmetics comment     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.02.01 patch notes | K TERA (v69.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-02/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-02/</guid>
       <description>1. Battleground  Adjusted point scale for Underground Arena  Increased Warrior damage point scale Increased Lancer technique point scale Increased Ninja damage point scale Increased Valkyrie damage point scale Decreased Sorcerer damage point scale Decreased Archer damage point scale Decrased Priest technique point scale    2. Dungeon  Pit of Petrax  Revised Petrax HP per class Reset dungeon rankings accordingly   Antaros&amp;rsquo; Abyss (hard)  Increased movement speed of 3rd boss after 5 minute time attack   Significantly decreased item, gold, exp earned from monsters for those higher than a certain level limit from the following dungeon  Ebon Tower Kelsaik&amp;rsquo;s Nest Labyrinth of Terror Sabex Armory Macellarius Catacombs   Sabex Armory, Macellarius Catacombs  Significantly decreased gold drop amount    3.</description>
     </item>
     
     <item>
       <title>2018.01.25 patch notes | K TERA (v69.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-01-01/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-01-01/</guid>
       <description>1. Skill and balance  Lancer  Adrenaline Rush  Removed additional 5% damage to monsters effect     Warrior  Blade Waltz  Fixed issue where this skill could not cancel post animation of Torrent of Blows and Battle Cry     Berserker  Crush  Decreased skill damage by 25%   Smash  Decreased skill damage by 25%   Decimate  Decreased skill damage by 25%     Slayer  Colossus Blade  Changed cooldown from 5 minutes to 3 minutes   Piercing Lunge  Changed to definitely crit upon hit Increased skill damage by 30%     Sorcerer  Meteor Strike  Increased base crit chance by 10% Changed MP cost from 800 to 750   Void Pulse  Increased base crit chance by 10% Changed MP cost from 600 to 550   Lightning Strike  Changed MP cost from 300 to 250   Hailstorm  Changed MP cost from 900 to 800     Gunner  Mana Missile  Increased skill damage by 10%   Time Bomb  Increased skill damage by 10%   HB bomb  Increased base crit chance by 20%   Burst Fire  Increased base crit chance by 15%     Ninja  Burning Heart  Talent : Changed talent condition from upon critical hit to upon hit   Circle of Steel  Increased skill damage by 20%     Priest  Invocation of Judgement  Changed cooldown from 3 minutes to 2 minutes and 40 seconds     Mystic  Thrall Augmentation  Changed maximum number of players to take effect from summoning thralls to 5 players for all thrall summons Changed thrall buffs to no longer apply to raid members   Thrall of Sovereignty  Decreased skill damage to players by 30%      2.</description>
     </item>
     
     <item>
       <title>2018.01.18 patch notes | K TERA (v69.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v69-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v69-01/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v69-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v69-01/</guid>
       <description>1. Dungeon  New dungeon : Antaros&amp;rsquo; Abyss  Requires ilvl : 446 Dungeon entrance : Velika Outskirts Reward : Emerald, Diamond, high/top-tier gear enchanting material, high-tier accessory enchanting material, Mask of Beginning   New dungeon : Antaros&amp;rsquo; Abyss (hard)  Requires ilvl : 453 Dungeon entrance : Velika Outskirts Reward : Mask of Infinity, rare/superior innerwear, Stormcry gear box, Emerald, Diamond, top-tier gear enchanting material, high-tier accessory enchanting material   Pit of Petrax  Removed Pit of Petrax shield phases, and changed additional mobs to drop HP motes upon death Changed some of the other patterns (Added) Changed daily entry limit from 3 to 2 (additional 1 entry for VIP ie.</description>
     </item>
     
     <item>
       <title>2018.01.11 patch notes | K TERA (v68.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v68-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v68-01-01/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v68-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v68-01-01/</guid>
       <description>1. Dungeon  Ruinous Manor (hard)  Increased respawn time  This change is made in order to prevent users from resetting after combat and preventing certain mechanics from initiating     Rebel&amp;rsquo;s Hideout, Rebel&amp;rsquo;s Hideout (hard)  Revised first boss&amp;rsquo; in/out pre-explosion effect Revised obstructions on path to first boss    2. Achievement season 8 start  Achievement season 8 which was delayed last week due to an error will now start  Bug fixes  Dungeon  Fixed issue where background music did not play in Rebel&amp;rsquo;s Hideout and Rebel&amp;rsquo;s Hideout (hard)   UI  Fixed issue where Guardian Mission UI displayed outside of Guardian Missions area     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2018.01.04 patch notes | K TERA (v68.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v68-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v68-01/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v68-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v68-01/</guid>
       <description>1. Dungeon  New : Rebel&amp;rsquo;s Hideout  Required ilvl for IMS : ilvl 439 Teleportal is located in Feral Valley, Frontera Frostmetal gear box, Emerald, Diamond, high/top-tier gear enchanting material, high-tier jewelry enchanting material can be obtained   New : Rebel&amp;rsquo;s Hideout (hard)  Required ilvl for IMS : ilvl 446 Teleportal is located in Feral Valley, Frontera Mask of Beginning, Stormcry gear box, Emerald, Diamond, High/top-tier gear enchanting material, high-tier jewelry enchanting material can be obtained   Lilith&amp;rsquo;s Keep (hard)  Increased drop rate of Liquid Metal Decreased drop rate of Carved Ornament Copper Clasp will no longer drop   Sky Cruiser Endeavor, Rakelith&amp;rsquo;s Manor, RK-9 Kennel  Increased drop rate of Hypnotic Device Decreased drop rate of Archdevan Formula Artisan&amp;rsquo;s Tools will no longer drop   Broken Prison  Increased drop rate of Liquid Metal Decreased drop rate of Carved Ornament, Archdevant Surfactant Artisan&amp;rsquo;s Tools will no longer drop   Thaumetal Refinery (hard)  Increased drop rate of Liquid Metal Decreased drop rate of Carved Ornament Copper Clasp will no longer drop Decreased damaged of certain skills for all three bosses Increased cooldown of certain skills for all three bosses   RK-9 Kennel (hard)  Increased drop rate of Carved Ornament, Otherworldly Shard, Copper Clasp Liquid Metal, Hypnotic Device, Archdevan Surfactant, Archdevan Formula, Artisan&amp;rsquo;s Tools will no longer drop Decreased drop rate of Emerald, Diamond, Elemental Essence Decreased drop rate of jewelry etchings   Rakelith&amp;rsquo;s Manor (hard)  Increased drop rate of Archdevan Formula, Otherworldly Shard, Artisan&amp;rsquo;s Tools Carved Ornament, Hypnotic Device, Copper Clasp, Archdevan Surfactant, Liquid Metal, Soul Fragment will no longer drop Decreased drop rate of Elemental Essence Decreased drop rate of jewelry etchings    Developer comment</description>
     </item>
     
     <item>
       <title>2018.07.05 patch notes | K TERA (v74.02.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v74-02-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v74-02-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v74-02-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v74-02-01/</guid>
       <description>1. Level progression reward UI revision  Revised to receive all accumulated rewards at once  Bug fixes  Skill  Fixed issue where Brawlers could endlessly maintain Rhymthmic Blows buff by repeating Punch, Counter, and Rhythmic Blows   Item  Fixed issue where passive effects on gear occasionally did not work     source : TERA 테라 | NEXON</description>
     </item>
     

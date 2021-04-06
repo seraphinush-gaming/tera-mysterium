@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v71 on mysterium</title>
-    <link>https://seraphinush-gaming.com/en/tags/v71/</link>
+    <link>https://tera-mysterium.com/en/tags/v71/</link>
     <description>Recent content in v71 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/en/tags/v71/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/en/tags/v71/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018.04.12 patch notes | K TERA (v71.02)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v71-02/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v71-02/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v71-02/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v71-02/</guid>
       <description>1. PVP  Disabled Outlaw content Existing skill is turned off, and Infamy reset to 0  Developer comment
 Bug fixes  Dreadspire  Fixed issue where player&amp;rsquo;s death location was different per player Fixed issue on 3rd floor where projectiles from demokrons one shot players   Skill  Fixed issue where Baraka Priest&amp;rsquo;s Zenobia&amp;rsquo;s Vortex IX skill casting speed was different compared to other races Fixed issue where Warrior&amp;rsquo;s Blade Frenzy tooltip did not have cooldown information Fixed issue where using Lancer&amp;rsquo;s Stand Fast increased based attack speed stat in Profile UI Fixed issue where Ninja&amp;rsquo;s Jagged Path tooltip information of distance was different from actual distance traversed Fixed issue where Reaper&amp;rsquo;s Soul Reversal talent did not apply to large monsters    Developer comment</description>
     </item>
     
     <item>
       <title>2018.04.05 patch notes | K TERA (v71.01.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v71-01-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v71-01-01/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v71-01-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v71-01-01/</guid>
       <description>1. Dungeon  Cruel Dreadspire  Added Final Element to 5th floor reward Increased item drop rate by 2 times excluding gold by changing Joy of Partying to apply   Pit of Petrax  Changed Petrax to not enrage regardless of aggro unless damage is dealt Changed timer condition to upon hitting monster    2. Leaderboard  Due to rankings made with a bug, Pit of Petrax rankings has been reset Changed ranking conditions for Dreadspire  From clearing 4th floor -&amp;gt; to 1st floor    3.</description>
     </item>
     
     <item>
       <title>2018.03.29 patch notes | K TERA (v71.01)</title>
-      <link>https://seraphinush-gaming.com/en/patch/en/2018/v71-01/</link>
+      <link>https://tera-mysterium.com/en/patch/en/2018/v71-01/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/en/patch/en/2018/v71-01/</guid>
+      <guid>https://tera-mysterium.com/en/patch/en/2018/v71-01/</guid>
       <description>1. Dungeon  New dungeon : Cruel Dreadspire  10 floor 5-man dungeon There is no ilvl requirement, and 1 entry (2 for VIP) per day upon reaching level 65 Dungeon teleportal is located at Tempest Reach The following items are rewarded per floor :  Floor 5  Elemental Essence Copper Clasp Pansophic Ash Archdevan Formula Carved Ornament Otherworldly Shard Gold Reward   Floor 10  Final Element Copper Clasp Pansophic Ash Archdevan Formula Carved Ornament Otherworldly Shard Gold Reward   Floor 1-5  Dreadspire Helmet   Floor 6-10  Dreadspire Armor         Added Cruel Dreadspire to leaderboard Reopen Manglemire  5-man dungeon reopen Requires ilvl 439 to use IMS Dungeon teleportal is located at Pora Elinu Can receive rewards of ilvl 439 dungeons   Ace Dungeon  Changed to spawn teleportal to Highwatch upon clear   Pit of Petrax  Added one of the following to be static drops upon clear  Prime Battle Solution Bravery Potion Raw Moonlight Fruit (restores 100 production points) Complete Crystalbind (1 hour) Goldfinger Token Dragonscale   Adjusted to lower Archdevan archer damage Adjusted timer requirement  Start requirement  (From) Petrax recognizing user by aggro -&amp;gt; (to) approaching a certain distance to Petrax; displays a message of the combat and starts the timer   Pause requirement  Death during combat with Petrax; timer does not reset even though aggro has been reset     Removed Petrax HP recovery mechanic    2.</description>
     </item>
     

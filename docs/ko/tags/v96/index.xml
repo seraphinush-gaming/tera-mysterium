@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v96 on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/tags/v96/</link>
+    <link>https://tera-mysterium.com/ko/tags/v96/</link>
     <description>Recent content in v96 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/tags/v96/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/tags/v96/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020년 06월 25일 업데이트 안내 (v96.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v96-02-01/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v96-02-01/</guid>
       <description>[버그수정]  UI 및 기타 크래시 현상 수정 로비에서 영상 재생 시 애니메이션이 출력되지 않는 문제 서버 선택창에서 월드 진입 시 히칭 현상 완화 히칭 현상 로깅 작업 보강 및 오류 수정 클라이언트 로그 수정   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020년 06월 11일 업데이트 안내 (v96.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v96-02/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v96-02/</guid>
       <description>1. 코어 이면 지구  황금 시누스 보상 지급 방식이 변경됩니다.  2. 수호자 임무  사제, 창기사의 포인트 획득량이 소폭 감소합니다. 정령사의 포인트 획득량이 증가합니다.  3. 기타  퀘스트  [중요] 베르아크 성채 퀘스트 아이템인 &amp;lsquo;아르가프 변장도구&#39;가 버리기 불가로 변경됩니다. 에세니아 가드 [중요] 추락과 착지 사이 퀘스트 진행 지역 주변의 파르프, 파르폰이 비선공몬스터로 변경됩니다. (6/11 추가) 퀘스트 진행 경로 외에 파르프/파르폰은 비선공 몬스터로 변경되지 않은 문제가 확인되었으며, 이는 추후 수정될 예정입니다.</description>
     </item>
     
     <item>
       <title>2020년 06월 04일 업데이트 안내 (v96.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v96-01-01/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v96-01-01/</guid>
       <description>1. 기타  최대 프레임 옵션 설정이 추가됩니다.  시스템 설정(O) -&amp;gt; 비디오 설정 -&amp;gt; 화면 표현에서 설정하실 수 있습니다.     기본 프레임 제한은 62이며, 최소 24 ~ 최대 300까지 설정이 가능합니다.  [버그수정]  정령사로 정령왕을 소환하는 중 HP가 0이되면 클라이언트 크래시가 발생하는 문제 정령사로 정기 폭발 스킬 사용 시, 확률적으로 클라이언트 크래시가 발생하는 문제 클로버의 행운 이상상태가 적용된 캐릭터가 타 지역의 캐릭터와 근접한 곳에 스폰될 때, 클라이언트 크래시가 발생하는 문제   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020년 05월 28일 업데이트 안내 (v96.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v96-01/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v96-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v96-01/</guid>
       <description>1. 던전  재오픈: 카슈바르의협곡 (5인)  6/25(목) 점검전까지 기간 한정으로 오픈됩니다. 68레벨, 장비레벨 452 달성 시, 파티 매칭 기능을 이용하실 수 있습니다. 입장 시 모험의 주화가 150 소모되며, 주간 40회(VIP/월간패스80회) 입장 가능합니다. 에세니아 가드 &amp;gt; 고대의 숲에 위치한 차원의 마법석을통해 입장할 수 있습니다. 각 도시 명품관 NPC를 통해 &amp;lsquo;이동 주문서: 카슈바르 협곡&#39;을구매/사용하여 던전 입구로 이동할 수 있습니다. 카슈바르 토큰, 초월 액세서리 승급 재료, 용맹/마력의 아르가프 장비, 절멸/검은 태양 장비, 균형의/다크샤드강화석, 스킬 연마 스크롤, 초월의 가면, 윌슨 박사의 보물지도, 의문의 첩보 왼반쪽, 항해 지도, 아르보레아의 숨결 상자, 모험 즉시 완료권 등을 획득할 수 있습니다.</description>
     </item>
     

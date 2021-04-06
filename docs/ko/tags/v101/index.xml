@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>v101 on mysterium</title>
-    <link>https://seraphinush-gaming.com/ko/tags/v101/</link>
+    <link>https://tera-mysterium.com/ko/tags/v101/</link>
     <description>Recent content in v101 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seraphinush-gaming.com/ko/tags/v101/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tera-mysterium.com/ko/tags/v101/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020년 12월 10일 업데이트 안내 (v101.02.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-02-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v101-02-01/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-02-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v101-02-01/</guid>
       <description>1. 부가서비스  T-cat 상점에 [랜덤] 미리 메리 크리스마스 박스 아이템이 추가됩니다. (2,000T-cat)  2020년 12월 28일(월) 점검 전까지 판매되며, 구성품 및 확률은 아래와 같습니다. | 아이템명 | 수량 | 확률 | | :-: | :-: | :-: | | [확정] 산타 복장 상자 | 1 | 1.0% | | [확정] 2013 산타 복장 상자(여성 전용) | 1 | 0.8% | | [확정][염색] 2013 산타 복장 상자 [여성 전용] | 1 | 0.</description>
     </item>
     
     <item>
       <title>2020년 12월 03일 업데이트 안내 (v101.02)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-02/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v101-02/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-02/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v101-02/</guid>
       <description>1. 던전  혁명단 은거지[토벌] 5단계 공격력이 40% 하향됩니다.  2. 복귀자 시스템  복귀자 대상으로 지급되는 보상 아이템 중, &amp;lsquo;무한의 가면 교환 쿠폰&#39;이 &amp;lsquo;무한의 가면 교환권&#39;으로 변경됩니다.  무한의 가면 교환권은 상점 판매가 불가합니다.    3. 수호자 임무  전설 수호자 임무가 변경됩니다.  기존 임무인 &amp;lsquo;덮쳐오는 복수의 발톱&amp;rsquo; 임무 대신, 신규 임무인 &amp;lsquo;전설의 블랙 울프 펜리르 토벌 작전&#39;이 등장합니다. (~ 2021년 1월 25일(월) 정기점검 전까지)     펜리르 토벌 성공 시 우편으로 &amp;lsquo;펜리르의 가죽&#39;이 지급되며, 해당 아이템을 모아 다양한 보상과 교환할 수 있습니다.</description>
     </item>
     
     <item>
       <title>2020년 11월 26일 업데이트 안내 (v101.01.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-01-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v101-01-01/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-01-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v101-01-01/</guid>
       <description>버그수정  인벤토리가 가득 찬 상태에서 카드 마일리지 보상 수령 시 점수만 차감되는 문제 카드 마일리지 보상이 간헐적으로 획득되지 않는 문제  위 2가지 문제로 마일리지만 차감된수호자님께는 점검을 통해 차감된 마일리지가 지급되었습니다.   카드 마일리지가 특정 상황에서 마이너스 값이 되는 문제  UI상 –로 표기되었던 문제로, 수정 이후 보유하고 있으신 마일리지를 정상적으로확인하실 수 있습니다.   몬스터 네임 플레이트가 붉게 출력되는 문제 파티매칭 취소가 정상적으로 작동하지 않는 문제 모험의 주화 보유량이 토벌 던전 입장 필요량보다 적을 경우, 무한의주화를 사용하더라도 토벌 던전에 입장할 수 없는 문제 작열하는 엘카라스호에서 패턴 이펙트가 사라졌음에도 데미지 판정이 남아있는 문제(추가)   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
       <title>2020년 11월 19일 업데이트 안내 (v101.01)</title>
-      <link>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-01/</link>
+      <link>https://tera-mysterium.com/ko/patch/ko/2020/v101-01/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seraphinush-gaming.com/ko/patch/ko/2020/v101-01/</guid>
+      <guid>https://tera-mysterium.com/ko/patch/ko/2020/v101-01/</guid>
       <description>1. TBA  로비에 전장 정보를 확인할 수 있는 게시판 NPC가 추가됩니다. 전신 카이아의 일부 스킬 이펙트가 변경됩니다. 금화 획득 이펙트가 변경됩니다.  2. 던전  군단장의 거처 – 아비온  던전 입장과 동시에 모험의 주화 및 입장 횟수가 차감되도록 변경됩니다. 20인이 모두 던전에 입장 시, 몬스터가 스폰되도록 변경됩니다. (마흐나크/아비온 랜덤 스폰) 발키온 연합 지령서 보상과 기본 드랍 보상은 동일하나, 아비온처치 시 불안정한 옵션 변환 스크롤(장비) 대신 허리띠/가면/브로치 스크롤을 획득할 수 있습니다.</description>
     </item>
     
