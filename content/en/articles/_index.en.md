@@ -1,4 +1,4 @@
 +++
 title = "Articles"
-weight = 20
+weight = 2
 +++

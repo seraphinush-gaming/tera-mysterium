@@ -6,7 +6,7 @@ tags = ["fishing"]
 single = true
 +++
 
-# Angler Token
+## Angler Token
 | Grade | Amount |
 | :-: | :-: |
 | 0 | 1 |
@@ -22,7 +22,7 @@ single = true
 | 10 | 15 |
 | BAF | 30 |
 
-# Muricai Fishery
+## Muricai Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 0 | Stone Moroko |
@@ -38,7 +38,7 @@ single = true
 | 10 | Crimson Shark |
 | BAF | Golden Catfish |
 
-# Vexatus Swamp Fishery
+## Vexatus Swamp Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 0 | Azurecheek Carp |
@@ -54,7 +54,7 @@ single = true
 | 10 | Specklefin |
 | BAF | Golden Shark |
 
-# Cutthroat Harbor Fishery
+## Cutthroat Harbor Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 0 | Azurecheek Carp |
@@ -70,7 +70,7 @@ single = true
 | 10 | Gluda Shark |
 | BAF | Golden Sailfish |
 
-# Lake of Tears Fishery
+## Lake of Tears Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 0 | Stone Moroko |
@@ -86,7 +86,7 @@ single = true
 | 10 | Makaira |
 | BAF | Fairy Snakehead |
 
-# Celsian Lake Fishery
+## Celsian Lake Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 0 | Stone Moroko |
@@ -102,7 +102,7 @@ single = true
 | 10 | Shrieking Eel |
 | BAF | Queen Salmon |
 
-# Seren's Lake Fishery
+## Seren's Lake Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 0 | Azurecheek Carp |
@@ -120,7 +120,7 @@ single = true
 
 ----
 
-# Azart Fish Farm
+## Azart Fish Farm
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -135,7 +135,7 @@ single = true
 | 10 | Crimson Salmon |
 | BAF | Golden Ray |
 
-# Garden Bridge Fishery
+## Garden Bridge Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -150,7 +150,7 @@ single = true
 | 10 | Mimic Octopus |
 | BAF | Rainbow Cnidaria |
 
-# Faerie Pond Fishery
+## Faerie Pond Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -165,7 +165,7 @@ single = true
 | 10 | Crimson Salmon |
 | BAF | Ammonite |
 
-# Cloudlake Island
+## Cloudlake Island
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -180,7 +180,7 @@ single = true
 | 10 | Golden Cnidaria |
 | BAF | Cloud Anemone |
 
-# Iridian Fishery
+## Iridian Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -195,7 +195,7 @@ single = true
 | 10 | Golden Cnidaria |
 | BAF | Giant Blue |
 
-# Verrak Fountain Fishery
+## Verrak Fountain Fishery
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -210,7 +210,7 @@ single = true
 | 10 | Mimic Octopus |
 | BAF | Azart Piranha |
 
-# Exodor Farmlands
+## Exodor Farmlands
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -225,7 +225,7 @@ single = true
 | 10 | Crimson Salmon |
 | BAF | Golden Carp |
 
-# Dazzling Garden
+## Dazzling Garden
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |
@@ -240,7 +240,7 @@ single = true
 | 10 | Golden Cnidaria |
 | BAF | Jarflower Veiltail |
 
-# Predator Territory (Iridian Wetlands)
+## Predator Territory (Iridian Wetlands)
 | Grade | Fish |
 | :-: | :-: |
 | 1 | Sea Anemone |

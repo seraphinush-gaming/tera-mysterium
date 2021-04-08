@@ -15,7 +15,7 @@ lastmod = "2021-04-03"
 [2]: /images/articles/companions_power_table.png
 [3]: /images/articles/companions_amp_table.png
 
-# Companion
+## Companion
 **Pets** and **Partners** together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special **Abilities** can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage. Pet Skills and their description is of the following :
 
 | Ability | Description |
@@ -38,7 +38,7 @@ Partners start at Grade 1 and Fellowship 1 and can be **Promoted** by consuming 
 
 At level 66, you can get your first Partner from **Hatching a Partner** quest given by Loomey the Wanderering Scholar in Highwatch. While the obtained Partner does not gain more Fellowship from being Promoted, it can be used to promote another Partner.
 
-# Fellowship
+## Fellowship
 Fellowship is what determines how effective your Partner's **Bond Skill** is. By promoting your Partner, Fellowship of your Partner will increase. While Fellowship caps at 50, the amount of Fellowship increased at each Promotion varies depending on the Grade of the sacrificed Partner.
 
 (Edited v103-01) The obtained Fellowship for a Partner is of the following :
@@ -54,26 +54,26 @@ While dependent on RNG, it is highly recommended to Promote a Partner sacrificin
 
 For an uncommon Partner, 39 Fellowship is the minimum to maintain Bond Skill indefinitely, whereas for Rare and Superior Partner, 37 and 35 Fellowship is the minimum, respectively.
 
-# Bond skill : Power
+## Bond skill : Power
 Select Partners can provide **Power** for their Bond Skill. Depending on the rarity of your Partner and how high the Partner's Fellowship is, the effectiveness of the skill as well as its duration varies. Four Partners -- **Marie**, **Kuncun**, **Cocomin**, and **Loo** -- have been released to have **Bracing Force** as their Bond Skill, which increases Power for a set duration of time.
 
 The obtained Power and its duration for a Partner of Uncommon, Rare, and Superior rarity is of the following :
 
 ![][2]
 
-# Bond skill : Amplification
+## Bond skill : Amplification
 Select Partners can provide **Amplification** for their Bond Skill. Depending on the rarity of your Partner and how high the Partner's Fellowship is, the effectiveness of the skill as well as its duration varies. Two Partners -- **Rico**  and **Eco** -- have been released to have **Robust Energy** and **Vibrant Energy** as their Bond Skill, which increases Physical Amplification and Magical Amplication (respectively) for a set duration of time.
 
 The obtained Physical / Magical Amplification and its duration for a Partner of Uncommon, Rare, and Superior rarity is of the following :
 
 ![][3]
 
-# Special Partners
+## Special Partners
 Special Superior Partners have been added to the game, providing **Eternal Force** for their Bond Skill. Depending on how high the Partner's Fellowship is, the effectiveness of the skill as well as its duration varies. Three Partners -- **RK-9**, **Kalligar**  and **Lumikan** -- have been released to have **Eternal Force** as their Bond Skill, which increases Power for a set duration of time. Unlike Bracing Force, Eternal Force persists through death, meaning the Bond Skill does not expire upon death. 
 
 Please refer to Bracing Force table for the obtained Power and its duration for these Special Partners.
 
-# Gifted Skill
+## Gifted Skill
 Gifted Skills are secondary support skills specific to Partners, and provide auxillary support in or out of combat. Gifted Skills and their description is of the following :
 
 | Gifted skill | Description |

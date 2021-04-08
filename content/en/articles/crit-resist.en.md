@@ -6,7 +6,7 @@ tags = ["theorycrafting", "data"]
 sources = ["['We Hate Math' theorycrafting discord](https://discord.gg/zY7bbFp)"]
 +++
 
-# v99
+## v99
 | Dungeon | Boss | Level | target base resistance | crit resistance |
 | :-: | :-: | :-: | :-: | :-: |
 | Forbidden Arena [Nightmare Undying Warlord] | Nightmare Undying Warlord | 73 | 90,000 | 300 |
