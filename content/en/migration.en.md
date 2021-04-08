@@ -1,7 +1,7 @@
 +++
 title = "Blog notice : Migration"
 date = 2021-04-06
-weight = 100
+weight = 1
 +++
 
 Hello, thank you for your interest in my blog.
