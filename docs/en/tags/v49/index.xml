@@ -17,8 +17,7 @@
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2016/v49-01-02/</guid>
-      <description>1. Dungeon   Adjusted Destroyed Gateway to God&amp;rsquo;s Realm balance.
- Phase 3  Increased Vergoth defense Increased center breathe damage Increased HP of attribute sphere Increased attribute sphere explosion damage Increased HP of shield for all body parts Increased periodic damage of lava puddle Increased defense upon burn phase      Developer&amp;rsquo;s comment: We have confirmed that phase 3 severely lacks difficulty. Because of this, clearing phase 3 has become meaningless, and it does not accomplish its role as a bridge to phase 4, and thus the difficulty of the phase was significantly increased.</description>
+      <description>Update 1. Dungeon  Adjusted Harrowhold balance.  Phase 3  Increased Vergoth defense Increased center breathe damage Increased HP of attribute sphere Increased attribute sphere explosion damage Increased HP of shield for all body parts Increased periodic damage of lava puddle Increased defense upon burn phase      Developer&#39;s comment - We have confirmed that phase 3 severely lacks difficulty. Because of this, clearing phase 3 has become meaningless, and it does not accomplish its role as a bridge to phase 4, and thus the difficulty of the phase was significantly increased.</description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2016/v49-01-01/</guid>
-      <description>1. Dungeon  Fixed issue allowing players to enter cleared phases in Destroyed Gateway to God&amp;rsquo;s Realm (DGGR). Fixed issue where players could iframe the sphere explosion in phase 3 of DGGR. Fixed issue where Vergoth&amp;rsquo;s target pattern would intermittently be stacked twice. Fixed issue where Breathe attack could be blocked in phase 4 of DGGR. Fixed issue where players could potentially die from spawning rock pillars in phase 4 of DGGR.</description>
+      <description>Bug fixes  Dungeon   Fixed issue allowing players to enter cleared phases in Harrowhold. Fixed issue where players could iframe the sphere explosion in phase 3 of Harrowhold. Fixed issue where Vergoth&amp;rsquo;s target pattern would intermittently be stacked twice. Fixed issue where Breathe attack could be blocked in phase 4 of Harrowhold. Fixed issue where players could potentially die from spawning rock pillars in phase 4 of Harrowhold. Fixed issue where Rock pillar intermittently be located differently than the spawned located in phase 4 of Harrowhold.</description>
     </item>
     
     <item>
@@ -36,7 +35,7 @@
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2016/v49-01/</guid>
-      <description>1. Dungeon  New dungeon &amp;lsquo;Destroyed Gateway to God&amp;rsquo;s Realm&amp;rsquo; added (referred to as DGGR from here on)  30 man level 65 raid Can be entered through teleportal located at Velika Outskirts. DGGR does not support cross-server instance party matching system. DGGR holds 4 stages/phases, and each stage/phase will give rewards. (Rewards can be looted by breaking instantiated reward box upon clearing, and reward will not be given unless player is located within 100m when the reward box is broken).</description>
+      <description>Update 1. Dungeon  New dungeon &amp;lsquo;Harrowhold&amp;rsquo; added (referred to as Harrowhold from here on)  30 man level 65 raid Can be entered through teleportal located at Velika Outskirts. Harrowhold does not support cross-server instance party matching system. Harrowhold holds 4 stages/phases, and each stage/phase will give rewards. (Rewards can be looted by breaking instantiated reward box upon clearing, and reward will not be given unless player is located within 100m when the reward box is broken).</description>
     </item>
     
   </channel>

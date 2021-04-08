@@ -173,7 +173,7 @@
       
     </div>
     <h2 id="업데이트">업데이트</h2>
-<h3 id="1-스킬">1. 스킬</h3>
+<h3 id="1-스킬"><strong>1.</strong> 스킬</h3>
 <ul>
 <li>궁수
 <ul>
@@ -253,22 +253,73 @@
 <li>집중 준비 이상상태는 일반 사격, 연사, 속사 적중 시 중첩이 쌓이게 되며, 10회 중첩 시 집중 이상상태가 활성화 되며 유지 시간 동안 모든 차징 스킬의 차징 속도를 증가 시킵니다.</li>
 </ul>
 </li>
-<li>문장 효과가 변경 및 추가됩니다.
+<li>문장 효과가 변경 및 추가됩니다.</li>
+</ul>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="center">등급</th>
+<th align="center">스킬 이름</th>
+<th align="center">문장 이름</th>
+<th align="center">효과</th>
+<th align="center">습득 레벨</th>
+<th align="center">소모 포인트</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">일반</td>
+<td align="center">속사</td>
+<td align="center">집중의 문장</td>
+<td align="center">30% 확률로 재사용 시간 초기화</td>
+<td align="center">20</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">일반</td>
+<td align="center">연사</td>
+<td align="center">집중의 문장</td>
+<td align="center">쿨타임 25% 감소</td>
+<td align="center">24</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">고급</td>
+<td align="center">연사</td>
+<td align="center">집중의 문장</td>
+<td align="center">쿨타임 35% 감소</td>
+<td align="center">65</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">고급</td>
+<td align="center">뇌룡의 일격</td>
+<td align="center">필살의 문장</td>
+<td align="center">치명타 발생 확률 2배 증가</td>
+<td align="center">63</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">희귀</td>
+<td align="center">뇌룡의 일격</td>
+<td align="center">필살의 문장</td>
+<td align="center">치명타 발생 확률 3배 증가</td>
+<td align="center">65</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">희귀</td>
+<td align="center">집중 사격</td>
+<td align="center">필살의 문장</td>
+<td align="center">치명타 발생 확률 3배 증가</td>
+<td align="center">65</td>
+<td align="center">4</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>등급 | 스킬 이름 | 문장 이름 | 효과 | 습득 레벨 | 소모 포인트
-<ul>
-<li>일반 | 속사 | 집중의 문장 | 30% 확률로 재사용 시간 초기화 | 20 | 4</li>
-<li>일반 | 연사 | 집중의 문장 | 쿨타임 25% 감소 | 24 | 4</li>
-<li>고급 | 연사 | 집중의 문장 | 쿨타임 35% 감소 | 65 | 3</li>
-<li>고급 | 뇌룡의 일격 | 필살의 문장 | 치명타 발생 확률 2배 증가 | 63 | 4</li>
-<li>희귀 | 뇌룡의 일격 | 필살의 문장 | 치명타 발생 확률 3배 증가 | 65 | 3</li>
-<li>희귀 | 집중 사격 | 필살의 문장 | 치명타 발생 확률 3배 증가 | 65 | 4</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
 <li>광전사
 <ul>
 <li>광폭화 시전 시 기존 광폭화의 효과와 광기 증폭의 효과에 해당하는 이상상태가 동시에 부여됩니다.</li>
@@ -311,7 +362,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="2-던전">2. 던전</h3>
+<h3 id="2-던전"><strong>2.</strong> 던전</h3>
 <ul>
 <li>릴리스의 성
 <ul>
@@ -352,7 +403,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="3-길드전">3. 길드전</h3>
+<h3 id="3-길드전"><strong>3.</strong> 길드전</h3>
 <ul>
 <li>새로운 길드전 시스템이 추가됩니다.</li>
 <li>길드전 선포
@@ -432,19 +483,42 @@
 <li>선포를 받은 다음 1시간 후부터 항복이 가능합니다.</li>
 <li>항복 시 24시간 동안 같은 길드에게서 길드전 선포를 받지 않습니다.</li>
 <li>항복 시 승리 길드가 사용한 전쟁 비용 일부를 배상합니다.</li>
-<li>배상 비율은 쌍방의 길드 규모가 동일할 경우 50% 부터 시작하여 항복 길드의 규모가 작을 수록 낮아집니다.
-<ul>
-<li>항복 승리 : 소형 | 중형 | 대형</li>
-<li>소형 : 50% | 40% | 30%</li>
-<li>중형 : 60% | 50% | 40%</li>
-<li>대형 : 70% | 60% | 50%</li>
-</ul>
-<ul>
-<li>소형 길드가 대형 길드에게 항복할 경우 30% 배상</li>
+<li>배상 비율은 쌍방의 길드 규모가 동일할 경우 50% 부터 시작하여 항복 길드의 규모가 작을 수록 낮아집니다.</li>
 </ul>
 </li>
 </ul>
-</li>
+<table>
+<thead>
+<tr>
+<th align="center">항복 승리</th>
+<th align="center">소형</th>
+<th align="center">중형</th>
+<th align="center">대형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">소형</td>
+<td align="center">50%</td>
+<td align="center">40%</td>
+<td align="center">30%</td>
+</tr>
+<tr>
+<td align="center">중형</td>
+<td align="center">60%</td>
+<td align="center">50%</td>
+<td align="center">40%</td>
+</tr>
+<tr>
+<td align="center">대형</td>
+<td align="center">70%</td>
+<td align="center">60%</td>
+<td align="center">50%</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>*소형 길드가 대형 길드에게 항복할 경우 30% 배상</li>
 <li>기타 변경점
 <ul>
 <li>선포 후 수락 과정이 없어졌으며, 기존 길드전 선포에 사용하였던 전술칩이 삭제됩니다.</li>
@@ -452,30 +526,112 @@
 </ul>
 </li>
 </ul>
-<h3 id="4-시공의-균열">4. 시공의 균열</h3>
+<h3 id="4-시공의-균열"><strong>4.</strong> 시공의 균열</h3>
 <ul>
-<li>아래 시간에 시공의 균열이 생성됩니다.
-<ul>
-<li>일 | 월 | 화 | 수 | 목 | 금 | 토
-<ul>
-<li>13:50 | 17:50 | 17:50 | 17:50 | 17:50 | 17:50 | 13:50</li>
-<li>14:50 | 18:50 | 18:50 | 18:50 | 18:50 | 18:50 | 14:50</li>
-<li>15:50 | 19:50 | 19:50 | 19:50 | 19:50 | 19:50 | 15:50</li>
-<li>16:50 | 20:50 | 20:50 | 20:50 | 20:50 | 20:50 | 16:50</li>
-<li>17:50 | 21:50 | 21:50 | 21:50 | 21:50 | 21:50 | 17:50</li>
-<li>18:50 | null | null | null | null | null | 18:50</li>
-<li>19:50 | null | null | null | null | null | 19:50</li>
-<li>20:50 | null | null | null | null | null | 20:50</li>
-<li>21:50 | null | null | null | null | null | 21:50</li>
+<li>아래 시간에 시공의 균열이 생성됩니다.</li>
 </ul>
-</li>
-</ul>
-</li>
+<table>
+<thead>
+<tr>
+<th align="center">일</th>
+<th align="center">월</th>
+<th align="center">화</th>
+<th align="center">수</th>
+<th align="center">목</th>
+<th align="center">금</th>
+<th align="center">토</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">13:50</td>
+<td align="center">17:50</td>
+<td align="center">17:50</td>
+<td align="center">17:50</td>
+<td align="center">17:50</td>
+<td align="center">17:50</td>
+<td align="center">13:50</td>
+</tr>
+<tr>
+<td align="center">14:50</td>
+<td align="center">18:50</td>
+<td align="center">18:50</td>
+<td align="center">18:50</td>
+<td align="center">18:50</td>
+<td align="center">18:50</td>
+<td align="center">14:50</td>
+</tr>
+<tr>
+<td align="center">15:50</td>
+<td align="center">19:50</td>
+<td align="center">19:50</td>
+<td align="center">19:50</td>
+<td align="center">19:50</td>
+<td align="center">19:50</td>
+<td align="center">15:50</td>
+</tr>
+<tr>
+<td align="center">16:50</td>
+<td align="center">20:50</td>
+<td align="center">20:50</td>
+<td align="center">20:50</td>
+<td align="center">20:50</td>
+<td align="center">20:50</td>
+<td align="center">16:50</td>
+</tr>
+<tr>
+<td align="center">17:50</td>
+<td align="center">21:50</td>
+<td align="center">21:50</td>
+<td align="center">21:50</td>
+<td align="center">21:50</td>
+<td align="center">21:50</td>
+<td align="center">17:50</td>
+</tr>
+<tr>
+<td align="center">18:50</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">18:50</td>
+</tr>
+<tr>
+<td align="center">19:50</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">19:50</td>
+</tr>
+<tr>
+<td align="center">20:50</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">20:50</td>
+</tr>
+<tr>
+<td align="center">21:50</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">21:50</td>
+</tr>
+</tbody>
+</table>
+<ul>
 <li>시공의 균열이 생성될 경우 월드맵을 통해 시공의 균열 위치를 확인해 보실 수 있습니다.</li>
 <li>시공의 균열 방어에 성공 시 성공 등급에 따라 [발키온 정찰대] 1~5급 보급품, [아크데바 토벌대] 1~5급 보급품을 획득하실 수 있습니다.</li>
 </ul>
-<h3 id="5-계정창고가-최대-8칸까지-확대됩니다">5. 계정창고가 최대 8칸까지 확대됩니다.</h3>
-<h3 id="6-요일별-전장-추천-지령서가-추가됩니다">6. 요일별 전장 추천 지령서가 추가됩니다.</h3>
+<h3 id="5-계정창고가-최대-8칸까지-확대됩니다"><strong>5.</strong> 계정창고가 최대 8칸까지 확대됩니다.</h3>
+<h3 id="6-요일별-전장-추천-지령서가-추가됩니다"><strong>6.</strong> 요일별 전장 추천 지령서가 추가됩니다.</h3>
 <ul>
 <li>기존 요일별 던전 추가 지령서와 마찬가지로 1회에 한하여 추가 보상 획득이 가능합니다.</li>
 <li>추가 지급되는 보상은 중급 아르보레아의 정수 15개, 9단계 강화석 15개, 보존의 가루 10단계 3개 입니다.</li>
@@ -488,9 +644,7 @@
 <li>금요일 – 강철의 전장</li>
 <li>토요일 – 포화의 전장</li>
 <li>일요일 – 명예의 전장</li>
-</ul>
-<ul>
-<li>투지의 전장은 플레이타임이 짧고, 전장을 즐기기 위한 요구 숙련도가 매우 높아 추천 목록에서 제외하였습니다. 이 점 양해 부탁 드립니다.</li>
+<li>*투지의 전장은 플레이타임이 짧고, 전장을 즐기기 위한 요구 숙련도가 매우 높아 추천 목록에서 제외하였습니다. 이 점 양해 부탁 드립니다.</li>
 </ul>
 </li>
 </ul>

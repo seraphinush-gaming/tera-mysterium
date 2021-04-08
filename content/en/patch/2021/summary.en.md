@@ -98,6 +98,7 @@ weight = 1
 - v105.02
   - **New dungeon** : Gardan's Trial (pl.)
   - Item : Added Kaia's Soul Gear Box (pl.)
+- v105.02.01
 
 ## May
 
