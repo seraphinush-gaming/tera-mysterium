@@ -4,6 +4,12 @@ title = "서번트 (wip)"
 categories = ["article"]
 tags = ["companion", "partner", "pet"]
 single = true
+sources = [
+  "['Introduction to Companions', En Masse Support](https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions)",
+  "TERA NA-81 Data Center",
+  "[2021.01.27 patch notes (v103.01) | K TERA](/en/patch/en/2021/v103-01/)",
+  "[2021.03.10 patch notes (v104.01.02) | K TERA](/en/patch/en/2021/v104-01-02/)"
+  ]
 lastmod = "2021-04-03"
 +++
 
@@ -116,17 +122,3 @@ Adventure Enhancement I~III | Increases chance for your partner's adventure to b
 |''| Adventure Enhancement I~III
 
 파트너의 재능 스킬을 바꾸기 위해 **재능 스킬 변경권**이 필요합니다. 이 아이템은 북부 아룬의 출몰하는 **유랑 상인**한테 **바라카니아 경제인 연합 금화**로 구매할 수 있습니다.
-
-----
-
-출처 :
-```
-- 'Introduction to Companions', En Masse Support
-https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions
-
-- 2021.01.27 patch notes (v103.01) | K TERA
-/patch/en/2021/v103-01/
-
-- 2021.03.10 patch notes (v104.01.02) | K TERA
-/patch/en/2021/v104-01-02/
-```

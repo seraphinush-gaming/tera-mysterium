@@ -6,10 +6,19 @@
     <description>Recent content in v105 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/v105/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 04월 14일 업데이트 안내 (v105.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v105-02-01/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v105-02-01/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 보상  [랜덤] 반갑소! 얼룩소 상자를 통해 획득된 거래불가 속성의 기니피그 인형 탈을 거래가능 속성의 기니피그 인형 탈로 재 지급해드립니다.  3. 이벤트  특별한 소환봉 이벤트  아르보레아 소환봉, 엑소도르 소환봉을 사용 후 파티가 구성될 경우 이벤트 보상을 획득할 수 없어 관련 주의 문구가 추가됩니다.    4. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.</description>
+    </item>
     
     <item>
       <title>2021년 04월 07일 업데이트 안내 (v105.02)</title>

@@ -17,7 +17,7 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/patch/2017/v60-04/</guid>
-      <description>1. 테라샵 및 T-cat 상점 일부 상품 판매종료  아래 상품들의 판매가 종료됩니다.  버그수정  부가서비스  일부 월광무사 프리미엄 무기에서 사운드가 출력되지 않는 문제     source : TERA 테라 | NEXON</description>
+      <description>1. 테라샵 및 T-cat 상점 일부 상품 판매종료  아래 상품들의 판매가 종료됩니다.  버그 수정  부가서비스  일부 월광무사 프리미엄 무기에서 사운드가 출력되지 않는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/patch/2017/v60-03-01/</guid>
-      <description>버그수정  던전  번스타인의 악령섬 3네임드의 HP가 50%에 맞춰졌을 때 진행이 불가능한 문제 용용 죽겠지 업적 달성 조건인 베르고스 30회 처치에 이전 시즌 횟수가 포함되지 않은 문제     source : TERA 테라 | NEXON</description>
+      <description>버그 수정  던전  번스타인의 악령섬 3네임드의 HP가 50%에 맞춰졌을 때 진행이 불가능한 문제 용용 죽겠지 업적 달성 조건인 베르고스 30회 처치에 이전 시즌 횟수가 포함되지 않은 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/patch/2017/v60-03/</guid>
-      <description>1. 업적  베르고스의 머리를 획득할 수 있는 &amp;lsquo;용용 죽겠지&amp;rsquo; 업적이 추가 됩니다. 업적 달성 조건은 파괴된 신계의 관문에서 베르고스를 30회 처치하기 입니다. 이미 30회를 클리어 하신 수호자님은 접속 시 업적이 자동으로 달성됩니다.  2. 스킬 (내용추가)  조작감 개선을 위해 정령사 / 마법사의 순간이동 스킬이 방향키 입력방향으로 이동되도록 변경됩니다.  버그수정  스킬  광전사의 모아치기 스킬 1단계 보다 11단계 범위가 좁은 문제   사냥터  리카노르 경기장 내로 캐릭터가 진입할 수 있는 문제   던전  데모로스의 룰렛 주사위 게이지 UI가 위치 설정 후 고정되지 않는 문제     source : TERA 테라 | NEXON</description>
+      <description>1. 업적  베르고스의 머리를 획득할 수 있는 &amp;lsquo;용용 죽겠지&amp;rsquo; 업적이 추가 됩니다. 업적 달성 조건은 파괴된 신계의 관문에서 베르고스를 30회 처치하기 입니다. 이미 30회를 클리어 하신 수호자님은 접속 시 업적이 자동으로 달성됩니다.  2. 스킬 (내용추가)  조작감 개선을 위해 정령사 / 마법사의 순간이동 스킬이 방향키 입력방향으로 이동되도록 변경됩니다.  버그 수정  스킬  광전사의 모아치기 스킬 1단계 보다 11단계 범위가 좁은 문제   사냥터  리카노르 경기장 내로 캐릭터가 진입할 수 있는 문제   던전  데모로스의 룰렛 주사위 게이지 UI가 위치 설정 후 고정되지 않는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/patch/2017/v60-02/</guid>
-      <description>버그수정  스킬  낮은 확률로 정령사의 역병 창궐 이상상태가 적용되지 않는 문제 방향키를 입력하지 않은 상태에서 물러서기 류의 스킬 사용 시 플레이어가 바라보는 방향으로 이동하는 문제   던전  데모로스의 룰렛 1네임드의 개인장판과 폭발 이펙트가 비정상적으로 출력되는 문제 길리안의 숲에서 낮은 확률로 길리안의 보스 게이지 UI가 출력되지 않는 문제 악인 켈리반의 돌격선 3네임드 철장 앞 물이 확률적으로 보이지 않는 문제     source : TERA 테라 | NEXON</description>
+      <description>버그 수정  스킬  낮은 확률로 정령사의 역병 창궐 이상상태가 적용되지 않는 문제 방향키를 입력하지 않은 상태에서 물러서기 류의 스킬 사용 시 플레이어가 바라보는 방향으로 이동하는 문제   던전  데모로스의 룰렛 1네임드의 개인장판과 폭발 이펙트가 비정상적으로 출력되는 문제 길리안의 숲에서 낮은 확률로 길리안의 보스 게이지 UI가 출력되지 않는 문제 악인 켈리반의 돌격선 3네임드 철장 앞 물이 확률적으로 보이지 않는 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/patch/2017/v60-01-01/</guid>
-      <description>버그수정  아이템  일부 PC방 대여 스타일 아이템이 세미의 랜덤 의상 큐브 재료로 사용 가능 속성이던 문제     source : TERA 테라 | NEXON</description>
+      <description>버그 수정  아이템  일부 PC방 대여 스타일 아이템이 세미의 랜덤 의상 큐브 재료로 사용 가능 속성이던 문제     source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
