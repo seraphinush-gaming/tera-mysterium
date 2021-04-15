@@ -6,10 +6,19 @@
     <description>Recent content in v105 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/v105/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.04.14 patch notes (v105.02.01) | K TERA</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v105-02-01/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v105-02-01/</guid>
+      <description>Update 1. Service stabilization (TERA KR exclusive)  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Dungeon  Adjusted to decrease the drop amount of Kaia&amp;rsquo;s Soul Tokenm in the following instances :     Dungeon      Akalath Quarantine [Gauntlet] Forbidden Arena [Undying Warlord]   Corrupted Skynest Bahaar&amp;rsquo;s Sanctum   Draakon Arena Ruinous Manor (hard)     Reopened Akalath Quarantine [Gauntlet] that was temporarily closed  3.</description>
+    </item>
     
     <item>
       <title>2021.04.07 patch notes (v105.02) | K TERA</title>

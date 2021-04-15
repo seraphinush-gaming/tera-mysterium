@@ -1,7 +1,7 @@
 /* single */
 
 .post {
-  margin: 25px;
+  margin: 10px 25px;
 }
 
 .post img {
@@ -90,6 +90,10 @@ p code, li code, table code {
   min-height: 50px;
 }
 
+.item:hover {
+  background-color: var(--color-code);
+}
+
 .item-title {
   color: var(--color-font);
 }
@@ -97,10 +101,6 @@ p code, li code, table code {
 .tag {
   margin: 5px 0;
   color: var(--color-font-light);
-}
-
-.sources a {
-  color: var(--color-font);
 }
 
 /* responsive */
@@ -115,12 +115,15 @@ p code, li code, table code {
     max-width: 100%;
   }
   /* list, section, taxonomy  */
+  .items {
+    padding: 20px 0;
+  }
   .item {
     flex-direction: column;
     justify-content: center;
   }
-  .item {
-    flex-direction: column;
+  .item h4 {
+    margin: 0px;
   }
   .tag {
     margin-right: 10px;

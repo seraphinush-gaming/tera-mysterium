@@ -6,7 +6,7 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/patch/2021/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       <guid>https://tera-mysterium.com/en/patch/2021/summary/</guid>
       <description>January   v103.01
  New dungeon : Killing Grounds New dungeon : Killing Grounds (hard) New dungeon : Catalepticon Trial Leaderboard : Removed Forbidden Arena Exodor : Removed restriction from using flight and jump platform Quest : Added quest skip function Partner : Revised to guarantee (100%) obtaining a Partner upon using an Evolution Core Partner : Revised Partner Fellowship increase rate and amount Battleground : Revised Gridiron Card Collection : Increase Card Fragment drop rate in all instances Card Collection : Decreased cost of Card Fragment Boxes in Specialty Merchant Card Collection : Significantly increased Selective Card Fusion rate Vanguard Initiative : Added level 70 [Daily] Vanguard Request Item : Added +9 passive effect to Kaia&amp;rsquo;s Soul Armor / Hand Armor / Foot Armor Item : Changed Frost Monarch dragon-type mount active skill    v103.</description>
+    </item>
+    
+    <item>
+      <title>2021.04.14 patch notes (v105.02.01) | K TERA</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v105-02-01/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v105-02-01/</guid>
+      <description>Update 1. Service stabilization (TERA KR exclusive)  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Dungeon  Adjusted to decrease the drop amount of Kaia&amp;rsquo;s Soul Tokenm in the following instances :     Dungeon      Akalath Quarantine [Gauntlet] Forbidden Arena [Undying Warlord]   Corrupted Skynest Bahaar&amp;rsquo;s Sanctum   Draakon Arena Ruinous Manor (hard)     Reopened Akalath Quarantine [Gauntlet] that was temporarily closed  3.</description>
     </item>
     
     <item>
@@ -113,7 +122,7 @@
   Civil Unrest: Velika : Opens Sunday 18:00, starts 20:00
   Battleground : Refer to the table below
   Delayed due to issue where game time does not sync with designated time
-  Bug fixes  Fixed issue where Velik&amp;rsquo;s Call quest can be cancelled to receive Endgame Package items repeatedly Fixed issue where 70 Glyph Points can be achieved by completing Velik&amp;rsquo;s Call quest and Apex awakening quests simultaneously Fixed issue where items on Calendar does not display properly Fixed issue where there is no portal out of Velik&amp;rsquo;s Sanctuary FIxed issue in Killing Grounds where Gardan does not execute shield mechanic at 1% Fixed issue where renewed Endgame Package does not contain superior Glyph Box Fixed issue where characters have 70 Glyph Points instead of 65 Glyph Points Fixed issue where level 69 characters cannot use teleportal into Ruinous Manor and Akalath Quarantine  Item changes  Changed [Velik&amp;rsquo;s Call] to be available for users level 1-70, and added &amp;lsquo;Mystel&amp;rsquo;s Awakened Glyph Box&amp;rsquo;   source : K TERA patch archive | seraphinush-gaming</description>
+  Bug fixes  Fixed issue where Velik&amp;rsquo;s Call quest can be cancelled to receive Endgame Package items repeatedly Fixed issue where 70 Glyph Points can be achieved by completing Velik&amp;rsquo;s Call quest and Apex awakening quests simultaneously Fixed issue where items on Calendar does not display properly Fixed issue where there is no portal out of Velik&amp;rsquo;s Sanctuary FIxed issue in Killing Grounds where Gardan does not execute shield mechanic at 1% Fixed issue where renewed Endgame Package does not contain superior Glyph Box Fixed issue where characters have 70 Glyph Points instead of 65 Glyph Points Fixed issue where level 69 characters cannot use teleportal into Ruinous Manor and Akalath Quarantine  Item changes  Changed [Velik&amp;rsquo;s Call] to be available for users level 1-70, and added &amp;lsquo;Mystel&amp;rsquo;s Awakened Glyph Box&amp;rsquo;  </description>
     </item>
     
     <item>
