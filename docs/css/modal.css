@@ -22,6 +22,7 @@
 }
 
 #modal-image {
+  position: relative;
   display: inline-block;
   max-width: 95%;
   max-height: 80%;

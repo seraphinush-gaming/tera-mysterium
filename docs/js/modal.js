@@ -60,7 +60,7 @@ window.addEventListener('load', function () {
   document.addEventListener("touchmove", function (e) {
     if (!modalActive) return;
     let currentTouchY = e.touches[e.touches.length - 1].screenY;
-    prepareCloseModal = (currentTouchY - initialTouchY) > (screenHeight * 0.4);
+    prepareCloseModal = (currentTouchY - initialTouchY) > (screenHeight * 0.35);
   });
 
   document.addEventListener("touchend", function (e) {
