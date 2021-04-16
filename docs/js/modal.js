@@ -1,3 +1,5 @@
+// prevent background scroll based on : https://css-tricks.com/prevent-page-scrolling-when-a-modal-is-open/
+
 window.addEventListener('load', function () {
   const modalImage = document.getElementById('modal-image');
   const modalContainer = document.getElementById('modal-container');
@@ -9,8 +11,6 @@ window.addEventListener('load', function () {
 
   const burgers = document.querySelector('.burgers');
 
-  modalCloseButton.addEventListener('click', () => { closeModal(); });
-
   closeModal = () => {
     modalImage.style['animation-name'] = 'zoom-out';
     modalImage.style['-webkit-animation-name'] = 'zoom-out';
@@ -18,12 +18,16 @@ window.addEventListener('load', function () {
       modalContainer.style.display = 'none';
       burgers.style.display = '';
       modalActive = false;
+
+      // background
+      const scrollY = document.body.style.top;
+      document.body.style.position = '';
+      document.body.style.top = '';
+      window.scrollTo(0, parseInt(scrollY || '0') * -1);
     }, parseFloat(animationDuration) * 1000);
   }
 
-  let modalActive = false;
-
-  document.addEventListener("click", function (e) {
+  openModal = (e) => {
     if (e.target.classList.contains('nav-logo')) return;
     if (e.target.localName == 'img') {
       modalImage.style['animation-name'] = 'zoom-in';
@@ -32,8 +36,17 @@ window.addEventListener('load', function () {
       modalContainer.style.display = 'block';
       burgers.style.display = 'none';
       modalActive = true;
+
+      // background
+      document.body.style.top = '-' + window.scrollY + 'px';
+      document.body.style.position = 'fixed';
     }
-  });
+  }
+
+  // desktop events
+  let modalActive = false;
+  modalCloseButton.addEventListener('click', () => { closeModal(); });
+  document.addEventListener("click", (e) => { openModal(e); });
 
   // mobile events
   let initialTouchY = 0;
@@ -47,9 +60,7 @@ window.addEventListener('load', function () {
   document.addEventListener("touchmove", function (e) {
     if (!modalActive) return;
     let currentTouchY = e.touches[e.touches.length - 1].screenY;
-    if ((currentTouchY - initialTouchY) > (screenHeight * 0.4)) {
-      prepareCloseModal = true;
-    }
+    prepareCloseModal = (currentTouchY - initialTouchY) > (screenHeight * 0.4);
   });
 
   document.addEventListener("touchend", function (e) {

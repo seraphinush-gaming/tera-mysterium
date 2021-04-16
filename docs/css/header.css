@@ -112,15 +112,15 @@
   transform: translateY(6px);
 }
 
-.burgers.toggle .burger {
+.burgers.active .burger {
   background: transparent;
 }
 
-.burgers.toggle .burger::before {
+.burgers.active .burger::before {
   transform: rotate(45deg) translate(0, 0);
 }
 
-.burgers.toggle .burger::after {
+.burgers.active .burger::after {
   transform: rotate(-45deg) translate(0, 0);
 }
 
@@ -169,7 +169,7 @@
   transition: all 0.3s ease-out;
 }
 
-.button-toggle.on {
+.button-toggle.active {
   left: 23px;
 }
 

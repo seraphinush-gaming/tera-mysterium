@@ -6,11 +6,11 @@ window.addEventListener('load', function () {
   let menuOpen = false;
   burgers.addEventListener('click', () => {
     if (menuOpen) {
-      burgers.classList.remove('toggle');
+      burgers.classList.remove('active');
       navMobile.classList.remove('open');
       menuOpen = false;
     } else {
-      burgers.classList.add('toggle');
+      burgers.classList.add('active');
       navMobile.classList.add('open');
       menuOpen = true;
     }

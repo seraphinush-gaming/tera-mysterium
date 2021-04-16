@@ -11,14 +11,14 @@ window.addEventListener('load', function () {
   // desktop event
   themeDesktopButton.addEventListener('click', () => {
     if (darkTheme) {
-      themeDesktopToggle.classList.remove('on');
-      themeMobileToggle.classList.remove('on');
+      themeDesktopToggle.classList.remove('active');
+      themeMobileToggle.classList.remove('active');
       window.localStorage.removeItem('darkTheme');
       htmlEl.classList.remove('dark-theme');
       darkTheme = false;
     } else {
-      themeDesktopToggle.classList.add('on');
-      themeMobileToggle.classList.add('on');
+      themeDesktopToggle.classList.add('active');
+      themeMobileToggle.classList.add('active');
       window.localStorage.setItem('darkTheme', true);
       htmlEl.classList.add('dark-theme');
       darkTheme = true;
@@ -28,14 +28,14 @@ window.addEventListener('load', function () {
   // mobile event
   themeMobileButton.addEventListener('click', () => {
     if (darkTheme) {
-      themeDesktopToggle.classList.remove('on');
-      themeMobileToggle.classList.remove('on');
+      themeDesktopToggle.classList.remove('active');
+      themeMobileToggle.classList.remove('active');
       window.localStorage.removeItem('darkTheme');
       htmlEl.classList.remove('dark-theme');
       darkTheme = false;
     } else {
-      themeDesktopToggle.classList.add('on');
-      themeMobileToggle.classList.add('on');
+      themeDesktopToggle.classList.add('active');
+      themeMobileToggle.classList.add('active');
       window.localStorage.setItem('darkTheme', true);
       htmlEl.classList.add('dark-theme');
       darkTheme = true;
@@ -44,12 +44,12 @@ window.addEventListener('load', function () {
 
   // onstart
   if (darkTheme) {
-    themeDesktopToggle.classList.add('on');
-    themeMobileToggle.classList.add('on');
+    themeDesktopToggle.classList.add('active');
+    themeMobileToggle.classList.add('active');
     htmlEl.classList.add('dark-theme');
   } else {
-    themeDesktopToggle.classList.remove('on');
-    themeMobileToggle.classList.remove('on');
+    themeDesktopToggle.classList.remove('active');
+    themeMobileToggle.classList.remove('active');
     htmlEl.classList.remove('dark-theme');
   }
 });
