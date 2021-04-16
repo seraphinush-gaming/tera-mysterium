@@ -54,6 +54,25 @@ a:hover, a:active {
   min-height: calc(100vh - 220px);
 }
 
+/* scrollbar */
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-font);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary);
+}
+
 /* responsive */
 
 @media screen and (min-width: 0px) {

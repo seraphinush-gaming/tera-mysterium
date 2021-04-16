@@ -38,7 +38,20 @@
   </url>
   
   <url>
+    <loc>https://tera-mysterium.com/en/achievements/progression/</loc>
+  </url>
+  
+  <url>
     <loc>https://tera-mysterium.com/en/articles/review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/achievements/encounters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/achievements/tours/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,6 +81,80 @@
                 hreflang="en"
                 href="https://tera-mysterium.com/en/articles/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/achievements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/achievements/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/pora-elinu/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/achievements/tours/155800/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/southern-arun/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/tours-of-duty/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -116,36 +203,6 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/categories/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/categories/patch-notes/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -157,21 +214,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tera-mysterium.com/en/categories/patch-notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/"
                 />
   </url>
   

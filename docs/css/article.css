@@ -13,16 +13,20 @@
   cursor: pointer;
 }
 
-table {
+.table-wrapper {
   margin-top: 14px;
   margin-bottom: 14px;
+  overflow-x: auto;
   margin-left: auto;
   margin-right: auto;
-  border-collapse: collapse;
-  overflow-x: visible;
 }
 
-table, th, td {
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
   border: 1px solid #CCC;
 }
 
@@ -110,9 +114,8 @@ p code, li code, table code {
     font-size: 12px;
   }
   /* post */
-  table {
-    min-width: 100%;
-    max-width: 100%;
+  .table-wrapper {
+    width: 100%;
   }
   /* list, section, taxonomy  */
   .items {
@@ -133,8 +136,11 @@ p code, li code, table code {
 
 @media screen and (min-width: 600px) {
   /* post */
+  .table-wrapper {
+    max-width: 80% !important;
+  }
   table {
-    min-width: 80%;
+    white-space: nowrap;
   }
   /* list, section, taxonomy  */
   .item {
