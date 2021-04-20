@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>2019.08.29 patch notes (v86.05) | K TERA</title>
+      <title>2019.08.29 patch notes (v86.05) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-05/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>2019.08.22 patch notes (v86.04) | K TERA</title>
+      <title>2019.08.22 patch notes (v86.04) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-04/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>2019.08.14 patch notes (v86.03.01) | K TERA</title>
+      <title>2019.08.14 patch notes (v86.03.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-03-01/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>2019.08.08 patch notes (v86.03) | K TERA</title>
+      <title>2019.08.08 patch notes (v86.03) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-03/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -48,25 +48,25 @@
     </item>
     
     <item>
-      <title>2019.08.01 patch notes (v86.02) | K TERA</title>
+      <title>2019.08.01 patch notes (v86.02) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-02/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v86-02/</guid>
-      <description>1. Argaff&amp;rsquo;s Hatchery  Increased spawn rate of Nomadic Caimans and Dimensional Portal  2. Field Boss Monster  Reinforced criteria for earning wnd rank participation reward  3. Quest  Changed Card Index completion progress reward  Removed progression stage reward for completing Big Horn Argaff card set    Bug fixes  Fixed issue where Skill Advance points and Skill Advance state reset (to zero) Fixed issue where sorting inventory occasionally causes client to crash Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) Fixed issue where Slayer&amp;rsquo;s Measured Slice was coded as magical damage Fixed issue where Ninja&amp;rsquo;s Boomerang Shuriken&amp;rsquo;s skill damage was unexpectedly high Fixed issue where recent transactions on trade broker displayed irregular item levels Fixed issue where UI scaling did not affect pop-up UI for purchasing items Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard Fixed issue where Partners occasionally spoke about item level Fixed issue where players could proceed through without being directed by quest NPC Fixed issue where certain NPCs were stacked Fixed issue where Nomadic Merchants could spawn in all channels Fixed issue where players could receive multiple quest items through Etching Crafting tutorial Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank Fixed issue where cracked ground aesthetics for Machnak combat area seemed like it was floating Fixed issue where returning player items displayed different expire date and stats than intended Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed Fixed issue where summoned Partners displayed a chat upon spawning in each area Fixed a K TERA exclusive issue Fixed issue where using a skill in Velika: Civil Unrest causes self-damage   source : TERA 테라 | NEXON</description>
+      <description>1. Argaff&amp;rsquo;s Hatchery  Increased spawn rate of Nomadic Caimans and Dimensional Portal  2. Field Boss Monster  Reinforced criteria for earning wnd rank participation reward  3. Quest  Changed Card Index completion progress reward  Removed progression stage reward for completing Big Horn Argaff card set    Bug fixes  Fixed issue where Skill Advance points and Skill Advance state reset (to zero) Fixed issue where sorting inventory occasionally causes client to crash Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) Fixed issue where Slayer&amp;rsquo;s Measured Slice was coded as magical damage Fixed issue where Ninja&amp;rsquo;s Boomerang Shuriken&amp;rsquo;s skill damage was unexpectedly high Fixed issue where recent transactions on trade broker displayed irregular item levels Fixed issue where UI scaling did not affect pop-up UI for purchasing items Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard Fixed issue where Partners occasionally spoke about item level Fixed issue where players could proceed through without being directed by quest NPC Fixed issue where certain NPCs were stacked Fixed issue where Nomadic Merchants could spawn in all channels Fixed issue where players could receive multiple quest items through Etching Crafting tutorial Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank Fixed issue where cracked ground aesthetics for Machnak combat area seemed like it was floating Fixed issue where returning player items displayed different expire date and stats than intended Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed Fixed issue where summoned Partners displayed a chat upon spawning in each area Fixed a TERA KR exclusive issue Fixed issue where using a skill in Velika: Civil Unrest causes self-damage   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.07.25 patch notes (v86.01.01) | K TERA</title>
+      <title>2019.07.25 patch notes (v86.01.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-01-01/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v86-01-01/</guid>
-      <description>1. Exodor  Increased channel count in all Exodor regions except Core region Added sub-title Butterfly Signal Distractor to two of the monsters  2. Quest  K TERA exclusive comment  Bug fixes  Fixed issue where Baramara BAMs did not fight one another Fixed issue where zone quest did not count while completing dungeon as a raid Fixed issue in Verark Fortress where certain 2nd boss mechanic caused client to crash Fixed issue in Verark Fortress where players could mount flying mounts in combat arena Fixed issue where certain NPC for Exodor story quest was placed twice Fixed issue where defeating quest monster before talking to Jalena preventing quest progress Fixed issue where completing Gathering Effect in Index UI prevented changing tabs Fixed issue where a certain monster&amp;rsquo;s effects did not display properly Fixed issue where spawn rate of Dimensional Portal upon defeating Nomadic Caimans was unexpectedly high during party status Fixed issue where 2019 summer event items displayed faulty expiration date Fixed issue where system message upon trying to inspect a logged out character had a typo   source : TERA 테라 | NEXON</description>
+      <description>1. Exodor  Increased channel count in all Exodor regions except Core region Added sub-title Butterfly Signal Distractor to two of the monsters  2. Quest  TERA KR exclusive comment  Bug fixes  Fixed issue where Baramara BAMs did not fight one another Fixed issue where zone quest did not count while completing dungeon as a raid Fixed issue in Verark Fortress where certain 2nd boss mechanic caused client to crash Fixed issue in Verark Fortress where players could mount flying mounts in combat arena Fixed issue where certain NPC for Exodor story quest was placed twice Fixed issue where defeating quest monster before talking to Jalena preventing quest progress Fixed issue where completing Gathering Effect in Index UI prevented changing tabs Fixed issue where a certain monster&amp;rsquo;s effects did not display properly Fixed issue where spawn rate of Dimensional Portal upon defeating Nomadic Caimans was unexpectedly high during party status Fixed issue where 2019 summer event items displayed faulty expiration date Fixed issue where system message upon trying to inspect a logged out character had a typo   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
-      <title>2019.07.23 patch notes (v86.01) | K TERA</title>
+      <title>2019.07.23 patch notes (v86.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2019/v86-01/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       

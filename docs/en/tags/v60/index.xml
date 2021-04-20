@@ -12,40 +12,66 @@
     
     
     <item>
-      <title>2017.07.06 patch notes (v60.04) | K TERA</title>
+      <title>2017.07.06 patch notes (v60.04) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2017/v60-04/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v60-04/</guid>
-      <description>Premium item end of sale 0 Removed certain cash items in preparation for the upcoming patch
-Bug fixes  Services  Fixed issue where certain Valkyrie weapon skins did not produce sound     source : TERA 테라 | NEXON</description>
+      <description>Update 1. Premium item end of sale (TERA KR exclusive)  Removed certain cash items in preparation for the upcoming patch  Bug fixes  Services  Fixed issue where certain Valkyrie premium weapon skins did not produce sound    </description>
     </item>
     
     <item>
-      <title>2017.06.22 patch notes (v60.03) | K TERA</title>
+      <title>2017.06.29 patch notes (v60.03.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2017/v60-03-01/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2017/v60-03-01/</guid>
+      <description>Bug fixes  Dungeon  Fixed issue in Forsaken Island where dungeon does not progress when 3rd boss&amp;rsquo; HP is at exactly 50% Fixwed issue where Head Off achievement does not account for Harrowhold clears in previous seasons    </description>
+    </item>
+    
+    <item>
+      <title>2017.06.22 patch notes (v60.03) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2017/v60-03/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v60-03/</guid>
-      <description>1. Achievement  Added achievement with Vergos&amp;rsquo; Head as reward Achievement conditions are to defeat Vergos 30 times in Harrowhold Players who already have 30 clears will automatically clear the achievement upon logging in  2. Skill  Changed Mystic&amp;rsquo;s/Sorcerer&amp;rsquo;s Teleport Jaunt to be directional  Bug fixes  스킬  광전사의 모아치기 스킬 1단계 보다 11단계 범위가 좁은 문제   사냥터  리카노르 경기장 내로 캐릭터가 진입할 수 있는 문제   던전  데모로스의 룰렛 주사위 게이지 UI가 위치 설정 후 고정되지 않는 문제     source : TERA 테라 | NEXON</description>
+      <description>Update 1. Achievement  Added achievement &amp;lsquo;Head Off&amp;rsquo; with Vergos&amp;rsquo; Head as reward Achievement conditions are to defeat Vergos 30 times in Harrowhold Players who already have 30 clears will automatically clear the achievement upon logging in  2. Skill (added)  Changed Mystic&amp;rsquo;s / Sorcerer&amp;rsquo;s Teleport Jaunt to be directional  Bug fixes  Skill  Berserker : Fixed isssue where Thunderstrike I hit box is smaller than XI   Open world  Fixed issue where Players can enter into Bamarama combat arena   Dungeon -Fixed issue in Demon&amp;rsquo;s Wheel where dice gauge UI cannot be moved  </description>
     </item>
     
     <item>
-      <title>2017.06.15 patch notes (v60.02.01) | K TERA</title>
+      <title>2017.06.15 patch notes (v60.02.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2017/v60-02-01/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v60-02-01/</guid>
-      <description>Update 1. Festival of the Sun  Open until July 13th  2. Item  Can now exchange Behemoth Belt with 12 Behemoth Essences Can now exchange Behemoth Belt with 16 Wyvern Essences  Bug fixes  Dungeon  데모로스의 룰렛 2네임드 처치와 동시에 전멸 시 보상상자와 네임드가 동시 스폰되던 문제    </description>
+      <description>Update 1. Festival of the Sun  Open until July 13th  2. Item  Can now exchange Behemoth Belt with 12 Behemoth Essences  Behemoth Essence 우클릭 시 오픈 되는 상점에 고룡의 허리띠가 등록됩니다.   Can now exchange Behemoth Belt with 16 Oblit Essences  Oblit Essence 우클릭 시 오픈 되는 상점에 고룡의 허리띠가 등록됩니다.    Bug fixes  Dungeon  Fixed issue in Demon&amp;rsquo;s Wheel where clearing dungeon and wiping simultaneously spawns both the boss monster and reward box    </description>
     </item>
     
     <item>
-      <title>2017.05.25 patch notes (v60.01) | K TERA</title>
+      <title>2017.06.08 patch notes (v60.02) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2017/v60-02/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2017/v60-02/</guid>
+      <description>Bug fixes  Skill  낮은 확률로 정령사의 역병 창궐 이상상태가 적용되지 않는 문제 Fixed issue where Backstep-type skills move in the direction of the view instead when no direction keys are pressed   Dungeon  Fixed issue at 1st boss of Demon&amp;rsquo;s Wheel where individual AOE and explosion effect does not display properly Fixed issue in Ghillieglade where there&amp;rsquo;s a low chance that boss monster&amp;rsquo;s HP bar does not display Fixed issue in Kalivan&amp;rsquo;s Dreadnaught (hard) where there&amp;rsquo;s a low chance that water in front of 3rd boss combat arena does not display    </description>
+    </item>
+    
+    <item>
+      <title>2017.06.01 patch notes (v60.01.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2017/v60-01-01/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2017/v60-01-01/</guid>
+      <description>Bug fixes  아이템  일부 PC방 대여 스타일 아이템이 세미의 랜덤 의상 큐브 재료로 사용 가능 속성이던 문제    </description>
+    </item>
+    
+    <item>
+      <title>2017.05.25 patch notes (v60.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2017/v60-01/</link>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v60-01/</guid>
-      <description>1. Dungeon  Reopen Kalivan&amp;rsquo;s Dreadnaught (hard)  5-man instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.   Reopen Forsaken Island  5-man instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.</description>
+      <description>Update 1. Dungeon  Reopen Kalivan&amp;rsquo;s Dreadnaught (hard)  5-man instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.   Reopen Forsaken Island  5-man instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.</description>
     </item>
     
   </channel>

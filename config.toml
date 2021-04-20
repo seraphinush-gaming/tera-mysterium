@@ -8,7 +8,7 @@ DefaultContentLanguageInSubdir = true
 pluralizelisttitles = false
 
 [params]
-description = "blog by seraphinush"
+description = "TERA blog by seraphinush"
 dateFormat = "Monday, January 2, 2006"
 customJs = true
 favicon = true
