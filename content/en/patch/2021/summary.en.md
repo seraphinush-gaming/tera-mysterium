@@ -65,7 +65,7 @@ weight = 1
 - v104.02
 
 - v105.01
-  - **New dungeon : Cursed Dark Reach Citadel (pl.)**
+  - **New dungeon : Damned Citadel**
   - Dungeon : Reopened anglemire
   - Dungeon : Reopened Rampaging RK-9 Kennel
   - Dungeon : Reopened [Dungeon Gauntlet] Akalath Quarantine

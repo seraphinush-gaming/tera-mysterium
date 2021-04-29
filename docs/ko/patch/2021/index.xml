@@ -6,10 +6,19 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/patch/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 04월 28일 업데이트 안내 (v106.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v106-01/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v106-01/</guid>
+      <description>업데이트 1. 전장  포화의 전장  이동형 공성병기  대미지가 상향 조정됩니다. 체력이 상향 조정됩니다. 이동속도가 조정됩니다.   고정형 공성병기  대미지가 상향 조정됩니다. 체력이 상향 조정됩니다.   공성측 고정형 공성병기  성문까지 공격 가능한 수준으로 사거리가 증가합니다. 성문 공격 시 대미지가 상향 조정됩니다. 체력이 하향 조정됩니다.   비공정  체력이 상향 조정됩니다.     명예의 전장  힐러 직업의 최대 입장 가능 인원을 5명 -&amp;gt; 3명으로 조정합니다.</description>
+    </item>
     
     <item>
       <title>2021년 04월 21일 업데이트 안내 (v105.02.02)</title>

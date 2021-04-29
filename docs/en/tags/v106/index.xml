@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v106 on mysterium</title>
+    <link>https://tera-mysterium.com/en/tags/v106/</link>
+    <description>Recent content in v106 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/en/tags/v106/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021.04.28 patch notes (v106.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v106-01/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v106-01/</guid>
+      <description>Update 1. Battleground  Corsairs&amp;rsquo; Stronghold  Tanks  Adjusted to increase damage Adjusted to increase HP Adjusted to increase movement speed   Sieges  Adjusted to increase damage Adjusted to increase HP   Platform-based sieges  Increased damage range to reach Outer Gates Adjusted to increase damage to Gates Adjusted to decrease HP   Ships  Adjusted to increase HP   Fraywind Canyon  Adjusted to decrease maximum number of healers from 5 to 3   Added skill effect to equalized gear distribution brooch  Revised to be able to register in a skill slot Added skill to disable abnormalities (3 minute cooldown)      2.</description>
+    </item>
+    
+  </channel>
+</rss>
