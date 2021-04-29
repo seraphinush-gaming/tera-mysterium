@@ -97,9 +97,24 @@ weight = 1
 ## April
 
 - v105.02
-  - **New dungeon : Gardan's Trial (pl.)**
+  - **New dungeon : Gardan's Trial**
   - Item : Added Kaia's Soul Gear Box (pl.)
 - v105.02.01
+
+- v105.02.01
+
+- v106.01
+  - Battleground : Corsairs' Stronghold balance update
+  - Battleground : Fraywind Canyon balance update
+  - Battleground : Added skill efect to eqaulized gear distribution Brooch
+  - **New dungeon** : Harnovog's Trial (pl.)
+  - DPS meter : update
+  - Open world : Added named monsters to Exodor
+  - Vanguard : Adjusted to increase Vanguard Iniative credit obtained from Vanguard Request
+  - Shop (Vanguard Initiative Credit Shop) : Adjusted to increase enchanting materials cost
+  - Shop (Exodor Justicar Credit Shop) : Adjusted to increase enchanting materials cost
+  - Shop (Free Exodor Credit Shop) : Adjusted to increase enchanting materials cost
+  - **New feature** : Options update
 
 ## May
 
