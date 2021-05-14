@@ -6,10 +6,28 @@
     <description>Recent content in v106 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/v106/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.05.12 patch notes (v106.02) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v106-02/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v106-02/</guid>
+      <description>Update 1. Server stabilization  Proceeded with structural stabilization work to minimization server instability  2. Item  Changed item properties of superior Halidom / Relic  Cannot be stored in storage -&amp;gt; can be stored in storage Bind of pickup -&amp;gt; bind on equip    3. TERA Pass  Revised to update TERA Pass UI upon using TERA Pass item while UI is open  4. Services  테라샵에서 아래의 아이템이 판매됩니다.</description>
+    </item>
+    
+    <item>
+      <title>2021.05.06 patch notes (v106.01.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v106-01-01/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v106-01-01/</guid>
+      <description>Update 1. Server stabilization  Proceeded with structural stabilization work to minimization server instability  2. Non-migrated account data deletion  2021년 4월 30일까지 이관하지 않은 계정의 데이터를 삭제 처리하는 작업을 진행합니다.  2021년 4월 30일까지 이관하지 않은 계정 정보는 모두 삭제되며 계정 정보 복구가 불가합니다. 2021년 4월 30일까지 이관하지 않은 계정 정보는 추가 이관 또는 수동 이관 지원이 불가합니다. 2021년 5월 6일 정기점검 이후 미이관 계정에 포함된 캐릭터 이름은 재사용할 수 있으며, 게임 내 컨텐츠에 삭제된 캐릭터 이름이 등록되어 있을 경우 “다른 차원의 수호자”로 표기됩니다.</description>
+    </item>
     
     <item>
       <title>2021.04.28 patch notes (v106.01) | TERA KR</title>

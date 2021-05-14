@@ -6,10 +6,28 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 05월 12일 업데이트 안내 (v106.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v106-02/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v106-02/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 아이템  전설 등급의 성물/유물 아이템 속성이 변경됩니다.  창고 보관 불가 -&amp;gt; 창고 보관 가능 획득 시 귀속 -&amp;gt; 착용 시 귀속    3. 테라 패스  테라 패스 UI가 활성화된 상태에서 테라 패스 등록권 사용 시 UI가 갱신되도록 개선됩니다.  4. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.     아이템명 가격(블루) 판매 시작일 판매 종료일     [랜덤] 돌아온 태양신 발더의 의상 상자 40 2021.</description>
+    </item>
+    
+    <item>
+      <title>2021년 05월 06일 업데이트 안내 (v106.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v106-01-01/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v106-01-01/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 미이관 계정 데이터 삭제  2021년 4월 30일까지 이관하지 않은 계정의 데이터를 삭제 처리하는 작업을 진행합니다.  2021년 4월 30일까지 이관하지 않은 계정 정보는 모두 삭제되며 계정 정보 복구가 불가합니다. 2021년 4월 30일까지 이관하지 않은 계정 정보는 추가 이관 또는 수동 이관 지원이 불가합니다. 2021년 5월 6일 정기점검 이후 미이관 계정에 포함된 캐릭터 이름은 재사용할 수 있으며, 게임 내 컨텐츠에 삭제된 캐릭터 이름이 등록되어 있을 경우 “다른 차원의 수호자”로 표기됩니다.</description>
+    </item>
     
     <item>
       <title>2021년 04월 28일 업데이트 안내 (v106.01)</title>
