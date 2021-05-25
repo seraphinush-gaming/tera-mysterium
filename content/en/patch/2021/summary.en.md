@@ -118,6 +118,15 @@ weight = 1
 
 ## May
 
+- v106.01.01
+
+- v106.02
+  - Item : Changed item properties of superior Halidom / Relic
+
+- v106.02.01
+
+- v107.01
+
 ## June
 
 ## July
