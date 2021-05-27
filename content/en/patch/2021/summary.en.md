@@ -126,6 +126,19 @@ weight = 1
 - v106.02.01
 
 - v107.01
+  - Class balance (Berserker)
+  - Class balance (Warrior)
+  - Class balance (Sorcerer)
+  - Class balance (Archer)
+  - Class balance (Slayer)
+  - Class balance (Reaper)
+  - Class balance (Valkyrie)
+  - Class balance (Ninja)
+  - Feature : Added DPS meter to System Tray of Windows OS Taskbar
+  - Item : Added effect to Angleworm bait items
+  - UI : Updated Boss Gauge Info
+  - Feature : Updated monster's attack range display
+  - **New feature** : Effect icon management system (pl.)
 
 ## June
 

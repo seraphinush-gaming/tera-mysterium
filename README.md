@@ -7,7 +7,7 @@ Blog repository for TERA blog by seraphinush-gaming
 
 Visit blog at : [https://tera-mysterium.com/](https://tera-mysterium.com)
 
-## Discord webhook setup sample guide
+## Discord webhook via IFTTT
 Discord
 - Go to 'Server Settings > Webhooks'
 - Click 'Create Webhook'
@@ -20,7 +20,7 @@ IFTTT
 - Go to 'My Applets'
 - 'Create' If `RSS Feed` Then `Webhooks`
 - Choose RSS Feed type : New Feed Item
-- Set RSS Feed 'URL' as : `https://www.tera-mysterium.com/en/index.xml`
+- Set RSS Feed 'URL' as : `https://tera-mysterium.com/en/index.xml`
 - Choose Webhooks type : Make a web request
 - Set Webhook 'URL' as : `<Webhook URL>`
 - Set 'Method' type as : POST
