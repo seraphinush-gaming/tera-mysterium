@@ -15,7 +15,7 @@ In the `#public-bot` text channel, type `.iam tera-mysterium` to self-assign the
 The text channel can be followed to be updated in other Discord servers.
 \
 \
-Discord server link : `https://discord.gg/A64RcA5`
+Discord server link : https://discord.gg/A64RcA5
 \
 \
 \- Seraphinush
