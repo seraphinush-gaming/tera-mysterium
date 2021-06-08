@@ -21,6 +21,9 @@ adsenseId = "ca-pub-3598595244893452"
   weight = 0
   contentDir = "content/en"
   [[Languages.en.params.nav]]
+    title = "Discord"
+    url = "https://discord.gg/A64RcA5"
+  [[Languages.en.params.nav]]
     title = "Youtube"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.en.params.nav]]

@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -88,6 +88,28 @@
     </item>
     
     <item>
+      <title>Exodor goes BAM!</title>
+      <link>https://tera-mysterium.com/en/achievements/encounters/20031/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/achievements/encounters/20031/</guid>
+      <description>Info    Key Value     Id 20031   Name Exodor goes BAM!   Point 30   Description Defeated a BAM in Exodor.   Detail Defeated a BAM.    Objective(s) Defeat Defeat Geiran in Rogash&amp;rsquo;s Garden.
+ Chance to spawn upon defeating Jewel Beetle in Rogash&amp;rsquo;s Garden  Defeat Cordi on the Exodor Farmlands.
+ Chance to spawn upon defeating Jewel Lizard at Beast Farm, Exodor Farmlands  Defeat Rimu on the Exodor Farmlands.</description>
+    </item>
+    
+    <item>
+      <title>Sisterly Love</title>
+      <link>https://tera-mysterium.com/en/achievements/tours/155001/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/achievements/tours/155001/</guid>
+      <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Objective(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
+Notable reward Title Family Mediator
+Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
       <title>2021.06.02 patch notes (v107.01.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2021/v107-01-01/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -139,15 +161,6 @@
       
       <guid>https://tera-mysterium.com/en/patch/2021/v105-02-02/</guid>
       <description>Update 1. Service stabilization  Proceeded with overall structural stabilization to minimize server instability  2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.     아이템명 가격(블루) 판매 시작일 판매 종료일     [랜덤] 스쿨룩 컬렉션 상자 40 2021-04-21 점검 후 2021-05-12 점검 전   [랜덤] 뚠뚠 드래곤 펫 상자 40 2021-04-21 점검 후 2021-05-12 점검 전   [랜덤] 돌아온 프레이아의 골든 글로리 웨폰 박스 40 2021-04-21 점검 후 2021-05-12 점검 전    Bug fixes  Fixed issue where &amp;lsquo;Lie Like a Rug&amp;rsquo; Collection Effect is not removed upon entering Pit of Petrax  </description>
-    </item>
-    
-    <item>
-      <title>Sisterly Love</title>
-      <link>https://tera-mysterium.com/en/achievements/tours/155001/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/achievements/tours/155001/</guid>
-      <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
     </item>
     
     <item>

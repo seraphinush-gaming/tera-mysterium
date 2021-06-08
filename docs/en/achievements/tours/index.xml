@@ -6,7 +6,7 @@
     <description>Recent content in Tours of Duty on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/achievements/tours/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,12 @@
     <item>
       <title>Sisterly Love</title>
       <link>https://tera-mysterium.com/en/achievements/tours/155001/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/achievements/tours/155001/</guid>
-      <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+      <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Objective(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
+Notable reward Title Family Mediator
+Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
     </item>
     
   </channel>
