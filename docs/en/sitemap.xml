@@ -182,6 +182,51 @@
   </url>
   
   <url>
+    <loc>https://tera-mysterium.com/en/tags/2021/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/patch/2021/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/patch/2021/v107-02/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v107-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v107-02/"
+                />
+  </url>
+  
+  <url>
     <loc>https://tera-mysterium.com/en/tags/encounters/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
@@ -194,6 +239,41 @@
   <url>
     <loc>https://tera-mysterium.com/en/tags/exploring-exodor/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/patch-notes/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/patch-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/patch-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/translation/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/v107/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/v107/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/v107/"
+                />
   </url>
   
   <url>
@@ -217,36 +297,6 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/tags/2021/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/patch/2021/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/patch/2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/patch/2021/"
-                />
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/patch/2021/v107-01-01/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -258,41 +308,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tera-mysterium.com/en/patch/2021/v107-01-01/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/categories/patch-notes/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/patch-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/patch-notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/translation/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/v107/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/v107/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/v107/"
                 />
   </url>
   

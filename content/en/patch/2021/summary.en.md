@@ -140,9 +140,11 @@ weight = 1
   - Feature : Updated monster's attack range display
   - **New feature** : Effect icon management system (pl.)
 
+## June
+
 - v107.01.01
 
-## June
+- v107.02
 
 ## July
 
