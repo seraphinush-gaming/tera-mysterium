@@ -117,71 +117,6 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/categories/achievements/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/categories/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/pora-elinu/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/southern-arun/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/tours-of-duty/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/tags/2021/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -227,18 +162,33 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/tags/encounters/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <loc>https://tera-mysterium.com/en/categories/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/"
+                />
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/tags/exodor-archipelago/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/exploring-exodor/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <loc>https://tera-mysterium.com/en/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/"
+                />
   </url>
   
   <url>
@@ -253,6 +203,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tera-mysterium.com/en/categories/patch-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/"
                 />
   </url>
   
@@ -277,8 +242,28 @@
   </url>
   
   <url>
+    <loc>https://tera-mysterium.com/en/categories/achievements/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/encounters/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/exodor-archipelago/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tera-mysterium.com/en/tags/exodor-farmland/</loc>
     <lastmod>2021-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/exploring-exodor/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -414,6 +399,21 @@
                 hreflang="en"
                 href="https://tera-mysterium.com/en/tags/v105/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/pora-elinu/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/southern-arun/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/tours-of-duty/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>

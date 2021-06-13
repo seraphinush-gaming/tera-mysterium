@@ -40,6 +40,9 @@ adsenseId = "ca-pub-3598595244893452"
   weight = 1
   contentDir = "content/ko"
   [[Languages.ko.params.nav]]
+    title = "디스코드"
+    url = "https://discord.gg/A64RcA5"
+  [[Languages.ko.params.nav]]
     title = "유튜브"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.ko.params.nav]]

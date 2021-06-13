@@ -6,19 +6,10 @@
     <description>Recent content in Categories on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>achievements</title>
-      <link>https://tera-mysterium.com/en/categories/achievements/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/categories/achievements/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>patch notes</title>
@@ -26,6 +17,15 @@
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/categories/patch-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>achievements</title>
+      <link>https://tera-mysterium.com/en/categories/achievements/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/categories/achievements/</guid>
       <description></description>
     </item>
     
