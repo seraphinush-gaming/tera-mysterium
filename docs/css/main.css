@@ -109,7 +109,8 @@ a:hover, a:active {
     font-size: 12px;
   }
   p {
-    margin: 4px 0;
+    margin-top: 4px;
+    margin-bottom: 1em;
   }
 }
 

@@ -6,18 +6,22 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Using Discord for RSS-based update notification</title>
+      <title>Notice : Discord for RSS</title>
       <link>https://tera-mysterium.com/en/discord-rss/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 -0700</pubDate>
       
       <guid>https://tera-mysterium.com/en/discord-rss/</guid>
-      <description>RSS is available via https://tera-mysterium.com/en/index.xml. For non-technical users, feel free to join this Discord server for tera-mysterium update notifications: In the #public-bot text channel, type .iam tera-mysterium to self-assign the said role through a Discord bot &amp;ndash; the text channel for tera-mysterium website update will then become visible. The text channel can be followed to be updated in other Discord servers. Discord server link : https://discord.gg/A64RcA5 - Seraphinush</description>
+      <description>Using Discord for RSS-based update notification RSS is available via https://tera-mysterium.com/en/index.xml.
+For non-technical users, feel free to join this Discord server for tera-mysterium update notifications:
+In the #public-bot text channel, type .iam tera-mysterium to self-assign the said role through a Discord bot &amp;ndash; the text channel for tera-mysterium website update will then become visible.
+The text channel can be followed to be updated in other Discord servers.
+Discord server link : https://discord.</description>
     </item>
     
     <item>
@@ -79,12 +83,16 @@
     </item>
     
     <item>
-      <title>Blog notice : Migration</title>
+      <title>Notice : Migration</title>
       <link>https://tera-mysterium.com/en/migration/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 -0700</pubDate>
       
       <guid>https://tera-mysterium.com/en/migration/</guid>
-      <description>Hello, thank you for your interest. As of 2021-04-05 16:07 PST, this blog&amp;rsquo;s domain has been updated from seraphinush-gaming.com to tera-mysterium.com. For some duration of time, seraphinush-gaming.com will automatically redirect to tera-mysterium.com to allow a smooth transition from the old domain to the new one. If necessary, please make sure to update any links or other appropriate changes. Once again thank you for visiting this website from time to time and please stay tuned for more updates.</description>
+      <description>Blog migration Hello, thank you for your interest.
+As of 2021-04-05 16:07 PST, this blog&amp;rsquo;s domain has been updated from seraphinush-gaming.com to tera-mysterium.com.
+For some duration of time, seraphinush-gaming.com will automatically redirect to tera-mysterium.com to allow a smooth transition from the old domain to the new one.
+If necessary, please make sure to update any links or other appropriate changes.
+Once again thank you for visiting this website from time to time and please stay tuned for more updates.</description>
     </item>
     
     <item>
@@ -117,6 +125,35 @@
       <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Objective(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
+      <title>2021.06.16 patch notes (v107.02.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v107-02-01/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v107-02-01/</guid>
+      <description>Update 1. Service stabilization  Proceeded with structural stabilization work to minimization server instability  2. Event (TERA KR exclusive)  던전 드랍 확률 1.5배 증가 이벤트가 진행됩니다.  기간: 2021년 6월 16일 점검 이후 ~ 2021년 6월 23일 점검 전까지   강화 성공 확률 2배 증가 이벤트가 진행됩니다.  기간: 2021년 6월 16일 점검 이후 ~ 2021년 6월 20일 23:59까지    3. Services  테라샵에서 아래의 아이템이 판매됩니다.</description>
+    </item>
+    
+    <item>
+      <title>v102 : Kaia&#39;s Soul Gear</title>
+      <link>https://tera-mysterium.com/en/equipment/v102-kaiassoul/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/equipment/v102-kaiassoul/</guid>
+      <description>Kaia&amp;rsquo;s Soul gear is the retool for Kaia&amp;rsquo;s gear, added v102. It is available to upgrade from +15, and enchantment is available up to +9.
+Upgrading Kaia&amp;rsquo;s gear (Kaia&amp;rsquo;s Fury / Kaia&amp;rsquo;s Wisdom) requires either Lumikan&amp;rsquo;s Wing Fragment or Tyrant&amp;rsquo;s Belt, obtained from Catalepticon and Killing Grounds, respectively. Random options, Infusion options, and Etchings are not inherited upon upgrading. Specifically, Kaia&amp;rsquo;s Soul gear upon upgrading starts with 0 Random options.</description>
+    </item>
+    
+    <item>
+      <title>Mystery Merchant</title>
+      <link>https://tera-mysterium.com/en/activities/mystery-merchant/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/activities/mystery-merchant/</guid>
+      <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin. For the sake of simplicity, there are two different types of merchants: City Merchant and Wandering Merchant.
+City Merchant City Merchants are merchants located specific in the 4 major cities : Velika, Allemantheia, Kaiator, and Highwatch. City Merchant locations are marked on the minimap, making them easy to find. A global system message &amp;ndash; that Mystery Merchant Starc has appeared in one of the 4 major cities &amp;ndash; signals that the City Merchant associated to the city will open in 5 minutes.</description>
     </item>
     
     <item>
@@ -197,7 +234,7 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v105-02/</guid>
-      <description>Update 1. Dungeon  Added new : [Ace Dungeon] Gardan&amp;rsquo;s Trial     [Ace Dungeon] Gardan&amp;rsquo;s Trial      Entry limit 2 daily, 3 with VIP   Adventure Coin 400   Level requirement 70   Instance Matching requirement -     Loot table includes Kaia&amp;rsquo;s Soul Token, superior Halidom / Relic, enchanting materials, and Soul Option Change Scroll Added Kaia&amp;rsquo;s Soul Token to Ace Dungeon - Lumikan&amp;rsquo;s Trial Added a chance to drop Kaia&amp;rsquo;s Soul Gear Box (pl.</description>
+      <description>Update 1. Dungeon  Added new : [Ace Dungeon] Gardan&amp;rsquo;s Trial     [Ace Dungeon] Gardan&amp;rsquo;s Trial      Entry limit 2 daily, 3 with VIP   Adventure Coin 400   Level requirement 70   Instance Matching requirement -     Loot table includes Kaia&amp;rsquo;s Soul Token, superior Halidom / Relic, enchanting materials, and Soul Option Change Scroll Added Kaia&amp;rsquo;s Soul Token to Ace Dungeon - Lumikan&amp;rsquo;s Trial Added a chance to drop Kaia&amp;rsquo;s Soul Gear Box to level 66 and above instances  Opening said box results in gear appropriate to your class       Dungeons with added dropitem      Gossamer Vault Corrupted Skynest   Ruinous Manor Forbidden Arena [Undying Warlord]   Akalath Quarantine Catalepticon (hard)   Akalath Quarantine [Gauntlet] Killing Ground (hard)   Damned Citadel Bahaar&amp;rsquo;s Sanctum   Catalepticon Ruinous Manor (hard)   Killing Ground Corrupted Skynest (hard)   Draakon Arena Rampaging RK-9 Kennel    3.</description>
     </item>
     
     <item>
@@ -310,7 +347,7 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2020/v102-01/</guid>
-      <description>1. Dungeon  Added new dungeon : The Catalepticon (5-Person)     The Catalepticon Entry requirements     Entry limit No limit   Adventure Coin cost 280   Entry level 70   IMS item level 498     Loot table includes Kaia&amp;rsquo;s Soul gear enchanting material, accessory etching IV, Greedhead Option Change Scroll (new), superior Halidom / Relic Added related quest &amp;lsquo;[Important] Vergos&amp;rsquo; Legacy Whereabouts&amp;rsquo; (placeholder)  Automatically acquired upon reaching level 70   Dungeon information can be found in developer notes [link] Removed Dungeon Gauntlet instances Rearranged instances  Added and removed select instances  Removed Story Quests related to removed instances          Removed instances      Macellarius Catacombs RK-9 Kennel Grotto of Lost Souls (hard)   Thaumetal Refinery Red Refuge Gossamer Vault (hard)   Velik&amp;rsquo;s Hold Antaroth&amp;rsquo;s Abyss (hard) Forbidden Arena [Hagufna]   Forbidden Arena [Nightmare Undying Warlord] Draakon Arena (hard) Sky Cruiser Endeavor (hard)   [Training] Grotto of Lost Souls [Training] Antaroth&amp;rsquo;s Abyss (hard) [Training] Gossamer Vault (hard)        Added instances      Gossamer Vault Ruinous Manor Ruinous Manor (hard)     Dungeon reward and entry cost is the following :     Difficulty Dungeon Entry limit Adventure Coin cost Reward     Low Gossamer Vault Level 68, ilevel 464, No entry limit 180 Kaia&amp;rsquo;s gear (Weapon / Armor), Improved Dark Shard Weapon / Armor Feedstock, Rare Halidom / Relic I, Weapon / Handwear Etching: Energetic IV, Armor / Footwear Etching: Grounded IV, Azart Corps Treasure Chest, Azart Corps Rare Treasure Chest, Unstable Soul Option Change Scroll, Common / Uncommon Card Fragment Box   Medium Ruinous Manor Level 69, ilevel 479, No entry limit 200 Earring Etching: Pumped / Keen II, Necklace Etching: Pumped / Keen II, Azart Corps Treasure Chest, Azart Corps Rare Treasure Chest, Unstable Soul Option Change Scroll, Common / Uncommon Card Fragment Box, Kaia&amp;rsquo;s Gear Box (Weapon / Armor), Improved Dark Shard Weapon / Armor Feedstock, Blightoath Medallion, Rare Halidom / Relic II   &amp;rsquo;&amp;rsquo; Akalath Quarantine &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Ring Etching: Pumped / Keen II, Necklace Etching: Pumped / Keen II, Azart Corps Treasure Chest, Azart Corps Rare Treasure Chest, Unstable Soul Option Change Scroll, Common / Uncommon Card Fragment Box, Kaia&amp;rsquo;s Gear Box (Weapon / Armor), Improved Dark Shard Weapon / Armor Feedstock, Blightoath Medallion, Rare Halidom / Relic II   High The Catalepticon Level 70, ilevel 498, No entry limit 280 Lumikan&amp;rsquo;s Wing Fragment, Superior Halidom / Relic, Magic Alloy, Soul Option Change Scroll [Weapon / Armor], Common / Uncommon Card Fragment Box   &amp;rsquo;&amp;rsquo; Corrupted Skynest &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Warlord&amp;rsquo;s Earring, Annihilation / Dark Light Belt, Necklace Etching: Pumped / Keen/ Swift IV, Ring Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Alloy, Soul Option Change Scroll [Weapon / Armor], Common / Uncommon Card Fragment Box   &amp;rsquo;&amp;rsquo; Forbidden Arena [Undying Warlord] &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Warlord&amp;rsquo;s Circlet, Annihilation / Dark Light Brooch, Necklace Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Alloy, Soul Option Change Scroll [Weapon / Armor], Common / Uncommon Card Fragment Box   Highest Bahaar&amp;rsquo;s Sanctum Level 70, ilevel 501, No entry limit 350 Wind Earring Resizing Stone, Solar Essence, Refined Lightning Stone, Belt Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Ingot, Greedhead&amp;rsquo;s Soul Option Change Scroll [Weapon / Armor], Brooch Etching: Pumped / Keen / Swift IV   &amp;rsquo;&amp;rsquo; Ruinous Manor (hard) &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Earth Circlet Resizing Stone, Frost / Glacial / Lightning Stone, Refined Lava / Frost / Glacial Stone, Earring Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Ingot, Greedhead&amp;rsquo;s Soul Option Change Scroll [Weapon / Armor], Brooch Etching: Pumped / Keen / Swift IV   &amp;rsquo;&amp;rsquo; Corrupted Skynest (hard) &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Blazing Necklace / Marine Ring Resizing Stone, Lava Stone, Refined Solar Stone, Necklace Etching: Pumped / Keen / Swift IV, Ring Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Ingot, Greedhead&amp;rsquo;s Soul Option Change Scroll [Weapon / Armor], Brooch Etching: Pumped / Keen / Swift IV   Other Commander&amp;rsquo;s Residence (Maknakh) Level 70, ilevel –, 1 entry weekly (VIP : 2 entries) 300 Kaia&amp;rsquo;s Unstable Option Change Scroll [Armor], Improved Dark Shard Weapon / Armor Feedstock, Brooch Etching: Pumped / Keen / Swift II, Brooch Etching: Pumped / Keen / Swift IV, Magic Alloy / Ingot, Legacy Essence, Evolution Stone, Pet Snack   &amp;rsquo;&amp;rsquo; Commander&amp;rsquo;s Residence (LB-1) &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Kaia&amp;rsquo;s Unstable Option Change Scroll [Weapon], Improved Dark Shard Weapon / Armor Feedstock, Brooch Etching: Pumped / Keen / Swift II, Brooch Etching: Pumped / Keen / Swift IV, Magic Alloy / Ingot, Legacy Essence, Evolution Stone, Pet Snack     Adjusted select instances :     Dungeon Changelog     Akalath Quarantine Decreased attack speed of boss monsters   &amp;rsquo;&amp;rsquo; Decreased damage of select main patterns   &amp;rsquo;&amp;rsquo; Removed back slash pattern on 1st boss   &amp;rsquo;&amp;rsquo; Decreased damage of bleed debuff and increased debuff duration on 2nd boss   Ruinous Manor Changed to skip 2nd boss   Corrupted Skynest Removed temperature gauge   &amp;rsquo;&amp;rsquo; Increased damaged of Kelsaik and clone   &amp;rsquo;&amp;rsquo; Changed to cause wipe mechanic when unable to defeat clone   Draakon Arena Increased damage and crit resist of boss monster   &amp;rsquo;&amp;rsquo; Increased puddle meteor mechanic speed   Forbidden Arena [Undying Warlord] Decreased damage and crit resist of boss monster   Bahaar&amp;rsquo;s Sanctum Increased boss monster   &amp;rsquo;&amp;rsquo; Decreased chance to use wave mechanic in phase 2   &amp;rsquo;&amp;rsquo; Changed to be unable to shield swipe mechanic when entering Wrath phase   &amp;rsquo;&amp;rsquo; Increased duration of puddle / increased damage of puddle by 2 times   &amp;rsquo;&amp;rsquo; Increased damage of outer flame by 2 times   Ruinous Manor (hard) Increased damage and crit resist of Rakelith   &amp;rsquo;&amp;rsquo; Increased damage of Rakelith&amp;rsquo;s bleed debuff (5% → 10%)   &amp;rsquo;&amp;rsquo; Increased damage and attack speed of Rakelith upon 30% unleash   &amp;rsquo;&amp;rsquo; Increased duration of Rakelith&amp;rsquo;s curse   Corrupted Skynest (hard) Increased damage and crit resist of Kelsaik and clone   &amp;rsquo;&amp;rsquo; Decreased difficulty of temperature gauge (Regauge every 2 seconds → 4 seconds)     Changed Vanguard Request reward :     Dungeon Reward Amount Bonus reward (daily)     Gossamer Vault Gold 3,000 20 Faded Copper, 1 Skill Advancement Tome (Extra-Large)   &amp;rsquo;&amp;rsquo; XP 25,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 25 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll II 25 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Optimization Scroll I 20 &amp;rsquo;&amp;rsquo;   Ruinous Manor, Akalath Quarantine Gold 3,500 30 Faded Copper, 1 Skill Advancement Tome (Extra-Large)   &amp;rsquo;&amp;rsquo; XP 33,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 30 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll II 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll III 25 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Optimization Scroll II 20 &amp;rsquo;&amp;rsquo;   The Catalepticon, Draakon Arena, Corrupted Skynest, Forbidden Arena [Undying Warlord] Gold 4,500 40 Faded Copper, 1 Skill Advancement Tome (Extra-Large), 1 Mystery Market Coin   &amp;rsquo;&amp;rsquo; XP 100,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 75 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 75 &amp;rsquo;&amp;rsquo;   Bahaar&amp;rsquo;s Sanctum, Ruinous Manor (hard), Corrupted Skynest (hard) Gold 6,000 50 Faded Copper, 1 Mystery Market Coin   &amp;rsquo;&amp;rsquo; XP 100,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 100 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 100 &amp;rsquo;&amp;rsquo;     Changed solo instance rewards  Removed Exodor Scout Weapon / Armor Feedstock, changed to reward XP from Vanguard Request Removed Exodor Scout Weapon / Armor Feedstock from Ace Medal Shop Solo instance and reward is of the following :       Dungeon Droptable items Amount 비고     Ace Dungeon - Lilith&amp;rsquo;s Trial Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 5 Chance drop   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Ruby 10 &amp;rsquo;&amp;rsquo;   Ace Dungeon - Baracos&amp;rsquo; Trial Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll II 10 Chance drop   &amp;rsquo;&amp;rsquo; Skill Optimization Scroll II 10 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Ruby 10 &amp;rsquo;&amp;rsquo;   Ace Dungeon - Akasha&amp;rsquo;s Trial Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 5 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 Chance drop   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Ruby 10 &amp;rsquo;&amp;rsquo;   Pit of Petrax Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Ruby 5~100 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 Chance drop   &amp;rsquo;&amp;rsquo; Calaberry Juice 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Goldfinger Token 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   Echoes of Aranea Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 20 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 Chance drop   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;    2.</description>
+      <description>1. Dungeon  Added new dungeon : The Catalepticon (5-Person)     The Catalepticon Entry requirements     Entry limit No limit   Adventure Coin cost 280   Entry level 70   IMS item level 498     Loot table includes Kaia&amp;rsquo;s Soul gear enchanting material, accessory etching IV, Greedhead Option Change Scroll, superior Halidom / Relic Added related quest &amp;lsquo;[Important] Vergos&amp;rsquo; Legacy Whereabouts&amp;rsquo; (placeholder)  Automatically acquired upon reaching level 70   Dungeon information can be found in developer notes [link] Removed Dungeon Gauntlet instances Rearranged instances  Added and removed select instances  Removed Story Quests related to removed instances          Removed instances      Macellarius Catacombs RK-9 Kennel Grotto of Lost Souls (hard)   Thaumetal Refinery Red Refuge Gossamer Vault (hard)   Velik&amp;rsquo;s Hold Antaroth&amp;rsquo;s Abyss (hard) Forbidden Arena [Hagufna]   Forbidden Arena [Nightmare Undying Warlord] Draakon Arena (hard) Sky Cruiser Endeavor (hard)   [Training] Grotto of Lost Souls [Training] Antaroth&amp;rsquo;s Abyss (hard) [Training] Gossamer Vault (hard)        Added instances      Gossamer Vault Ruinous Manor Ruinous Manor (hard)     Dungeon reward and entry cost is the following :     Difficulty Dungeon Entry limit Adventure Coin cost Reward     Low Gossamer Vault Level 68, ilevel 464, No entry limit 180 Kaia&amp;rsquo;s gear (Weapon / Armor), Improved Dark Shard Weapon / Armor Feedstock, Rare Halidom / Relic I, Weapon / Handwear Etching: Energetic IV, Armor / Footwear Etching: Grounded IV, Azart Corps Treasure Chest, Azart Corps Rare Treasure Chest, Unstable Soul Option Change Scroll, Common / Uncommon Card Fragment Box   Medium Ruinous Manor Level 69, ilevel 479, No entry limit 200 Earring Etching: Pumped / Keen II, Necklace Etching: Pumped / Keen II, Azart Corps Treasure Chest, Azart Corps Rare Treasure Chest, Unstable Soul Option Change Scroll, Common / Uncommon Card Fragment Box, Kaia&amp;rsquo;s Gear Box (Weapon / Armor), Improved Dark Shard Weapon / Armor Feedstock, Blightoath Medallion, Rare Halidom / Relic II   &amp;rsquo;&amp;rsquo; Akalath Quarantine &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Ring Etching: Pumped / Keen II, Necklace Etching: Pumped / Keen II, Azart Corps Treasure Chest, Azart Corps Rare Treasure Chest, Unstable Soul Option Change Scroll, Common / Uncommon Card Fragment Box, Kaia&amp;rsquo;s Gear Box (Weapon / Armor), Improved Dark Shard Weapon / Armor Feedstock, Blightoath Medallion, Rare Halidom / Relic II   High The Catalepticon Level 70, ilevel 498, No entry limit 280 Lumikan&amp;rsquo;s Wing Fragment, Superior Halidom / Relic, Magic Alloy, Soul Option Change Scroll [Weapon / Armor], Common / Uncommon Card Fragment Box   &amp;rsquo;&amp;rsquo; Corrupted Skynest &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Warlord&amp;rsquo;s Earring, Annihilation / Dark Light Belt, Necklace Etching: Pumped / Keen/ Swift IV, Ring Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Alloy, Soul Option Change Scroll [Weapon / Armor], Common / Uncommon Card Fragment Box   &amp;rsquo;&amp;rsquo; Forbidden Arena [Undying Warlord] &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Warlord&amp;rsquo;s Circlet, Annihilation / Dark Light Brooch, Necklace Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Alloy, Soul Option Change Scroll [Weapon / Armor], Common / Uncommon Card Fragment Box   Highest Bahaar&amp;rsquo;s Sanctum Level 70, ilevel 501, No entry limit 350 Wind Earring Resizing Stone, Solar Essence, Refined Lightning Stone, Belt Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Ingot, Greedhead&amp;rsquo;s Soul Option Change Scroll [Weapon / Armor], Brooch Etching: Pumped / Keen / Swift IV   &amp;rsquo;&amp;rsquo; Ruinous Manor (hard) &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Earth Circlet Resizing Stone, Frost / Glacial / Lightning Stone, Refined Lava / Frost / Glacial Stone, Earring Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Ingot, Greedhead&amp;rsquo;s Soul Option Change Scroll [Weapon / Armor], Brooch Etching: Pumped / Keen / Swift IV   &amp;rsquo;&amp;rsquo; Corrupted Skynest (hard) &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Blazing Necklace / Marine Ring Resizing Stone, Lava Stone, Refined Solar Stone, Necklace Etching: Pumped / Keen / Swift IV, Ring Etching: Pumped / Keen / Swift IV, Superior Halidom / Relic, Magic Ingot, Greedhead&amp;rsquo;s Soul Option Change Scroll [Weapon / Armor], Brooch Etching: Pumped / Keen / Swift IV   Other Commander&amp;rsquo;s Residence (Maknakh) Level 70, ilevel –, 1 entry weekly (VIP : 2 entries) 300 Kaia&amp;rsquo;s Unstable Option Change Scroll [Armor], Improved Dark Shard Weapon / Armor Feedstock, Brooch Etching: Pumped / Keen / Swift II, Brooch Etching: Pumped / Keen / Swift IV, Magic Alloy / Ingot, Legacy Essence, Evolution Stone, Pet Snack   &amp;rsquo;&amp;rsquo; Commander&amp;rsquo;s Residence (LB-1) &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo; Kaia&amp;rsquo;s Unstable Option Change Scroll [Weapon], Improved Dark Shard Weapon / Armor Feedstock, Brooch Etching: Pumped / Keen / Swift II, Brooch Etching: Pumped / Keen / Swift IV, Magic Alloy / Ingot, Legacy Essence, Evolution Stone, Pet Snack     Adjusted select instances :     Dungeon Changelog     Akalath Quarantine Decreased attack speed of boss monsters   &amp;rsquo;&amp;rsquo; Decreased damage of select main patterns   &amp;rsquo;&amp;rsquo; Removed back slash pattern on 1st boss   &amp;rsquo;&amp;rsquo; Decreased damage of bleed debuff and increased debuff duration on 2nd boss   Ruinous Manor Changed to skip 2nd boss   Corrupted Skynest Removed temperature gauge   &amp;rsquo;&amp;rsquo; Increased damaged of Kelsaik and clone   &amp;rsquo;&amp;rsquo; Changed to cause wipe mechanic when unable to defeat clone   Draakon Arena Increased damage and crit resist of boss monster   &amp;rsquo;&amp;rsquo; Increased puddle meteor mechanic speed   Forbidden Arena [Undying Warlord] Decreased damage and crit resist of boss monster   Bahaar&amp;rsquo;s Sanctum Increased boss monster   &amp;rsquo;&amp;rsquo; Decreased chance to use wave mechanic in phase 2   &amp;rsquo;&amp;rsquo; Changed to be unable to shield swipe mechanic when entering Wrath phase   &amp;rsquo;&amp;rsquo; Increased duration of puddle / increased damage of puddle by 2 times   &amp;rsquo;&amp;rsquo; Increased damage of outer flame by 2 times   Ruinous Manor (hard) Increased damage and crit resist of Rakelith   &amp;rsquo;&amp;rsquo; Increased damage of Rakelith&amp;rsquo;s bleed debuff (5% → 10%)   &amp;rsquo;&amp;rsquo; Increased damage and attack speed of Rakelith upon 30% unleash   &amp;rsquo;&amp;rsquo; Increased duration of Rakelith&amp;rsquo;s curse   Corrupted Skynest (hard) Increased damage and crit resist of Kelsaik and clone   &amp;rsquo;&amp;rsquo; Decreased difficulty of temperature gauge (Regauge every 2 seconds → 4 seconds)     Changed Vanguard Request reward :     Dungeon Reward Amount Bonus reward (daily)     Gossamer Vault Gold 3,000 20 Faded Copper, 1 Skill Advancement Tome (Extra-Large)   &amp;rsquo;&amp;rsquo; XP 25,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 25 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll II 25 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Optimization Scroll I 20 &amp;rsquo;&amp;rsquo;   Ruinous Manor, Akalath Quarantine Gold 3,500 30 Faded Copper, 1 Skill Advancement Tome (Extra-Large)   &amp;rsquo;&amp;rsquo; XP 33,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 30 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll II 40 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll III 25 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Skill Optimization Scroll II 20 &amp;rsquo;&amp;rsquo;   The Catalepticon, Draakon Arena, Corrupted Skynest, Forbidden Arena [Undying Warlord] Gold 4,500 40 Faded Copper, 1 Skill Advancement Tome (Extra-Large), 1 Mystery Market Coin   &amp;rsquo;&amp;rsquo; XP 100,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 75 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 75 &amp;rsquo;&amp;rsquo;   Bahaar&amp;rsquo;s Sanctum, Ruinous Manor (hard), Corrupted Skynest (hard) Gold 6,000 50 Faded Copper, 1 Mystery Market Coin   &amp;rsquo;&amp;rsquo; XP 100,000,000 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; EP XP++ - &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Vanguard Initiative Credit 100 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Noctenium Infusion 100 &amp;rsquo;&amp;rsquo;     Changed solo instance rewards  Removed Exodor Scout Weapon / Armor Feedstock, changed to reward XP from Vanguard Request Removed Exodor Scout Weapon / Armor Feedstock from Ace Medal Shop Solo instance and reward is of the following :       Dungeon Droptable items Amount 비고     Ace Dungeon - Lilith&amp;rsquo;s Trial Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 5 Chance drop   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Ruby 10 &amp;rsquo;&amp;rsquo;   Ace Dungeon - Baracos&amp;rsquo; Trial Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll II 10 Chance drop   &amp;rsquo;&amp;rsquo; Skill Optimization Scroll II 10 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Ruby 10 &amp;rsquo;&amp;rsquo;   Ace Dungeon - Akasha&amp;rsquo;s Trial Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 5 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 Chance drop   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Ruby 10 &amp;rsquo;&amp;rsquo;   Pit of Petrax Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Ruby 5~100 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Titan&amp;rsquo;s FIre / Peace / Earth / Storm 1 Chance drop   &amp;rsquo;&amp;rsquo; Calaberry Juice 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Goldfinger Token 1 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Dragonscale 1 &amp;rsquo;&amp;rsquo;   Echoes of Aranea Skill Advancement Tome 1 Secure drop   &amp;rsquo;&amp;rsquo; Skill Advancement Scroll I 20 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; Improved Dark Shard Weapon Feedstock 1 Chance drop   &amp;rsquo;&amp;rsquo; Improved Dark Shard Armor Feedstock 1 &amp;rsquo;&amp;rsquo;    2.</description>
     </item>
     
     <item>
@@ -378,10 +415,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 September suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/09/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/09/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/09/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/09/</guid>
       <description>Suggestions applied Content / system
   Suggestion to be able to use mounts in Draakon Arena (hard) (09/17)
  Changed to be able to use mounts up until the combat arena    Suggestion to change Lean Hyena near Muricai Fishery to be prone (09/17)
@@ -427,10 +464,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 August suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/08/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/08/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/08/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/08/</guid>
       <description>Suggestions applied Event
   TERA KR event specific suggestion to revise Skill Advancement scroll distribution at level 68 (08/28)
  Changed to distribute upon 5 completions instead of 10 completions    TERA KR event specific suggestion to revise leveling event requirement related to Saleron&amp;rsquo;s Sky Garden (1-Person) instance (08/13)
@@ -467,13 +504,13 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 July suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/07/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/07/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/07/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/07/</guid>
       <description>Suggestions applied Dungeon
   Suggestion to add new dungeons (07/03, 07/23)
- Added (new) Forbidden Arena [Undying Warlord / Eternal Warlord], Rampaging RK-9 Kennel, Kezzel&amp;rsquo;s Gorge, and 3 training instances    Suggestion to add motivating elements to dungeons (07/23)
+ Added Forbidden Arena [Undying Warlord / Eternal Warlord], Rampaging RK-9 Kennel, Kezzel&amp;rsquo;s Gorge, and 3 training instances    Suggestion to add motivating elements to dungeons (07/23)
  Added dungeon-specific rewards to Rampaging RK-9 Kennel, Forbidden Arena [Undying Fighter]    Suggestion to change loot settings in Macellarius Catacombs (07/09)
  Changed to Relic / Halidom Token instead to remove necessity of changing loot settings    Item</description>
     </item>
@@ -507,10 +544,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 June suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/06/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/06/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/06/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/06/</guid>
       <description>Suggestions applied   Suggestion to add frame rate limit (06/04)
  Added settings option to limit frame rate between 24 frames to 300 frames    Suggestion to adjust Guardian Legion Mission point gain (06/11)
  Slightly decreased point gain on Priest / Lancer, increased point gain on Mystic    Suggestion to revise awkward quest progression (06/11)
@@ -524,6 +561,51 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
       
       <guid>https://tera-mysterium.com/en/patch/2020/v96-02-01/</guid>
       <description>Bug fixes  Fixed issue where UI and other elements crash client Fixed issue where animation on character selection screen did not work Fixed issue where FPS hitching / stuttering occurs upon moving from server selection screen to character selection screen Fixed issue where FPS hitching / stuttering affects logging process Fixed client logging issue   source : TERA 테라 | NEXON</description>
+    </item>
+    
+    <item>
+      <title>Catalepticon</title>
+      <link>https://tera-mysterium.com/en/instances/catalepticon/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/instances/catalepticon/</guid>
+      <description>Normal mode wip
+Hard mode wip
+Gallery </description>
+    </item>
+    
+    <item>
+      <title>Corrupted Skynest</title>
+      <link>https://tera-mysterium.com/en/instances/corrupted-skynest/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/instances/corrupted-skynest/</guid>
+      <description>Normal mode wip
+Hard mode wip
+Gallery </description>
+    </item>
+    
+    <item>
+      <title>Killing Grounds</title>
+      <link>https://tera-mysterium.com/en/instances/killing-grounds/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/instances/killing-grounds/</guid>
+      <description>Normal mode wip
+Hard mode wip
+Gallery </description>
+    </item>
+    
+    <item>
+      <title>RK-9 Kennel</title>
+      <link>https://tera-mysterium.com/en/instances/rk9-kennel/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/instances/rk9-kennel/</guid>
+      <description>Normal mode wip
+Hard mode wip
+Rampaging RK-9 Kennel wip
+Gallery </description>
     </item>
     
     <item>
@@ -546,10 +628,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 May suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/05/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/05/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/05/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/05/</guid>
       <description>Suggestions applied   Suggestion to add practice instances (05/14)
   Suggestion to add notification on Partner Adventure on character selection screen (05/14)
   Suggestion to revise Pit of Petrax for Leaderboard (05/14)
@@ -588,10 +670,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 April suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/04/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/04/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/04/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/04/</guid>
       <description>Suggestions applied   Suggestion to add practice instances (04/09)
   Suggestion to adjust to increase dungeon entry count (04/09)
   Suggestion to adjust to increase Adventure Coin maximum limit / recovery rate (04/09)
@@ -631,10 +713,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 March suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/03/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/03/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/03/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/03/</guid>
       <description>Suggestions applied   Suggestion to decrease Neophyte Ressurection cost (03/12)
  Adjusted to decrease from 500 gold to 250 gold    Suggestion to adjust dungeon difficulty (03/12)
   Suggestion to increase HP of bosses in Guardian Legion Mission and remove collision between players (03/12)
@@ -663,10 +745,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 February suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/02/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/02/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/02/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/02/</guid>
       <description>Suggestions applied   Suggestion to increase PvP / PvE reward (02/06, 02/27)
   Suggestion to simplify gear acquisition (02/27)
   Suggestion to be able to liberate Heroic Oath gear (02/27)
@@ -705,10 +787,10 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>2020 January suggestions review result | TERA KR</title>
-      <link>https://tera-mysterium.com/en/articles/review/2020/01/</link>
+      <link>https://tera-mysterium.com/en/suggestions/2020/01/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/review/2020/01/</guid>
+      <guid>https://tera-mysterium.com/en/suggestions/2020/01/</guid>
       <description>Suggestions applied   Suggestion to adjust class balance (01/16)
   Suggestion to increase Adventure Coin limit (01/16)
   Suggestion to adjust Guardian Legion point distribution per class (01/16)
@@ -746,48 +828,40 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     
     <item>
       <title>Class base stat values</title>
-      <link>https://tera-mysterium.com/en/articles/class-base-stats/</link>
+      <link>https://tera-mysterium.com/en/character/class-base-stats/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/class-base-stats/</guid>
+      <guid>https://tera-mysterium.com/en/character/class-base-stats/</guid>
       <description>Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
     </item>
     
     <item>
-      <title>Companions : Introduction</title>
-      <link>https://tera-mysterium.com/en/articles/companions/</link>
+      <title>Companions</title>
+      <link>https://tera-mysterium.com/en/character/companions/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/companions/</guid>
-      <description>Companion Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
+      <guid>https://tera-mysterium.com/en/character/companions/</guid>
+      <description>Pets and Partners together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special Abilities can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage.</description>
     </item>
     
     <item>
       <title>Dungeon crit resist values</title>
-      <link>https://tera-mysterium.com/en/articles/crit-resist/</link>
+      <link>https://tera-mysterium.com/en/instances/crit-resist/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/crit-resist/</guid>
+      <guid>https://tera-mysterium.com/en/instances/crit-resist/</guid>
       <description>v99    Dungeon Boss Level target base resistance crit resistance     Forbidden Arena [Nightmare Undying Warlord] Nightmare Undying Warlord 73 90,000 300   Forbidden Arena [Undying Warlord] Undying Warlord 73 90,000 300   Draakon Arena (hard) Nightmare Commander Kalligar 73 80,000 300   Draakon Arena Commander Kalligar 73 80,000 300   Rampaging RK-9 Kennel Rampaging RK-9 73 43,000 290   Corrupted Skynest (hard) Nightmare Revived Kelsaik Level 80,000 300   Corrupted Skynest Kelsaik Level 80,000 300   Forbidden Arena [Hagufna] Hagufna 73 80,000 300   Sea of Honor Ironfang Dixie Level 40,000 230   Core Area Maknakh Level 0 210   Bahaar&amp;rsquo;s Sanctum Phase 1 Level 80,000 300   Bahaar&amp;rsquo;s Sanctum Phase 2 Level 80,000 300   Akalath Quarantine Akalath Kashir Level 20,000 220   Akalath Quarantine Akalath Travan Level 20,000 220   Gossamer Vault (hard) Nightmare Gossamer Regent Level 20,000 210   Gossamer Vault (hard) Hellgramite 71 20,000 210   Grotto of Lost Souls (hard) Nightmare Kylos Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Ptakum Level 20,000 210   Grotto of Lost Souls (hard) Nightmare Nedra 71 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Antaroth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Kalioth Level 20,000 210   Antaroth&amp;rsquo;s Abyss (hard) Nightmare Ghergof 71 20,000 210   Red Refuge Argog Level 10,000 210   Red Refuge Thormentum Level 10,000 210   Red Refuge Kalavese Level 10,000 210   RK-9 Kennel RK-9 Level 10,000 210   RK-9 Kennel Hexapleon Level 10,000 210   RK-9 Kennel Ventarun 70 10,000 210   Training Ground Clawrider 68 90,000 300    </description>
     </item>
     
     <item>
-      <title>Equipment : Mythic Gear (v91)</title>
-      <link>https://tera-mysterium.com/en/articles/mythic/</link>
+      <title>Fishing</title>
+      <link>https://tera-mysterium.com/en/activities/fishing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/articles/mythic/</guid>
-      <description>Mythic gear Mythic gear is the retool to Annihilation / Dark Light gear, added v91. it is available at all enchantment levels, and enchanting is still available after upgrading to Mythic gear.
-One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
-    </item>
-    
-    <item>
-      <title>Fishing : Fish locations</title>
-      <link>https://tera-mysterium.com/en/articles/fishing/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/articles/fishing/</guid>
-      <description>Angler Token    Grade Amount     0 1   1 1   2 2   3 2   4 2   5 4   6 6   7 8   8 10   9 12   10 15   BAF 30    Muricai Fishery    Grade Fish     0 Stone Moroko   1 Crayfish   2 Angelfish   3 Squid   4 Sea Eel   5 Octopus   6 Eldritch Carp   7 Chroma Salmon   8 Dipturus   9 Mossback   10 Crimson Shark   BAF Golden Catfish    Vexatus Swamp Fishery    Grade Fish     0 Azurecheek Carp   1 Clownfish   2 Black-fin Clownfish   3 Crucian Carp   4 Sea Eel   5 Marlin   6 Catfish   7 Chroma Salmon   8 Dipturus   9 Golden Crayfish   10 Specklefin   BAF Golden Shark    Cutthroat Harbor Fishery    Grade Fish     0 Azurecheek Carp   1 Clownfish   2 Black-fin Clownfish   3 Squid   4 Sea Eel   5 Marlin   6 Mottled Ray   7 Gula Shark   8 Prism Carp   9 Bluefin   10 Gluda Shark   BAF Golden Sailfish    Lake of Tears Fishery    Grade Fish     0 Stone Moroko   1 Crayfish   2 Angelfish   3 Crucian Carp   4 Freshwater Eel   5 Prince Salmon   6 Channel Catfish   7 Electric Eel   8 Crimson Marlin   9 Crimson Squid   10 Makaira   BAF Fairy Snakehead    Celsian Lake Fishery    Grade Fish     0 Stone Moroko   1 Crayfish   2 Angelfish   3 Crucian Carp   4 Sea Eel   5 Prince Salmon   6 Mottled Ray   7 Yellowfin   8 Prism Carp   9 Bluefin   10 Shrieking Eel   BAF Queen Salmon    Seren&amp;rsquo;s Lake Fishery    Grade Fish     0 Azurecheek Carp   1 Clownfish   2 Black-fin Clownfish   3 Squid   4 Freshwater Eel   5 Octopus   6 Eldritch Carp   7 Electric Eel   8 Stone Octopus   9 Golden Eel   10 Makaira   BAF Golden Octopus     Azart Fish Farm    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Jarflower Cnidaria   4 Piranha   5 Cydippida   6 Electric Ray   7 Crimson Tuna   8 Azart Veiltail   9 Pink Slender Catfish   10 Crimson Salmon   BAF Golden Ray    Garden Bridge Fishery    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Jarflower Cnidaria   4 Veiltail   5 Cydippida   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Starsquid   10 Mimic Octopus   BAF Rainbow Cnidaria    Faerie Pond Fishery    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Core Anemone   4 Veiltail   5 Nautiloid   6 Pompom   7 Crimson Tuna   8 Red-Eyed Piranha   9 Starsquid   10 Crimson Salmon   BAF Ammonite    Cloudlake Island    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Jarflower Cnidaria   4 Veiltail   5 Cydippida   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Starsquid   10 Golden Cnidaria   BAF Cloud Anemone    Iridian Fishery    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Core Anemone   4 Piranha   5 Cydippida   6 Electric Ray   7 Crimson Tuna   8 Azart Veiltail   9 Electric Carp   10 Golden Cnidaria   BAF Giant Blue    Verrak Fountain Fishery    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Core Anemone   4 Veiltail   5 Nautiloid   6 Electric Ray   7 Crimson Tuna   8 Red-Eyed Piranha   9 Electric Carp   10 Mimic Octopus   BAF Azart Piranha    Exodor Farmlands    Grade Fish     1 Sea Anemone   2 Hermit Crab   3 Core Anemone   4 Piranha   5 Nautiloid   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Pink Slender Catfish   10 Crimson Salmon   BAF Golden Carp    Dazzling Garden    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Jarflower Cnidaria   4 Piranha   5 Cydippida   6 Pompom   7 Rainbow Anemone   8 Azart Veiltail   9 Starsquid   10 Golden Cnidaria   BAF Jarflower Veiltail    Predator Territory (Iridian Wetlands)    Grade Fish     1 Sea Anemone   2 Ink Squid   3 Core Anemone   4 Piranha   5 Cydippida   6 Electric Ray   7 Crimson Tuna   8 Red-Eyed Piranha   9 Electric Carp   10 Mimic Octopus   BAF Darkfin    </description>
+      <guid>https://tera-mysterium.com/en/activities/fishing/</guid>
+      <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a Fishing Supplies merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an Angler Token Vendor.
+Fishing Supplies merchant and Angler Token Vendor are located at fisheries and major cities.
+Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Karash Filet (Exodor Fish) which can be used as Cooking materials.</description>
     </item>
     
     <item>
@@ -805,7 +879,17 @@ One core equipment is necessary to retool superior Exodor gear into Mythic gear,
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v91-01/</guid>
-      <description>1. Class balance  Priest  Zenobia&amp;rsquo;s Vortex  Increased the chance to crit   Holy Burst  Slightly decreased the chance to crit      2. Dungeon  Removed Forsaken Island (nm/hm) New : Madness Arena (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Plains of the Damned, Elenea Loot table includes Annihilation/Dark Light Brooch, Annihilation/Dark Light Brooch Token, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Dungeon] Desert Wolf (new) quest Added 4 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythical gear promotion material, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Imporatant] Exodor Advance Base quest Added 5 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (hard) (5 man)  Requires level 69 and ilvl 480 to use Instance Matching System Requires 250 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythical gear promotion material, Mythical gear, Exodor rare/superior gear, Kelsaik&amp;rsquo;s style items (weapon skin), and Darkshad Feedstock Added 4 achievements and 2 hidden achievements and 1 server first clear achievement related to the instance  Server first clear achievement will not be imbued immediately and will be given upon checking appropriate clear  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name          3.</description>
+      <description>1. Class balance  Priest  Zenobia&amp;rsquo;s Vortex  Increased the chance to crit   Holy Burst  Slightly decreased the chance to crit      2. Dungeon  Removed Forsaken Island (nm/hm) New : Madness Arena (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Plains of the Damned, Elenea Loot table includes Annihilation/Dark Light Brooch, Annihilation/Dark Light Brooch Token, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Dungeon] Desert Wolf (new) quest Added 4 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (5 man)  Requires level 69 and ilvl 461 to use Instance Matching System Requires 220 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythic gear promotion material, Exodor rare/superior gear, and Darkshad Feedstock Related quest can be acquired upon completing [Imporatant] Exodor Advance Base quest Added 5 achievements related to the instance  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name       New : Kelsaik&amp;rsquo;s Refuge (hard) (5 man)  Requires level 69 and ilvl 480 to use Instance Matching System Requires 250 Adventure Coins, and allows up to 5 entries (10 entries with Elite/VIP status) Located in Verrak Fortress, Exodor Loot table includes Mythic gear promotion material, Mythic gear, Exodor rare/superior gear, Kelsaik&amp;rsquo;s style items (weapon skin), and Darkshad Feedstock Added 4 achievements and 2 hidden achievements and 1 server first clear achievement related to the instance  Server first clear achievement will not be imbued immediately and will be given upon checking appropriate clear  Achievement  Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name Achievement name          3.</description>
+    </item>
+    
+    <item>
+      <title>v91 : Mythic (Kaia&#39;s) Gear</title>
+      <link>https://tera-mysterium.com/en/equipment/v91-mythic/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/equipment/v91-mythic/</guid>
+      <description>Mythic gear is the retool for Annihilation / Dark Light gear, added v91. It is available at all enchantment levels of Annihilation / Dark Light gear, and enchanting is still available after upgrading to Mythic gear.
+One core equipment is necessary to retool superior Exodor gear into Mythic gear, which can be either a Black Core Essence, or Heroic Oath gear. Black Core Essence is available from Muhrak&amp;rsquo;s Workshop by exchanging 10 Black Core Nodules.</description>
     </item>
     
     <item>
@@ -1049,7 +1133,7 @@ One core equipment is necessary to retool superior Exodor gear into Mythic gear,
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v84-05/</guid>
-      <description>1. Dungeon  Demon&amp;rsquo;s Wheel (5-man)  Open until maintenance on 6/27 Requires level 65, and item level 446 to use instance matching system Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) Teleportal is located at Allementheia Outskirts   Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&amp;rsquo;s Claws, Dragon Skull, and [Event] Demoros&amp;rsquo; Supply Box. Mysterious Intel pieces and Dr.</description>
+      <description>1. Dungeon  Demon&amp;rsquo;s Wheel (5-man)  Open until maintenance on 6/27 Requires level 65, and item level 446 to use instance matching system Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) Teleportal is located at Allemantheia Outskirts   Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&amp;rsquo;s Claws, Dragon Skull, and [Event] Demoros&amp;rsquo; Supply Box. Mysterious Intel pieces and Dr.</description>
     </item>
     
     <item>
@@ -1148,7 +1232,7 @@ One core equipment is necessary to retool superior Exodor gear into Mythic gear,
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-01/</guid>
-      <description>1. Balance  Gunner  Bombardment  Changed cooldown start point to the start of missile launch After using skill, if the skill is cancelled before missile launch, then cooldown does not apply      2. Battleground  Battleground matching  Changed to form teams based on player rankings Applies to all battlegrounds with ranking    3. Merchant NPC  Added magic materials merchant in cities (Highwatch, Velika, Allementheia, Kaiator) The following items are sold :  Supreme Metal Enchantment Seal Accessory Morpher Uncommon Accessory Morpher Ancient Accessory Morpher   Added Ancient Accessory Morpher.</description>
+      <description>1. Balance  Gunner  Bombardment  Changed cooldown start point to the start of missile launch After using skill, if the skill is cancelled before missile launch, then cooldown does not apply      2. Battleground  Battleground matching  Changed to form teams based on player rankings Applies to all battlegrounds with ranking    3. Merchant NPC  Added magic materials merchant in cities (Highwatch, Velika, Allemantheia, Kaiator) The following items are sold :  Supreme Metal Enchantment Seal Accessory Morpher Uncommon Accessory Morpher Ancient Accessory Morpher   Added Ancient Accessory Morpher.</description>
     </item>
     
     <item>
@@ -2063,7 +2147,7 @@ Bug fixes  Dreadspire  Fixed issue where player&amp;rsquo;s death location was d
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v59-01/</guid>
-      <description>Update 1. Dungeon  Added new dungeon &amp;lsquo;Demon&amp;rsquo;s Wheel&amp;rsquo;  Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS Teleportal is located near Allementheia Tier 2 Godly accessories, Visionmaker material (VM9), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork / Extensive Alkahest, Goddess&amp;rsquo; Tear, Goldfinger Token, Gold Ticket, etc can be obtained.   Removed Manglemire  2. Skill  Reaper  Soul Reversal  Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to     Mystic  Volley of Curses (Glyph of Enfeeblement)  Changed endurance debuff from 9% to 10%   Aura of the Merciless  Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
+      <description>Update 1. Dungeon  Added new dungeon &amp;lsquo;Demon&amp;rsquo;s Wheel&amp;rsquo;  Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS Teleportal is located near Allemantheia Tier 2 Godly accessories, Visionmaker material (VM9), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork / Extensive Alkahest, Goddess&amp;rsquo; Tear, Goldfinger Token, Gold Ticket, etc can be obtained.   Removed Manglemire  2. Skill  Reaper  Soul Reversal  Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to     Mystic  Volley of Curses (Glyph of Enfeeblement)  Changed endurance debuff from 9% to 10%   Aura of the Merciless  Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
     </item>
     
     <item>
@@ -2326,7 +2410,7 @@ Update 1. New class : Valkyrie  Added new class Valkyrie  Valkyrie is currently 
       
       <guid>https://tera-mysterium.com/en/patch/2016/v48-01/</guid>
       <description>Update: 2016.07.26 - additional sorcerer pve/pvp buffs
-1. Class renewal : Sorcerer  Removed Skills  Removed Ice Needle Removed Fireblast Removed Magma Bomb Removed Overchannel   Burst of Celerity  Changed into passive skill Changed to increase attack speed by 30% -Arcane Pulse Decreased charge by 1 bar, and blast 2 pulses are full charge Increased number of pulses with Overchanneling effect Increased speed of pulse Changed to immediately fire at full charge Increased damage Decreased glyph point for Glyph of Power (common) from 4 to 3 Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3   Mana infusion  Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds Added Glyph of Energy (common)  4 points Decrease cooldown by 30%     Ice Sphere (new)  Replaces Ice Needle Fires Ice Sphere towards the front.</description>
+1. Class renewal : Sorcerer  Removed Skills  Removed Ice Needle Removed Fireblast Removed Magma Bomb Removed Overchannel   Burst of Celerity  Changed into passive skill Changed to increase attack speed by 30% -Arcane Pulse Decreased charge by 1 bar, and blast 2 pulses are full charge Increased number of pulses with Overchanneling effect Increased speed of pulse Changed to immediately fire at full charge Increased damage Decreased glyph point for Glyph of Power (common) from 4 to 3 Decreased glyph point for Glyph of Carving (common, uncommon) from 4 to 3   Mana infusion  Increased mana regeneration to 400-700mp/s at a max of 2000-3500mp over a duration of 5 seconds Added Glyph of Energy (common)  4 points Decrease cooldown by 30%     Frost Sphere  Replaces Ice Needle Fires Frost Sphere towards the front.</description>
     </item>
     
     <item>

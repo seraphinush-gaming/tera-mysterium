@@ -1,0 +1,431 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='TERA blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        Discord
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        Youtube
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Twitch
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Patreon
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        Feedback
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">Appearance :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Discord</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Youtube</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Twitch</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Patreon</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Feedback</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>Appearance :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close-button">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/en/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/activities/">Activities</a>
+</div>
+
+
+<h1 class="items-title">Mystery Merchant</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      
+      <p>Published : Jun 13, 2021 </p>
+      
+      
+    </div>
+    
+    <p>Mystery Merchant is an NPC that sells goods in exchange for special currency called <strong>Mystery Merchant Coin</strong>. For the sake of simplicity, there are two different types of merchants: <strong>City Merchant</strong> and <strong>Wandering Merchant</strong>.</p>
+<h3 id="city-merchant">City Merchant</h3>
+<p><img src="/images/activities/mysteryMerchant_cityMerchantNpc.png" alt="1"></p>
+<p>City Merchants are merchants located specific in the 4 major cities : Velika, Allemantheia, Kaiator, and Highwatch. City Merchant locations are marked on the minimap, making them easy to find. A global system message &ndash; that <strong>Mystery Merchant Starc</strong> has appeared in one of the 4 major cities &ndash; signals that the City Merchant associated to the city will open in 5 minutes. City Merchants remain open for 2 hours.</p>
+<p><img src="/images/activities/mysteryMerchant_cityMerchantMap.png" alt="2"></p>
+<h3 id="wandering-merchant">Wandering Merchant</h3>
+<p>Wandering Merchants are merchants that spawn in various locations across Arborea. Different from City Merchants, spawn locations vary per region, and requires players to search for the merchant in potential spawn locations. Wandering merchants generally spawn around Camps across the map, but there are many exceptions, notably merchants that spawn in city outskirts where there are no camps, and Northern Shara.</p>
+<p>Wandering Merchants spawn for 30 minutes before despawning.</p>
+<p>Wandering Merchants do not appear on Stepstone Isle and in Exodor.</p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Region</th>
+<th align="center">Mystery Merchant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Island of Dawn</td>
+<td align="center">Vardung</td>
+</tr>
+<tr>
+<td align="center">Velika Outskirts</td>
+<td align="center">Veracun</td>
+</tr>
+<tr>
+<td align="center">Allemantheia Outskirts</td>
+<td align="center">Alluman</td>
+</tr>
+<tr>
+<td align="center">Kaiator Outskirts</td>
+<td align="center">Kaidera</td>
+</tr>
+<tr>
+<td align="center">Val Oriyn</td>
+<td align="center">Varrek</td>
+</tr>
+<tr>
+<td align="center">Arcadia</td>
+<td align="center">Arcun</td>
+</tr>
+<tr>
+<td align="center">Val Aureum</td>
+<td align="center">Viadu</td>
+</tr>
+<tr>
+<td align="center">Poporia</td>
+<td align="center">Foretta</td>
+</tr>
+<tr>
+<td align="center">Ostgarath</td>
+<td align="center">Eteral</td>
+</tr>
+<tr>
+<td align="center">Essenia</td>
+<td align="center">Ezart</td>
+</tr>
+<tr>
+<td align="center">Westonia</td>
+<td align="center">Storan</td>
+</tr>
+<tr>
+<td align="center">Val Palrada</td>
+<td align="center">Vaneva</td>
+</tr>
+<tr>
+<td align="center">Val Elenium</td>
+<td align="center">Viace</td>
+</tr>
+<tr>
+<td align="center">Veritas District</td>
+<td align="center">Versa</td>
+</tr>
+<tr>
+<td align="center">Sylvanoth</td>
+<td align="center">Silvette</td>
+</tr>
+<tr>
+<td align="center">Lorcada</td>
+<td align="center">Loahcun</td>
+</tr>
+<tr>
+<td align="center">Val Tirkai</td>
+<td align="center">Lotica</td>
+</tr>
+<tr>
+<td align="center">Helkan District</td>
+<td align="center">Hecurn</td>
+</tr>
+<tr>
+<td align="center">Val Kaeli</td>
+<td align="center">Locarnum</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="mystery-merchant--starc">Mystery Merchant : Starc</h3>
+<p>Starc is a special Wandering Merchant that sells Mystery Merchant Coins. Starc spawns 5 minutes before a City Merchant opens, and the merchant&rsquo;s spawn is announced by a global system message. Mystery Merchant Coin costs 3,210 Gold each, and is <strong>account-base limited</strong> to 3 Mystery Merchant Coins.</p>
+<h3 id="mystery-merchant-coin">Mystery Merchant Coin</h3>
+<p><img src="/images/activities/mysteryMerchant_coin.png" alt="3"></p>
+<p>Mystery Merchant Coin is the currency used to purchase goods from Mystery Merchants. Mystery Merchant Coins can be obtained through various different ingame routes :</p>
+<ul>
+<li>Additional Reward for completing Vanguard Initiative Requests</li>
+<li>Ghillieglade premium instance</li>
+<li>Mystery Merchant Starc</li>
+</ul>
+<h2 id="spawn-mechanism">Spawn Mechanism</h2>
+<p>City Merchant and Wandering Merchants spawn mechanism varies by region and region sets.</p>
+<h3 id="city-merchant-1">City Merchant</h3>
+<p>City Merchants open every 24 hours, and City Merchants rotate every 6 hours. In other words, a City Merchant opens every 6 hours. For instance, if City Merchant in Allemantheia opens at 12:00 then merchant reopens 12:00 the next day. Within the same context, if City Merchant in Allemantheia opens at 12:00 then City Merchant in Highwatch opens 6 hours later at 18:00. The city rotation order is Allemantheia, Highwatch, Velika, and finally Kaiator.</p>
+<h3 id="wandering-merchant-1">Wandering Merchant</h3>
+<p>Wandering Merchants spawn in rotation around <strong>region sets</strong>, with exceptions. Region sets are of the following :</p>
+<p><img src="/images/activities/mysteryMerchant_regionSet.png" alt="4"></p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">Spawn region set</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">Arcadia, Val Aureum</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Poporia, Ostgarath</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Essenia, Westonia</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Val Palrada, Val Elenium, Veritas District</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Slyvanoth, Lorcada</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">Val Tirkai, Helkan District, Val Kaeli</td>
+</tr>
+</tbody>
+</table> </div>
+<p>Wandering Merchant for each region set spawns every 6 hours, and for each region set, a random region from the region set is selected for the Wandering Merchant to spawn in. For example, if Wandering Merchant Arcun is about to spawn in region set 1, then said Wandering Merchant can spawn in either Arcadia or Val Aureum, but not both. In the same context, Arcun can spawn in region set 1 again in 6 hours, again in either Arcadia or Val Aureum.</p>
+<p>Wandering Merchants spawn rotating through region sets 1-6 in order. That is, Wandering Merchant Foretta or Eteral, which spawns in region set 2, will not spawn before Wandering Merchant Arcun or Viadu, which spawns in region set 1. This applies to Wandering Merchants of other region sets as well. In other words, if Wandering Merchant of region set 1 spawns, then the next Wandering Merchant to appear will be from region set 2.</p>
+<p>Wandering Merchant spawns 20 minutes after the Wandering Merchant of the previous region set despawns. For instance, 20 minutes after Mystery Merchant Arcun (region set 1) despawns, Mystery Merchant Foretta or Eteral (region set 2) can spawn.</p>
+<h3 id="wandering-merchant--island-of-dawn">Wandering merchant : Island of Dawn</h3>
+<p>Mystery Merchants on Island of Dawn is an exception to the region sets, and spawn on a separate timer. Generally, Mystery Merchant Vardung spawns every 3-4 hours.</p>
+<h3 id="wandering-merchant--city-outskirts">Wandering merchant : City outskirts</h3>
+<p>Mystery Merchants around major cities is an exception to the region sets, and spawn on a separate timer. Generally, merchants spawn in order of Velika Outskirts, Allemantheia Outskirts, and Kaiator Outskirts with a 4-5 hour term in between spawns.</p>
+<h2 id="listings-wip">Listings (wip)</h2>
+<p>Various items are sold by Mystery Merchants, and varies by region sets.</p>
+<h3 id="330-ground-mounts">330 ground mounts</h3>
+<p>Mystery Merchants in Southern Arun (region set 1 and 2) sell ground mounts with movement speed of 330. At the time of this article update (v107.02), it is the fastest ground mount you can get. Wandering Merchants in each region sell differnt type of 330 mounts :</p>
+<ul>
+<li>Arcadia : Beetle- and Wolf-type mounts</li>
+<li>Val Aureum : Pig- and Cat-type mounts</li>
+<li>Poporia : Struthio- and Car-type mounts</li>
+<li>Ostgarath : Bear- and Tiger-type mounts</li>
+</ul>
+<h2 id="spawn-locations">Spawn locations</h2>
+<p>Spawn locations per region is of the following :</p>
+<h3 id="island-of-dawn">Island of Dawn</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_islandOfDawn.png" alt="loc_islandOfDawn"></p>
+<h3 id="velika-outskirts">Velika Outskirts</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_velikaOutskirts.png" alt="loc_velikaOutskirts"></p>
+<h3 id="allemantheia-outskirts">Allemantheia Outskirts</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_allemantheiaOutskirts.png" alt="loc_AllemantheiaOutskirts"></p>
+<h3 id="kaiator-outskirts">Kaiator Outskirts</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_kaiatorOutskirts.png" alt="loc_kaiatorOutskirts"></p>
+<h3 id="val-oriyn">Val Oriyn</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_valOriyn_01.png" alt="loc_valOriyn_01"></p>
+<p><img src="/images/activities/mysteryMerchant_loc_valOriyn_02.png" alt="loc_valOriyn_02"></p>
+<h3 id="arcadia">Arcadia</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_arcadia_01.png" alt="loc_arcadia_01"></p>
+<p><img src="/images/activities/mysteryMerchant_loc_arcadia_02.png" alt="loc_arcadia_02"></p>
+<h3 id="val-aureum">Val Aureum</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_valAureum.png" alt="loc_valAureum"></p>
+<h3 id="poporia">Poporia</h3>
+<p>![loc_poporia]</p>
+<h3 id="ostgarath">Ostgarath</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_ostgarath.png" alt="loc_ostgarath"></p>
+<h3 id="essenia">Essenia</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_essenia_01.png" alt="loc_essenia_01"></p>
+<p><img src="/images/activities/mysteryMerchant_loc_essenia_02.png" alt="loc_essenia_02"></p>
+<h3 id="westonia">Westonia</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_westonia_01.png" alt="loc_westonia_01">
+<img src="/images/activities/mysteryMerchant_loc_westonia_02.png" alt="loc_westonia_02"></p>
+<h3 id="val-palrada">Val Palrada</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_valPalrada.png" alt="loc_valPalrada"></p>
+<h3 id="val-elenium">Val Elenium</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_valElenium.png" alt="loc_valElenium"></p>
+<h3 id="veritas-district">Veritas District</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_veritasDistrict.png" alt="loc_veritasDistrict"></p>
+<h3 id="sylvanoth">Sylvanoth</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_sylvanoth.png" alt="loc_sylvanoth"></p>
+<h3 id="lorcada">Lorcada</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_lorcada.png" alt="loc_lorcada"></p>
+<h3 id="val-tirkai">Val Tirkai</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_valTirkai.png" alt="loc_valTirkai"></p>
+<h3 id="helkan-district">Helkan District</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_helkanDistrict.png" alt="loc_helkanDistrict"></p>
+<h3 id="val-kaeli">Val Kaeli</h3>
+<p><img src="/images/activities/mysteryMerchant_loc_valKaeli.png" alt="loc_valKaeli"></p>
+<p>Select spawn locations are a courtesy of Mystery Merchants Discord Server</p>
+
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="https://docs.google.com/document/d/1gHRSNWBNUESx-I_c7gI4yNDyP7QDop4M54pAZAgvWyM/">Mystery Merchant FAQ, Mystery Merchants Discord Server</a></li>
+        
+        <li><a href="https://docs.google.com/document/d/1Xt2ZT6BZqH285M2DqxnKoYzBcLhSLAb3-vxNaFwBlbM/">Mystery Merchant locations, Mystery Merchants Discord Server</a></li>
+        
+        <li><a href="https://www.inven.co.kr/board/tera/2152/29252">유랑상인 정보 by 창기사전문, Inven</a></li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>TERA blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

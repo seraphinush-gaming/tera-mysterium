@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on mysterium</title>
+    <link>https://tera-mysterium.com/en/activities/</link>
+    <description>Recent content in Activities on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/en/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mystery Merchant</title>
+      <link>https://tera-mysterium.com/en/activities/mystery-merchant/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/activities/mystery-merchant/</guid>
+      <description>Mystery Merchant is an NPC that sells goods in exchange for special currency called Mystery Merchant Coin. For the sake of simplicity, there are two different types of merchants: City Merchant and Wandering Merchant.
+City Merchant City Merchants are merchants located specific in the 4 major cities : Velika, Allemantheia, Kaiator, and Highwatch. City Merchant locations are marked on the minimap, making them easy to find. A global system message &amp;ndash; that Mystery Merchant Starc has appeared in one of the 4 major cities &amp;ndash; signals that the City Merchant associated to the city will open in 5 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Fishing</title>
+      <link>https://tera-mysterium.com/en/activities/fishing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/activities/fishing/</guid>
+      <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a Fishing Supplies merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an Angler Token Vendor.
+Fishing Supplies merchant and Angler Token Vendor are located at fisheries and major cities.
+Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Karash Filet (Exodor Fish) which can be used as Cooking materials.</description>
+    </item>
+    
+  </channel>
+</rss>

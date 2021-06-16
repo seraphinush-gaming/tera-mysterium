@@ -66,7 +66,7 @@ weight = 1
 
 - v105.01
   - **New dungeon : Damned Citadel**
-  - Dungeon : Reopened anglemire
+  - Dungeon : Reopened Manglemire
   - Dungeon : Reopened Rampaging RK-9 Kennel
   - Dungeon : Reopened [Dungeon Gauntlet] Akalath Quarantine
   - Dungeon (Killing Ground (hard)) : Changed to be unable to spawn Mystic's Motes before combat
@@ -89,8 +89,8 @@ weight = 1
   - Item : Updated Princely Guild Supplies
   - Item : Updated Baronic Guild Supplies
   - Item : Updated Ducal Guild Supplies
-  - Battlground : Closed Gridiron
-  - **Battlground** : Reopened Fraywind Canyon
+  - Battleground : Closed Gridiron
+  - **Battleground** : Reopened Fraywind Canyon
 
 - v105.01.01
 
@@ -98,7 +98,7 @@ weight = 1
 
 - v105.02
   - **New dungeon : Gardan's Trial**
-  - Item : Added Kaia's Soul Gear Box (pl.)
+  - Item : Added Kaia's Soul Gear Box
 - v105.02.01
 
 - v105.02.01
@@ -106,11 +106,11 @@ weight = 1
 - v106.01
   - Battleground : Corsairs' Stronghold balance update
   - Battleground : Fraywind Canyon balance update
-  - Battleground : Added skill efect to eqaulized gear distribution Brooch
+  - Battleground : Added skill efect to equalized gear distribution Brooch
   - **New dungeon** : Harnovog's Trial
   - DPS meter : update
   - Open world : Added named monsters to Exodor
-  - Vanguard : Adjusted to increase Vanguard Iniative credit obtained from Vanguard Request
+  - Vanguard : Adjusted to increase Vanguard Initiative credit obtained from Vanguard Request
   - Shop (Vanguard Initiative Credit Shop) : Adjusted to increase enchanting materials cost
   - Shop (Exodor Justicar Credit Shop) : Adjusted to increase enchanting materials cost
   - Shop (Free Exodor Credit Shop) : Adjusted to increase enchanting materials cost

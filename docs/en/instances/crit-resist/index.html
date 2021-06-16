@@ -1,0 +1,436 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='TERA blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        Discord
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        Youtube
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Twitch
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Patreon
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        Feedback
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">Appearance :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Discord</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Youtube</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Twitch</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Patreon</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Feedback</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>Appearance :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close-button">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/en/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/instances/">Instance guides</a>
+</div>
+
+
+<h1 class="items-title">Dungeon crit resist values</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      
+      <p>Published : Jan 1, 2020 </p>
+      
+      
+    </div>
+    
+    <h2 id="v99">v99</h2>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Dungeon</th>
+<th align="center">Boss</th>
+<th align="center">Level</th>
+<th align="center">target base resistance</th>
+<th align="center">crit resistance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Forbidden Arena [Nightmare Undying Warlord]</td>
+<td align="center">Nightmare Undying Warlord</td>
+<td align="center">73</td>
+<td align="center">90,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Forbidden Arena [Undying Warlord]</td>
+<td align="center">Undying Warlord</td>
+<td align="center">73</td>
+<td align="center">90,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Draakon Arena (hard)</td>
+<td align="center">Nightmare Commander Kalligar</td>
+<td align="center">73</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Draakon Arena</td>
+<td align="center">Commander Kalligar</td>
+<td align="center">73</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Rampaging RK-9 Kennel</td>
+<td align="center">Rampaging RK-9</td>
+<td align="center">73</td>
+<td align="center">43,000</td>
+<td align="center">290</td>
+</tr>
+<tr>
+<td align="center">Corrupted Skynest (hard)</td>
+<td align="center">Nightmare Revived Kelsaik</td>
+<td align="center">Level</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Corrupted Skynest</td>
+<td align="center">Kelsaik</td>
+<td align="center">Level</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Forbidden Arena [Hagufna]</td>
+<td align="center">Hagufna</td>
+<td align="center">73</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Sea of Honor</td>
+<td align="center">Ironfang Dixie</td>
+<td align="center">Level</td>
+<td align="center">40,000</td>
+<td align="center">230</td>
+</tr>
+<tr>
+<td align="center">Core Area</td>
+<td align="center">Maknakh</td>
+<td align="center">Level</td>
+<td align="center">0</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Bahaar&rsquo;s Sanctum</td>
+<td align="center">Phase 1</td>
+<td align="center">Level</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Bahaar&rsquo;s Sanctum</td>
+<td align="center">Phase 2</td>
+<td align="center">Level</td>
+<td align="center">80,000</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Akalath Quarantine</td>
+<td align="center">Akalath Kashir</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">220</td>
+</tr>
+<tr>
+<td align="center">Akalath Quarantine</td>
+<td align="center">Akalath Travan</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">220</td>
+</tr>
+<tr>
+<td align="center">Gossamer Vault (hard)</td>
+<td align="center">Nightmare Gossamer Regent</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Gossamer Vault (hard)</td>
+<td align="center">Hellgramite</td>
+<td align="center">71</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Grotto of Lost Souls (hard)</td>
+<td align="center">Nightmare Kylos</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Grotto of Lost Souls (hard)</td>
+<td align="center">Nightmare Ptakum</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Grotto of Lost Souls (hard)</td>
+<td align="center">Nightmare Nedra</td>
+<td align="center">71</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Antaroth&rsquo;s Abyss (hard)</td>
+<td align="center">Nightmare Antaroth</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Antaroth&rsquo;s Abyss (hard)</td>
+<td align="center">Nightmare Kalioth</td>
+<td align="center">Level</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Antaroth&rsquo;s Abyss (hard)</td>
+<td align="center">Nightmare Ghergof</td>
+<td align="center">71</td>
+<td align="center">20,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Red Refuge</td>
+<td align="center">Argog</td>
+<td align="center">Level</td>
+<td align="center">10,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Red Refuge</td>
+<td align="center">Thormentum</td>
+<td align="center">Level</td>
+<td align="center">10,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Red Refuge</td>
+<td align="center">Kalavese</td>
+<td align="center">Level</td>
+<td align="center">10,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">RK-9 Kennel</td>
+<td align="center">RK-9</td>
+<td align="center">Level</td>
+<td align="center">10,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">RK-9 Kennel</td>
+<td align="center">Hexapleon</td>
+<td align="center">Level</td>
+<td align="center">10,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">RK-9 Kennel</td>
+<td align="center">Ventarun</td>
+<td align="center">70</td>
+<td align="center">10,000</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Training Ground</td>
+<td align="center">Clawrider</td>
+<td align="center">68</td>
+<td align="center">90,000</td>
+<td align="center">300</td>
+</tr>
+</tbody>
+</table> </div>
+
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="https://discord.gg/zY7bbFp">&lsquo;We Hate Math&rsquo; theorycrafting discord</a></li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+</div>
+
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>TERA blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

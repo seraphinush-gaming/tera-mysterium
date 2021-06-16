@@ -17,23 +17,23 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/ko/articles/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <loc>https://tera-mysterium.com/ko/character/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tera-mysterium.com/en/articles/"
+                href="https://tera-mysterium.com/en/character/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://tera-mysterium.com/ko/articles/"
+                href="https://tera-mysterium.com/ko/character/"
                 />
   </url>
   
   <url>
     <loc>https://tera-mysterium.com/ko/tags/2021/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,7 +48,7 @@
   
   <url>
     <loc>https://tera-mysterium.com/ko/patch/2021/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,6 +58,101 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://tera-mysterium.com/ko/patch/2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/patch/2021/v107-02-01/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v107-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v107-02-01/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/categories/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/categories/patch-notes/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/patch-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/patch-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/tags/raw/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/tags/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/tags/v107/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/v107/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/v107/"
                 />
   </url>
   
@@ -73,86 +168,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://tera-mysterium.com/ko/patch/2021/v107-02/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/categories/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/categories/patch-notes/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/patch-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/patch-notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/tags/raw/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/tags/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/tags/v107/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/v107/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/v107/"
                 />
   </url>
   
@@ -1242,23 +1257,23 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/ko/categories/article/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <loc>https://tera-mysterium.com/ko/categories/character/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tera-mysterium.com/en/categories/article/"
+                href="https://tera-mysterium.com/en/categories/character/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/article/"
+                href="https://tera-mysterium.com/ko/categories/character/"
                 />
   </url>
   
   <url>
     <loc>https://tera-mysterium.com/ko/tags/companion/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1273,7 +1288,7 @@
   
   <url>
     <loc>https://tera-mysterium.com/ko/tags/partner/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1288,7 +1303,7 @@
   
   <url>
     <loc>https://tera-mysterium.com/ko/tags/pet/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1302,17 +1317,17 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/ko/articles/companions/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+    <loc>https://tera-mysterium.com/ko/character/companions/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tera-mysterium.com/en/articles/companions/"
+                href="https://tera-mysterium.com/en/character/companions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://tera-mysterium.com/ko/articles/companions/"
+                href="https://tera-mysterium.com/ko/character/companions/"
                 />
   </url>
   

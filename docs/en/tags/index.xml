@@ -6,7 +6,7 @@
     <description>Recent content in Tags on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>2021</title>
       <link>https://tera-mysterium.com/en/tags/2021/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/tags/2021/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>translation</title>
       <link>https://tera-mysterium.com/en/tags/translation/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/tags/translation/</guid>
       <description></description>
@@ -32,9 +32,36 @@
     <item>
       <title>v107</title>
       <link>https://tera-mysterium.com/en/tags/v107/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/tags/v107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kaia&#39;s soul</title>
+      <link>https://tera-mysterium.com/en/tags/kaias-soul/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/kaias-soul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>v102</title>
+      <link>https://tera-mysterium.com/en/tags/v102/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/v102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mystery merchant</title>
+      <link>https://tera-mysterium.com/en/tags/mystery-merchant/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/mystery-merchant/</guid>
       <description></description>
     </item>
     
@@ -183,15 +210,6 @@
     </item>
     
     <item>
-      <title>v102</title>
-      <link>https://tera-mysterium.com/en/tags/v102/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/tags/v102/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>v101</title>
       <link>https://tera-mysterium.com/en/tags/v101/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
@@ -242,6 +260,42 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/tags/v96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>catalepticon</title>
+      <link>https://tera-mysterium.com/en/tags/catalepticon/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/catalepticon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corrupted skynest</title>
+      <link>https://tera-mysterium.com/en/tags/corrupted-skynest/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/corrupted-skynest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>killing grounds</title>
+      <link>https://tera-mysterium.com/en/tags/killing-grounds/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/killing-grounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rk-9 kennel</title>
+      <link>https://tera-mysterium.com/en/tags/rk-9-kennel/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/rk-9-kennel/</guid>
       <description></description>
     </item>
     
@@ -318,33 +372,6 @@
     </item>
     
     <item>
-      <title>gear</title>
-      <link>https://tera-mysterium.com/en/tags/gear/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/tags/gear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kaia</title>
-      <link>https://tera-mysterium.com/en/tags/kaia/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/tags/kaia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mythic</title>
-      <link>https://tera-mysterium.com/en/tags/mythic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/tags/mythic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>partner</title>
       <link>https://tera-mysterium.com/en/tags/partner/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -377,6 +404,24 @@
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kaia</title>
+      <link>https://tera-mysterium.com/en/tags/kaia/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/kaia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mythic</title>
+      <link>https://tera-mysterium.com/en/tags/mythic/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/tags/mythic/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in patch notes on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/categories/patch-notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 06월 16일 업데이트 안내 (v107.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v107-02-01/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v107-02-01/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 이벤트  던전 드랍 확률 1.5배 증가 이벤트가 진행됩니다.  기간: 2021년 6월 16일 점검 이후 ~ 2021년 6월 23일 점검 전까지   강화 성공 확률 2배 증가 이벤트가 진행됩니다.  기간: 2021년 6월 16일 점검 이후 ~ 2021년 6월 20일 23:59까지    3. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.     아이템명 가격(블루) 판매 시작일 판매 종료일     [랜덤]스쿨린 컬렉션 상자(엘린전용) 40 2021-06-16 점검 후 2021-07-07 점검 전   [확정]불멸의 투사 의상 세트 1450 2021-06-16 점검 후 2021-06-23 점검 전   불멸의 투사 대검(무사) 1250 2021-06-16 점검 후 2021-06-23 점검 전   루크미아의 강화 재료 상자 II 30 2021-06-16 점검 후 2021-06-20 23:59   폭군의 강화 재료 상자 II 30 2021-06-16 점검 후 2021-06-20 23:59    </description>
+    </item>
     
     <item>
       <title>2021년 06월 09일 업데이트 안내 (v107.02)</title>

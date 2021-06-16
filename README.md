@@ -7,6 +7,32 @@ Blog repository for TERA blog by seraphinush-gaming
 
 Visit blog at : [https://tera-mysterium.com/](https://tera-mysterium.com)
 
+## Index
+<details>
+
+    - achievements
+      - dungeons
+      - encounters
+      - extra
+      - progression
+      - tours
+    - activities
+    - character
+    - equipment
+    - instance
+    - patch
+      - 2016
+      - 2017
+      - 2018
+      - 2019
+      - 2020
+      - 2021
+    - suggestions
+      - 2020
+      - 2021
+
+</details>
+
 ## Discord webhook via IFTTT
 Discord
 - Go to 'Server Settings > Webhooks'
