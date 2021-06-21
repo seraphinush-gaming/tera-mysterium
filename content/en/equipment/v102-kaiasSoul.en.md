@@ -23,7 +23,6 @@ Kaia's Soul gear has 3 Random option slots and Infusion option slots. Random opt
 
 Kaia's Ferocity and Kaia's Sanity gear cannot be upgraded to Kaia's Soul gear.
 
-
 In v105.02, **Kaia's Soul Gear Box** was added. 
 
 ## Random options
@@ -59,4 +58,4 @@ For Hand Armor and Foot Armor, Tyrant's Belt and Magic Alloy is required up to +
 
 **\*** Hand Armor and Foot Armor : Tyrant's Belt (1), Tyrant's Soul (2)
 
-Enchantment on Kaia's Soul gear does not downgrade, however does get damaged quite often, and requires a costly amount of either Magic Alloy and Magic Ingot appropriate to the enchantment.
+Enchantment on Kaia's Soul gear does not downgrade, however does get damaged quite often, and requires a costly amount of either Magic Alloy or Magic Ingot appropriate to the enchantment.

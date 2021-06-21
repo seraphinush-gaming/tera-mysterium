@@ -1,6 +1,6 @@
 +++
 date = "2019-12-19"
-title = "v91 : Mythic (Kaia's) Gear"
+title = "v91 : Kaia's Gear"
 categories = ["equipment"]
 tags = ["v91", "mythic", "kaia"]
 sources = [
@@ -14,7 +14,7 @@ lastmod = "2021-06-13"
 
 ![1]
 
-Mythic gear is the **retool** for Annihilation / Dark Light gear, added v91. It is available at all enchantment levels of Annihilation / Dark Light gear, and enchanting is still available after upgrading to Mythic gear.
+Kaia's gear is the **retool** for Annihilation / Dark Light gear, added v91. It is the first of the Mythic rarity gear, which therefore termed itself to be generally known as Mythic gear. It is available at all enchantment levels of Annihilation / Dark Light gear, and enchanting is still available after upgrading to Mythic gear.
 
 One **core equipment** is necessary to retool superior Exodor gear into Mythic gear, which can be either a **Black Core Essence**, or Heroic Oath gear. ~~Black Core Essence is available from Muhrak's Workshop by exchanging 10 Black Core Nodules. Using the latter option decreases the amount of materials and gold necessary. Any Heroic Oath gear can be used as long as its for the same location. For example, Heroic Oath Sleeves can be used as core equipment to upgrade Annihilation Gloves into Kaia's Fury Gloves. Upgrading is guaranteed.~~
 
