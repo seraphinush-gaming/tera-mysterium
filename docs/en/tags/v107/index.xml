@@ -6,10 +6,20 @@
     <description>Recent content in v107 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/v107/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.06.23 patch notes (v107.02.02) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v107-02-02/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v107-02-02/</guid>
+      <description>Update 1. Service stabilization  Proceeded with structural stabilization work to minimization server instability  2. Item  Changed to be able to discard 1-day Summer Festival style cosmetic  3. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  (TERA KR exclusive additional sale listing)
+ 6/30(수) 점검 이후부터 7/28(수) 점검 전까지 테라 샵에서 아래 상품들이 여름 특별 할인으로 가격이 일시 조정될 예정입니다.  (TERA KR exclusive discount sale listing)</description>
+    </item>
     
     <item>
       <title>2021.06.16 patch notes (v107.02.01) | TERA KR</title>

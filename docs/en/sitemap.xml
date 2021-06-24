@@ -47,11 +47,6 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/migration/</loc>
-    <lastmod>2021-04-06T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/achievements/tours/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -132,73 +127,8 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/categories/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/categories/equipment/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/mahtnan/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/v108/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/equipment/v108-mahtnan/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/en/tags/2021/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -213,7 +143,7 @@
   
   <url>
     <loc>https://tera-mysterium.com/en/patch/2021/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -224,6 +154,121 @@
                 hreflang="en"
                 href="https://tera-mysterium.com/en/patch/2021/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/patch/2021/v107-02-02/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v107-02-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v107-02-02/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/patch-notes/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/patch-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/patch-notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/translation/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/v107/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/v107/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/v107/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/equipment/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/mahtnan/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/v108/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/equipment/v108-mahtnan/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -238,41 +283,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tera-mysterium.com/en/patch/2021/v107-02-01/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/categories/patch-notes/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/patch-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/patch-notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/translation/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/tags/v107/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/v107/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/v107/"
                 />
   </url>
   

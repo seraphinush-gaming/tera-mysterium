@@ -6,10 +6,20 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/patch/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 06월 23일 업데이트 안내 (v107)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v107-02-02/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v107-02-02/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 아이템  뿔갈이 축제를 통해 획득할 수 있는 1일 기간제 스타일 아이템의 속성이 [파괴 가능]으로 변경됩니다.  3. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.  (TERA KR exclusive additional sale listing)
+ 6/30(수) 점검 이후부터 7/28(수) 점검 전까지 테라 샵에서 아래 상품들이 여름 특별 할인으로 가격이 일시 조정될 예정입니다.  (TERA KR exclusive discount sale listing)</description>
+    </item>
     
     <item>
       <title>2021년 06월 16일 업데이트 안내 (v107.02.01)</title>

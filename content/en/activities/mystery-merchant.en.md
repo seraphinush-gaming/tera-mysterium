@@ -51,6 +51,8 @@ City Merchants are merchants located specific in the 4 major cities : Velika, Al
  
 ![2]
 
+TERA NA v106.02 : City Merchant spawns in all channels.
+
 ### Wandering Merchant
 Wandering Merchants are merchants that spawn in various locations across Arborea. Different from City Merchants, spawn locations vary per region, and requires players to search for the merchant in potential spawn locations. Wandering merchants generally spawn around Camps across the map, but there are many exceptions, notably merchants that spawn in city outskirts where there are no camps, and Northern Shara.
 
@@ -80,8 +82,12 @@ Wandering Merchants do not appear on Stepstone Isle and in Exodor.
 | Helkan District | Hecurn |
 | Val Kaeli | Locarnum |
 
+TERA NA v106.02 : Wandering Merchants spawn in all channels.
+
 ### Mystery Merchant : Starc
 Starc is a special Wandering Merchant that sells Mystery Merchant Coins. Starc spawns 5 minutes before a City Merchant opens, and the merchant's spawn is announced by a global system message. Mystery Merchant Coin costs 3,210 Gold each, and is **account-base limited** to 3 Mystery Merchant Coins.
+
+TERA NA v106.02 : Mystery Merchant Starc spawns in all channels.
 
 ### Mystery Merchant Coin
 

@@ -18,7 +18,7 @@ Kaia's gear is the **retool** for Annihilation / Dark Light gear, added v91. It 
 
 One **core equipment** is necessary to retool superior Exodor gear into Mythic gear, which can be either a **Black Core Essence**, or Heroic Oath gear. ~~Black Core Essence is available from Muhrak's Workshop by exchanging 10 Black Core Nodules. Using the latter option decreases the amount of materials and gold necessary. Any Heroic Oath gear can be used as long as its for the same location. For example, Heroic Oath Sleeves can be used as core equipment to upgrade Annihilation Gloves into Kaia's Fury Gloves. Upgrading is guaranteed.~~
 
-Future update made it much easier to upgrade to Kaia's gear, requiring only a Improved Dark Shard Feedstock.
+Future update made it much easier to upgrade to Kaia's gear, requiring only an Improved Dark Shard Feedstock.
 
 Upgrading to Mythic gear transfers over the enchantment level and random options, but Infused options and Etchings will dissolve.
 
