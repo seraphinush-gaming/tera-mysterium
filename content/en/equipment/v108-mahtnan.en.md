@@ -33,23 +33,23 @@ Possible Unique options and effects are the following :
 #### Weapon
 | Option | Description |
 | :-: | - |
-| Magical Storm | Increase MP cost by 2 times, increase skill damage by n%, increase effect of healing skills by n% |
-| Vicious Curse | Chance to apply Curse abnormality to target upon successful hit |
-| Spiritual Supremacy | Decrease cooldown of Draconis (Crit Power) passives by n seconds |
-| Deteremined Strike | Decrease Attack Speed by n%, increase damage by n%, increase effect of healing skills by n% |
-| Blood Predator | Recover n% of damage dealt as HP |
-| Enrage Subjugation | Increase damage to enraged monsters by n% |
+| Magical Rainstorm | Increase MP cost by 2 times, increase skill damage and effect of healing skills by (4/5/6/7/8)% |
+| Vicious Curse | (10/20/30/40/50)% chance to apply effect to decrease Physical Resistance and Magical Resistance to target upon successful hit, stacks up to 100 time |
+| Spiritual Supremacy | Spiritual Supremacy | Decrease cooldown of passives with 'increase Crit Power' effect by (7/9/11/13/15) seconds |
+| Deteremined Strike | Decrease attack speed by 10%, increase skill damage and effect of healing skills by (4/5/6/7/8)% |
+| Blood Predator | Recover (0.01/0.015/0.02/0.025/0.03)% of damage dealt as HP |
+| Enrage Subjugation | Increase damage to enraged monsters by (8/10/12/14/16)% |
 | Mark of Extinction | Chance to apply Extinction abnormality to target upon successful hit |
-| Pledge of Blood | Decrease HP received by n%, increase damage by n%, increase effect of healing skills by n% |
-| Song of Courage | Increase Magical and Physical Amplification of self and nearby allies by n% |
+| Pledge of Blood | Decrease healing received by 10/20/30/40/50)%, increase skill damage and effect of healing skills by (2/4/6/8/10)% |
+| Song of Courage | Increase Magical and Physical Amplification of self and nearby allies by (2/2.5/3/3.5/4)% |
 
 #### Armor 
 | Option | Description |
 | :-: | - |
-| Bone Etched Lesson | Apply effect to Endurance by n when hit by large monsters |
-| Counter Punch | Apply a barrier upon using Retaliate (90 second cooldown) |
-| Spiritual Guard | Decrease damage received by n% while Draconis (Crit Power) passive is active |
-| Survivor | Decrease critical damage received by n% |
+| Bone Etched Lesson | Apply effect to increase Endurance by (1/1/2/2/3) upon hit by large monsters (stack up to 20/30/20/25/25 times) |
+| Counter Punch | Apply a barrier that can absorb up to (60k/80k/100k/120k/140k) damage for 6 seconds upon using Retaliate, 90 second cooldown |
+| Spiritual Guard | Decrease damage received by (2/4/6/8/10)% while passives with 'increase Crit Power' is active |
+| Survivor | Decrease critical damage received from monsters by (8/11/14/17/20)% |
 | Perfection | Decrease damage received by n% when HP is above 80% |
 | Sanctuary Guardian | Increase healing received by n% |
 | Heightened Reflexes | Increase Critical Resistance by n |

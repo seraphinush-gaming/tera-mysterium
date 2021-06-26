@@ -6,13 +6,22 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2021년 06월 23일 업데이트 안내 (v107)</title>
+      <title>2021년 06월 30일 업데이트 안내 (v108.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v108-01/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v108-01/</guid>
+      <description>업데이트 1. 던전  신규 던전: 코어 융합소가 추가됩니다. (5인 파티 던전)     코어 융합소      입장 횟수 없음   모험의 주화 280   입장 레벨 70   매칭 장비 레벨 504       클리어 보상  옵션 고정 재료, 옵션 승급 스크롤, 마흐트난 장비 상자, 마흐트난 강화 재료, 카이아의 허리띠, 각인서 재료, 전설 성물/유물, 카드 등을 획득할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>2021년 06월 23일 업데이트 안내 (v107.02.02)</title>
       <link>https://tera-mysterium.com/ko/patch/2021/v107-02-02/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       
