@@ -89,7 +89,7 @@ weight = 1
   - Item : Updated Princely Guild Supplies
   - Item : Updated Baronic Guild Supplies
   - Item : Updated Ducal Guild Supplies
-  - Battleground : Closed Gridiron
+  - Battleground : Removed Gridiron
   - **Battleground** : Reopened Fraywind Canyon
 
 - v105.01.01
@@ -147,6 +147,44 @@ weight = 1
 - v107.02
 
 - v107.02.01
+
+- v108.01
+  - **New dungeon : Core Reactor (pl.)**
+  - **New dungeon : Encroached Damned Citadel (pl.)**
+  - Dungeon : Removed Gossamer Vault
+  - Dungeon : Removed Ruinous Manor
+  - Dungeon : Removed Akalath Quarantine [Conquest]
+  - Dungeon : Removed Catalepticon
+  - Dungeon : Removed Killing Grounds
+  - Dungeon : Removed Draakon Arena
+  - Dungeon : Removed Forbidden Arena [Undying Warlord]
+  - Dungeon : Removed Corrupted Skynest
+  - Dungeon : Removed Ruinous Manor (hard)
+  - Dungeon : Removed Killing Grounds (hard)
+  - Dungeon : Removed Catalepticon (hard)
+  - Dungeon : Removed Corrupted Skynest (hard)
+  - Dungeon : Removed Rampaging RK-9 Kennel
+  - Dungeon : Removed Commander's Residence
+  - Dungeon : Reopened Abscess
+  - Dungeon : Reopened Velik's Hold
+  - Dungeon : Reopened Grotto of Lost Souls (hard)
+  - **New gear : Mahtnan gear (pl.)**
+  - **New feature : Succession system (pl.)**
+  - **New feature : Option Revert (pl.)**
+  - Combat : Changed how piercing / ignore option is applied
+  - Class balance (Berserker)
+  - Class balance (Warrior)
+  - Class balance (Sorcerer)
+  - Class balance (Archer)
+  - Class balance (Lancer)
+  - Class balance (Ninja)
+  - Class balance (Reaper)
+  - Class balance (Gunner)
+  - Combat : Disabled equipment swap upon using select skill or receiving select skill effect
+  - **New item : Campfire**
+  - Battleground : Fraywind Canyon balance update
+  - **New feature : Cross-server LFG and Instance Matching system**
+  - **New feature : Character Customization Gallery (pl.)**
 
 ## July
 
