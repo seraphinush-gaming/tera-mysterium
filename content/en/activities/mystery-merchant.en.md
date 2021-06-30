@@ -183,7 +183,9 @@ Spawn locations per region is of the following :
 
 ### Poporia
 
-![loc_poporia]
+![loc_poporia_01]
+
+![loc_poporia_02]
 
 ### Ostgarath
 
@@ -198,6 +200,7 @@ Spawn locations per region is of the following :
 ### Westonia
 
 ![loc_westonia_01]
+
 ![loc_westonia_02]
 
 ### Val Palrada

@@ -16,6 +16,7 @@ lastmod = "2021-06-14"
 [3]: /images/activities/fishing_auto.png
 [4]: /images/activities/fishing_fishDelivery.png
 [5]: /images/activities/fishing_crateDelivery.png
+[6]: /images/activities/fishing_loc_exodorHidden.png
 
 [icon_fishingRod]: /images/activities/fishing_icon_fishingRod.png
 [icon_bait]: /images/activities/fishing_icon_bait.png
@@ -121,7 +122,7 @@ Upgrading Xermetal, Ash Sapling, and Fairywing Rod requires many Angler Tokens :
 
 Bait I can be purchased from a Fishing Supplies merchant with Gold.
 
-Bait II-V can only be crafted by Processing.
+Bait II-V can only be crafted through the Processing profession.
 
 Bait I~V and Angleworm I-V cannot be used at Exodor fisheries
 
@@ -147,7 +148,7 @@ Angleworm I-V can be exchanged from a Angler Token Vendor for Angler Token. Angl
 
 ![icon_anglersWhiskers]
 
-Angler's Whiskers is an Armor: Mask slot item to help decreases waiting time on fish bite and auto-fishing time. It can be upgraded to tier X, however requires multiple Angler's Whiskers, lots of Pulsating Essences, and good RNG.
+Angler's Whiskers is an Armor: Mask slot item to help decrease waiting time on fish bite and auto-fishing time. It can be upgraded to tier X, however requires multiple Angler's Whiskers, lots of Pulsating Essences, and good RNG.
 
 Angler's Whiskers can be crafted through the Processing profession.
 
@@ -249,6 +250,8 @@ In v103, **[Daily] Gathering at Exodor Fishery** Vanguard Request is added. This
 | BAF | Golden Ray | Rainbow Cnidaria | Ammonite | Cloud Anemone | Giant Blue | Azart Piranha |
 
 ### Exodor fishery : Hidden locations
+
+![6]
 
 || Exodor Farmlands | Dazzling Garden | Predator Territory |
 | :-: | :-: | :-: | :-: |

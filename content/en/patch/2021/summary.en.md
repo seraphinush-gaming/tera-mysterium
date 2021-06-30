@@ -138,7 +138,7 @@ weight = 1
   - Item : Added effect to Angleworm bait items
   - UI : Updated Boss Gauge Info
   - Feature : Updated monster's attack range display
-  - **New feature** : Effect icon management system (pl.)
+  - **New feature** : Effect Management system
 
 ## June
 
