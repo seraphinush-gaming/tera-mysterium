@@ -6,10 +6,19 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 07월 02일 업데이트 안내 (v108.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v108-01-01/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v108-01-01/</guid>
+      <description>업데이트 1. 아이템 및 장비  마흐트난 장비 성능이 상향 조정됩니다.     등급 치명타 유발 몬스터 추가 피해 강화 시 증폭 및 저항 상승량 PVP 방어력 증가 MP 회복 옵션 최대 HP 증가 최대 MP 증가     희귀 파츠 별 10 무기 10% 3% -&amp;gt; 6% 갑옷 35, 장갑 / 신발 25 갑옷 매 5초 MP 400 회복 신발 HP +46141 (기본대비 +18000) 장갑 MP 500 증가   전설 파츠 별 20 무기 15% 3% -&amp;gt; 6% 갑옷 35, 장갑 / 신발 25 갑옷 매 5초 MP 400 회복 신발 HP +46141 (기본대비 +18000) 장갑 MP 500 증가   신화 파츠 별 30 무기 20% 3% -&amp;gt; 6% 갑옷 35, 장갑 / 신발 25 갑옷 매 5초 MP 400 회복 신발 HP +46141 (기본대비 +18000) 장갑 MP 500 증가       각 파츠 별로 치명타 유발 수치가 추가됩니다.</description>
+    </item>
     
     <item>
       <title>2021년 06월 30일 업데이트 안내 (v108.01)</title>

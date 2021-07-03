@@ -21,7 +21,7 @@ window.addEventListener('load', function () {
 
       // background
       const scrollY = document.body.style.top;
-      document.body.style.position = '';
+      document.body.style.overflowY = '';
       document.body.style.top = '';
       window.scrollTo(0, parseInt(scrollY || '0') * -1);
     }, parseFloat(animationDuration) * 1000);
@@ -39,7 +39,7 @@ window.addEventListener('load', function () {
 
       // background
       document.body.style.top = '-' + window.scrollY + 'px';
-      document.body.style.position = 'fixed';
+      document.body.style.overflowY = 'hidden';
     }
   }
 
