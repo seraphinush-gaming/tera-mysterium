@@ -1,0 +1,892 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='TERA blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        디스코드
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        유튜브
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        트위치
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        페이트리온
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        피드백
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">디자인 :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>디스코드</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>유튜브</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>트위치</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>페이트리온</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>피드백</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>디자인 :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close-button">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/ko/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/ko/activities/">컨텐츠</a>
+</div>
+
+
+<h1 class="items-title">Fishing</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      
+      <p>Published : Jan 1, 2020 </p>
+      
+      
+    </div>
+    
+    <p><img src="/images/activities/fishing_main.png" alt="1"></p>
+<p>낚시는 여유롭게 즐길 수 있는 오픈 월드 컨텐츠입니다. 물고기를 낚기 위해 <strong>미끼 아이템</strong>이랑 <strong>낚싯대</strong>가 필요합니다. 미끼 아이템이랑 낚싯대 모두 [낚시 잡화 상인]에게 골드로 구매할 수 있으며, 높은 등급의 낚싯대나 미끼 아이템의 경우 [낚시 증표 상인]에게 <strong>낚시꾼의 증표</strong>로 구매할 수 있습니다.</p>
+<p>[낚시 잡화 상인], [낚시 증표 상인]은 낚시터및 대도시에 위치하고 있습니다.</p>
+<p>낚은 물고기를 특정 NPC에게 납품하여 골드나 아이템을 획득 수 있으며, 분해 시 요리 제작에 사용할 수 있는 생선 살 (아르보레아 물고기)이나 키라쉬 살코기 (엑소도르 물고기)를 획득 수 있습니다.</p>
+<p><strong>낚시는 PVE나 PVP에 아무런 영향을 미치지 않습니다.</strong></p>
+<h2 id="이용-방법">이용 방법</h2>
+<p>With 미끼 and 낚싯대 in hand, players can head over to a fishery to start fishing. Before casting a fishing line with the 낚싯대, 미끼 must be toggled on. This can be done through Inventory, players can right-click toggle to activate a 미끼 - appropriate effect icon indicates that the 미끼 is active. Once toggled on, players can right-click the 낚싯대 to cast a line. 낚싯대 can be right-click held to cast the line farther away.</p>
+<p>미끼 아이템이랑 낚싯대는 스킬 슬롯에 등록하실 수 있습니다.</p>
+<p>When a 물고기 bites, players can press the 액션키 (default : F) to manually catch the 물고기, or wait a few minutes for the system to automatically catch the 물고기 for you. Manual fishing is a lot quicker but requires more effort as difficulty increases with the 등급 of the 물고기.</p>
+<h2 id="수동-낚시">수동 낚시</h2>
+<p><img src="/images/activities/fishing_manual.png" alt="2"></p>
+<p>물고기를 수동으로 낚고 싶다면, 입질이 오면 <strong>미니게임</strong>을 진행하셔야 됩니다. 시간제한 안에 물고기를 적절히 당겨 왼쪽에 있는 직사각형 상자를 오른쪽 끝으로 당기는게 미니게임의 주 목적입니다. 물고기는 액션키 (기본 : F)로 당길 수 있으며 물고기랑 직사각형 상자가 겹처있을때 상자가 오른쪽으로 움직입니다.</p>
+<p>미니 게임의 난이도는 잡는 물고기의 등급에 따라 높혀집니다 - 직사각형 상자의 폭이 줄어들고, 잡는 물고기는 더 강하게 그리고 더 자주 저항합니다.</p>
+<p><strong>생선 샐러드</strong>를 사용하여 난이도를 낮출 수 있습니다.</p>
+<p>수동 낚시는 수동 낚시 후, 클라이언트가 플레이어를 위해 낚시대를 던져주지 않습니다.</p>
+<h2 id="자동-낚시">자동 낚시</h2>
+<p><img src="/images/activities/fishing_auto.png" alt="3"></p>
+<p>Instead of pressing the 액션키 (default : F) to manually 물고기, fishing can be automated when left idle for 3 minutes of auto-fishing time. After waiting and the 물고기 is automatically caught, and the system recasts a fishing line. Players can switch to manual fishing at any point during the auto-fishing time.</p>
+<p>Automatic fishing will continue until players runs out of 미끼 or inventory is full.</p>
+<p>Auto-fishing time can be reduced by using <strong>요정나래 낚싯대</strong>, or equipping <strong>낚시꾼의 수염 장식</strong> and <strong>Card effects</strong> from Card Collection.</p>
+<p>Generally auto-fishing cannot catch 대물 natively, and requires a Companion with <strong>대물 Auto-Fishing</strong> ability to be summoned.</p>
+<h2 id="대물">대물</h2>
+<p>Rare 물고기 called <strong>대물</strong>, short for Big-A*s 물고기 have a rare chance to bite. 대물 can be delivered to a 물고기 Associated Fishmonger NPC for at least 500 Gold.</p>
+<p>There are several things that can increase the chance to catch a 대물 :</p>
+<ul>
+<li>물푸레 낚싯대 (아이템)</li>
+<li>특별한 미끼 예) 포포리 떡밥, 무지개 떡밥 (아이템)</li>
+<li>클로버의 행운 (아이템)</li>
+<li>Backup Fisherman Gifted Skill (서번트)</li>
+</ul>
+<h2 id="낚싯대">낚싯대</h2>
+<p><img src="/images/activities/fishing_icon_fishingRod.png" alt="icon_fishingRod"></p>
+<p><strong>낡은 낚싯대</strong>는 낚시 잡화 상인에게 골드로 구매할 수 있고 더 높은 등급의 낚싯대는 낚시 증표 상인에게 낚시꾼의 증표로 구매 후 승급 할 수 있습니다.</p>
+<p>낡은 낚싯대 외에, 3가지 종류의 낚싯대가 있습니다 : : 강철, 물푸레, 요정나래 낚시대. 특별한 효과가 있으며 8단계까지 승급이 가능합니다.</p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">낚싯대</th>
+<th align="center">효과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">낡은 낚싯대</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>강철 낚싯대</strong></td>
+<td align="center">높은 등급의 물고기 낚을 확률 증가, 입질 대기 시간 감소</td>
+</tr>
+<tr>
+<td align="center"><strong>물푸레 낚싯대</strong></td>
+<td align="center">대물 낚을 확률 증가</td>
+</tr>
+<tr>
+<td align="center"><strong>요정나래 낚싯대</strong></td>
+<td align="center">자동 낚시 대기 시간 감소</td>
+</tr>
+</tbody>
+</table> </div>
+<p>낡은 낚싯대 승급이 불가능합니다.</p>
+<p>강철, 물푸레, 요정나래 낚싯대 승급할 때 낚시꾼의 증표가 필요합니다 :</p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">단계</th>
+<th align="center">낚시꾼의 증표</th>
+<th align="center">루비</th>
+<th align="center">사파이어</th>
+<th align="center">에메랄드</th>
+<th align="center">다이아몬드</th>
+<th align="center">재료 <strong>*</strong></th>
+<th align="center">원석 <strong>*</strong></th>
+<th align="center">주괴 <strong>*</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">II</td>
+<td align="center">200</td>
+<td align="center">5</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">10</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">III</td>
+<td align="center">1,000</td>
+<td align="center">-</td>
+<td align="center">5</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">15</td>
+<td align="center">20</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">IV</td>
+<td align="center">3,000</td>
+<td align="center">-</td>
+<td align="center">20</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">30</td>
+<td align="center">40</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">V</td>
+<td align="center">6,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">15</td>
+<td align="center">-</td>
+<td align="center">40</td>
+<td align="center">110</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">VI</td>
+<td align="center">12,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">60</td>
+<td align="center">-</td>
+<td align="center">60</td>
+<td align="center">220</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">VII</td>
+<td align="center">24,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">25</td>
+<td align="center">100</td>
+<td align="center">-</td>
+<td align="center">60</td>
+</tr>
+<tr>
+<td align="center">VIII</td>
+<td align="center">48,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">100</td>
+<td align="center">120</td>
+<td align="center">-</td>
+<td align="center">140</td>
+</tr>
+<tr>
+<td align="center">합계</td>
+<td align="center">94,200</td>
+<td align="center">5</td>
+<td align="center">25</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">375</td>
+<td align="center">370</td>
+<td align="center">200</td>
+</tr>
+</tbody>
+</table> </div>
+<p><strong>*</strong> 강철 낚싯대 승급 시 재료 및 원석, 주괴는 석재, 코발트 원석, 그리고 코발트 주괴가 재료로 사용됩니다.</p>
+<p><strong>*</strong> 물푸레 낚싯대 승급 시 재료 및 원석, 주괴는 질긴 잡초, 셀레시움 원석, 그리고 셀레시움 주괴가 재료로 사용됩니다.</p>
+<p><strong>*</strong> 요정나래 낚싯대 승급 시 재료 및 원석, 주괴는 정기 에너지, 테라리움 원석, 그리고 테라리움 주괴가 재료로 사용됩니다.</p>
+<h2 id="떡밥">떡밥</h2>
+<p><img src="/images/activities/fishing_icon_bait.png" alt="icon_bait"></p>
+<p>최하급 떡밥은 [낚시 잡화 상인]에게 골드로 구매할 수 있습니다.</p>
+<p>하급~최상급 떡밥은 가공 제작으로만 구할 수 있습니다.</p>
+<p>최하급~최상급 떡밥 그리고 최하급~최상급 지렁이는 엑소도르 낚시터에서 사용하실 수 없습니다.</p>
+<p><img src="/images/activities/fishing_icon_pilidiumBait.png" alt="icon_pilidiumBait"></p>
+<p>크램 떡밥은 엑소도르 낚시터에서만 사용이 가능하며, and can be purchased from a <strong>Exodor Justicar Reputation Merchant</strong> for 1 credit or exchanged from a [낚시 증표 상인] for 10 낚시꾼의 증표 each.</p>
+<p>Players are limited to 60 크램 떡밥 to hold in Inventory.</p>
+<p><img src="/images/activities/fishing_icon_premiumBait.png" alt="icon_premiumBait"></p>
+<p>포포리 떡밥, 무지개 떡밥같은 특별한 미끼는 아르보레아 낚시터 및 엑소도르 낚시터에서 사용할 수 있습니다.</p>
+<h3 id="bait--지렁이">Bait : 지렁이</h3>
+<p><img src="/images/activities/fishing_icon_angleworm.png" alt="icon_angleworm"></p>
+<p>지렁이 미끼엔 추가적으로 입질 대기 시간 감소 효과가 있습니다.</p>
+<p>최하급~최상급 지렁이는 [낚시 증표 상인]에게 낚시꾼의 증표로 구매할 수 있습니다. 하급~최상급 지렁이는 하급~최상급 떡밥 제작 대성공 시 획득할 수 있습니다.</p>
+<h2 id="낚시꾼의-수염-장식">낚시꾼의 수염 장식</h2>
+<p><img src="/images/activities/fishing_icon_anglersWhiskers.png" alt="icon_anglersWhiskers"></p>
+<p>낚시꾼의 수염 장식은 입질 대기 시간 감소 효과랑 자동 낚시 대기 시간 감소 효과가 있는 가면 슬롯 아이템입니다. 10단계로 승급이 가능하되, 많은 양의 낚시꾼의 수염 장식, 희미하게 진동하는 정수 필요하고, 운이 매우 좋아야 됩니다.</p>
+<p>낚시꾼의 수염 장식은  can be crafted through the Processing profession.</p>
+<h2 id="delivery">Delivery</h2>
+<p>물고기 and select related items can be delivered to NPCs for Gold or goods. A limited number of select 물고기 and select related items can be delivered, and limit resets daily.</p>
+<h3 id="납품--물고기-납품">납품 : 물고기 납품</h3>
+<p><img src="/images/activities/fishing_fishDelivery.png" alt="4"></p>
+<p>물고기 can be delivered to a 물고기 Associated Fishmonger NPC for Gold or goods. List of deliverable 물고기 changes daily, and delivery is limited 50 물고기 per day.</p>
+<h3 id="납품--생선-납품-상자">납품 : 생선 납품 상자</h3>
+<p><img src="/images/activities/fishing_crateDelivery.png" alt="5"></p>
+<p>생선 납품 상자 are crafted items that can be delivered to a Federation Resource Manager NPC for Gold or goods. Said item can be crafted through the Smelting profession.</p>
+<p>Designs for 생선 납품 상자 can be exchanged from an [낚시 증표 상인] for 낚시꾼의 증표. Designs for Exodor 생선 납품 상자 specifically can be purchased from NPC on 엑소도르 낚시터.</p>
+<h3 id="낚시꾼의-증표">낚시꾼의 증표</h3>
+<p><img src="/images/activities/fishing_icon_anglerToken.png" alt="icon_anglerToken"></p>
+<p>낚시꾼의 증표 is used to purchase goods from an [낚시 증표 상인], and upgrade Fishing Rods to the next tier. 낚시꾼의 증표 can be obtained from Fishing, and the 등급 of the 물고기 caught determines the amount of 낚시꾼의 증표 obtained.</p>
+<p>낚시꾼의 증표 are exclusively obtained from 물고기 caught on Arborean fisheries, and 물고기 caught on 엑소도르 do not reward 낚시꾼의 증표.</p>
+<p>낚시꾼의 증표 obtained by fishing is the following :</p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">등급</th>
+<th align="center">수량</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">12</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">15</td>
+</tr>
+<tr>
+<td align="center">대물</td>
+<td align="center">30</td>
+</tr>
+</tbody>
+</table> </div>
+<h2 id="낚시터">낚시터</h2>
+<p>Fishing is possible in select locations. There are 6 fishing locations on Arborea, and 9 fishing locations on Exodor which you can visit after completing [Important] The Way to Exodor quest :</p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Arborea</th>
+<th align="center">Exodor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">하늘무리 낚시터, 아르카니아 가드</td>
+<td align="center">요정 연못 낚시섬, 로가쉬의 정원</td>
+</tr>
+<tr>
+<td align="center">거친 항구 낚시터, 동부 가드</td>
+<td align="center">공중 정원 낚시섬, 로가쉬의 정원</td>
+</tr>
+<tr>
+<td align="center">식인의 늪 낚시터, 동부 가드</td>
+<td align="center">아르가프 양식장, 로가쉬의 정원</td>
+</tr>
+<tr>
+<td align="center">달의 호수 낚시터, 포포리아 가드</td>
+<td align="center">구름 호수섬, 비리디안 습지대</td>
+</tr>
+<tr>
+<td align="center">얼어붙은 눈물 호수 낚시터, 웨스토니아 가드</td>
+<td align="center">비리디안 낚시섬, 비리디안 습지대</td>
+</tr>
+<tr>
+<td align="center">세렌의 호수 낚시터, 베리타스 특별 지구</td>
+<td align="center">베르아크 후원 낚시섬, 베르아크 성채</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">엑소도르 대농장 (히든 낚시터), 엑소도르 대농장</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">현혹의 화원 (히든 낚시터), 비리디안 습지대</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">비리디안 습지 (히든 낚시터), 비리디안 습지대</td>
+</tr>
+</tbody>
+</table> </div>
+<p>Players can directly teleport to Arborean fisheries by using <strong>낚시터 이동 주문서</strong> sold by 낚시 잡화 상인, or through <strong>낚시 협회 혐회장 웨잉</strong> in 이르카. For 엑소도르 낚시터, players can fly to a fishery island, and then purchase 낚시터 이동 주문서 from Fishing Supplies NPC on 엑소도르 낚시터.</p>
+<p>In v103, <strong>[Daily] Gathering at 엑소도르 낚시터</strong> Vanguard Request is added. This Vanguard Request allows players to teleport to 아르가프 양식장 on Exodor, making it easy to reach an 엑소도르 낚시터.</p>
+<h3 id="arborea-fishery">Arborea fishery</h3>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">하늘무리 낚시터</th>
+<th align="center">거친 항구 낚시터</th>
+<th align="center">식인의 늪 낚시터</th>
+<th align="center">달의 호수 낚시터</th>
+<th align="center">얼어붙은 눈물 호수 낚시터</th>
+<th align="center">세렌의 호수 낚시터</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">등급</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+</tr>
+<tr>
+<td align="center">0</td>
+<td align="center">Stone Moroko</td>
+<td align="center">Azurecheek Carp</td>
+<td align="center">Azurecheek Carp</td>
+<td align="center">Stone Moroko</td>
+<td align="center">Stone Moroko</td>
+<td align="center">Azurecheek Carp</td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">Crayfish</td>
+<td align="center">Clownfish</td>
+<td align="center">Clownfish</td>
+<td align="center">Crayfish</td>
+<td align="center">Crayfish</td>
+<td align="center">Clownfish</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Angelfish</td>
+<td align="center">Black-fin Clownfish</td>
+<td align="center">Black-fin Clownfish</td>
+<td align="center">Angelfish</td>
+<td align="center">Angelfish</td>
+<td align="center">Black-fin Clownfish</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Squid</td>
+<td align="center">Squid</td>
+<td align="center">Crucian Carp</td>
+<td align="center">Crucian Carp</td>
+<td align="center">Crucian Carp</td>
+<td align="center">Squid</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Sea Eel</td>
+<td align="center">Sea Eel</td>
+<td align="center">Sea Eel</td>
+<td align="center">Freshwater Eel</td>
+<td align="center">Sea Eel</td>
+<td align="center">Freshwater Eel</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Octopus</td>
+<td align="center">Marlin</td>
+<td align="center">Marlin</td>
+<td align="center">Prince Salmon</td>
+<td align="center">Prince Salmon</td>
+<td align="center">Octopus</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">Eldritch Carp</td>
+<td align="center">Mottled Ray</td>
+<td align="center">Catfish</td>
+<td align="center">Channel Catfish</td>
+<td align="center">Mottled Ray</td>
+<td align="center">Eldritch Carp</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Chroma Salmon</td>
+<td align="center">Gula Shark</td>
+<td align="center">Chroma Salmon</td>
+<td align="center">Electric Eel</td>
+<td align="center">Yellowfin</td>
+<td align="center">Electric Eel</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Dipturus</td>
+<td align="center">Prism Carp</td>
+<td align="center">Dipturus</td>
+<td align="center">Crimson Marlin</td>
+<td align="center">Prism Carp</td>
+<td align="center">Stone Octopus</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">Mossback</td>
+<td align="center">Bluefin</td>
+<td align="center">Golden Crayfish</td>
+<td align="center">Crimson Squid</td>
+<td align="center">Bluefin</td>
+<td align="center">Golden Eel</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">Crimson Shark</td>
+<td align="center">Gluda Shark</td>
+<td align="center">Specklefin</td>
+<td align="center">Makaira</td>
+<td align="center">Shrieking Eel</td>
+<td align="center">Makaira</td>
+</tr>
+<tr>
+<td align="center">대물</td>
+<td align="center">Golden Catfish</td>
+<td align="center">Golden Sailfish</td>
+<td align="center">Golden Shark</td>
+<td align="center">Fairy Snakehead</td>
+<td align="center">Queen Salmon</td>
+<td align="center">Golden Octopus</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="엑소도르-낚시터">엑소도르 낚시터</h3>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">아르가프 양식장</th>
+<th align="center">공중 정원 낚시섬</th>
+<th align="center">요정 연못 낚시섬</th>
+<th align="center">구름 호수섬</th>
+<th align="center">비리디안 낚시섬</th>
+<th align="center">베르아크 후원 낚시섬</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">등급</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Hermit Crab</td>
+<td align="center">Hermit Crab</td>
+<td align="center">Hermit Crab</td>
+<td align="center">Ink Squid</td>
+<td align="center">Ink Squid</td>
+<td align="center">Ink Squid</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Jarflower Cnidaria</td>
+<td align="center">Jarflower Cnidaria</td>
+<td align="center">Core Anemone</td>
+<td align="center">Jarflower Cnidaria</td>
+<td align="center">Core Anemone</td>
+<td align="center">Core Anemone</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Piranha</td>
+<td align="center">Veiltail</td>
+<td align="center">Veiltail</td>
+<td align="center">Veiltail</td>
+<td align="center">Piranha</td>
+<td align="center">Veiltail</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Cydippida</td>
+<td align="center">Cydippida</td>
+<td align="center">Nautiloid</td>
+<td align="center">Cydippida</td>
+<td align="center">Cydippida</td>
+<td align="center">Nautiloid</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">Electric Ray</td>
+<td align="center">Pompom</td>
+<td align="center">Pompom</td>
+<td align="center">Pompom</td>
+<td align="center">Electric Ray</td>
+<td align="center">Electric Ray</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Crimson Tuna</td>
+<td align="center">Rainbow Anemone</td>
+<td align="center">Crimson Tuna</td>
+<td align="center">Rainbow Anemone</td>
+<td align="center">Crimson Tuna</td>
+<td align="center">Crimson Tuna</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Azart Veiltail</td>
+<td align="center">Azart Veiltail</td>
+<td align="center">Red-Eyed Piranha</td>
+<td align="center">Azart Veiltail</td>
+<td align="center">Azart Veiltail</td>
+<td align="center">Red-Eyed Piranha</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">Pink Slender Catfish</td>
+<td align="center">Starsquid</td>
+<td align="center">Starsquid</td>
+<td align="center">Starsquid</td>
+<td align="center">Electric Carp</td>
+<td align="center">Electric Carp</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">Crimson Salmon</td>
+<td align="center">Mimic Octopus</td>
+<td align="center">Crimson Salmon</td>
+<td align="center">Golden Cnidaria</td>
+<td align="center">Golden Cnidaria</td>
+<td align="center">Mimic Octopus</td>
+</tr>
+<tr>
+<td align="center">대물</td>
+<td align="center">Golden Ray</td>
+<td align="center">Rainbow Cnidaria</td>
+<td align="center">Ammonite</td>
+<td align="center">Cloud Anemone</td>
+<td align="center">Giant Blue</td>
+<td align="center">Azart Piranha</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="엑소도르--히든-낚시터">엑소도르 : 히든 낚시터</h3>
+<p><img src="/images/activities/fishing_loc_exodorHidden.png" alt="6"></p>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">엑소도르 대농장</th>
+<th align="center">현혹의 화원</th>
+<th align="center">비리디안 습지</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">등급</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+<td align="center">물고기</td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+<td align="center">Sea Anemone</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Hermit Crab</td>
+<td align="center">Ink Squid</td>
+<td align="center">Ink Squid</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Core Anemone</td>
+<td align="center">Jarflower Cnidaria</td>
+<td align="center">Core Anemone</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Piranha</td>
+<td align="center">Piranha</td>
+<td align="center">Piranha</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Nautiloid</td>
+<td align="center">Cydippida</td>
+<td align="center">Cydippida</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">Pompom</td>
+<td align="center">Pompom</td>
+<td align="center">Electric Ray</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Rainbow Anemone</td>
+<td align="center">Rainbow Anemone</td>
+<td align="center">Crimson Tuna</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Azart Veiltail</td>
+<td align="center">Azart Veiltail</td>
+<td align="center">Red-Eyed Piranha</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">Pink Slender Catfish</td>
+<td align="center">Starsquid</td>
+<td align="center">Electric Carp</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">Crimson Salmon</td>
+<td align="center">Golden Cnidaria</td>
+<td align="center">Mimic Octopus</td>
+</tr>
+<tr>
+<td align="center">대물</td>
+<td align="center">Golden Carp</td>
+<td align="center">Jarflower Veiltail</td>
+<td align="center">Darkfin</td>
+</tr>
+</tbody>
+</table> </div>
+
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="https://playtera.co.kr/guide/beginner/243">낚시, TERA 테라 | BHS</a></li>
+        
+        <li><a href="/en/patch/en/2021/v103-01/">2021.01.27 patch notes (v103.01) | TERA KR</a></li>
+        
+        <li>TERA NA v106 Data Center</li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+</div>
+
+
+
+      
+
+
+<br />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3598595244893452"
+     data-ad-slot="9853832383"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>TERA blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

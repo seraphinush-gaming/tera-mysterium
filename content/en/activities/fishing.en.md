@@ -28,11 +28,11 @@ lastmod = "2021-06-14"
 
 ![1]
 
-Fishing is a casual open world activity. In order to catch fish, **Bait** and **Fishing Rod** are necessary. Both can be purchased with Gold from a Fishing Supplies merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an Angler Token Vendor.
+Fishing is a casual open world activity. In order to catch fish, **Bait** and **Fishing Rod** are necessary. Both can be purchased with Gold from a [Fishing Supplies] merchant, and higher grade Fishing Rods and Baits can be exchanged with **Angler Tokens** from an [Angler Token Vendor].
 
-Fishing Supplies merchant and Angler Token Vendor are located at fisheries and major cities.
+[Fishing Supplies] merchant and [Angler Token Vendor] are located at fisheries and major cities.
 
-Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Karash Filet (Exodor Fish) which can be used as Cooking materials.
+Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Kirash Filet (Exodor Fish) which can be used as Cooking materials.
 
 **Fishing does not impact PvE or PvP.**
 
@@ -50,7 +50,7 @@ When a fish bites, players can press the interact key (default : F) to manually 
 
 In order to catch fish manually, players must play a **mini-game**. The key objective of the mini-game is to move the square on the left towards the reel on the right by reeling the fish appropriately within a time limit. Fish can be pulled to the right by holding the interact key (default : F) and Fish must overlap with the square in order to move it.
 
-Difficulty of the mini-game increases relative to the grade of the fish to be caught - the square to shift to the right decreases in width, and the fist to be caught can resist more strongly and more often. 
+Difficulty of the mini-game increases relative to the grade of the fish to be caught - the square to shift to the right decreases in width, and the fish to be caught can resist more strongly and more often. 
 
 Difficulty can be decreased using **Fish Salad**.
 
@@ -83,7 +83,7 @@ There are several things that can increase the chance to catch a BAF :
 
 ![icon_fishingRod]
 
-**Old Fishing Rod** can be purchased from a Fishing Supplies merchant with Gold, while other higher grade Fishing Rods must be exchanged with Angler Tokens from an Angler Token Vendor and be upgraded.
+**Old Fishing Rod** can be purchased from a [Fishing Supplies] merchant with Gold, while other higher grade Fishing Rods must be exchanged with Angler Tokens from an Angler Token Vendor and be upgraded.
 
 Other than the Old Fishing Rod, there are 3 different types of Fishing Rods : Xermetal, Ash Sapling, Fairywing Rod. These Fishing Rods have special effects that affect fishing and can be upgraded up to tier VIII.
 
@@ -112,7 +112,7 @@ Upgrading Xermetal, Ash Sapling, and Fairywing Rod requires many Angler Tokens :
 
 **\*** For Xermetal Rod, the additional materials are Plain Stone, Cobala Ore, and Cobala Ingot.
 
-**\*** For Ash Sapling Rod, the additional materials are Haromony Grass, Shadmetal Ore, and Shadmetal Ingot.
+**\*** For Ash Sapling Rod, the additional materials are Harmony Grass, Shadmetal Ore, and Shadmetal Ingot.
 
 **\*** For Fairywing Rod, the additional materials are Achromic Essence, Xermetal Ore, and Xermetal Ingot.
 
@@ -120,7 +120,7 @@ Upgrading Xermetal, Ash Sapling, and Fairywing Rod requires many Angler Tokens :
 
 ![icon_bait]
 
-Bait I can be purchased from a Fishing Supplies merchant with Gold.
+Bait I can be purchased from a [Fishing Supplies] merchant with Gold.
 
 Bait II-V can only be crafted through the Processing profession.
 
@@ -210,7 +210,7 @@ Fishing is possible in select locations. There are 6 fishing locations on Arbore
 || Dazzling Garden (hidden fishery), Iridian Wetlands |
 || Predator Territory (hidden fishery), Iridian Wetlands |
 
-Players can directly teleport to Arborean fisheries by using **Fishery Teleport Scrolls** sold by Fishing Supplies merchant, or through **Fishing Association Executive Waining** in Highwatch. For Exodor fisheries, players can fly to a fishery island, and then purchase Fishery Teleport Scrolls from Fishing Supplies NPC on Exodor fisheries.
+Players can directly teleport to Arborean fisheries by using **Fishery Teleport Scrolls** sold by [Fishing Supplies] merchant, or through **Fishing Association Executive Waining** in Highwatch. For Exodor fisheries, players can fly to a fishery island, and then purchase Fishery Teleport Scrolls from [Fishing Supplies] NPC on Exodor fisheries.
 
 In v103, **[Daily] Gathering at Exodor Fishery** Vanguard Request is added. This Vanguard Request allows players to teleport to Azart Fish Farm on Exodor, making it easy to reach an Exodor fishery.
 

@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -112,6 +112,15 @@ Discord server link : https://discord.</description>
       <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Objective(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
+      <title>2021.07.07 patch notes (v108.02) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v108-02/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v108-02/</guid>
+      <description>Update 1. Dungeon  Added new instance : Core Reactor (pl.) (hard) (5-person dungeon)  Difficulty and key reward       Difficulty Dungeon Entry limit Adventure Coin Key reward     Higher Core Reactor (pl.) (hard) 장비레벨 510 400 전설 성물 / 유물 II 교관권       Mahtnan gear (pl.) Box [Superior]       Mahtnan gear (pl.</description>
     </item>
     
     <item>
@@ -893,9 +902,9 @@ Gallery </description>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/activities/fishing/</guid>
-      <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a Fishing Supplies merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an Angler Token Vendor.
-Fishing Supplies merchant and Angler Token Vendor are located at fisheries and major cities.
-Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Karash Filet (Exodor Fish) which can be used as Cooking materials.</description>
+      <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a [Fishing Supplies] merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an [Angler Token Vendor].
+[Fishing Supplies] merchant and [Angler Token Vendor] are located at fisheries and major cities.
+Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Kirash Filet (Exodor Fish) which can be used as Cooking materials.</description>
     </item>
     
     <item>

@@ -13,8 +13,13 @@ dateFormat = "Monday, January 2, 2006"
 customJs = true
 favicon = true
 logo = true
-analyticsId = "UA-66500356-2"
-adsenseId = "ca-pub-3598595244893452"
+
+[params.analytics]
+client = "UA-66500356-2"
+
+[params.adsense]
+client = "ca-pub-3598595244893452"
+inArticleSlot = "9853832383"
 
 [Languages]
 [Languages.en]

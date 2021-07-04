@@ -6,7 +6,7 @@
     <description>Recent content in Tags on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>2021</title>
       <link>https://tera-mysterium.com/ko/tags/2021/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/tags/2021/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>raw</title>
       <link>https://tera-mysterium.com/ko/tags/raw/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/tags/raw/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>v108</title>
       <link>https://tera-mysterium.com/ko/tags/v108/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/tags/v108/</guid>
       <description></description>
@@ -206,6 +206,15 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/tags/companion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fishing</title>
+      <link>https://tera-mysterium.com/ko/tags/fishing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/tags/fishing/</guid>
       <description></description>
     </item>
     
