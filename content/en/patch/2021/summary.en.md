@@ -186,6 +186,12 @@ weight = 1
   - **New feature : Cross-server LFG and Instance Matching system**
   - **New feature : Character Customization Gallery (pl.)**
 
+- v107.01.01
+
+- v108.02
+  - **New dungeon : Core Reactor (pl.) (hard)**
+  - Class balance (Brawler)
+
 ## July
 
 ## August
