@@ -188,9 +188,12 @@ weight = 1
 
 - v107.01.01
 
-- v108.02
+- v108.01.02
   - **New dungeon : Core Reactor (pl.) (hard)**
   - Class balance (Brawler)
+
+- v108.01.03
+  - Dungeon : Reopened Draakon Arena
 
 ## July
 

@@ -6,7 +6,7 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,12 +22,21 @@
     </item>
     
     <item>
+      <title>2021.07.14 patch notes (v108.01.03) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v108-01-03/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v108-01-03/</guid>
+      <description>Update 1. Dungeon  Reopened dungeon : Draakon Arena (5-Person instance)     Draakon Arena      Entry limit 2 entries daily (4 entries with VIP)   Adventure Coin 400   Entry level 69   Matching level 501       Adjusted to decrease HP and attack balance overall appropriate to medium-tier difficulty, adjusted the following mechanics  톤파 던지기 mechanic no longer applies Silence abnormality upon hit Decreased stun duration of Leaping Strike skill upon getting hit Significantly decreased damage of key mechanics that dealt enough damage to kill on 1 hit   Difficulty and key reward :       Difficulty Dungeon Entry limit Adventure Coin Key reward     Medium Draakon Arena ilvl 501 400 Rare Halidom / Relic II Token       Skill Advancement Scroll       Mahtnan Gear Box (pl.</description>
+    </item>
+    
+    <item>
       <title>2021.07.07 patch notes (v108.01.02) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2021/v108-01-02/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v108-01-02/</guid>
-      <description>Update 1. Dungeon  Added new instance : Core Reactor (pl.) (hard) (5-person dungeon)  Difficulty and key reward       Difficulty Dungeon Entry limit Adventure Coin Key reward     Higher Core Reactor (pl.) (hard) 장비레벨 510 400 전설 성물 / 유물 II 교관권       Mahtnan gear (pl.) Box [Superior]       Mahtnan gear (pl.</description>
+      <description>Update 1. Dungeon  Added new instance : Core Reactor (pl.) (hard) (5-person dungeon)  Difficulty and key reward       Difficulty Dungeon Entry limit Adventure Coin Key reward     Higher Core Reactor (pl.) (hard) ilvl 510 400 Superior Halidom / Relic II Token       Mahtnan gear (pl.) Box [Superior]       Mahtnan gear (pl.</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in v108 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/v108/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 07월 14일 업데이트 안내 (v108.01.03)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v108-01-03/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v108-01-03/</guid>
+      <description>업데이트 1. 던전  재오픈 던전: 사령관의 수련장이 추가됩니다. (5인 파티 던전)     사령관의 수련장      입장 횟수 일일 2회 (월간패스 4회)   모험의 주화 400   입장 레벨 69   매칭 레벨 501       중위 던전 위상에 맞춰 전체적인 HP 및 공격력 밸런스가 하향 조정되며, 아래의 패턴이 조정됩니다.  톤파 던지기 피격 시 침묵 이상상태가 적용되지 않습니다.</description>
+    </item>
     
     <item>
       <title>2021년 07월 07일 업데이트 안내 (v108.01.02)</title>

@@ -1,0 +1,602 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='TERA blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        Discord
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        Youtube
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Twitch
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Patreon
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        Feedback
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">Appearance :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Discord</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Youtube</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Twitch</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Patreon</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Feedback</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>Appearance :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close-button">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/en/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/patch/">Patch notes</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/patch/2021/">2021</a>
+</div>
+
+
+<h1 class="items-title">2021.07.14 patch notes (v108.01.03) | TERA KR</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      
+      <p>Published : Jul 14, 2021 </p>
+      
+      
+    </div>
+    
+    <h2 id="update">Update</h2>
+<h3 id="1-dungeon"><strong>1.</strong> Dungeon</h3>
+<ul>
+<li>Reopened dungeon : Draakon Arena (5-Person instance)</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Draakon Arena</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Entry limit</td>
+<td align="center">2 entries daily (4 entries with VIP)</td>
+</tr>
+<tr>
+<td align="center">Adventure Coin</td>
+<td align="center">400</td>
+</tr>
+<tr>
+<td align="center">Entry level</td>
+<td align="center">69</td>
+</tr>
+<tr>
+<td align="center">Matching level</td>
+<td align="center">501</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Adjusted to decrease HP and attack balance overall appropriate to medium-tier difficulty, adjusted the following mechanics
+<ul>
+<li>톤파 던지기 mechanic no longer applies Silence abnormality upon hit</li>
+<li>Decreased stun duration of Leaping Strike skill upon getting hit</li>
+<li>Significantly decreased damage of key mechanics that dealt enough damage to kill on 1 hit</li>
+</ul>
+</li>
+<li>Difficulty and key reward :</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Difficulty</th>
+<th align="center">Dungeon</th>
+<th align="center">Entry limit</th>
+<th align="center">Adventure Coin</th>
+<th align="center">Key reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Medium</td>
+<td align="center">Draakon Arena</td>
+<td align="center">ilvl 501</td>
+<td align="center">400</td>
+<td align="center">Rare Halidom / Relic II Token</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Skill Advancement Scroll</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan Gear Box (pl.) [Rare]</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan Gear Box (pl.) [Superior]</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Powder I Box (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan Option Change Scroll (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Warlord&rsquo;s Earring / Circlet</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Weapon Etching : Energetic IV</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Armor Etching : Grounded IV</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan Gear [Mythic] Crafting Design Box (pl.)</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>Key reward : only a select few key rewards are listed, and not all reward items are listed</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vanguard Initiative Request</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Vanguard Request</th>
+<th align="center">Reward (up to 16 times daily)</th>
+<th align="center">Additional reward (once daily)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Complete Draakon Arena</td>
+<td align="center">XP : 33,000,000</td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.) : 2</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Gold : 2,250</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Vanguard Initiative credit : 40</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">EP XP : 1,518</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Dragonscale : 1</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Noctenium Infusion : 25</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Skill Advancement Token (pl.) : 4</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">AWAKE Token (pl.) : 3</td>
+<td></td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Entry
+<ul>
+<li>Teleportal is located at Verrak Fortress Abyss of Verrak Fortress, with access via Dungeon Teleportal Scroll from Exodor Specialty Store, Vanguard Request dungeon entrance teleport, or through Instance Matching</li>
+</ul>
+</li>
+<li>Added new achievements to match reopening of the dungeon, and recategorized select existing achievements and changed to Legacy Achievement</li>
+</ul>
+</li>
+<li>Adjusted Core Reactor (pl.) (hard) balance and reward
+<ul>
+<li>Increased laser attack damage from exterior drones to secondary aggro target
+<ul>
+<li>Displays a message before the attack to give 2 seconds time to evade (both normal / hard mode)</li>
+</ul>
+</li>
+<li>Increase exterior &lsquo;Disappear !&rsquo; (pl.) AoE mechanic range</li>
+<li>Adjusted attack range of the 4 second-duration red laser mechanic</li>
+<li>Changed lightning mechanic and red laser mechanic to chain</li>
+<li>Increased damage of in-out / out-in pulse AoE mechanic</li>
+<li>Added &lsquo;Mahntnan&rsquo;s Powder I (pl.)&rsquo; to drop table upon defeating boss monster</li>
+</ul>
+</li>
+<li>Revised Core Reactor (pl.) effect (both normal / hard mode)
+<ul>
+<li>Fixed select effects to resolve issues of eyestrain from effects and mechanics that were difficult to recognize
+<ul>
+<li>Changed laser color and effect from drones</li>
+<li>Changed border-side color and effect</li>
+<li>Changed boss monster&rsquo;s AoE color and effect</li>
+<li>Reinforced visibility of other boss monster skill and effect</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Changed drop item of select dungeons :</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Dungeon</th>
+<th align="center">Before</th>
+<th align="center">After</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Abscess</td>
+<td align="center">Mahtnan Hand Armor Box (pl.) [Rare]</td>
+<td align="center">Mahtnan Gear Box (pl.) [Rare]</td>
+</tr>
+<tr>
+<td align="center">Akalath Quarantine</td>
+<td align="center">Mahtnan Foot Armor Box (pl.) [Rare]</td>
+<td align="center">Mahtnan Gear Box (pl.) [Rare]</td>
+</tr>
+<tr>
+<td align="center">Velik&rsquo;s Hold</td>
+<td align="center">Mahtnan Armor Box (pl.) [Rare]</td>
+<td align="center">Mahtnan Gear Box (pl.) [Rare]</td>
+</tr>
+<tr>
+<td align="center">Damned Citadel</td>
+<td align="center">Mahtnan Weapon Box (pl.) [Rare]</td>
+<td align="center">Mahtnan Gear Box (pl.) [Rare]</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>Adjusted to decrease boss monster difficulty in Encroached Damned Citadel (pl.)
+<ul>
+<li>Adjusted to decrease casting speed of select skills</li>
+<li>Adjusted to decrease attack of jump-in-spot attack</li>
+<li>Decreased duration of 정신착란 및 혼란 이상상태의 지속시간이 짧아집니다.</li>
+<li>Increased duration of shield phase</li>
+<li>Increased frequency of select skills</li>
+</ul>
+</li>
+<li>Increased HP of boss monster in [Ace Dungeon] Harnovog&rsquo;s Trial
+<ul>
+<li>Increased HP relative to other boss monsters in Ace Dungeons of similar difficulty</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-leaderboard"><strong>2.</strong> Leaderboard</h3>
+<ul>
+<li>Changed Bahaar&rsquo;s Sanctum leaderboard ranking to record starting at the start of phase 2
+<ul>
+<li>Starting point : start of Bahaar&rsquo;s Sanctum phase 2 combat</li>
+<li>End point : death of Bahaar&rsquo;s Sanctum phase 2 boss</li>
+</ul>
+</li>
+</ul>
+<pre><code>Developer comment
+
+신규 장비의 전투 성능이 향상되면서 전체적인 던전의 클리어 타임이 짧아지게 되었고, 더불어 특정 클래스의 경우 아주 짧은 시간 동안 강력한 공격이 가능하여 다른 클래스보다 더 빠르게 바하르 1페이즈를 클리어하고 쿨타임을 기다리며 2페이즈를 준비할 수 있었습니다.
+그리고 이러한 현상은 바하르의 1페이즈와 2페이즈 사이의 대기 시간은 순위 기록으로 측정하지 않아 다른 클래스와의 기록 경쟁에서 우위를 차지하는 문제로 있어졌으며, 이를 개선하여 공정한 기록 측정을 진행하기 위해 기준을 변경하게 되었습니다.
+</code></pre><h3 id="3-item"><strong>3.</strong> Item</h3>
+<ul>
+<li>&lsquo;[이벤트] 방랑상인 린의 연쇄 선물 상자'를 통해 획득한 펫 아이템이 창고 보관 가능하게 속성이 변경됩니다.</li>
+<li>Added increase Power by 10 effect (Fish Fritters effect) to Multi-Nostrum</li>
+</ul>
+<h3 id="4-crafting"><strong>4.</strong> Crafting</h3>
+<ul>
+<li>Added Mahtnan&rsquo;s Greedhead Option Change Scroll (pl.) and Mahtnan&rsquo;s Cryolite (pl.) crafting</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Crafted item</th>
+<th align="center">Material</th>
+<th align="center">PP cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Greedhead Option Change Scroll (pl.)</td>
+<td align="center">Mahtnan&rsquo;s Powder II (pl.) x 16</td>
+<td align="center">400</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.) x 4</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">Mahtnan&rsquo;s Cryolite (pl.)</td>
+<td align="center">Mahtnan&rsquo;s Powder II (pl.) x 12</td>
+<td align="center">600</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Powder III (pl.) x 5</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.)  x 6</td>
+<td></td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Crafting Designs for crafting items noted above are sold by Processing Materials NPC</li>
+</ul>
+</li>
+</ul>
+<h3 id="5-ui-and-other-revision"><strong>5.</strong> UI and other revision</h3>
+<ul>
+<li>Fixed to no longer activate mouse pointer upon using Campfire</li>
+</ul>
+<h3 id="6-quest"><strong>6.</strong> Quest</h3>
+<ul>
+<li>Changed distribution of Flying Skill: Tulpar from [Lv.23 For Valor Above and Beyond] quest completion -&gt; [Lv.11 For the Federation!] quest completion
+<ul>
+<li>A Parcel rewarding the flying mount will be distributed for those who completed [Lv.11 For the Federation!] quest before the update</li>
+</ul>
+</li>
+</ul>
+<h3 id="7-services-kr-exclusive"><strong>7.</strong> Services (KR exclusive)</h3>
+<ul>
+<li>테라샵에서 아래의 아이템이 판매됩니다.</li>
+</ul>
+<p><code>Image not available</code></p>
+<h2 id="버그-수정">버그 수정</h2>
+<ul>
+<li>soontm</li>
+</ul>
+
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2021/v108-01-03">TERA KR patch archive | seraphinush-gaming</a></li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+</div>
+
+
+      
+
+
+<br />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3598595244893452"
+     data-ad-slot="9853832383"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>TERA blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>
