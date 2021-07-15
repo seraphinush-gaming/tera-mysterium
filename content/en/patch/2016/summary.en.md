@@ -159,7 +159,7 @@ weight = 1
   - **New dungeon : Lilith's Keep (hard)**
   - **New dungeon : Ruinous Manor**
   - Guild : Guild system reivision
-  - Crafting : Changed to craft anywhere
+  - Crafting : Changed to be able to craft anywhere
 
 ## August
 

@@ -194,6 +194,8 @@ weight = 1
 
 - v108.01.03
   - Dungeon : Reopened Draakon Arena
+  - Leaderboard : Changed Bahaar's Sanctum ranking to record at the start of phase 2 combat
+  - Item : Added increase Power by 10 effect (Fish Fritters effect) to Multi-Nostrum
 
 ## July
 
