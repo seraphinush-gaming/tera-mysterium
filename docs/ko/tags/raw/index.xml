@@ -6,10 +6,19 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 07월 21일 업데이트 안내 (v108.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v108-02-01/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v108-02-01/</guid>
+      <description>업데이트 1. 던전  일부 던전에서 강화 재료 드랍량이 증가합니다.  저주받은 테네브리스 성채  단련의 조각 1개 -&amp;gt; 단련의 조각 2개 드랍   벨리카 지하 관문  힘의 조각 1개 -&amp;gt; 힘의 조각 2개 드랍      2. 업적  일부 업적이 잊혀진 업적으로 분류가 변경됩니다.  잊혀진 업적으로 이동       관련 컨텐츠 업적명 업적 분류     잠식된 테네브리스 망증한이란&amp;hellip; 이런걸까&amp;hellip; 잊혀진 업적   분열하는 코어 융합소 더 짜릿한 빨간맛 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 더 짜릿한 파란맛 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 다른 맛은 없어?</description>
+    </item>
     
     <item>
       <title>2021년 07월 14일 업데이트 안내 (v108.01.03)</title>
