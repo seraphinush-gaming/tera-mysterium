@@ -149,7 +149,7 @@ weight = 1
 - v107.02.01
 
 - v108.01
-  - **New dungeon : Core Reactor (pl.)**
+  - **New dungeon : Fusion Laboratory**
   - **New dungeon : Encroached Damned Citadel (pl.)**
   - Dungeon : Removed Gossamer Vault
   - Dungeon : Removed Ruinous Manor
@@ -186,18 +186,38 @@ weight = 1
   - **New feature : Cross-server LFG and Instance Matching system**
   - **New feature : Character Customization Gallery (pl.)**
 
-- v107.01.01
+## July
+
+- v108.01.01
+  - Gear : Adjusted Mahtnan's gear (pl.) performance
+  - Item : Decreased Campfire crafting requirement
 
 - v108.01.02
-  - **New dungeon : Core Reactor (pl.) (hard)**
+  - **New dungeon : Fusion Laboratory (hard)**
   - Class balance (Brawler)
+  - Class balance (Warrior)
+  - Class balance (Gunner)
 
-- v108.01.03
+- v108.02
   - Dungeon : Reopened Draakon Arena
   - Leaderboard : Changed Bahaar's Sanctum ranking to record at the start of phase 2 combat
   - Item : Added increase Power by 10 effect (Fish Fritters effect) to Multi-Nostrum
+  - Crafting : Added Mahtnan's Greedhead Option Change Scroll (pl.)
+  - Crafting : Added Mahtnan's Cryolite (pl.)
 
-## July
+- v108.02.01
+  - Gear : Adjusted to increase item level of Superior / Mythic Mahtnan gear (pl.)
+
+- v108.03
+  - **New region : Baldera**
+  - Dungeon : Reopened Catalepticon
+  - Dungeon : Reopened Sky Cruiser Endeavor (hard)
+  - **New dungeon : Rogash's Trial**
+  - Gear : Adjusted select Mahtnan's gear (pl.) Unique options
+  - Feature : Added 5 new iris types to Elin
+  - Civil Unrest : Increased HP of Guild Tower
+  - Open world : Removed select, outdated daily / reputation quests
+  - Feature : Added missions (pl.) to TERA Pass
 
 ## August
 

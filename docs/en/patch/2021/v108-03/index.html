@@ -1,0 +1,847 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='TERA blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        Discord
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        Youtube
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Twitch
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Patreon
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        Feedback
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">Appearance :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Discord</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Youtube</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Twitch</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Patreon</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Feedback</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>Appearance :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close-button">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/en/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/patch/">Patch notes</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/patch/2021/">2021</a>
+</div>
+
+
+<h1 class="items-title">2021.07.28 patch notes (v108.03) | TERA KR</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      
+      <p>Published : Jul 28, 2021 </p>
+      
+      
+    </div>
+    
+    <h2 id="update">Update</h2>
+<pre><code>공명 던전 업데이트가 시스템의 안정성 확보를 위해  8월 11일로 연기되었습니다.
+더욱 원활한 플레이 환경과 완성된 모습으로 선보일 수 있도록 노력하겠습니다.
+</code></pre><h3 id="1-open-world"><strong>1.</strong> Open world</h3>
+<ul>
+<li>Opened Undiscovered region - Baldera
+<ul>
+<li>Baldera can be accessed through &lsquo;Ruinweald&rsquo; located North of Arcadia &gt; Oblivion Woods</li>
+</ul>
+</li>
+</ul>
+<p><img src="/images/patch/v108-03_01.png" alt="1"></p>
+<ul>
+<li>
+<ul>
+<li>Activity level is set to level 71 in Baldera and level 70 is recommended</li>
+<li>A town called Balderon (pl.) exists in Baldera, and new achievements, adventure, and story can begin</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Baldera</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/images/patch/v108-03_02.png" alt="2"></td>
+<td align="center"><img src="/images/patch/v108-03_03.png" alt="3"></td>
+</tr>
+</tbody>
+</table> </div>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Balderon (pl.)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/images/patch/v108-03_04.png" alt="4"></td>
+<td align="center"><img src="/images/patch/v108-03_05.png" alt="5"></td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="2-dungeon"><strong>2.</strong> Dungeon</h3>
+<ul>
+<li>Reopened Catalepticon (5-person dungeon)</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Catalepticon</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Entry limit</td>
+<td align="center">2 entries daily (4 entries for VIP)</td>
+</tr>
+<tr>
+<td align="center">Adventure Coin</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center">Entry level</td>
+<td align="center">70</td>
+</tr>
+<tr>
+<td align="center">Instance matching</td>
+<td align="center">504</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Difficulty and key reward</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Difficulty</th>
+<th align="center">Dungeon</th>
+<th align="center">Entry limit</th>
+<th align="center">Adventure Coin</th>
+<th align="center">Key reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">High</td>
+<td align="center">Catalepticon</td>
+<td align="center">ilvl 504</td>
+<td align="center">210</td>
+<td align="center">Superior Halidom / Relic I Token</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Gear Box [Rare]</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Gear Box [Legendary]</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Gear Box [Mythic]</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Kaia&rsquo;s Mask</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Option Change Scroll</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Option Change Scroll (Kaia&rsquo;s Mask / Belt / Brooch)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Marine Ring Resizing Stone</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Various Essences</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Cryolite (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mark of Training (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mark of Challenge (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mark of Strength (pl.)</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Vanguard Initiative Request</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Vanguard Request</th>
+<th align="center">Regular reward (16 times daily)</th>
+<th align="center">Additional reward (once daily)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Complete the Catalepticon</td>
+<td align="center">XP : 100,000,000</td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.) : 3</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Gold : 3,000</td>
+<td align="center">(Random) Accessory Resizing Stone Box (pl.) : 1</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Vanguard Initiative credit : 3,300</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">EP XP : 1,518</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Dragonscale : 1</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Noctenium Infusion : 75</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">AWAKE Token (pl.) : 9</td>
+<td></td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Added new achievements, re-categorized or changed select existing achievements to Legacy Achievements</li>
+</ul>
+</li>
+<li>Reopened Sky Cruiser Endeavor (hard) (5-person dungeon)</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Sky Cruiser Endeavor (hard)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Entry limit</td>
+<td align="center">2 entries daily (4 entries for VIP)</td>
+</tr>
+<tr>
+<td align="center">Adventure Coin</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center">Entry level</td>
+<td align="center">70</td>
+</tr>
+<tr>
+<td align="center">Instance matching</td>
+<td align="center">510</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>Difficulty and key reward</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Difficulty</th>
+<th align="center">Dungeon</th>
+<th align="center">Entry limit</th>
+<th align="center">Adventure Coin</th>
+<th align="center">Key reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Higher</td>
+<td align="center">Sky Cruiser Endeavor (hard)</td>
+<td align="center">ilvl 510</td>
+<td align="center">300</td>
+<td align="center">Superior Halidom / Relic II Token</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Gear Box [Mythic]</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Accessory Etching IV (Necklace)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Greedhead&rsquo;s Mahtnan&rsquo;s Option Change Scroll</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Greedhead&rsquo;s Option Change Scroll (Kaia&rsquo;s Mask / Belt / Brooch)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Marine Ring Resizing Stone</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Blazing Necklace Resizing Stone</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Cryolite (pl.)</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.)</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>Vanguard Initiative Request</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Vanguard Request</th>
+<th align="center">Regular reward (16 times daily)</th>
+<th align="center">Additional reward (once daily)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Complete Sky Cruiser Endeavor (hard)</td>
+<td align="center">XP : 100,000,000</td>
+<td align="center">Mahtnan&rsquo;s Ember (pl.) : 4</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Gold : 6,000</td>
+<td align="center">AWAKE Token (pl.) : 3</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Vanguard Initiative credit : 100</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">EP XP : 1,518</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Dragonscale : 1</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">Noctenium Infusion : 100</td>
+<td></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">AWAKE Token (pl.) : 17</td>
+<td></td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>Added new achievements, re-categorized or changed select existing achievements to Legacy Achievements</li>
+<li>Aded [Ace Dungeon] – Fusion Laboratory</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">[Ace Dungeon] – Fusion Laboratory</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Entry limit</td>
+<td align="center">2 entries daily (3 entries for VIP)</td>
+</tr>
+<tr>
+<td align="center">Adventure Coin</td>
+<td align="center">400</td>
+</tr>
+<tr>
+<td align="center">Entry level</td>
+<td align="center">70</td>
+</tr>
+<tr>
+<td align="center">Instance matching</td>
+<td align="center">504</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>Loot table includes Superior Halidom / Relic I Token, Skill Advancement XP, Mahtnan&rsquo;s Option Change Scroll (pl.), Mahtnan&rsquo;s Powder I (pl.), Skill Advancement Tome</li>
+</ul>
+<h3 id="3-item-and-gear"><strong>3.</strong> Item and gear</h3>
+<ul>
+<li>Revised select Unique Option (pl.) on  Mahtnan&rsquo;s gear (pl.)</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Part</th>
+<th align="center">Unique option</th>
+<th align="center">Changelog</th>
+<th align="center">Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Weapon</td>
+<td align="center">Magical Rainstorm</td>
+<td align="center">Before</td>
+<td align="center">Increase MP cost by 2 times, increase skill damage and effect of healing skills by (4/5/6/7/8)%</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase MP cost by <strong>1.5 times</strong>, increase skill damage and effect of healing skills by (4/5/6/7/8)%</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">Determined Strike</td>
+<td align="center">Before</td>
+<td align="center">Decrease attack speed by 10%, increase skill damage and effect of healing skills by (4/5/6/7/8)%</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">Mark of Extinction</td>
+<td align="center">Before</td>
+<td align="center">(20/40/60/80/100)% chance to apply Mark of Extinction (pl.) to target upon successful hit; deals 0.1% of target&rsquo;s max HP or up to 10,000,000 damage when stacked up to 15 times</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">(20/40/60/80/100)% chance to apply Mark of Extinction (pl.) to target upon successful hit; deals 0.1% of target&rsquo;s max HP or <strong>up to 200,000,000 damage</strong> when stacked up to 15 times</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">Song of Courage</td>
+<td align="center">Before</td>
+<td align="center">Increase Magical and Physical Amplification of self and nearby allies by (2/2.5/3/3.5/4)%, within 10m range</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase Magical and Physical Amplification of self and nearby allies by (2/2.5/3/3.5/4)%, <strong>within 15m range</strong></td>
+</tr>
+<tr>
+<td align="center">Armor</td>
+<td align="center">Song of Trust</td>
+<td align="center">Before</td>
+<td align="center">Increase Physical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 10m range</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase Physical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, <strong>within 15m range</strong></td>
+</tr>
+<tr>
+<td align="center">Hand Armor</td>
+<td align="center">Mahtnan Power</td>
+<td align="center">Before</td>
+<td align="center">Increase Power by 1 every 6 seconds after combat starts (stack up to (10/20/30/40/50) times)</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase Power by 1 <strong>every 5 seconds</strong> after combat starts (stack up to (10/20/30/40/50) times)</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">Reckless Conviction</td>
+<td align="center">Before</td>
+<td align="center">Increase skill damage and effect of healing skills by (6/7/8/9/10)% when HP is below 30%</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase skill damage and effect of healing skills by <strong>(7/9/11/13/15)%</strong> when HP is below <strong>60%</strong></td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">Battle Drums</td>
+<td align="center">Before</td>
+<td align="center">Increase Physical and Magical Piercing of self and nearby allies by (667/833/1000/1167/1335), within 10m range</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase Physical and Magical Piercing of self and nearby allies by (667/833/1000/1167/1335), <strong>within 15m range</strong></td>
+</tr>
+<tr>
+<td align="center">Foot Armor</td>
+<td align="center">Song of Magic</td>
+<td align="center">Before</td>
+<td align="center">Increase Magical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 10m range</td>
+</tr>
+<tr>
+<td align="center">'&rsquo;</td>
+<td align="center">'&rsquo;</td>
+<td align="center">After</td>
+<td align="center">Increase Magical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, <strong>within 15m range</strong></td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="4-dps-meter"><strong>4.</strong> DPS meter</h3>
+<ul>
+<li>Revised process and memory usage</li>
+<li>Resolved issue where meter time continues to tick after combat ends</li>
+</ul>
+<h3 id="5-character-creation"><strong>5.</strong> Character creation</h3>
+<ul>
+<li>Added 5 new iris types to Elin</li>
+</ul>
+<p><img src="/images/patch/v108-03_06.png" alt="6"></p>
+<h3 id="6-ui-and-other-revisions"><strong>6.</strong> UI and other revisions</h3>
+<ul>
+<li>Reinforced issue where attack range display and actual damage range varied</li>
+<li>Revised issue where freezing and delay issues arise upon combat in instances</li>
+</ul>
+<h3 id="7-velika--civil-unrest"><strong>7.</strong> Velika : Civil Unrest</h3>
+<ul>
+<li>Increased HP of Guild Tower</li>
+</ul>
+<h3 id="8-quest"><strong>8.</strong> Quest</h3>
+<ul>
+<li>Removed select daily / reputation quest distributing reward and credit, that are no longer relevant</li>
+</ul>
+<h3 id="9-services"><strong>9.</strong> Services</h3>
+<ul>
+<li>테라샵에서 아래의 아이템이 판매됩니다. (KR exclusive)</li>
+</ul>
+<p><code>Image not available</code></p>
+<ul>
+<li>Added TERA Pass missions (pl.)
+<ul>
+<li>Added new TERA Pass missions (pl.), daily mission and repeat mission
+<ul>
+<li>Repeat mission : Can be completed repeated until point limit, resets daily</li>
+<li>Daily mission : Can be completed once daily, resets daily (is not affected by point limit)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="bug-fixes">Bug fixes</h2>
+<ul>
+<li>soontm</li>
+</ul>
+
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2021/v108-03">TERA KR patch archive | seraphinush-gaming</a></li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+</div>
+
+
+      
+
+
+<br />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3598595244893452"
+     data-ad-slot="9853832383"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>TERA blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>
