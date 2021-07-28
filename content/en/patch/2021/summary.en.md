@@ -107,7 +107,7 @@ weight = 1
   - Battleground : Corsairs' Stronghold balance update
   - Battleground : Fraywind Canyon balance update
   - Battleground : Added skill efect to equalized gear distribution Brooch
-  - **New dungeon** : Harnovog's Trial
+  - **New dungeon : Harnovog's Trial**
   - DPS meter : update
   - Open world : Added named monsters to Exodor
   - Vanguard : Adjusted to increase Vanguard Initiative credit obtained from Vanguard Request
