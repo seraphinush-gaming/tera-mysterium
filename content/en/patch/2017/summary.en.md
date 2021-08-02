@@ -144,10 +144,10 @@ weight = 1
   - **New gear : Twistshard**
   - **New gear : Frostmetal**
   - **New gear : Stormcry**
-  - New accessory : Prospect
-  - New accessory : Bellum
-  - New accessory : Daylight
-  - New accessory : Entropy
+  - **New accessory : Prospect**
+  - **New accessory : Bellum**
+  - **New accessory : Daylight**
+  - **New accessory : Entropy**
   - **New dungeon : Thaumetal Refinery**
   - **New dungeon : Kalivan's Challenge**
   - Dungeon : Removed Channelworks
@@ -262,7 +262,7 @@ weight = 1
 
 - v66.01
   - **Class expansion : Added race Human Male to Brawler**
-  - Account : Character slot expansion (17 -> 18)
+  - Account : Max character slot expansion (17 -> 18)
 
 - v66.01.01
 

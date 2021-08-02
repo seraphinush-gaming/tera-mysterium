@@ -188,16 +188,16 @@
     </div>
     
     <h2 id="apex-and-skill-udpate">Apex and skill udpate</h2>
-<h3 id="1-class-awakening">1. Class Awakening</h3>
+<h3 id="1-class-awakening"><strong>1.</strong> Class Awakening</h3>
 <ul>
-<li>Added Apex Skills to 6 classes : Archer, Ninja, Gunner, Reaper, Valkyrie, Sorcer
+<li>Added Apex Skills to 6 classes : Archer, Ninja, Gunner, Reaper, Valkyrie, Sorcerer
 <ul>
 <li>Mission quest can be proceeded upon reaching ilvl 439 and acquire [Apex Skills].</li>
 </ul>
 </li>
 <li>Adjusted recommended glyph setup and chain skills for all Class Awakening part. 1 classes except Mystic</li>
 </ul>
-<h3 id="2-skill-and-balance-adjustments">2. Skill and balance adjustments</h3>
+<h3 id="2-skill-and-balance-adjustments"><strong>2.</strong> Skill and balance adjustments</h3>
 <ul>
 <li>Added new skills and changed a few existing skills appropriate to the Class Awakening update</li>
 <li>Sorcerer
@@ -205,76 +205,80 @@
 <li>[Apex Skill] Elemental Cores (active)
 <ul>
 <li>Imbues elements to existing offensive skills, and elements divide into Flame, Frost, and Lightning</li>
-<li>Depending on the combination of collected elements, skills enabled by [Elemental Fusion] changes</li>
+<li>Depending on the combination of collected elements, skills enabled by [Fusion] changes</li>
 <li>Normally you are allowed to fuse 2 elements, but during [Mana Boost] you can fuse up to 3 elements</li>
 </ul>
 </li>
-<li>[Apex Skill] Ice Spear (active)
+<li>[Apex Skill] Ice Lances (active)
 <ul>
 <li>Throws frost projectiles forward. can be used while moving and during other skills</li>
 <li>Can use up to 3 times consecutively</li>
 </ul>
 </li>
-<li>[Apex Skill] Elemental Fusion (active)
+<li>[Apex Skill] Fusion (active)
 <ul>
 <li>Can use various skill according to the collected elements. fusing elements does not consume MP</li>
 </ul>
 </li>
-<li>[Apex Skill] Primal Flame (active)
+<li>[Apex Skill] Prime Flame (active)
 <ul>
 <li>Enabled when fusing Flame and Frost element; hurls forward a projectile of Lightning and Flame</li>
-<li>Shares cooldown with Lightning Storm and Glacial Rise</li>
+<li>Shares cooldown with Arcane Storm and Iceberg</li>
 </ul>
 </li>
-<li>[Apex Skill] Lightning Storm (active)
+<li>[Apex Skill] Arcane Storm (active)
 <ul>
 <li>Enabled when fusing Lightning and Flame element; explodes a strong energy nearby to inflict damage to enemies and push them back</li>
-<li>Shares cooldown with Primal Flame and Glacial Rise</li>
+<li>Shares cooldown with Prime Flame and Iceberg</li>
 <li>Lowers stagger and knockdown while casting</li>
 </ul>
 </li>
-<li>[Apex Skill] Glacial Rise (active)
+<li>[Apex Skill] Iceberg (active)
 <ul>
 <li>Enabled when fusing Frost and Lightning element; raises a glacier forward, knocking enemies into the air</li>
-<li>Shares cooldown with Primal Flame and Lightning Storm</li>
+<li>Shares cooldown with Prime Flame and Arcane Storm</li>
 </ul>
 </li>
-<li>[Apex Skill] Core Fusion (active)
+<li>[Apex Skill] Elemental Fusion (active)
 <ul>
 <li>Fuses the 3 elements collected during [Mana Boost] inflicting massive damage forward, and staggering the targets</li>
 <li>Has a strong skill damage and a short cooldown</li>
 <li>Lowers stagger and knockdown while casting</li>
 </ul>
 </li>
-<li>[Apex Skill] Collapse (active)
+<li>[Apex Skill] Implosion (active)
 <ul>
-<li>Enabled once [Core Fusion] is used 3 times; refunds consumed MP if not used</li>
+<li>Enabled once [Elemental Fusion] is used 3 times; refunds consumed MP if not used</li>
 <li>Pulls in enemies in range and causes a massive explosion dealing significant damage, and staggering the targets</li>
 <li>While casting, can move and perform other actions using an iframe, and does not stop once casted</li>
 </ul>
 </li>
-<li>[Apex Skill] Three Elements (passive)
+<li>[Apex Skill] Elemental Attunement (passive)
 <ul>
 <li>Can collect elements upon learning this skill</li>
-<li>Upon fusing two elements via [Elemental Cores], enables [Stability] abnormality from the leftover element</li>
-<li>Increases 20% skill damage of fusion skills which contain the element causing [Stability]</li>
+<li>Upon fusing two elements via [Fusion], enables [Elementalist] abnormality from the leftover element</li>
+<li>Increases 20% skill damage of fusion skills which contain the element causing [Elementalist]</li>
 </ul>
 </li>
-<li>[Apex Skill] Dimension Shift (passive)
+<li>[Apex Skill] Spatial Gap (passive)
 <ul>
 <li>Applies hit from behind effect upon using [Teleport Jaunt] for 5 seconds</li>
 </ul>
 </li>
-<li>[Apex Skill] Enhanced Ice Spear (passive)
+<li>[Apex Skill] Enhanced Ice Lance (passive)
 <ul>
-<li>Increases 30% skill damage of [Ice Spear] upon using [Nova] and/or [Arcane Pulse]</li>
+<li>Increases 30% skill damage of [Ice Lances] upon using [Nova] and/or [Arcane Pulse]</li>
 </ul>
 </li>
 <li>Existing skill : Meteor Strike, Enhanced Meteor Strike</li>
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 스킬 사용 중 회피기 사용 혹은 행동불능 상태가 되면, 운석이 소환 되었음에도 불구하고 사라지던 문제와 고저차가 적은 지형에서도 운석이 하늘에서 폭발하는 문제를 개선하였습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>
 <ul>
@@ -285,11 +289,17 @@
 <li>(Except, past a certain height limit will cause meteors to spawn right in front)</li>
 </ul>
 </li>
+</ul>
+</li>
 <li>Existing skill : Mana Boost</li>
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 상위 문장 습득 여부에 따른 격차를 좁히고, 새로이 추가되는 [붕괴]스킬 활성화의 전제 조건을 완화 시키기 위해 개선을 진행 하였습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>
 <ul>
@@ -298,15 +308,17 @@
 <li>Upon awakening, all 3 elements will be collected upon use</li>
 </ul>
 </li>
+</ul>
+</li>
 <li>Archer
 <ul>
-<li>[Apex skill] Gale Steps (active)
+<li>[Apex skill] Wind Walk (active)
 <ul>
 <li>Upon consuming ST and hitting target, acquires [Focus] effect</li>
-<li>Cuts off previous action to hastly move in the direction applied, inflicting damage to a target within 18m</li>
-<li>Applies [Resonating Bowstring] effect upon using this skill
+<li>Cuts off previous action to quickly move in the direction applied, inflicting damage to a target within 18m</li>
+<li>Applies [Howling String] effect upon using this skill
 <ul>
-<li>Resonating Bowstring
+<li>Howling String
 <ul>
 <li>Increases 10% skill damage to the next [Radiant Arrow], [Penetrating Arrow], or [Thunderbolt]</li>
 </ul>
@@ -315,15 +327,15 @@
 </li>
 </ul>
 </li>
-<li>[Apex skill] Melodic Breeze (active)
+<li>[Apex skill] Windsong (active)
 <ul>
 <li>For a 22 second duration, increases movement speed by 10%. Resets [Find Weakness], [Thunderbolt], [Radian Arrow], [Penetrating Arrow], [Rapid Fire], and {Sequential Fire] and decreases cooldown by 50%</li>
 <li>Increases attack speed of [Thunderbolt], [Radian Arrow], and [Penetrating Arrow] by 30%</li>
 <li>Decreases number of [Rapid Fire] hits, but increases skill damage and MP restoration</li>
-<li>Decreases ST cost of [Gale Steps] by 30 ST</li>
+<li>Decreases ST cost of [Wind Walk] by 30 ST</li>
 </ul>
 </li>
-<li>[Apex skill] Tempest Arrow (active)
+<li>[Apex skill] Gust Arrow (active)
 <ul>
 <li>Stops in place and pulls the bowstring. the arrow shoots up to 40m, staggering targets</li>
 <li>Following the direction of the arrow, a sonic boom arises, knocking down damaged targets</li>
@@ -360,7 +372,11 @@
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 각성 시, 새로운 기동 공격스킬 [바람 걸음]스킬과 ST게이지를 공유하도록 수정하였으며, 클래스 숙련도가 높아질수록 [물러서기]스킬 대신 [바람 걸음]스킬을 운영하여 보다 강력하게 적을 압박할 수 있습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>Existing skill : Find Weakness
 <ul>
@@ -371,7 +387,13 @@
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+</li>
+</ul>
+<pre><code>Developer comment
+
+- 각성 시, 약점 시스템 추가와 더불어 [궁수의 징표] 스킬이 제거 됨에 따라 기존 기능에 대상 조준 시 추가 효과가 포함 되었습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>Existing skill : Crackshot
 <ul>
@@ -381,7 +403,13 @@
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+</li>
+</ul>
+<pre><code>Developer comment
+
+- [집중 자세 : 용맹] 토글 스킬 및 [궁수의 징표] 스킬 제거에 따라 명사수 패시브를 총 3단계까지 습득 할 수 있습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>Talent revision : Backstep
 <ul>
@@ -399,19 +427,21 @@
 <li>lvl 65 : Increase attack speed by 4</li>
 </ul>
 </li>
-<li>Gunner
-<ul>
-<li>[Apex skill] Arcane Ray (active)
-<ul>
-<li>Upon using once, shoots a Time Bomb while jumping backwards</li>
-<li>Upon using twice, shoots an arcane ray and gets pushed backwards</li>
-<li>Time Bomb immediately detonates if arcane ray hits it before its time,</li>
 </ul>
 </li>
-<li>[Apex skill] Summon Beam Panel (active)
+<li>Gunner
+<ul>
+<li>[Apex skill] Remote Trigger (active)
+<ul>
+<li>Upon using once, shoots a Time Bomb while jumping backwards</li>
+<li>Upon using twice, shoots an Remote Trigger and gets pushed backwards</li>
+<li>Time Bomb immediately detonates if Remote Trigger hits it before its time,</li>
+</ul>
+</li>
+<li>[Apex skill] Modular Weapon System (active)
 <ul>
 <li>Summons a beam panel which moves with the character for 30 seconds</li>
-<li>Enables use of [Carpet Bomb], disables use of [Replenishment]</li>
+<li>Enables use of [Obliteration], disables use of [Replenishment]</li>
 <li>Changes [Rolling Reload] to [Dashing Reload]
 <ul>
 <li>Iframes enemy attacks while casting</li>
@@ -420,36 +450,36 @@
 <li>From the end of the animation, increases combat movement speed by 80 for 2 seconds</li>
 </ul>
 </li>
-<li>Changes [Blast] to [Arcane Beam]
+<li>Changes [Blast] to [Detonate]
 <ul>
 <li>Significantly increases casting speed and projectile speed</li>
 <li>Fires 2 additional projectiles from beam panel. upon successful hit with the additional projectiles, recovers arcane energy and slightly decreases [Dashing Reload] cooldown</li>
 </ul>
 </li>
-<li>Changes [Burst Fire] to [Arcane Beam Barrage]
+<li>Changes [Burst Fire] to [Targeted Burst Fire]
 <ul>
 <li>Fires 2 additional projectiles from beam panel</li>
 <li>Increases arcane energy consumption</li>
 </ul>
 </li>
 <li>Fires enhanced [Balder&rsquo;s Vengeance]</li>
-<li>Post-animation can be cancelled with [Arcane Beam Barrage] and [Dashing Reload]</li>
+<li>Post-animation can be cancelled with [Targeted Burst Fire] and [Dashing Reload]</li>
 </ul>
 </li>
-<li>[Apex skill] Carpet Bomb (active)
+<li>[Apex skill] Obliteration (active)
 <ul>
-<li>Can be used while [Beam Panel Summon] is in use, jumps in the air to fire 12 homing missiles</li>
+<li>Can be used while [Modular Weapon System] is in use, jumps in the air to fire 12 homing missiles</li>
 <li>Upon successful hit while HB is summoned, HB jumps in the air to fire 3 bombs</li>
-<li>Post-animation can be cancelled with [Arcane Beam Barrage] and [Dashing Reload]</li>
+<li>Post-animation can be cancelled with [Targeted Burst Fire] and [Dashing Reload]</li>
 </ul>
 </li>
-<li>[Apex skill] Arcane Fragments (passive)
+<li>[Apex skill] Arcane Splash (passive)
 <ul>
-<li>Generates Arcane Fragments by chance upon successfully hitting targets with [Arcane Barrage], [Time Bomb], [Scattershot], [Burst Fire], and [Bombardment]</li>
-<li>Successfully hitting Arcane Fragments with [Blast], [Burst Fire], [Mana Missile], and [Carpet Bomb] explodes the fragments inflicting damage to nearby targets</li>
+<li>Generates Arcane Splash by chance upon successfully hitting targets with [Arcane Barrage], [Time Bomb], [Scattershot], [Burst Fire], and [Bombardment]</li>
+<li>Successfully hitting Arcane Splash with [Blast], [Burst Fire], [Mana Missile], and [Obliteration] explodes the fragments inflicting damage to nearby targets</li>
 </ul>
 </li>
-<li>[Apex skill] Backfire (passive)
+<li>[Apex skill] Back Blast (passive)
 <ul>
 <li>Upon using [Rocket Jump], applies hit from behind buff for 4 seconds</li>
 </ul>
@@ -457,7 +487,11 @@
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 마공사의 경우 타 클래스에 비해 회피 능력이 부족했던 점을 보완하였으며, 다소 후 모션이 긴 스킬의 경우 적절한 시점에 타 스킬 사용을 통해 끊고 사용할 수 있도록 사용감을 개선하였습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>Existing skill : [Rolling Reload]
 <ul>
@@ -509,63 +543,65 @@
 </li>
 </ul>
 </li>
+</ul>
+</li>
 <li>Valkyrie
 <ul>
-<li>[Apex skill] Half moon slice (active)
+<li>[Apex skill] Gungnir&rsquo;s Bite (active)
 <ul>
 <li>Can be used 2 times</li>
 <li>Gains 1 Ragnarok point and resets [Leaping Slash]</li>
 <li>From the end of skill, aplies skill damage increasing [Lunar Chain] effect for 3 seconds</li>
 </ul>
 </li>
-<li>[Apex skill] Barbaric Aggression (active)
+<li>[Apex skill] Twilight Waltz (active)
 <ul>
-<li>4 tier skill</li>
-<li>Tier 1 - Ground Bash
+<li>4 stage skill</li>
+<li>Stage 1 - Ground Bash
 <ul>
 <li>Upon successful hit, resets [Shining Crescent], gaining 3 Ragnarok points</li>
 </ul>
 </li>
-<li>Tier 2 - Lunge
+<li>Stage 2 - Lunge
 <ul>
 <li>Upon successful hit, resets [Shining Crescent], gaining 3 Ragnarok points</li>
 <li>Applies an endurance debuff on damaged targets</li>
 </ul>
 </li>
-<li>Tier 3 - Double Helix
+<li>Stage 3 - Double Helix
 <ul>
 <li>First hit gains 2 Ragnarok points, second hit gains 3 Ragnarok points</li>
 </ul>
 </li>
-<li>Tier 4 - Destructive Impact
+<li>Stage 4 - Destructive Impact
 <ul>
 <li>Final hit explodes lunar mark inflicting massive damage</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>[Apex skill] War Cry (active)
+<li>[Apex skill] Godsfall (active)
 <ul>
-<li>2 tier skill</li>
-<li>Tier 1 - War Cry
+<li>2 stage skill</li>
+<li>Stage 1 - Valkyrie&rsquo;s Cry
 <ul>
 <li>Swings the glaive to deal damage to nearby enemies and at the same time applies [Killer Instinct] which significantly increases effect of offensive skills for 20 seconds</li>
 </ul>
 </li>
-<li>Tier 2 - Doom Crash
+<li>Stage 2 - Calamity Thrust
 <ul>
 <li>Jumps backwards and up high, then dives to the ground to inflict massive damage</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>[Apex skill] Lunar Amplification (passive)
+<li>[Apex skill] Dreamblaze (passive)
 <ul>
-<li>Upon successful hit with [Ground Bash] or [Glaive Strike], applies a 10% skill damage increasing [Lunar Amplification] effect for 5 seconds</li>
+<li>Upon successful hit with [Ground Bash] or [Glaive Strike], applies a 10% skill damage increasing [Dreamblaze] effect for 5 seconds</li>
 <li>Can stack up to 2 times</li>
 </ul>
 </li>
-<li>[Apex skill] Rear Lunge (passive)
+<li>[Apex skill] Opportunistic Charge (passive)
 <ul>
 <li>Applies a hit from behind buff effect at end of [Charge] for 4 seconds</li>
 </ul>
@@ -573,7 +609,13 @@
 </ul>
 </li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 기존 스킬과 관련하여 [신월: 달빛의 공명]의 경우 사용 횟수는 적은 반면 DPS에서 차지하는 비중이 지나치게 높아, 이 스킬을 사용하지 않는 구간에 전투의 재미가 떨어지는 문제를 보완하고자 하였습니다.
+- [신월: 달빛의 공명]의 위력을 극대화 시킬 수 있던 몇몇 문장 효과를 수정하여 위력을 약화시켰습니다. 대신, 재사용 대기시간을 감소시킴과 동시에 각성 스킬 [광폭창술]을 통해 신월을 더 자주 사용할 수 있도록 하였습니다.
+- 또한, 월광흔을 쌓는 기본 스킬들의 위력을 상승시켰으며 문장을 통해 치명타 확률 및 스킬 위력을 보완할 수 있도록 문장 소모 포인트를 조정하였습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>Existing skill : Glaive Strike
 <ul>
@@ -616,41 +658,104 @@
 <ul>
 <li>Maelstorm
 <ul>
-<li>Glyph of Carving (common) : Changed point cost from 5 to 3</li>
-<li>Glyph of Carving (uncommon) : Changed point cost from 5 to 3</li>
+<li>Glyph of Carving (common)
+<ul>
+<li>Decreased Glyph point cost 5 -&gt; 3</li>
+</ul>
+</li>
+<li>Glyph of Carving (uncommon)
+<ul>
+<li>Decreased Glyph point cost 5 -&gt; 3</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Glaive Strike
 <ul>
-<li>Glyph of Energy (common) : 4 -&gt; 3</li>
+<li>Glyph of Energy (common)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 3</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Leaping Slash
 <ul>
-<li>Glyph of Power (common) : 4 -&gt; 2</li>
-<li>Glyph of Power (uncommon) : 4 -&gt; 2</li>
-<li>Glyph of Carving (uncommon) : 4 -&gt; 2, increased crit chance multiplier from 2 to 3</li>
+<li>Glyph of Power (common)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+</ul>
+</li>
+<li>Glyph of Power (uncommon)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+</ul>
+</li>
+<li>Glyph of Carving (uncommon)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+<li>Increased crit chance multiplier from 2 to 3</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Ground Bash
 <ul>
-<li>Gylph of Carving (common) : 5 to 2</li>
-<li>Glyph of Power (common) : 4 to 2</li>
-<li>Glyph of Carving (rare) : 4 to 2</li>
-<li>Glyph of Power (rare) : 3 to 2</li>
+<li>Gylph of Carving (common)
+<ul>
+<li>Decreased Glyph point cost 5 -&gt; 2</li>
+</ul>
+</li>
+<li>Glyph of Power (common)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+</ul>
+</li>
+<li>Glyph of Carving (rare)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+</ul>
+</li>
+<li>Glyph of Power (rare)
+<ul>
+<li>Decreased Glyph point cost 3 -&gt; 2</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Shining Crescent
 <ul>
-<li>Glyph of Power (common) : Skill damage increase from 20% to 10%</li>
-<li>Glyph of Power (uncommon) : Skill damage increase from 25% to 15%</li>
-<li>Glyph of Power (rare) : Skill damage increase from 30% to 15%</li>
+<li>Glyph of Power (common)
+<ul>
+<li>Decreased skill damage increase 20% -&gt; 10%</li>
+</ul>
+</li>
+<li>Glyph of Power (uncommon)
+<ul>
+<li>Decreased skill damage increase 25% -&gt; 15%</li>
+</ul>
+</li>
+<li>Glyph of Power (rare)
+<ul>
+<li>Decreased skill damage increase 30% -&gt; 15%</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Spinning Death
 <ul>
-<li>Glyph of Power (common) : 4 to 2, changed to increase crit chance by 1.2 times for 30 seconds</li>
-<li>Glyph of Power (rare) : 4 to 2, changed to increase crit chance by 1.3 times for 30 seconds</li>
+<li>Glyph of Power (common)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+<li>Changed to increase crit chance by 1.2 times for 30 seconds</li>
+</ul>
+</li>
+<li>Glyph of Power (rare)
+<ul>
+<li>Decreased Glyph point cost 4 -&gt; 2</li>
+<li>Changed to increase crit chance by 1.3 times for 30 seconds</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Backstab</li>
@@ -661,26 +766,32 @@
 <ul>
 <li>Spinning Death
 <ul>
+<li>작렬맹타
+<ul>
 <li>Upon 3rd hit, increase crit factor buff duration from 3 seconds to 30 seconds</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>Reaper
 <ul>
-<li>[Apex skill] Reverse Scythe Retrieval (active)
+<li>[Apex skill] Dark Harvest (active)
 <ul>
 <li>Enabled by using [Grim Strike] or [Sundering Strike], pressing <code>w</code> key leashes player to the scythe location (no <code>w</code> key input will activate the skill on spot)</li>
 <li>After chaining, using [Grim Strike] or [Sundering Strike] activates [Enhanced Grim Strike] or [Enhanced Sundering Strike], respectively</li>
 </ul>
 </li>
-<li>[Apex skill] Scythe Retrieval (active)
+<li>[Apex skill] Recall Scythes (active)
 <ul>
 <li>Enabled by using [Grim Strike] or [Sundering Strike]</li>
 <li>Upon successful hit, resets [Grim Strike] cooldown, and decreases [Shadow Burst] cooldown by 15 seconds</li>
 </ul>
 </li>
-<li>[Apex skill] Restraining Chains (active)
+<li>[Apex skill] Binding Scythes (active)
 <ul>
 <li>Throws a chain, restraining the target and explodes after 10 seconds to inflict massive damage</li>
 <li>Applies a 20% decrease of attack speed and movement speed to target 5 times, and explosive damage is dealt depending on the number of hits dealts on target</li>
@@ -689,24 +800,24 @@
 </li>
 <li>[Apex skill] Enhanced Sundering Strike (active)
 <ul>
-<li>Enabled after using [Reverse Scythe Retrieval] by using [Sundering Strike]</li>
+<li>Enabled after using [Dark Harvest] by using [Sundering Strike]</li>
 <li>[Sundering Strike] becomes a 1 hit strike while dealing more damage and having higher crit chance</li>
 </ul>
 </li>
 <li>[Apex skill] Enhanced Shadow Burst (active)
 <ul>
-<li>Enabled after using [Reverse Scythe Retrieval] by using [Shadow Burst]</li>
+<li>Enabled after using [Dark Harvest] by using [Shadow Burst]</li>
 <li>[Shadow Burst] becomes a 1 hit strike while dealing more damage and having higher crit chance, and applies knockdown</li>
 </ul>
 </li>
-<li>[Apex skill] Assasinate: Shrouded Escape (passive)
+<li>[Apex skill] Assassination (passive)
 <ul>
 <li>Successfully hitting a target after using [Shrouded Escape] applies a buff increasing all skill damage by 2.5 times with guaranteed critical damage for 6 seconds</li>
 </ul>
 </li>
-<li>[Apex skill] Counter Attack (passive)
+<li>[Apex skill] Vengeful Attack (passive)
 <ul>
-<li>Upon successfuly use of [Counter], can use [Counter] once more</li>
+<li>Upon successfully use of [Counter], can use [Counter] once more</li>
 <li>The additional [Counter] does not have an iframe effect, but can place character in a favorable position while inflicting massive damage</li>
 </ul>
 </li>
@@ -740,11 +851,11 @@
 </li>
 <li>Ninja
 <ul>
-<li>[Apex skill] Lightning Thrust (active)
+<li>[Apex skill] Quick Attack (active)
 <ul>
 <li>Attacks targets with a short dash, used as a chain after [Chakra Thrust] applies additional lightning effect</li>
-<li>During [Enlightenment], [Lightening Thrust] activates [Multi-clone Lightning Thrust]</li>
-<li>During [Enlightenment], using as a chain after [Chakra Thrust] activates [Enhanced Multi-clone Lightning Thrust]</li>
+<li>During [Inner Harmony], [Lightening Thrust] activates [Harmonious Quick Attack]</li>
+<li>During [Inner Harmony], using as a chain after [Chakra Thrust] activates [Enhanced Harmonious Quick Attack]</li>
 </ul>
 </li>
 <li>[Apex skill] Boomerang Shuriken (active)
@@ -752,39 +863,39 @@
 <li>Throws a shuriken from a distance which returns to the player</li>
 <li>If the shuriken hits a target at its maximum distance, resets [Leaves on the Wind] cooldown</li>
 <li>The 3rd [Boomerang Shuriken] does not return to the player</li>
-<li>During [Enlightenment], 1st and 2nd hit throws 2 shurikens</li>
-<li>During [Enlightenment], 3rd hit throws 3 shurikens</li>
-<li>During [Enlightenment] on the 1st and 2nd hit, using [Leaves on the Wind] activates [Enhanced Leaves on the Wind]</li>
+<li>During [Inner Harmony], 1st and 2nd hit throws 2 shurikens</li>
+<li>During [Inner Harmony], 3rd hit throws 3 shurikens</li>
+<li>During [Inner Harmony] on the 1st and 2nd hit, using [Leaves on the Wind] activates [Enhanced Leaves on the Wind]</li>
 </ul>
 </li>
-<li>[Apex skill] Enlightenment (active)
+<li>[Apex skill] Inner Harmony (active)
 <ul>
-<li>MP and Chakra regenerate while increasing skill damage, and applies [Invasive Sight] and [Chi Circulation]
+<li>MP and Chakra regenerate while increasing skill damage, and applies [Piercing Gaze] and [Cyclic Chi]
 <ul>
-<li>[Lightning Thrust] activates [Enhanced Lightning Thrust]</li>
-<li>[Boomerang Shuriken] activates [Multi-clone Boomerang Shuriken]</li>
-<li>[Burning Heart] activates [Multi-clone Burning Heart], and resets cooldown</li>
-<li>[Fire Avalanche] activates [Multi-clone Fire Avalanche]</li>
+<li>[Quick Attack] activates [Enhanced Quick Attack]</li>
+<li>[Boomerang Shuriken] activates [Harmonious Boomerang Shuriken]</li>
+<li>[Burning Heart] activates [Harmonious Burning Heart], and resets cooldown</li>
+<li>[Fire Avalanche] activates [Harmonious Fire Avalanche]</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>[Apex skill] Enhanced Leaves on the Wind (active)
 <ul>
-<li>Can be used during [Enlightenment] and between 1st and 2nd hit of [Boomerang Shuriken], and summons clones to throw shurikens</li>
+<li>Can be used during [Inner Harmony] and between 1st and 2nd hit of [Boomerang Shuriken], and summons clones to throw shurikens</li>
 <li>[Enhanced Burning Heart]</li>
 <li>Summons clones to breathe out a massive flame pillar</li>
 <li>[Enhanced Fire Avalanche]</li>
 <li>Summons clones to throw shurikens together</li>
 </ul>
 </li>
-<li>[Apex skill] Invasive Sight (passive)
+<li>[Apex skill] Piercing Gaze (passive)
 <ul>
-<li>Upon successful hit of [Lightning Thrust], perceive enemy&rsquo;s chi circulation to inflict effective damage</li>
+<li>Upon successful hit of [Quick Attack], perceive enemy&rsquo;s Cyclic Chi to inflict effective damage</li>
 <li>Increases melee skill damage by 5% (stacks up to 2 times)</li>
 </ul>
 </li>
-<li>[Apex skill] Chi Circulation (passive)
+<li>[Apex skill] Cyclic Chi (passive)
 <ul>
 <li>Prepares to face to enemies in the distance
 <ul>
@@ -796,7 +907,7 @@
 <li>Existing skill : Leaves on the Wind
 <ul>
 <li>Changed cooldown to 20 seconds</li>
-<li>Can be cast as chain as [Enhanced Leaves on the Wind] during [Enlightenment] and between 1st and 2nd hit of [Boomerang Shuriken]</li>
+<li>Can be cast as chain as [Enhanced Leaves on the Wind] during [Inner Harmony] and between 1st and 2nd hit of [Boomerang Shuriken]</li>
 <li>Changed to be able to cancel all skill post-animation</li>
 </ul>
 </li>
@@ -804,9 +915,15 @@
 </li>
 <li>Berserker</li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 광전사의 각성 스킬 효율이 타 딜러 클래스보다 높아 이를 조정하기 위해 버프 지속시간 및 효과, 스킬 입력 및 연계 타이밍을 조정하였습니다.
+- [폭주] 관련 공격 스킬 연계 시, 다음 스킬이 발동되는 시점을 늦춰 공격속도에 따라 과도하게 많은 타격을 할 수 없도록 하였습니다.
+- [폭주: 좌수 I], [폭주: 쌍수 I]의 선입력이 가능한 시점을 앞당겨 스킬 연타속도에 따른 타격 횟수 차이를 감소시켰습니다.
+</code></pre><ul>
+<li>
 <ul>
-<li>Existing skill : Unleashed
+<li>Existing skill : Unleash
 <ul>
 <li>Decreased duration from 24 seconds to 18 seconds</li>
 </ul>
@@ -840,9 +957,15 @@
 <li>Changed [Unleashed] cooldown reduction effect from 0.5 seconds to 0.7 seconds upon using Unleashed skills</li>
 </ul>
 </li>
+</ul>
+</li>
 <li>Slayer</li>
 </ul>
-<p>Developer comment</p>
+<pre><code>Developer comment
+
+- 타 각성 클래스와 비교하여 DPS가 부족한 것을 확인하여, 패시브 효과 및 주요 버프스킬의 재사용 대기 시간을 조정하였습니다.
+</code></pre><ul>
+<li>
 <ul>
 <li>Existing skill : In Cold Blood
 <ul>
@@ -865,17 +988,19 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
 <h2 id="content-update">Content update</h2>
-<h3 id="1-dungeon">1. Dungeon</h3>
+<h3 id="1-dungeon"><strong>1.</strong> Dungeon</h3>
 <ul>
-<li>New : Tenebris Citadel (hard)
+<li>New : Dark Reach Citadel (hard)
 <ul>
 <li>Requires ilvl 453 to use IMS (1 entry, 2 with VIP)</li>
 <li>Located at Colossal Ruins</li>
-<li>Drops Infinity Mask, Final Element, Accessory Amplifier, Brooch Etching, etc.</li>
+<li>Drops Infinity Mask, Veilthroch, Accessory Amplifier, Brooch Etching, etc.</li>
 </ul>
 </li>
-<li>New : Tenebris Citadel
+<li>New : Dark Reach Citadel
 <ul>
 <li>Requires ilvl 446 to use IMS (1 entry, 2 with VIP)</li>
 <li>Located at Colossal Ruins</li>
@@ -917,7 +1042,7 @@
 <li>Rare innerwear, superior innerwear</li>
 </ul>
 </li>
-<li>Adjusted to increase drop rate of Elemental Essence, Old Supply Crate</li>
+<li>Adjusted to increase drop rate of Elemental Essence, Scavenged Supplies</li>
 <li>Adjusted to decrease drop rate of Dyad Niveot Structure</li>
 <li>Added Accessory Amplifer to drop table</li>
 </ul>
@@ -955,13 +1080,13 @@
 <li>RK-9 Kennel (hard) / Ruinous Manor (hard)
 <ul>
 <li>Adjusted drop rate of necklace, earring, ring, and belt etchings</li>
-<li>Removed Old Supply Crate, Devil&rsquo;s Toenail from drop table</li>
+<li>Removed Scavenged Supplies, Devil&rsquo;s Claws from drop table</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
-<h3 id="2-quest">2. Quest</h3>
+<h3 id="2-quest"><strong>2.</strong> Quest</h3>
 <ul>
 <li>Added new mission quest <code>Guardian of the Air</code>
 <ul>
@@ -971,13 +1096,13 @@
 </ul>
 </li>
 </ul>
-<h3 id="3-item">3. Item</h3>
+<h3 id="3-item"><strong>3.</strong> Item</h3>
 <ul>
-<li>Added Accessory Converter
+<li>Added Accessory Morpher
 <ul>
 <li>Can be purchased from the Merchant
 <ul>
-<li>Accessory Converter (1,070 gold), Rare Accessory Converter (10,700 gold)</li>
+<li>Accessory Morpher (1,070 gold), Uncommon Accessory Morpher (10,700 gold)</li>
 </ul>
 </li>
 </ul>
@@ -986,7 +1111,7 @@
 <ul>
 <li>Automatically consumes HP/MP pots under a specified %; pot tier depends on the tier of pet
 <ul>
-<li>Automatically low and mid-tier HP/MP Potable consuming pets are rewarded as achievemnt upon reaching a certain level</li>
+<li>Automatically low and mid-tier HP/MP Potable consuming pets are rewarded as achievement upon reaching a certain level</li>
 <li>Automatically Prime HP/MP Potable consuming pets can be acquired from ilvl 431 or higher dungeons</li>
 <li>Automatically Health Potion/Divine Infusion consuming pets can be acquired from ilvl 446 or higher dungeons</li>
 </ul>
@@ -1005,12 +1130,12 @@
 <li>Relentless Swift I-IV</li>
 </ul>
 </li>
-<li>Tier I-II can be acquired from Tenebris Citadel (hard)</li>
+<li>Tier I-II can be acquired from Dark Reach Citadel (hard)</li>
 </ul>
 </li>
-<li>Onset/Infinity Masks can be dismantled to receive <code>Mask Exchange Ticket</code>
+<li>Onset/Infinity Masks can be dismantled to receive <code>Mask Ticket</code>
 <ul>
-<li><code>Mask Exchange Ticket</code> can be used to exchange for mask with option of choice or promotion material</li>
+<li><code>Mask Ticket</code> can be used to exchange for mask with option of choice or promotion material</li>
 </ul>
 </li>
 <li>Changed Complete Crystalbind to stack
@@ -1020,7 +1145,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="4-achievement">4. Achievement</h3>
+<h3 id="4-achievement"><strong>4.</strong> Achievement</h3>
 <ul>
 <li>Achievement season 9 starts
 <ul>
@@ -1029,12 +1154,12 @@
 </li>
 <li>Several achievements have been recategorized to Special tab</li>
 </ul>
-<h3 id="5-guardian-legion-mission">5. Guardian Legion mission</h3>
+<h3 id="5-guardian-legion-mission"><strong>5.</strong> Guardian Legion mission</h3>
 <ul>
 <li>Limited <code>Rhapsody of Wind and Fire</code> flying mission to one location</li>
-<li>Adjusted to decrease maximum participant count from 60 to 50 participants</li>
+<li>Adjusted to decrease maximum participant count 60 -&gt; 50 participants</li>
 </ul>
-<h3 id="6-accessory-amplifier">6. Accessory Amplifier</h3>
+<h3 id="6-accessory-amplifier"><strong>6.</strong> Accessory Amplifier</h3>
 <ul>
 <li>Certain accessories can now be amplified
 <ul>
@@ -1042,39 +1167,39 @@
 <ul>
 <li>Amplifiers can be dismantled to Amplifier Tokens which can be exchanged for amplifier of your choice
 <ul>
-<li>Each type of Amplifier I (belt, neck, earring, ring, circlet) can drop from Antaroth&rsquo;s Abyss (hard), Tenebris Citadel (hard)</li>
+<li>Each type of Amplifier I (belt, neck, earring, ring, circlet) can drop from Antaroth&rsquo;s Abyss (hard), Dark Reach Citadel (hard)</li>
 <li>Accessory Amplifier II will be added shortly
 <ul>
 <li>Accessory Amplifier I amplifies Stormcry and Awakened accessories
 <ul>
-<li>[증폭 I] 울부짖는 분노의 허리띠</li>
-<li>[증폭 I] 진실의 목걸이: 치명</li>
-<li>[증폭 I] 영원의 귀걸이: 치명</li>
-<li>[증폭 I] 불멸의 반지: 치명</li>
-<li>[증폭 I] 진실의 목걸이: 힘</li>
-<li>[증폭 I] 영원의 귀걸이: 힘</li>
-<li>[증폭 I] 불멸의 반지: 힘</li>
-<li>[증폭 I] 영광의 서클릿</li>
-<li>[증폭 I] 비장한 맹세의 허리띠</li>
-<li>[증폭 I] 초월의 목걸이: 치명</li>
-<li>[증폭 I] 초월의 귀걸이: 치명</li>
-<li>[증폭 I] 초월의 반지: 치명</li>
-<li>[증폭 I] 초월의 목걸이: 힘</li>
-<li>[증폭 I] 초월의 귀걸이: 힘</li>
-<li>[증폭 I] 초월의 반지: 힘</li>
-<li>[세공 I] 초월의 서클릿</li>
+<li>[Amplification I] Stormcry Belt</li>
+<li>[Amplification I] 진실의 Necklace: Carving</li>
+<li>[Amplification I] 영원의 Earring: Carving</li>
+<li>[Amplification I] 불멸의 Ring: Carving</li>
+<li>[Amplification I] 진실의 Necklace: Pumped</li>
+<li>[Amplification I] 영원의 Earring: Pumped</li>
+<li>[Amplification I] 불멸의 Ring: Pumped</li>
+<li>[Amplification I] 영광의 Circlet</li>
+<li>[Amplification I] Heroic Oath Belt</li>
+<li>[Amplification I] Ethereal Necklace: Carving</li>
+<li>[Amplification I] Ethereal Earring: Carving</li>
+<li>[Amplification I] Ethereal Ring: Carving</li>
+<li>[Amplification I] Ethereal Necklace: Pumped</li>
+<li>[Amplification I] Ethereal Earring: Pumped</li>
+<li>[Amplification I] Ethereal Ring: Pumped</li>
+<li>[Amplification I] Ethereal Circlet</li>
 </ul>
 </li>
-<li>Accessory Amplifier II amplifies Trascendence accessories
+<li>Accessory Amplifier II amplifies Ethereal accessories
 <ul>
-<li>[증폭 II] 비장한 맹세의 허리띠</li>
-<li>[증폭 II] 초월의 목걸이: 치명</li>
-<li>[증폭 II] 초월의 귀걸이: 치명</li>
-<li>[증폭 II] 초월의 반지: 치명</li>
-<li>[증폭 II] 초월의 목걸이: 힘</li>
-<li>[증폭 II] 초월의 귀걸이: 힘</li>
-<li>[증폭 II] 초월의 반지: 힘</li>
-<li>[증폭 II] 초월의 서클릿</li>
+<li>[Amplification II] Heroic Oath Belt</li>
+<li>[Amplification II] Ethereal Necklace: Carving</li>
+<li>[Amplification II] Ethereal Earring: Carving</li>
+<li>[Amplification II] Ethereal Ring: Carving</li>
+<li>[Amplification II] Ethereal Necklace: Pumped</li>
+<li>[Amplification II] Ethereal Earring: Pumped</li>
+<li>[Amplification II] Ethereal Ring: Pumped</li>
+<li>[Amplification II] Ethereal Circlet</li>
 </ul>
 </li>
 </ul>
@@ -1086,56 +1211,56 @@
 </ul>
 </li>
 </ul>
-<h3 id="7-effect">7. Effect</h3>
+<h3 id="7-effect"><strong>7.</strong> Effect</h3>
 <ul>
 <li>Revise weapon enchantment effect
 <ul>
 <li>Changed color spectrum, including Stormcry</li>
 </ul>
 </li>
-<li>Added weapon effect on/off toggle in Option</li>
+<li>Added weapon effect on / off toggle in Option</li>
 </ul>
-<h3 id="8-guild">8. Guild</h3>
+<h3 id="8-guild"><strong>8.</strong> Guild</h3>
 <ul>
 <li>Changed guild rejoin cooldown from 48 hours to 24 hours</li>
 <li>Changed new guild member from receiving guild rewards for 7 days</li>
 </ul>
-<h3 id="9-style-shop">9. Style shop</h3>
+<h3 id="9-style-shop-tera-kr-exclusive"><strong>9.</strong> Style shop (TERA KR exclusive)</h3>
 <ul>
-<li>TERA KR exclusive comment
+<li>발키온 정찰대 포인트로 구매 가능한 외형 아이템이 추가되었습니다.
 <ul>
-<li>TERA KR exclusive comment
+<li>새로운 외형으로 &lsquo;무자비한 무기'시리즈를 판매합니다.
 <ul>
-<li>TERA KR exclusive comment</li>
+<li>해당 아이템은 8월 9일 정기점검 전까지 구입하실 수 있습니다.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
-<h3 id="10-uiux-revision">10. UI/UX revision</h3>
+<h3 id="10-ui--ux-revision"><strong>10.</strong> UI / UX revision</h3>
 <ul>
-<li>Revised the overall UI/UX function and design
+<li>Revised the overall UI / UX function and design
 <ul>
-<li>Changed HP/MP gauge and skill slot design</li>
-<li>Changed class-specific guage UI design</li>
+<li>Changed HP / MP gauge and skill slot design</li>
+<li>Changed class-specific gauge UI design</li>
 <li>Changed system menu icon design and location</li>
 <li>Revised achievement laurel design</li>
 <li>Changed chat UI and system message design</li>
 </ul>
 </li>
 </ul>
-<h3 id="11-battleground">11. Battleground</h3>
+<h3 id="11-battleground"><strong>11.</strong> Battleground</h3>
 <ul>
-<li>Revised the fact that the protection crystal can be targetted</li>
+<li>Revised the fact that the protection crystal can be targeted</li>
 </ul>
 <h2 id="bug-fixes">Bug fixes</h2>
 <ul>
-<li>Fixed issue where Berserker Leaping Strike&rsquo;s Glyph of Swiftlink did not work</li>
+<li>Fixed issue where Berserker Leaping Strike&rsquo;s Glyph of Swift did not work</li>
 </ul>
 <h2 id="emergency-maintenance-update">Emergency maintenance update</h2>
-<h3 id="1-ui">1. UI</h3>
+<h3 id="1-ui"><strong>1.</strong> UI</h3>
 <ul>
-<li>Changed <code>F</code> key icon</li>
+<li>Changed action key (Default : <code>F</code>) key icon</li>
 </ul>
 <h2 id="bug-fixes-1">Bug fixes</h2>
 <ul>
@@ -1155,11 +1280,16 @@
 </ul>
 </li>
 </ul>
-<hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=344">TERA 테라 | NEXON</a></p>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=345">TERA 테라 | NEXON</a></p>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=346">TERA 테라 | NEXON</a></p>
 
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2018/v75-01">TERA KR patch archive | seraphinush-gaming</a></li>
+        
+      </ul>
+    </div>
     
   </div>
 

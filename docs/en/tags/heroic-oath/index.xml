@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heroic oath on mysterium</title>
+    <link>https://tera-mysterium.com/en/tags/heroic-oath/</link>
+    <description>Recent content in heroic oath on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/en/tags/heroic-oath/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>v68 : Heroic Oath Gear (wip)</title>
+      <link>https://tera-mysterium.com/en/equipment/v69-heroicoath/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/equipment/v69-heroicoath/</guid>
+      <description>Heroic Oath gear is the new gear set added v69, as a retool for Stormcry gear. It is available to upgrade at +9, and enchantment is available up to +3.</description>
+    </item>
+    
+  </channel>
+</rss>

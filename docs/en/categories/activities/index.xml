@@ -32,5 +32,14 @@ City Merchant City Merchants are merchants located specific in the 4 major citie
 Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Kirash Filet (Exodor Fish) which can be used as Cooking materials.</description>
     </item>
     
+    <item>
+      <title>Leaderboard</title>
+      <link>https://tera-mysterium.com/en/activities/medal-of-conflict/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/activities/medal-of-conflict/</guid>
+      <description>Reward Dungeon    Rank Reward     1 15 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Onset Mask Exchange Ticket, 1 Rank 2 / 3 exclusive title, appropriately   4-10 10 Medal of Conflict   11-20 5 Medal of Conflict   21-50 3 Medal of Conflict    Dungeon : Pit of Petrax    Rank Reward     1 10 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Rank 2 / 3 exclusive title, appropriately   4-10 5 Medal of Conflict   11-20 2 Medal of Conflict   21-50 1 Medal of Conflict    Battleground    Rank Reward     1 10 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Rank 2 / 3 exclusive title, appropriately   4-10 3 Medal of Conflict   11-20 1 Medal of Conflict    </description>
+    </item>
+    
   </channel>
 </rss>

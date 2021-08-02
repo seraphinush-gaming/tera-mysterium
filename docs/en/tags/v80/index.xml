@@ -26,7 +26,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v80-02-01/</guid>
-      <description>Fishing   XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Talyph XP scroll I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
+      <description>Fishing   XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Skill Advancement Tome I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2018/v80-01-01/</guid>
-      <description>1. Achievement  Added first level 70 achievement for each class  Bug fixes  Fixed issue where XP gained from goblin thieves was higher than intended Fixed issue where XP bar UI did not display up to two decimal places TERA KR exclusive  TERA KR exclusive     source : TERA 테라 | NEXON</description>
+      <description>Update 1. Achievement  Added first level 70 achievement for each class  Bug fixes  Fixed issue where XP gained from goblin thieves was higher than intended Fixed issue where XP bar UI did not display up to two decimal places 월간 패스 일일 T-cat 주머니 쿨타임이 게임 미접속 시 적용되지 않는 문제  (*월간 패스 T-cat 주머니 쿨타임 오류 보상은 확정 시 안내드릴 예정입니다.)    </description>
     </item>
     
     <item>
@@ -53,8 +53,7 @@
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2018/v80-01/</guid>
-      <description>1. Balance  Adjusted to increase XP on ilvl 412-456 dungeon bosses  Changed XP ranges differently per dungeon   Decreased XP required to level up between level 66-70  Developer comment
- First off we increased XP earned through dungeons by 3 times through this maintenance. The XP gain has been adjusted using difficulty and clear time as basis, and therefore each each dungeon provides a different amount of XP.</description>
+      <description>Update 1. Balance  Adjusted to increase XP on ilvl 412-456 dungeon bosses  Changed XP ranges differently per dungeon   Decreased XP required to level up between level 66-70  Developer comment - First off we increased XP earned through dungeons by 3 times through this maintenance. - The XP gain has been adjusted using difficulty and clear time as basis, and therefore each each dungeon provides a different amount of XP.</description>
     </item>
     
   </channel>

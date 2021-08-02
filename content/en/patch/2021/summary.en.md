@@ -150,7 +150,7 @@ weight = 1
 
 - v108.01
   - **New dungeon : Fusion Laboratory**
-  - **New dungeon : Encroached Damned Citadel (pl.)**
+  - **New dungeon : Stormed Citadel**
   - Dungeon : Removed Gossamer Vault
   - Dungeon : Removed Ruinous Manor
   - Dungeon : Removed Akalath Quarantine [Conquest]

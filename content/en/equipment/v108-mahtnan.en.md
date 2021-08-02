@@ -37,6 +37,7 @@ Unique options are divided into tier I to tier V, and effect values vary appropr
 Possible Unique options and effects are the following :
 
 #### Weapon
+
 | Option | Description |
 | :-: | - |
 | Magical Rainstorm | Increase MP cost by 1.5 times, increase skill damage and effect of healing skills by (4/5/6/7/8)% |
@@ -47,9 +48,10 @@ Possible Unique options and effects are the following :
 | Enrage Subjugation | Increase damage to enraged monsters by (8/10/12/14/16)% |
 | Mark of Extinction | (20/40/60/80/100)% chance to apply Mark of Extinction (pl.) to target upon successful hit; deals 0.1% of target's max HP or up to 200,000,000 damage when stacked up to its maximum of 15 times |
 | Pledge of Blood | Decrease healing received by (10/20/30/40/50)%, increase skill damage and effect of healing skills by (2/4/6/8/10)% |
-| Song of Courage | Increase Magical and Physical Amplification of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
+| Hymn of Courage | Increase Magical and Physical Amplification of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
 
-#### Armor 
+#### Armor
+
 | Option | Description |
 | :-: | - |
 | Bone Etched lesson | Apply effect to increase Endurance by (1/1/2/2/3) upon hit by large monsters. stack up to (20/30/20/25/25) times |
@@ -60,9 +62,10 @@ Possible Unique options and effects are the following :
 | Sanctuary Guardian | Increase healing received by (10/15/20/25/30)% |
 | Heightened Reflexes | Increase Crit Resist Factor by (20/30/40/50/60) |
 | Clutch Play | Recover (2/2.5/3/3.5/4)% of HP every 2 seconds when HP is below 30% |
-| Song of Trust | Increase Physical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
+| Hymn of Faith | Increase Physical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
 
-#### Hand Armor 
+#### Hand Armor
+
 | Option | Description |
 | :-: | - |
 | Concentrated Magic | Increase skill damage and effect of healing skills by (6/7.5/9/10.5/12)% when HP is below 50% |
@@ -71,11 +74,12 @@ Possible Unique options and effects are the following :
 | Death Sentence | Apply effect to decrease Crit Resist Factor by 30, Physical and Magical Resistance by 5,000 of target for 20 seconds upon successful hit, (60/50/40/30/20) second cooldown |
 | Gamechanger | Recover (0.01/0.015/0.02/0.025/0.03)% of damage dealt as HP |
 | Combat Standard | Increase skill damage and effect of healing skills by (6/7/8/9/10)% when HP is above 80% |
-| Opportunist | Apply effect to increase skill daamge of the next 1 hit of skill by (13/16/19/22/25)% every 5 seconds during combat |
+| Opportunist | Apply effect to increase skill damage of the next 1 hit of skill by (13/16/19/22/25)% every 5 seconds during combat |
 | Reckless Conviction | Increase skill damage and effect of healing skills by (7/9/11/13/15)% when HP is below 30% |
-| Battle Drums | Increase Physical and Magical Piercing of self and nearby allies by (667/833/1000/1167/1335), within 15m range |
+| War Drums | Increase Physical and Magical Piercing of self and nearby allies by (667/833/1000/1167/1335), within 15m range |
 
-#### Foot Armor 
+#### Foot Armor
+
 | Option | Description |
 | :-: | - |
 | Illusory Veil | Apply effect to decrease damage received by (3/2.5/4/4.5/5)% every 6 seconds after combat starts, removed upon hit, stacks up to 5 times |
@@ -86,7 +90,7 @@ Possible Unique options and effects are the following :
 | New Life | Increase healing received by (13/16/19/22/25)% when HP is below 30% |
 | Swift Dash | Increase movement speed by (13/16/19/22/25) |
 | Last Shield | Apply a barrier that can absorb up to (80k/110k/140k/170k/200k) damage for 10 seconds upon hit when HP is below 40%, 60 second cooldown |
-| Song of Magic | Increase Magical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
+| Mage Song | Increase Magical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
 
 - Updated v108.03
 
