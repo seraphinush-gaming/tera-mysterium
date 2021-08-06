@@ -1,14 +1,15 @@
 +++
 date = "2021-06-13"
+lastmod = "2021-08-04"
 title = "Mystery Merchant"
 categories = ["activities"]
 tags = ["mystery merchant"]
 sources = [
+  "[2019.06.03 patch notes (v85.01) | TERA KR](/en/patch/2019/v85-01)",
   "[Mystery Merchant FAQ, Mystery Merchants Discord Server](https://docs.google.com/document/d/1gHRSNWBNUESx-I_c7gI4yNDyP7QDop4M54pAZAgvWyM/)",
   "[Mystery Merchant locations, Mystery Merchants Discord Server](https://docs.google.com/document/d/1Xt2ZT6BZqH285M2DqxnKoYzBcLhSLAb3-vxNaFwBlbM/)",
   "[유랑상인 정보 by 창기사전문, Inven](https://www.inven.co.kr/board/tera/2152/29252)"
 ]
-lastmod = "2021-06-13"
 +++
 
 [1]: /images/activities/mysteryMerchant_cityMerchantNpc.png

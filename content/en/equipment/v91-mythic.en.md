@@ -1,5 +1,6 @@
 +++
 date = "2019-12-19"
+lastmod = "2021-06-13"
 title = "v91 : Kaia's Gear"
 categories = ["equipment"]
 tags = ["v91", "mythic", "kaia"]
@@ -7,7 +8,6 @@ sources = [
   "[2019.12.19 patch notes (v91.01) | TERA KR](/en/patch/2019/v91-01/)",
   "[2020.12.17 patch notes (v102.01) | TERA KR](/en/patch/2020/v102-01/)"
 ]
-lastmod = "2021-06-13"
 +++
 
 [1]: /images/equipment/91_icon.png

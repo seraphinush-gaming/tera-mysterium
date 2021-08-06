@@ -1,12 +1,12 @@
 +++
 date = "2018-03-29"
+lastmod = "2021-07-29"
 title = "Leaderboard"
 categories = ["activities"]
 tags = ["medal of conflict"]
 sources = [
   "[2018.03.29 patch notes | TERA KR (v71.01)](/en/patch/2018/v71-01)"
 ]
-lastmod = "2021-07-29"
 +++
 
 ## Reward

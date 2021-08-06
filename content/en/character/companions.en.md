@@ -1,5 +1,6 @@
 +++
 date = "2020-01-01"
+lastmod = "2021-06-14"
 title = "Companions"
 categories = ["character"]
 tags = ["companion", "partner", "pet"]
@@ -9,7 +10,6 @@ sources = [
   "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/en/2021/v103-01/)",
   "[2021.03.10 patch notes (v104.01.02) | TERA KR](/en/patch/en/2021/v104-01-02/)"
   ]
-lastmod = "2021-06-14"
 +++
 
 [1]: /images/character/companions_power.png

@@ -187,17 +187,18 @@
       
     </div>
     
-    <h3 id="1-dungeon">1. Dungeon</h3>
+    <h2 id="update">Update</h2>
+<h3 id="1-dungeon"><strong>1.</strong> Dungeon</h3>
 <ul>
 <li>Increased XP reward for completing level 65+ Vanguard Requests and lass boss in dungeons</li>
 <li>Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times</li>
 </ul>
-<h3 id="2-partner">2. Partner</h3>
+<h3 id="2-partner"><strong>2.</strong> Partner</h3>
 <ul>
-<li>Changed to be able to transfer partner Abilities</li>
-<li>Conditions to activate Gifted Skills for XP boost and skill XP boost has been changed to upon using Bond Skill</li>
+<li>Changed to be able to transfer Abilities between Partners</li>
+<li>Conditions to activate Gifted Skills for XP boost and Skill Advancement boost has been changed to upon using Bond Skill</li>
 </ul>
-<h3 id="3-class-balance">3. Class balance</h3>
+<h3 id="3-class-balance"><strong>3.</strong> Class balance</h3>
 <ul>
 <li>Warrior
 <ul>
@@ -280,6 +281,17 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 검투사의 정면승부 패시브는 탱커 플레이를 위해 기획된 스킬이었으나, 신규 장비 도입 후 의도와 달리 몬스터의 측면을 공격하는 형태로 플레이하도록 유도 되었습니다. 따라서 기존 기획대로 강철의 결의 II 상태에서 발생하도록 변경됩니다.
+- 투혼 옵션의 유무에 따라 전투 초반의 종단 가르기 스킬의 활용 방식이 변경되는 점을 개선하고자, 필살의 의지 II 사용 효과에 초기화 효과를 이동시켰습니다. 투혼 옵션의 효과는 필살의 의지 스킬의 컨셉에 맞게 주력 스킬의 위력을 향상시키는 방향으로 수정됩니다.
+- 검투사 탱커 모드의 경우, 그동안 필살의 의지 상태에서만 특정 스킬에 전방 방어 효과를 획득할 수 있었습니다. 그렇기에 필살의 의지가 아닌 상태에서 전투 난이도가 매우 높고 몬스터의 빠른 공격에 대응하기에는 다소 부족한 면모를 보였습니다. 따라서, 철벽 옵션의 발동 조건을 '강철의 결의 활성화'로 변경하였습니다. 이제는 검투사 탱커 모드에서 다양한 스킬을 활용하여 몬스터의 공격을 방어할 수 있도록 개선됩니다.
+- 검투사 스킬 중, 스킬의 효과만 의미가 있고 위력은 부족한 스킬들에 대해 전반적으로 위력을 상향 조정하였습니다.
+- 신규 장비의 재사용 대기 시간 감소 성능을 고려했을 때, 각성 검투사의 딜사이클의 윤활유인 이단검무의 재사용 대기시간을 1초 감소하였습니다.
+- 몰아치기의 경우, 다른 스킬과 비교하여 사용성이 다소 부족한 면모를 보였습니다.
+- 그렇기에 스택 추가를 통해 사용성을 높였습니다.
+</code></pre><ul>
 <li>Slayer
 <ul>
 <li>Punishing Blow
@@ -289,6 +301,11 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 무사의 참격 스킬은 PVP 상황에서 무사의 필살기인 거합 스킬에 필적하는 위력을 가지고 있었습니다. 따라서 스킬의 재사용 대기 시간과 공격 범위를 고려하여 PVP 스킬 위력을 감소시켰습니다.
+</code></pre><ul>
 <li>Reaper
 <ul>
 <li>Binding Scythes
@@ -298,6 +315,11 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 전투 초반 강력한 퍼포먼스를 내야할 때, 속박의 낫 스킬의 시전시간 동안 로스가 발생하는 부분을 개선하고자 휘감는 공격의 속도를 대폭 향상하였습니다.
+</code></pre><ul>
 <li>Berserker
 <ul>
 <li>Cyclone Intensity (passive)
@@ -317,6 +339,12 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 검투사의 정면승부 패시브와 동일하게 몬스터를 측방에서 공격 시 소용돌이 스킬의 위력이 크게 증가하여, 의도와 달리 몬스터의 측면에서 공격하거나 몬스터 후방에서 적을 바라보지 않고 사용되도록 유도되었기에 치명타 유발 및 위력 증가 효과를 삭제합니다. 이에 소용돌이 스킬의 초기화 확률을 상향 조정하여 기존 대비 태풍 3단계까지 도달할 확률을 증가시켰습니다.
+- PVP 상황을 고려하여 PVP 스킬 위력은 소폭 감소합니다.
+</code></pre><ul>
 <li>Lancer
 <ul>
 <li>Line Held I (passive)
@@ -339,6 +367,11 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 전투 초반에 빠르게 최대 중첩을 획득할 수 있도록 변경됩니다. 또한, 창기사가 사망한 경우에도 수월하게 플레이할 수 있도록 개선하고자 합니다.
+</code></pre><ul>
 <li>Brawler
 <ul>
 <li>Taunt
@@ -349,7 +382,10 @@
 </ul>
 </li>
 </ul>
-<h3 id="4-battleground">4. Battleground</h3>
+<pre><code>Developer comment
+
+-아군의 전투 성능에 따라 어그로를 빼앗기는 상황이 발생하더라도, 도발 스킬을 사용하여 어그로를 회수할 수 있도록 거인의 힘 스킬을 통해 재사용 대기시간 감소 효과를 받을 수 있도록 수정하였습니다.
+</code></pre><h3 id="4-battleground"><strong>4.</strong> Battleground</h3>
 <ul>
 <li>[Unified gear] - Champions&rsquo; Skyring
 <ul>
@@ -357,13 +393,16 @@
 </ul>
 </li>
 </ul>
-<h3 id="5-other">5. Other</h3>
+<pre><code>Developer comment
+
+- 대규모 전장과 비교했을 때, 투지의 전장은 플레이어 수가 작아 분산 피해가 적게 적용되는 상황입니다. 때문에 투지의 전장에서는 스킬 피해량이 과도하게 적용되어 캐릭터가 순식간에 사망하는 상황이 빈번했습니다. 따라서, 투지의 전장 공용 장비에 추가 체력을 부여하였습니다.
+</code></pre><h3 id="5-other"><strong>5.</strong> Other</h3>
 <ul>
 <li>Added minimap markers of NPCs for the new Exodor story quest</li>
 <li>Added minimap markers for Allemantheia Headquarters and Consul&rsquo;s Hall</li>
 <li>Added map information for quest instances</li>
 <li>Revised character direction upon entering Ghillieglade</li>
-<li>Added note on tooltip of Argog&rsquo;s weapon skin crafting as bind on pick-up</li>
+<li>Added note on tooltip of Argog weapon skin crafting as bind on pick-up</li>
 <li>Applied auto-optimization during field boss monster content
 <ul>
 <li>Applies grayed-out characters upon having multiple players in the combat area (exclusive to Exodor field boss monsters)
@@ -393,10 +432,8 @@
 <li>Fixed issue where joining a party while progressing Stepstone Island story quest locked player in a weird location</li>
 <li>Fixed issue where inventory item&rsquo;s toggle effect did not persist when inventory filter is applied</li>
 <li>Fixed issue where level 67 and lower characters could be summoned to Exodor via friend summon or guild summon</li>
-<li>Fixed issue where party/raid members could not interact with summoned NPCs</li>
 <li>Fixed issue where players could not change dual option until relogging upon using a mount skill</li>
 <li>Fixed issue where player crashes in Gridiron upon jumping constantly at a certain location on the map</li>
-<li>Fixed issue where a faulty system message was displayed when other players try to interact with Azart Hatchery portal</li>
 <li>Fixed issue where Warrior&rsquo;s Head On passive&rsquo;s crit power increase effect and tooltip description did not match</li>
 <li>Fixed issue where Gunner&rsquo;s skill damage type did not apply as Magical Damage
 <ul>
@@ -408,14 +445,21 @@
 <li>Fixed issue where Priest/Mystic&rsquo;s Endurance significantly decrease while casting certain skills</li>
 <li>Fixed issue where Ninja&rsquo;s [Lightning Spirit] Skill Option randomly applied [Burning Spirit] Skill Option</li>
 <li>Fixed issue where parcel reward for participating with Ortan, Hazard, and Cerrus field boss fights was named [System]</li>
-<li>Fixed issue where if there is a locked Pocket in another tab, the slot in the previous tab may be locked as well (even though it may have been unlocked)</li>
+<li>Fixed issue where if there is a locked Pocket Tab in another tab, the slot in the previous tab may be locked as well (even though it may have been unlocked)</li>
 <li>Fixed issue where certain quests could not be achieved due to previously removed quests</li>
 <li>Fixed issue where Berserker&rsquo;s Triumphant Shout applied HP regen twice</li>
 <li>Fixed issue where flying above a certain altitude in Savage Reach displayed water all of the area</li>
 </ul>
-<hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=408">TERA 테라 | NEXON</a></p>
 
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2019/v87-01">TERA KR patch archive | seraphinush-gaming</a></li>
+        
+      </ul>
+    </div>
     
   </div>
 

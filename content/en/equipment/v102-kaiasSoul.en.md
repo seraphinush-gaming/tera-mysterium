@@ -1,5 +1,6 @@
 +++
 date = "2021-06-15"
+lastmod = "2021-06-15"
 title = "v102 : Kaia's Soul Gear"
 categories = ["equipment"]
 tags = ["v102", "kaia's soul"]
@@ -8,7 +9,6 @@ sources = [
   "[Patch Notes 102: The Catalepticon, Steam](https://store.steampowered.com/news/app/212740/view/4589698632264631778)",
   "[2021.04.07 patch notes (v105.02) | TERA KR](/en/patch/2021/v105-02)"
 ]
-lastmod = "2021-06-15"
 +++
 
 [icon]: /images/equipment/102_icon.png

@@ -1,6 +1,6 @@
 +++
 date = "2018-01-01"
-lastmod = "2021-04-08"
+lastmod = "2021-08-02"
 title = "2018 patch summary"
 categories = ["patch notes"]
 tags = ["2018", "summary"]
@@ -169,7 +169,7 @@ weight = 1
 - v75.02
   - **New dungeon : Grotto of Lost Souls**
   - **New dungeon : Grotto of Lost Souls (hard)**
-  - New feature : Compliment System 
+  - New feature : Compliment system 
   - **New accessory : Transcendent Mask**
 
 - v76.01
@@ -310,11 +310,11 @@ weight = 1
 
 - v79.05.02
   - **New feature : Increased level cap from 65 to 70**
-  - **New feature : Skill Advancement System**
-  - **New feature : Adventure Coin System**
-  - **New dungeon : Dark Reach Citadel (7-Person)**
-  - **New dungeon : Antaroth's Abyss (7-Person)**
-  - **New dungeon : Grotto of Lost Souls (7-Person)**
+  - **New feature : Skill Advancement system**
+  - **New feature : Adventure Coin system**
+  - **New dungeon : Dark Reach Citadel (hard) (7-Person)**
+  - **New dungeon : Antaroth's Abyss (hard) (7-Person)**
+  - **New dungeon :  Grotto of Lost Souls (hard) (7-Person)**
   - Dungeon : Removed Sabex Armory
   - Dungeon : Removed Macellarius Catacombs
   - **New dungeon : Lilith's Trial**
@@ -330,7 +330,7 @@ weight = 1
   - Class balance (Gunner)
   - Class balance (Mystic)
   - Class balance (priest)
-  - **New feature : Infusion System**
+  - **New feature : Infusion system**
   - **New equipment : Halidom**
   - **New equipment : Relic**
   - Accessory : Weapon, armor Crystals no longer break upon death

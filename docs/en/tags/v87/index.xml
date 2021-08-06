@@ -17,7 +17,7 @@
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v87-03/</guid>
-      <description>1. Dungeon  Celestial Arena  Changed required item level from 439 to 431  Adjusted to decrease HP of monsters to reflect the item level change      2. Services  PC bang  TERA KR exclusive  TERA KR exclusive TERA KR exclusive      3. Item  Changed to allow switching between Intel pieces and Naslow&amp;rsquo;s Treasure Map pieces  It is a 1:1 exchange, and cannot be traded on trade broker    4.</description>
+      <description>Update 1. Dungeon  Celestial Arena  Changed required item level 439 -&amp;gt; 431  Adjusted to decrease HP of monsters to reflect the item level change      2. Services (TERA KR exclusive)  PC방 혜택  [PC방] 차가운 금속 장비 상자가 [PC방] 전설 장비 상자로 변경됩니다.  해당 상자를 통해서 절멸, 검은 태양 장비, 빛나는 여신의 브로치, 불멸의 반지 등의 장비를 획득하실 수 있습니다. (PC방에서만 이용 가능한 장비) [PC방] 전설 장비 상자에서 획득한 아이템은 65레벨 이상부터 착용할 수 있습니다.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v87-02/</guid>
-      <description>1. Field boss  Field boss contents Machnak, Avion, Royal Azart have been disabled  2. Item  Changed the following items&amp;rsquo; names and icons  Physical Machnak Belt -&amp;gt; Red Sun Belt Magical Machnak Belt -&amp;gt; Blue Moon Belt Physical Avion Mask -&amp;gt; Red Sun Mask Magical Avion Mask -&amp;gt; Blue Moon Mask   Added the following items to the shops of the following items  The items are equivalent conversion to the Exodor field monster drops  [Machnak Jaw Bone] | Azart Legion Tag, 1 [Avion Dranium Fragment] | Azart Mark, 1 [Royal Azart Powder] | Azart Suppression Medal, 1     Added the following 4 items  Item  Azart Force Badge Azart Token Exodor Superior Belt Box Exodor Superior Mask Box      3.</description>
+      <description>Update 1. Field boss  Field boss contents Maknakh, LB-1, Murderwing Monarch have been disabled  2. Item  Changed the following items&amp;rsquo; names and icons     Before After     Physical Maknakh Belt Annihilation Belt   Magical Maknakh Belt Dark Light Belt   Physical LB-1 Mask Annihilation Mask   Magical LB-1 Mask Dark Light Mask     Added the following items to the shops of the following items  The items are equivalent conversion to the Exodor field monster drops       Item Added item Exchange rate     Maknakh&amp;rsquo;s Jawbone Azart Force Badge 1   LB-1 Dranium Fragment Azart Token 1   Murderwing Monarch Wing Powder Azart Expedition Badge 1     Added the following 4 items     Item     Azart Force Badge   Azart Token   Exodor Superior Belt Box   Exodor Superior Mask Box    3.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v87-01/</guid>
-      <description>1. Dungeon  Increased XP reward for completing level 65+ Vanguard Requests and lass boss in dungeons Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times  2. Partner  Changed to be able to transfer partner Abilities Conditions to activate Gifted Skills for XP boost and skill XP boost has been changed to upon using Bond Skill  3. Class balance  Warrior  Head On (passive)  Changed to only activate crit power effect during Defense Stance   Level 69 Skill Option : Deadly Gamble  Changed [Bellicosity] Skill Option to the following :  Before :  Increase Deadly Gamble duration by 20% during Assault Stance.</description>
+      <description>Update 1. Dungeon  Increased XP reward for completing level 65+ Vanguard Requests and lass boss in dungeons Increased Joy of Partying effect of Macellarius Catacombs from 1.8 times to 1.9 times  2. Partner  Changed to be able to transfer Abilities between Partners Conditions to activate Gifted Skills for XP boost and Skill Advancement boost has been changed to upon using Bond Skill  3. Class balance  Warrior  Head On (passive)  Changed to only activate crit power effect during Defense Stance   Level 69 Skill Option : Deadly Gamble  Changed [Bellicosity] Skill Option to the following :  Before :  Increase Deadly Gamble duration by 20% during Assault Stance.</description>
     </item>
     
   </channel>

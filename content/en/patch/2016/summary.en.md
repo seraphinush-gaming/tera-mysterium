@@ -11,7 +11,7 @@ weight = 1
 
 - v42.01
   - **New class : Ninja**
-  - **New Flight system**
+  - **New feature : Flight system**
   - **New dungeon : Demokron Factory**
   - **New dungeon : Celestial Arena**
   - Dungeon : Reopened Wonderholme
@@ -136,7 +136,7 @@ weight = 1
   - **New dungeon : Lilith's Keep**
   - Dungeon : Reopened Sky Cruiser Endeavor (hard)
   - Dungeon : Reopened Vault of Kaprima
-  - **Removed Stamina system**
+  - Feature : Removed Stamina system
   - Item : Removed Stamina-related items
   - Item : Removed Charms
   - Item : Added Battle Solution
@@ -200,7 +200,7 @@ weight = 1
   - Class balance (Gunner)
   - Class balance (Priest)
   - Class balance (Mystic)
-  - **New Guild vs. Guild system**
+  - **New feature : Guild vs. Guild system**
 
 - v50.01.01
   - Class balance (Archer)

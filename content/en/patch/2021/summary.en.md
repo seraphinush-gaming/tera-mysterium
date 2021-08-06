@@ -10,9 +10,7 @@ weight = 1
 ## January
 
 - v103.01
-  - **New dungeon : Killing Grounds**
-  - **New dungeon : Killing Grounds (hard)**
-  - **New dungeon : Catalepticon Trial**
+  - **New dungeon : Killing Grounds, Killing Grounds (hard), Catalepticon Trial**
   - Leaderboard : Removed Forbidden Arena
   - Exodor : Removed restriction from using flight and jump platform
   - Quest : Added quest skip function
@@ -35,7 +33,7 @@ weight = 1
   - Item : Edited sale value of 'Battered Oath ~' Infusion gear properly to 10 Silver
 
 - v103.02
-  - Dungeon (Killing Grounds) : Adjusted  balance
+  - Dungeon (Killing Grounds) : Adjusted balance
   - Dungeon (Catalepticon) : Fixed shield abnormality duration during skull mechanic from 4 seconds to 6 seconds
   - Item : Added 'Kaia's Soul Token' to drop in High difficulty and above instances
   - Item : Changed sale value of rare / superior Halidom / Relic to 5 Gold
@@ -66,9 +64,7 @@ weight = 1
 
 - v105.01
   - **New dungeon : Damned Citadel**
-  - Dungeon : Reopened Manglemire
-  - Dungeon : Reopened Rampaging RK-9 Kennel
-  - Dungeon : Reopened [Dungeon Gauntlet] Akalath Quarantine
+  - Dungeon : Reopened Manglemire, Rampaging RK-9 Kennel, [Dungeon Gauntlet] Akalath Quarantine
   - Dungeon (Killing Ground (hard)) : Changed to be unable to spawn Mystic's Motes before combat
   - Dungeon (Lumikan's Trial) : Added Mystic / Priest Buff Stone, added skills to Lancer NPC
   - **New feature : DPS meter**
@@ -79,16 +75,9 @@ weight = 1
   - Class balance (Brawler) : Increased aggro
   - UI : Changed Character Selection background to Spring theme
   - **New feature** : Added skip cutscene option
-  - Shop : Updated Vanguard Initiative Credit Shop
-  - Shop : Updated Guardian Legion Credit Shop
-  - Shop : Updated Exodor Justicar & Free Exodor Credit Shop
-  - Shop : Updated Ace Medal Shop
-  - Shop : Updated Valkyon Coin Shop
+  - Shop : Updated Vanguard Initiative Credit Shop, Guardian Legion Credit Shop, Exodor Justicar & Free Exodor Credit Shop, Ace Medal Shop, Valkyon Coin Shop
   - Civil Unrest : Balance update
-  - Item : Updated Regal Guild Supplies
-  - Item : Updated Princely Guild Supplies
-  - Item : Updated Baronic Guild Supplies
-  - Item : Updated Ducal Guild Supplies
+  - Item : Updated Regal Guild Supplies, Princely Guild Supplies, Baronic Guild Supplies, Ducal Guild Supplies
   - Battleground : Removed Gridiron
   - **Battleground** : Reopened Fraywind Canyon
 
@@ -106,9 +95,9 @@ weight = 1
 - v106.01
   - Battleground : Corsairs' Stronghold balance update
   - Battleground : Fraywind Canyon balance update
-  - Battleground : Added skill efect to equalized gear distribution Brooch
+  - Battleground : Added skill effect to equalized gear distribution Brooch
   - **New dungeon : Harnovog's Trial**
-  - DPS meter : update
+  - DPS meter : Update
   - Open world : Added named monsters to Exodor
   - Vanguard : Adjusted to increase Vanguard Initiative credit obtained from Vanguard Request
   - Shop (Vanguard Initiative Credit Shop) : Adjusted to increase enchanting materials cost
@@ -126,14 +115,7 @@ weight = 1
 - v106.02.01
 
 - v107.01
-  - Class balance (Berserker)
-  - Class balance (Warrior)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Slayer)
-  - Class balance (Reaper)
-  - Class balance (Valkyrie)
-  - Class balance (Ninja)
+  - Class balance (Berserker, Warrior, Sorcerer, Archer, Slayer, Reaper, Valkyrie, Ninja)
   - Feature : Added DPS meter to System Tray of Windows OS Taskbar
   - Item : Added effect to Angleworm bait items
   - UI : Updated Boss Gauge Info
@@ -151,35 +133,13 @@ weight = 1
 - v108.01
   - **New dungeon : Fusion Laboratory**
   - **New dungeon : Stormed Citadel**
-  - Dungeon : Removed Gossamer Vault
-  - Dungeon : Removed Ruinous Manor
-  - Dungeon : Removed Akalath Quarantine [Conquest]
-  - Dungeon : Removed Catalepticon
-  - Dungeon : Removed Killing Grounds
-  - Dungeon : Removed Draakon Arena
-  - Dungeon : Removed Forbidden Arena [Undying Warlord]
-  - Dungeon : Removed Corrupted Skynest
-  - Dungeon : Removed Ruinous Manor (hard)
-  - Dungeon : Removed Killing Grounds (hard)
-  - Dungeon : Removed Catalepticon (hard)
-  - Dungeon : Removed Corrupted Skynest (hard)
-  - Dungeon : Removed Rampaging RK-9 Kennel
-  - Dungeon : Removed Commander's Residence
-  - Dungeon : Reopened Abscess
-  - Dungeon : Reopened Velik's Hold
-  - Dungeon : Reopened Grotto of Lost Souls (hard)
-  - **New gear : Mahtnan gear (pl.)**
+  - Dungeon : Removed Gossamer Vault, Ruinous Manor, Akalath Quarantine [Conquest], Catalepticon, Killing Grounds, Draakon Arena, Forbidden Arena [Undying Warlord], Corrupted Skynest, Ruinous Manor (hard), Killing Grounds (hard), Catalepticon (hard), Corrupted Skynest (hard), Rampaging RK-9 Kennel, Commander's Residence
+  - Dungeon : Reopened Abscess, Velik's Hold, Grotto of Lost Souls (hard)
+  - **New gear : Mahtnan gear**
   - **New feature : Succession system (pl.)**
   - **New feature : Option Revert (pl.)**
   - Combat : Changed how piercing / ignore option is applied
-  - Class balance (Berserker)
-  - Class balance (Warrior)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Lancer)
-  - Class balance (Ninja)
-  - Class balance (Reaper)
-  - Class balance (Gunner)
+  - Class balance (Berserker, Warrior, Sorcerer, Archer, Lancer, Ninja, Reaper, Gunner)
   - Combat : Disabled equipment swap upon using select skill or receiving select skill effect
   - **New item : Campfire**
   - Battleground : Fraywind Canyon balance update
@@ -194,9 +154,7 @@ weight = 1
 
 - v108.01.02
   - **New dungeon : Fusion Laboratory (hard)**
-  - Class balance (Brawler)
-  - Class balance (Warrior)
-  - Class balance (Gunner)
+  - Class balance (Brawler, Warrior, Gunner)
 
 - v108.02
   - Dungeon : Reopened Draakon Arena
@@ -206,12 +164,11 @@ weight = 1
   - Crafting : Added Mahtnan's Cryolite (pl.)
 
 - v108.02.01
-  - Gear : Adjusted to increase item level of Superior / Mythic Mahtnan gear (pl.)
+  - Gear : Adjusted to increase item level of Superior / Mythic Mahtnan gear
 
 - v108.03
   - **New region : Baldera**
-  - Dungeon : Reopened Catalepticon
-  - Dungeon : Reopened Sky Cruiser Endeavor (hard)
+  - Dungeon : Reopened Catalepticon, Sky Cruiser Endeavor (hard)
   - **New dungeon : Rogash's Trial**
   - Gear : Adjusted select Mahtnan's gear (pl.) Unique options
   - Feature : Added 5 new iris types to Elin

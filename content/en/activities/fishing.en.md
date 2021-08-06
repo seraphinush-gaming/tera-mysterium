@@ -1,5 +1,6 @@
 +++
 date = "2020-01-01"
+lastmod = "2021-06-14"
 title = "Fishing"
 categories = ["activities"]
 tags = ["fishing"]
@@ -8,7 +9,6 @@ sources = [
   "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/en/2021/v103-01/)",
   "TERA NA v106 Data Center",
 ]
-lastmod = "2021-06-14"
 +++
 
 [1]: /images/activities/fishing_main.png

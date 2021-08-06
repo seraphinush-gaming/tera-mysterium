@@ -17,7 +17,7 @@
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v80-03/</guid>
-      <description>1. Server merge  Servers are now merged  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-man to 3-man instances Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer Changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
+      <description>Update 1. Server merge (TERA KR exclusive)  Merged [아룬의 영광] and [카이아의 가호] servers  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-man to 3-man instances Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer; changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v80-02-01/</guid>
-      <description>Fishing   XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Skill Advancement Tome I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
+      <description>Update 1. Fishing  XP  Successfully catching fish now provides XP  XP gained varies at different levels XP gained varies by different grades of fish     Item  Changed to obtain Skill Advancement Tome I~II by chance upon successful catch   Delivery  Fish delivery  Changed Association Fishmonger to Association Fishmonger Increased delivery limit to 30 times Can obtain gold by delivering grade 0-10 fish and BAF   Fish Crate delivery  Changed Association Resource Manager to Association Fish Crate Manager Changed to deliver up to 3 times Can obtain gold by delivering Fish Crate I-V  Fish Crate designs can be exchanged with Angler Tokens through Angler Token Vendor     VIP users can deliver fish up to 50 times, deliver fish crates up to 5 times Fishing Supplies merchant  Added Recipe: Apple-Pumpkin Smoothie  Can be crafted 50 Apples, 50 Moongourd Pulp and 100 Fresh Milk (2x for crit)  Provides &amp;lsquo;20% XP boost&amp;rsquo; effect          2.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v80-02/</guid>
-      <description>1. Quest  Added story quest-specific 1-man level progression dungeons  Bastion of Lok (1-man)  Can enter via appropriate story quest   Sinistral Manor (1-man)  Can enter via appropriate story quest   Cultists&amp;rsquo; Refuge (1-man)  Can enter via appropriate story quest     Removed Kumas Royale story quest  Quest already received and not completed will automatically be completed upon update   Fixed to display escort quest NPCs on minimap via an orange dot marking  2.</description>
+      <description>Update 1. Quest  Added story quest-specific 1-Person level progression dungeons  Bastion of Lok (1-Person)  Can enter via appropriate story quest   Sinistral Manor (1-Person)  Can enter via appropriate story quest   Cultists&amp;rsquo; Refuge (1-Person)  Can enter via appropriate story quest     Removed Kumas Royale story quest  Quest already received and not completed will automatically be completed upon update   Fixed to display escort quest NPCs on minimap via an orange dot marking  2.</description>
     </item>
     
     <item>

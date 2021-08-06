@@ -1717,36 +1717,6 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/ko/patch/2019/v88-04/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/patch/2019/v88-04/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/patch/2019/v88-04/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/ko/tags/v88/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/tags/v88/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/tags/v88/"
-                />
-  </url>
-  
-  <url>
     <loc>https://tera-mysterium.com/ko/patch/2019/v88-03/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1758,6 +1728,21 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://tera-mysterium.com/ko/patch/2019/v88-03/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/ko/tags/v88/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/v88/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/v88/"
                 />
   </url>
   

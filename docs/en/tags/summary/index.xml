@@ -18,7 +18,7 @@
       
       <guid>https://tera-mysterium.com/en/patch/2021/summary/</guid>
       <description>January   v103.01
- New dungeon : Killing Grounds New dungeon : Killing Grounds (hard) New dungeon : Catalepticon Trial Leaderboard : Removed Forbidden Arena Exodor : Removed restriction from using flight and jump platform Quest : Added quest skip function Partner : Revised to guarantee (100%) obtaining a Partner upon using an Evolution Core Partner : Revised Partner Fellowship increase rate and amount Battleground : Revised Gridiron Card Collection : Increase Card Fragment drop rate in all instances Card Collection : Decreased cost of Card Fragment Boxes in Specialty Merchant Card Collection : Significantly increased Selective Card Fusion rate Vanguard Initiative : Added level 70 [Daily] Vanguard Request Item : Added +9 passive effect to Kaia&amp;rsquo;s Soul Armor / Hand Armor / Foot Armor Item : Changed Frost Monarch dragon-type mount active skill    v103.</description>
+ New dungeon : Killing Grounds, Killing Grounds (hard), Catalepticon Trial Leaderboard : Removed Forbidden Arena Exodor : Removed restriction from using flight and jump platform Quest : Added quest skip function Partner : Revised to guarantee (100%) obtaining a Partner upon using an Evolution Core Partner : Revised Partner Fellowship increase rate and amount Battleground : Revised Gridiron Card Collection : Increase Card Fragment drop rate in all instances Card Collection : Decreased cost of Card Fragment Boxes in Specialty Merchant Card Collection : Significantly increased Selective Card Fusion rate Vanguard Initiative : Added level 70 [Daily] Vanguard Request Item : Added +9 passive effect to Kaia&amp;rsquo;s Soul Armor / Hand Armor / Foot Armor Item : Changed Frost Monarch dragon-type mount active skill    v103.</description>
     </item>
     
     <item>
@@ -36,7 +36,12 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/summary/</guid>
-      <description>January February March April May June July August September October November December </description>
+      <description>January   v80.02
+  v80.02.01
+  v80.03
+ Dungeon : Changed level progression dungeons from 5-Person to 3-Person Account : Min character slot expansion (3 -&amp;gt; 6)    v81.01
+ New feature : Companion system Class balance (Warrior, Berserker, Archer, Sorcerer, Reaper, Priest, Mystic, Brawler, Lancer)    v81.02
+ New dungeon : Gossamer Vault Game : Opened Classic server    February   v82.</description>
     </item>
     
     <item>
@@ -69,7 +74,7 @@
       
       <guid>https://tera-mysterium.com/en/patch/2016/summary/</guid>
       <description>January   v42.01
- New class : Ninja New Flight system New dungeon : Demokron Factory New dungeon : Celestial Arena Dungeon : Reopened Wonderholme Dungeon : Reopened Abscess (hard) Dungeon : Reopened Abscess Dungeon : Removed select solo instances Dungeon : Removed Dreadspire Dungeon : Removed Timescape (hard) Dungeon : Removed Kalivan&amp;rsquo;s Dreadnaught Dungeon : Removed Forsaken Island (hard) Dungeon : Removed Bathysmal Rise Dungeon : Removed Bathysmal Rise (hard) Dungeon : Removed Sky Cruiser Endeavor (hard) Open world : Level progression revision Class balance (Archer) : CHanged to hide trap effect to enemies    v42.</description>
+ New class : Ninja New feature : Flight system New dungeon : Demokron Factory New dungeon : Celestial Arena Dungeon : Reopened Wonderholme Dungeon : Reopened Abscess (hard) Dungeon : Reopened Abscess Dungeon : Removed select solo instances Dungeon : Removed Dreadspire Dungeon : Removed Timescape (hard) Dungeon : Removed Kalivan&amp;rsquo;s Dreadnaught Dungeon : Removed Forsaken Island (hard) Dungeon : Removed Bathysmal Rise Dungeon : Removed Bathysmal Rise (hard) Dungeon : Removed Sky Cruiser Endeavor (hard) Open world : Level progression revision Class balance (Archer) : CHanged to hide trap effect to enemies    v42.</description>
     </item>
     
   </channel>

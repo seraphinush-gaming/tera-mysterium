@@ -17,7 +17,7 @@
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v85-05/</guid>
-      <description>1. Class  Priest  Zenobia&amp;rsquo;s Vortex Shocking Implosion  Increased HP regeneration of Zenobia&amp;rsquo;s Vortex by 2 times during Edict of Judgement   Triple Nemesis  Adjusted to increase duration of Glyph of Enfeeblement abnormality from 12 seconds to 21 seconds   Guardian&amp;rsquo;s Sanctuary  Changed HP regeneration Changed to casting to be instant instead of having a 1.5 second casting duration      2.</description>
+      <description>Update 1. Class  Priest  Zenobia&amp;rsquo;s Vortex Shocking Implosion  Increased HP regeneration of Zenobia&amp;rsquo;s Vortex by 2 times during Edict of Judgement   Triple Nemesis  Adjusted to increase duration of Glyph of Enfeeblement abnormality from 12 seconds to 21 seconds   Guardian&amp;rsquo;s Sanctuary  Changed HP regeneration Changed to casting to be instant instead of having a 1.5 second casting duration      Developer comment -사제의 경우, [천벌의 연쇄 – 약화의 문장]의 효과 지속시간이 짧은 관계로 너무 잦은 빈도로 신경 써야만 하는 상황이었습니다.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v85-04/</guid>
-      <description>1. Dungeon  Forsaken Island (hard) (5-man)  Instance matching system can be used starting level 65, at item level 453 and above Costs 150 Adventure Coins, and can be accessed once per day (twice for VIP) Teleportal is located at Cutthroat Harbor Loot table includes Stormcry gear box, Sacred Mallet, Weights, Halidoms/Relics, Naslow&amp;rsquo;s Treasure Map right piece, and Mysterious Intel right piece   Forsaken Island (5-man)  Instance matching system can be used starting level 65, at item level 438 and above Costs 75 Adventure Coins, and can be accessed once per day (twice for VIP) Teleportal is located at Cutthroat Harbor Loot table includes Frostmetal gear box, Carved Ornament, Artisan&amp;rsquo;s Tools, Otherworldly Shard, Onset Mask, Sacred Mallet, Weights, Halidoms/Relics, and Naslow&amp;rsquo;s Treasure Map left piece   Ghillieglade  Added Superior innerwear as item reward  Supperior innerwear can now be used with randomizer cube   Slightly increased Goldfinger Token drop rate and drop amount    2.</description>
+      <description>Update 1. Dungeon  Forsaken Island (hard) (5-Person)  Instance matching system can be used starting level 65, at item level 453 and above Costs 150 Adventure Coins, and can be accessed once per day (twice for VIP) Teleportal is located at Cutthroat Harbor Loot table includes Stormcry gear box, Sacred Mallet, Weights, Halidoms/Relics, Naslow&amp;rsquo;s Treasure Map: Right Half, and Intelligence Report: Right Half (Added) 사망 시 부활이 불가능하며, 마지막 보스 몬스터 HP 35% 미만에서만 사제/정령사의 부활 스킬로 부활이 가능합니다.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v85-03/</guid>
-      <description>1. Dungeon  Demokron Factory (normal/hard)  Adjusted to reduce HP of bosses    2. Vanguard Initiative Request  Added level XP to the following solo content Vanguard Requests :  Content :  The Pit of Petrax Echoes of Aranea Celestial Arena Ace Dungeon : Lilith&amp;rsquo;s Trial Ace Dungeon : Akasha&amp;rsquo;s Trial Ace Dungeon : Baracos&amp;rsquo; Trial Island of Dawn : Hunt Brutal Naga Battlemasters Island of Dawn : Hunt Brutal Iron Giants Island of Dawn : Hunt Brutal Onyx Hydraths Island of Dawn : Hunt Brutal Bloodbound Teraliths Island of Dawn : Hunt Brutal Fimbrilisks Island of Dawn : Hunt Brutal Searing Fangspawns Island of Dawn : Hunt Brutal Basilisks Island of Dawn : Hunt Brutal Orisks Island of Dawn : Hunt Brutal Ovoliths      3.</description>
+      <description>Update 1. Dungeon  Demokron Factory (normal / hard)  Adjusted to reduce HP of bosses    2. Vanguard Initiative Request  Added level XP to the following solo content Vanguard Requests :     Content     The Pit of Petrax   Echoes of Aranea   Celestial Arena   Ace Dungeon : Lilith&amp;rsquo;s Trial   Ace Dungeon : Akasha&amp;rsquo;s Trial   Ace Dungeon : Baracos&amp;rsquo; Trial   Island of Dawn : Hunt Brutal Naga Battlemasters   Island of Dawn : Hunt Brutal Iron Giants   Island of Dawn : Hunt Brutal Onyx Hydraths   Island of Dawn : Hunt Brutal Bloodbound Teraliths   Island of Dawn : Hunt Brutal Fimbrilisks   Island of Dawn : Hunt Brutal Searing Fangspawns   Island of Dawn : Hunt Brutal Basilisks   Island of Dawn : Hunt Brutal Orisks   Island of Dawn : Hunt Brutal Ovoliths    3.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v85-02-01/</guid>
-      <description>Bug fixes  Fixed issue in Gossamer&amp;rsquo;s Vault (hard) where certain mechanics could be cancelled Fixed issue where certain Summer Festival event costumes could be used to as fodder for random costume box Fixed issue where Nomadic merchants spawned in all channels Fixed issue where gathering speed for certain gathering nodes was irregular   source : TERA 테라 | NEXON</description>
+      <description>Update Bug fixes  Fixed issue in Gossamer Vault (hard) where certain mechanics could be cancelled Fixed issue where certain Summer Festival event costumes could be used to as fodder for random costume box Fixed issue where Nomadic merchants spawned in all channels Fixed issue where gathering speed for certain gathering nodes was irregular  </description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v85-02/</guid>
-      <description>1. Balance  Mystic  Arunic Release  Increased crit chance by 2 times     Priest, Mystic  Battle Solution  Changed effect from increase attack speed to increase crit power  Crit power value is the same as other classes        2. Summer festival  TERA KR comments  3. Dungeon  Adventure Coin cost has been reduced for the following dungeons :  Gossamer&amp;rsquo;s Vault (hard) : from 435 to 370 Bahaar&amp;rsquo;s Sanctum : from 345 to 295 Demokron Factory (hard) : from 390 to 330 Gossamer&amp;rsquo;s Vault : from 290 to 245 Demokron Factory : from 260 to 220    4.</description>
+      <description>Update 1. Balance  Mystic  Arunic Release  Increased crit chance by 2 times     Priest, Mystic  Battle Solution  Changed effect from increase attack speed to increase crit power  Crit power value is the same as other classes        Developer comment - 힐러 클래스가 필드 사냥 시 보다 수월하게 플레이 할 수 있도록 공격속도 증가 옵션에서 치명타 위력 증가 옵션으로 변경됩니다.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v85-01/</guid>
-      <description>1. Dungeon  New : Argaff&amp;rsquo;s Nest (hard)  Added a hard mode to existing Argaff&amp;rsquo;s Nest (1-man) Requires level 65, and can enter as a party (max 5-man)  Can only be accessed by party members of an existing party made before the dimensional portal spawns   Entry method is the same as is with existing Argaff&amp;rsquo;s Nest (1-man), and can receive approxiately 1.5 times the experience points   Reinforced certain wipe mechanics in Demon&amp;rsquo;s Wheel  2.</description>
+      <description>Update 1. Dungeon  New : Azart Hatchery (hard)  Added a hard mode to existing Azart Hatchery (1-Person) Requires level 65, and can enter as a party (max 5-Person)  Can only be accessed by party members of an existing party made before the dimensional portal spawns   Entry method is the same as is with existing Azart Hatchery (1-Person), and can receive approximately 1.5 times the experience points   Reinforced certain wipe mechanics in Demon&amp;rsquo;s Wheel  2.</description>
     </item>
     
   </channel>

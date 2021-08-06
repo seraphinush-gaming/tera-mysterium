@@ -187,37 +187,38 @@
       
     </div>
     
-    <h3 id="1-field">1. Field</h3>
+    <h2 id="update">Update</h2>
+<h3 id="1-open-world"><strong>1.</strong> Open world</h3>
 <ul>
-<li>New : Darkstone Cipher
+<li>New : Darkstone Cryptograms
 <ul>
-<li>Defeat monsters on the outer islands of Exodor to obtain materials to combine into &lsquo;Decoded Darkstone Cipher&rsquo;, which is used to obtain hidden treasures on Exodor
+<li>Defeat monsters on the outer islands of Exodor to obtain materials to combine into &lsquo;Core Conundrum Solution&rsquo;, which is used to obtain hidden treasures on Exodor
 <ul>
 <li>Materials :
 <ul>
-<li>Damaged Darkstone Cipher</li>
-<li>Incomplete Darkstone Cipher</li>
-<li>Flawed Darkstone Cipher</li>
-<li>Darkstone Cipher Decoding Solution</li>
+<li>Core Conundrum Fragment A</li>
+<li>Core Conundrum Fragment B</li>
+<li>Core Conundrum Fragment C</li>
+<li>Cipher Decryption Potion</li>
 </ul>
 </li>
-<li>Using &lsquo;Decoded Darkstone Cipher&rsquo; spawns enemy trackers, and defeating these monsters will reward Darkstone Fragments</li>
-<li>Darkstone Fragments can be exchanged for Darkshad Weapon/Armor Feedstock, Azart Elixir</li>
+<li>Using &lsquo;Core Conundrum Solution&rsquo; spawns enemy trackers, and defeating these monsters will reward Core-Blasted Shards</li>
+<li>Core-Blasted Shards can be exchanged for Dark Shard Weapon / Armor Feedstock, Azart Elixir</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>New : Sealed Darkstone
+<li>New : Core-Blasted Stone
 <ul>
-<li>Sealed Darkstones spawn on outer islands of Exodor
+<li>Core-Blasted Stone spawn on outer islands of Exodor Archipelago
 <ul>
-<li>Sealed Darkstones can be unsealed using &lsquo;Unsealing Scroll&rsquo;, and a Darkstone Fragment can be obtained</li>
+<li>Core-Blasted Stone can be unsealed using &lsquo;Core-Blasted Stone Breaker&rsquo;, and Core-Blasted Shards can be obtained</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
-<h3 id="2-halloween-festival">2. Halloween Festival</h3>
+<h3 id="2-halloween-festival"><strong>2.</strong> Halloween Festival</h3>
 <ul>
 <li>TERA KR exclusive event duration
 <ul>
@@ -241,23 +242,55 @@
 <li>Added Halloween Pumpkin Cannon effect
 <ul>
 <li>Changed Halloween Cannon controls from keyboard to mouse</li>
-<li>Removed existing pumpkin shot and added 5 new cannon skills
+<li>Removed existing pumpkin shot and added 5 new cannon skills</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Skill</th>
+<th align="center">Key</th>
+<th align="center">Effect</th>
+<th align="center">Cooldown</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Pumpkin Shot</td>
+<td align="center">Mouse Right-click</td>
+<td align="center">Apply bleed debuff</td>
+<td align="center">3 seconds</td>
+</tr>
+<tr>
+<td align="center">Light Pumpkin Shot</td>
+<td align="center">Mouse Left-click</td>
+<td align="center">-</td>
+<td align="center">0.3 seconds</td>
+</tr>
+<tr>
+<td align="center">Stun Pumpkin Shot</td>
+<td align="center">Keyboard top left <code>1</code> key</td>
+<td align="center">Apply stun debuff</td>
+<td align="center">25 seconds</td>
+</tr>
+<tr>
+<td align="center">Ice Pumpkin Shot</td>
+<td align="center">Keyboard top left <code>2</code> key</td>
+<td align="center">Apply slow debuff</td>
+<td align="center">25 seconds</td>
+</tr>
+<tr>
+<td align="center">Ultimate Pumpkin shot</td>
+<td align="center">Keyboard top left <code>3</code> key</td>
+<td align="center">Strong damage</td>
+<td align="center">40 seconds</td>
+</tr>
+</tbody>
+</table> </div>
 <ul>
-<li>Skill | Key | Effect | Cooldown
-<ul>
-<li>Pumpkin Shot | Mouse Right-click | Apply bleed debuff | 3 seconds</li>
-<li>Light Pumpkin Shot | Mouse Left-click | - | 0.3 seconds</li>
-<li>Stun Pumpkin Shot | Keyboard top left <code>1</code> key | Apply stun debuff | 25 seconds</li>
-<li>Ice Pumpkin Shot | Keyboard top left <code>2</code> key | Apply slow debuff | 25 seconds</li>
-<li>Ultimate Pumpkin shot | Keyboard top left <code>3</code> key | Strong damage | 40 seconds</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
 <li>Skill shortcuts can be changed via shortcut UI
 <ul>
 <li>Changed instance duration from 5 minutes to 2.5 minutes
@@ -279,14 +312,14 @@
 <ul>
 <li>Achievement
 <ul>
-<li>All Candies Are Mine !</li>
-<li>Happy Halloween</li>
+<li>Candies are mine!</li>
+<li>Happy Howl-o-ween!</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
-<h3 id="3-class">3. Class</h3>
+<h3 id="3-class"><strong>3.</strong> Class</h3>
 <ul>
 <li>Priest/Mystic
 <ul>
@@ -311,16 +344,20 @@
 </ul>
 </li>
 </ul>
-<h3 id="4-exodor-daily-quest">4. Exodor daily quest</h3>
+<pre><code>Developer comment
+
+- 전투 시작 전에 정기를 쌓아 놓는 방식으로 플레이하여 정령사의 DPS가 의도한 수준을 초과하는 것을 확인했습니다. 이에 정기폭발 스킬의 사용 방식을 수정하여 힐러 클래스 간 밸런스를 조정합니다.
+- 정기 폭발 스킬의 위력은 50% 상향 조정하되 재사용 시간을 회복 및 마력의 정기를 최대 4개 소환 후 사용할 수 있는 수준으로 조정하여, 정기를 쌓아 놓지 않더라도 안정적인 피해를 줄 수 있도록 변경했습니다.
+</code></pre><h3 id="4-exodor-daily-quest"><strong>4.</strong> Exodor daily quest</h3>
 <ul>
-<li>Changed the following 2 Liberants daily quests
+<li>Changed the following 2 Free Exodor daily quests
 <ul>
-<li>Changed Mission Support to Resource Support
+<li>Changed 극비 임무 지원 to 지상 물자 지원
 <ul>
 <li>Quest condition : Deliver 3 Shadsteel Ingot or 3 Xersteel Ingot to NPC</li>
 </ul>
 </li>
-<li>Changed Internal Work to Hungry Ahef
+<li>Changed Internal Maneuver to 배고픈 아헤프
 <ul>
 <li>Question condition : Delivery Exodor Fish Crate I to NPC</li>
 </ul>
@@ -328,13 +365,13 @@
 </ul>
 </li>
 </ul>
-<h3 id="5-ui">5. UI</h3>
+<h3 id="5-ui"><strong>5.</strong> UI</h3>
 <ul>
 <li>Added option to adjust damage splash</li>
 <li>System Settings (O) &gt; Game &gt; Combat messages</li>
 <li>image</li>
 </ul>
-<h3 id="6-other-added-1010">6. Other (Added 10/10)</h3>
+<h3 id="6-other-added-1010"><strong>6.</strong> Other (Added 10/10)</h3>
 <ul>
 <li>Revised Bamarama&rsquo;s <code>Laknerus</code> do not take damage from Karoff&rsquo;s ultimate skill while in flight</li>
 </ul>
@@ -363,9 +400,16 @@
 <li>Fixed issue where Boomerang Pulse skill option applied to enemy players</li>
 <li>Fixed issue where [비리디안 습지대의 적대자들 I], [비리디안 습지대의 적대자들 II] achievement conditions did not display</li>
 </ul>
-<hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=412">TERA 테라 | NEXON</a></p>
 
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2019/v88-02">TERA KR patch archive | seraphinush-gaming</a></li>
+        
+      </ul>
+    </div>
     
   </div>
 

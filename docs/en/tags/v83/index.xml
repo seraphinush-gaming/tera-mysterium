@@ -17,7 +17,7 @@
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-06/</guid>
-      <description>1. Dungeon  Demokron Factory (nm/hm)  Changed 2nd boss to no longer be immune to damage during poison panel pattern    2. Item  Changed the following level progression quest items to be collected in its respective quest :  Quest name : Quest item  1506 ???? (붉은 저주의 마을) : 602033 ???? (광혈병 연구 보고서) 1507 ???? (전염병의 원인을 찾아서) : 602042 ???? (옛 보급창고 기록) 1505 Discredit Where Credit Is Due : 602039 ?</description>
+      <description>Update 1. Dungeon  Demokron Factory (normal / hard)  Changed 2nd boss to no longer be immune to damage during poison panel pattern    2. Item  Changed the following level progression quest items to be collected in its respective quest :     Quest name Quest item     1506 Circle the Wagons 602033 Mad Blood Disease Report   1507 Plague Hunt 602042 Ordnarath Report   1505 Discredit Where Credit Is Due 602039 Justicar Orders   902 Sic Semper Proditores 602045 Cutthroat Harbor Spy Report   4701 Cleansing Tirkai 45271 Contaminated Mushroom   2702 Rotten to the Core 602011 Homing Device   17217 Confident Support 602029 Archdevan Mark   17206 In-Flight Entertainment 45461 Paesyn&amp;rsquo;s Poem   17212 The Dangers of Diplomacy 81125 Zolyn&amp;rsquo;s Portrait   4901 Into the Heart of Darkness 45274 Scout&amp;rsquo;s Insignia     Changed A Race through Dark Places quest items to be sellable to merchant, but it cannot be destroyed  Memento of the First Sacrifice, Memento of the Second Sacrifice, Memento of the Third Sacrifice    3.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-05/</guid>
-      <description>1. Dungeon  Demokron Factory (hard) .. 7-man instance  Level 67 dungeon, requiring ilvl 456 Costs 490 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, upgrade materials for Luminescent Necklace/Circlet, and Dr. Wilson&amp;rsquo;s Treasure Map (Right)   Demokron Factory .. 7-man instance  Level 66 dungeon, requiring ilvl 453 Costs 260 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, Devil&amp;rsquo;s Claws, Dragon Skull, and Dr.</description>
+      <description>Update 1. Dungeon  Demokron Factory (hard) .. 7-man instance  Level 67 dungeon, requiring ilvl 456 Costs 490 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, upgrade materials for Radiant Necklace / Circlet, and Naslow&amp;rsquo;s Treasure Map: Right Half   Demokron Factory .. 7-man instance  Level 66 dungeon, requiring ilvl 453 Costs 260 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, Devil&amp;rsquo;s Claws, Dragon Skull, and Naslow&amp;rsquo;s Treasure Map: Right Half   Macellarius Catacombs .</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-04-01/</guid>
-      <description>1. Services  Changed XP Boost items to stack  Skill XP Boost, EP Boost, Reputation Boost  Stacked items are inactive, and activates upon expiration of the existing boost      Bug fixes  Fixed issue where XP Boost item effects ended upon entering Battleground   source : TERA 테라 | NEXON</description>
+      <description>Update 1. Services  Changed XP Boost items to stack  Skill XP Boost, EP Boost, Reputation Boost  Stacked items are inactive, and activates upon expiration of the existing boost      Bug fixes  Fixed issue where XP Boost item effects ended upon entering Battleground  </description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-04/</guid>
-      <description>1. Balance  Mystic  Enhanced: Thrall of Life  Changed to recover HP and cleanse caster as well upon using skill     Healer (common)  Ressurection  Adjusted skill effect to display the actual effect radius Changed to display skill effect equally for all race types     Reaper  Level 69 Skill Advancement Dark Veil  Changed to increase cooldown of Shadow Reaping by a factor of 2     Ninja  Enhanced Burning Heart  Adjusted skill hit range     Slayer  Savage Strike  Adjusted to decrease skill cancel time after first hit for fluid chaining of skills      2.</description>
+      <description>Update 1. Balance  Mystic  Enhanced: Thrall of Life  Changed to recover HP and cleanse caster as well upon using skill      Developer comment - 현재 정령사의 자가 회복 능력이 다소 낮은 수준으로 판단되어 &#39;강화: 생명의 정령&#39; 소환 시 광역 회복 및 정화 효과를 시전자를 포함한 최대 5명에게 줄 수 있도록 상향 조정하였습니다. 다만, HP가 낮은 대상에게 회복 효과가 우선 적용되므로 파티원이 많은 공격대 상태에서는 상황에 따라 자신에게 회복 효과가 적용되지 않을 수 있습니다.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-03/</guid>
-      <description>1. Dungeon  Parquina&amp;rsquo;s Nest (hard)  Changed Adventure Coin cost from 535 to 435   Macellarius Catacombs (3-man)  Can access upon reaching level 65, item level 440 Costs 285 Adventure Coins, and can access up to 40 times (80 times for VIP) per week Teleportal is located in Arx Umbra Loot table contains Experience Scroll I (time limited), Emeralds, Relic/Hallow, merging material   Manglemire (5-man)  Reopened until April 18th Can access upon reaching level 65, item level 439 Costs 80 Adventure Coins, and can access up to 1 time (2 times for VIP) per day Teleportal is located in Pora Elinu Loot table contains Artisan&amp;rsquo;s Tools, Copper Clasp, Liquid Metal, Dyad Niveot Structure, Hypnotic Device, Archdevan Surfactant    2.</description>
+      <description>Update 1. Dungeon  Gossamer Vault (hard)  Changed Adventure Coin cost from 535 to 435   Macellarius Catacombs (3-Person)  Can access upon reaching level 65, item level 440 Costs 285 Adventure Coins, and can access up to 40 times (80 times for VIP) per week Teleportal is located in Arx Umbra Loot table contains Experience Scroll I (time limited), Emeralds, Relic/Hallow, merging material   Manglemire (5-Person)  Reopened until April 18th Can access upon reaching level 65, item level 439 Costs 80 Adventure Coins, and can access up to 1 time (2 times for VIP) per day Teleportal is located in Pora Elinu Loot table contains Artisan&amp;rsquo;s Tools, Copper Clasp, Liquid Metal, Dyad Niveot Structure, Hypnotic Device, Archdevan Surfactant    2.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-02/</guid>
-      <description>1. Partner  Revised Servant functions  Added on/off toggle for Servant chat bubbles  Option is available through Option &amp;gt; Game &amp;gt; Community   Added sort, delete function  Can be sorted through Servant UI, via &amp;lsquo;sort&amp;rsquo; button Can delete Servant through Servant UI, via &amp;lsquo;X&amp;rsquo; button   Changed to be able to summon Servant via hotkey  Option is available through Option &amp;gt; Key settings &amp;gt; Servant      2.</description>
+      <description>Update 1. Companion  Revised Servant functions  Added on / off toggle for Servant chat bubbles  Option is available through Option &amp;gt; Game &amp;gt; Social   Added sort, delete function  Can be sorted through Servant UI, via &amp;lsquo;sort&amp;rsquo; button Can delete Servant through Servant UI, via &amp;lsquo;X&amp;rsquo; button   Changed to be able to summon Servant via hotkey  Option is available through Option &amp;gt; Shortcuts &amp;gt; Companion      2.</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-01/</guid>
-      <description>1. Balance  Gunner  Bombardment  Changed cooldown start point to the start of missile launch After using skill, if the skill is cancelled before missile launch, then cooldown does not apply      2. Battleground  Battleground matching  Changed to form teams based on player rankings Applies to all battlegrounds with ranking    3. Merchant NPC  Added magic materials merchant in cities (Highwatch, Velika, Allemantheia, Kaiator) The following items are sold :  Supreme Metal Enchantment Seal Accessory Morpher Uncommon Accessory Morpher Ancient Accessory Morpher   Added Ancient Accessory Morpher.</description>
+      <description>Update 1. Balance  Gunner  Bombardment  Changed cooldown start point to the start of missile launch After using skill, if the skill is cancelled before missile launch, then cooldown does not apply      2. Battleground  Battleground matching  Changed to form teams based on player rankings Applies to all battlegrounds with ranking    3. Merchant NPC  Added Magic Materials merchant in cities (Highwatch, Velika, Allemantheia, Kaiator) The following items are sold :  Item  Supreme Metal Enchantment Seal Accessory Morpher Uncommon Accessory Morpher Ancient Accessory Morpher     Added Ancient Accessory Morpher.</description>
     </item>
     
   </channel>
