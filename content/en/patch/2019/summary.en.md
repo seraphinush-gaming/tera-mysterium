@@ -29,8 +29,7 @@ weight = 1
 
 - v82.01
   - **New content : Naslow's Treasure Map**
-  - Class balance (Priest)
-  - Class balance (Mystic)
+  - Class balance (Priest, Mystic)
 
 - v82.02
   - **Class expansion : Added race Popori to Brawler**
@@ -101,8 +100,7 @@ weight = 1
 ## July
 
 - v85.04
-  - Dungeon : Reopened Forsaken Island
-  - Dungeon : Reopened Forsaken Island (hard)
+  - Dungeon : Reopened Forsaken Island, Forsaken Island (hard)
 
 - v85.05
   - Class balance (Priest)
@@ -113,8 +111,7 @@ weight = 1
   - **New dungeon : Akalath Quarantine**
   - **New item : Argog weapon skin**
   - Dungeon (Celestial Arena) : Changed from 7 to 5 stages
-  - Class balance (Priest)
-  - Class balance (Mystic)
+  - Class balance (Priest, Mystic)
   - **New fishery : Exodor**
   - **New item : Steamed Kirash**
   - **New field boss monster : Maknakh, [TL: Murderwing Monarch]**
@@ -133,8 +130,7 @@ weight = 1
 - v86.03
   - **New field boss monster : LB-1**
   - **New item : Annihilation Mask, Dark Light Mask**
-  - Class balance (Valkyrie)
-  - Class balance (Slayer)
+  - Class balance (Valkyrie, Slayer)
 
 - v86.03.01
 

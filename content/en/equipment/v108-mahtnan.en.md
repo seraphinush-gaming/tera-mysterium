@@ -21,7 +21,7 @@ Mahtnan gear differentiates itself from the previous Kaia's Soul gear set by rem
 
 Mahtnan gear is divided into 3 rarities : Rare, Superior, and Mythic, and enchantment is available up to +12.
 
-There is no upgrade to Mahtnan gear, but the newly added Succession system (pl.) allows players to transfer enchantment level, random options, and Etching from one gear to another.
+There is no upgrade to Mahtnan gear, but the newly added Transfer system allows players to transfer enchantment level, random options, and Etching from one gear to another.
 
 Mahtnan gear has 3 types of options : Basic options, Random options, and Support options.
 
@@ -96,8 +96,8 @@ Possible Unique options and effects are the following :
 
 ## Enchanting (wip)
 
-## Succession system
-Once you reach a certain enchantment level on a piece of gear, you can transfer the enchantment level, random options, and etching to another gear of the same part. this requires a succession stone (pl.).
+## Transfer system
+Once you reach a certain enchantment level on a piece of gear, you can transfer the enchantment level, random options, and etching to another gear of the same part. this requires a Mahtnan Jewel of Magic Transference.
 
 ## Crafting
 Mahtnan gear can be crafted. Crafting designs for Rare and Superior Mahtnan gear can be purchased from Crafting NPCs in major cities, whereas Mythic Mahtnan gear crafting design can be obtained as a dungeon drop, event reward, or cash shop depending on region.

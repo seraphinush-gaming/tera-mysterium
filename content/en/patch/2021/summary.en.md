@@ -136,8 +136,8 @@ weight = 1
   - Dungeon : Removed Gossamer Vault, Ruinous Manor, Akalath Quarantine [Conquest], Catalepticon, Killing Grounds, Draakon Arena, Forbidden Arena [Undying Warlord], Corrupted Skynest, Ruinous Manor (hard), Killing Grounds (hard), Catalepticon (hard), Corrupted Skynest (hard), Rampaging RK-9 Kennel, Commander's Residence
   - Dungeon : Reopened Abscess, Velik's Hold, Grotto of Lost Souls (hard)
   - **New gear : Mahtnan gear**
-  - **New feature : Succession system (pl.)**
-  - **New feature : Option Revert (pl.)**
+  - **New feature : Transfer system**
+  - **New feature : Option Reset**
   - Combat : Changed how piercing / ignore option is applied
   - Class balance (Berserker, Warrior, Sorcerer, Archer, Lancer, Ninja, Reaper, Gunner)
   - Combat : Disabled equipment swap upon using select skill or receiving select skill effect
@@ -149,7 +149,7 @@ weight = 1
 ## July
 
 - v108.01.01
-  - Gear : Adjusted Mahtnan's gear (pl.) performance
+  - Gear : Adjusted Mahtnan gear performance
   - Item : Decreased Campfire crafting requirement
 
 - v108.01.02
@@ -160,8 +160,8 @@ weight = 1
   - Dungeon : Reopened Draakon Arena
   - Leaderboard : Changed Bahaar's Sanctum ranking to record at the start of phase 2 combat
   - Item : Added increase Power by 10 effect (Fish Fritters effect) to Multi-Nostrum
-  - Crafting : Added Mahtnan's Greedhead Option Change Scroll (pl.)
-  - Crafting : Added Mahtnan's Cryolite (pl.)
+  - Crafting : Added Greedy Mahtnan Option Change Scroll
+  - Crafting : Added Mahtnan Jewel
 
 - v108.02.01
   - Gear : Adjusted to increase item level of Superior / Mythic Mahtnan gear
@@ -170,7 +170,7 @@ weight = 1
   - **New region : Baldera**
   - Dungeon : Reopened Catalepticon, Sky Cruiser Endeavor (hard)
   - **New dungeon : Rogash's Trial**
-  - Gear : Adjusted select Mahtnan's gear (pl.) Unique options
+  - Gear : Adjusted select Mahtnan gear Unique options
   - Feature : Added 5 new iris types to Elin
   - Civil Unrest : Increased HP of Guild Tower
   - Open world : Removed select, outdated daily / reputation quests

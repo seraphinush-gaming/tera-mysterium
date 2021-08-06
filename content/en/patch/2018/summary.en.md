@@ -13,11 +13,8 @@ weight = 1
   - **New dungeon : Red Refuge**
   - **New dungeon : Red Refuge (hard)**
   - **New equipment : Mask**
-  - **New accessory : Onset Mask**
-  - **New accessory : Infinity Mask**
-  - Class balance (Berserker)
-  - Class balance (Priest)
-  - Class balance (Lancer)
+  - **New accessory : Onset Mask, Infinity Mask**
+  - Class balance (Berserker, Priest, Lancer)
   - **New open world : Essence of Life (Island of Dawn)**
 
 - v68.01.01
@@ -32,15 +29,7 @@ weight = 1
   - Account : Max character slot expansion (19 -> 20)
 
 - v69.01.01
-  - Class balance (Lancer)
-  - Class balance (Warrior)
-  - Class balance (Berserker)
-  - Class balance (Slayer)
-  - Class balance (Sorcerer)
-  - Class balance (Gunner)
-  - Class balance (Ninja)
-  - Class balance (Priest)
-  - Class balance (Mystic)
+  - Class balance (Lancer, Warrior, Berserker, Slayer, Sorcerer, Gunner, Ninja, Priest, Mystic)
 
 ## February
 
@@ -51,12 +40,7 @@ weight = 1
 - v69.02.02
 
 - v69.03
-  - Class balance (Valkyrie)
-  - Class balance (Gunner)
-  - Class balance (Slayer)
-  - Class balance (Priest)
-  - Class balance (Mystic)
-  - Class balance (Sorcerer)
+  - Class balance (Valkyrie, Gunner, Slayer, Priest, Mystic, Sorcerer)
   - **New accessory : Guardian Mask**
   - Gear : Removed set bonus
 
@@ -82,24 +66,14 @@ weight = 1
   - PVP : Removed Outlaw
 
 - v72.01
-  - **New Guardian Legion mission : Rhapsody of Wind and Fire**
-  - **New Guardian Legion mission : Recon Eradication Mission**
-  - Class balance (Berserker)
-  - Class balance (Lancer)
-  - Class balance (Warrior)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Gunner)
-  - Class balance (Mystic)
-  - Class balance (Priest)
+  - **New Guardian Legion mission : Rhapsody of Wind and Fire, Recon Eradication Mission**
+  - Class balance (Berserker, Lancer, Warrior, Sorcerer, Archer, Gunner, Mystic, Priest)
 
 - v72.01.01
 
 - v72.01.02
   - Dungeon : Removed Manglemire
-  - Class balance (Berserker)
-  - Class balance (Priest)
-  - Class balance (Reaper)
+  - Class balance (Berserker, Priest, Reaper)
 
 ## May
 
@@ -109,10 +83,7 @@ weight = 1
 - v72.02.01
 
 - v73.01
-  - Class balance (Priest)
-  - Class balance (Slayer)
-  - Class balance (Reaper)
-  - Class balance (Berserker)
+  - Class balance (Priest, Slayer, Reaper, Berserker)
 
 - v73.01.01
 
@@ -125,15 +96,13 @@ weight = 1
 ## June
 
 - v73.02.01
-  - Dungeon : Reopened Shadow Sanguinary
-  - Dungeon : Reopened Shadow Sanguinary (hard)
+  - Dungeon : Reopened Shadow Sanguinary, Shadow Sanguinary (hard)
   - **New accessory : Ethereal**
 
 - v74.01
 
 - v74.01.01
-  - **New item : Transparent Mask**
-  - **New item : Weapon Sheath**
+  - **New item : Transparent Mask, Weapon Sheath**
 
 - v74.02
   - **Class expansion : Added race Elin to Gunner (permanent)**
@@ -149,14 +118,11 @@ weight = 1
   - **Class awakening : Valkyrie**
   - **Class awakening : Reaper**
   - **Class awakening : Ninja**
-  - Class balance (Berserker)
-  - Class balance (Slayer)
+  - Class balance (Berserker, Slayer)
   - **New dungeon : Dark Reach Citadel**
   - **New dungeon : Dark Reach Citadel (hard)**
-  - Dungeon : Reopened Channelworks
-  - Dungeon : Reopened Velik's Hold
-  - Dungeon : Removed Shadow Sanguinary
-  - Dungeon : Removed Shadow Sanguinary (hard)
+  - Dungeon : Reopened Channelworks, Velik's Hold
+  - Dungeon : Removed Shadow Sanguinary, Shadow Sanguinary (hard)
   - **New item : Accessory Morpher**
   - **New feature : Auto-potion Companion ability**
   - **New item : Brooch Etching**
@@ -175,36 +141,19 @@ weight = 1
 - v76.01
   - **Class expansion : Added race Elin to Brawler**
   - Account : Max character slot expansion (20 -> 21)
-  - Class balance (Valkyrie)
-  - Class balance (Sorcerer)
-  - Class balance (Gunner)
-  - Class balance (Ninja)
-  - Class balance (Reaper)
-  - Class balance (Mystic)
+  - Class balance (Valkyrie, Sorcerer, Gunner, Ninja, Reaper, Mystic)
 
 ## August
 
 - v76.02
   - **New dungeon : Bahaar's Sanctum**
   - Dungeon : Reopened Abscess (7-Person)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Gunner)
-  - Class balance (Slayer)
-  - Class balance (Berserker)
+  - Class balance (Sorcerer, Archer, Gunner, Slayer, Berserker)
 
 - v76.02.01
 
 - v76.03
-  - Class balance (Brawler)
-  - Class balance (Berserker)
-  - Class balance (Valkyrie)
-  - Class balance (Warrior)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Ninja)
-  - Class balance (Reaper)
-  - Class balance (Slayer)
+  - Class balance (Brawler, Berserker, Valkyrie, Warrior, Sorcerer, Archer, Ninja, Reaper, Slayer)
   - Battleground : Changed Kumas Royale to 5:5 Battleground
   - Vanguard Request : Added Daily Bonus 3
 
@@ -223,14 +172,7 @@ weight = 1
   - **New crafting profession : Cooking**
 
 - v77.02
-  - Class balance (Slayer)
-  - Class balance (Archer)
-  - Class balance (Ninja)
-  - Class balance (Mystic)
-  - Class balance (Warrior)
-  - Class balance (Valkyrie)
-  - Class balance (Sorcerer)
-  - Class balance (Berserker)
+  - Class balance (Slayer, Archer, Ninja, Mystic, (Warrior, Valkyrie, Sorcerer, Berserker)
   - Fishing : Added Delivery option
 
 ## October
@@ -239,8 +181,7 @@ weight = 1
   - Dungeon : Closed Shattered Fleet
 
 - v78.01.01
-  - Dungeon : Temporarily closed Dreadspire
-  - Dungeon : Temporarily closed Harrowhold
+  - Dungeon : Temporarily closed Dreadspire, Harrowhold
   - **New accessory : Dracoloth Brooch**
   - **New accessory : Powerful Goddess's Brooch**
 
@@ -253,24 +194,10 @@ weight = 1
 ## November
 
 - v79.01
-  - Class balance (Berserker)
-  - Class balance (Valkyrie)
-  - Class balance (Warrior)
-  - Class balance (Gunner)
-  - Class balance (Priest)
-  - Class balance (Mystic)
-  - Class balance (Sorcerer)
-  - Class balance (Reaper)
-  - Class balance (Ninja)
-  - Class balance (Slayer)
-  - Class balance (Brawler)
-  - Class balance (Archer)
-  - Class balance (Lancer)
+  - Class balance (Berserker, Valkyrie, Warrior, Gunner, Priest, Mystic, Sorcerer, Reaper, Ninja, Slayer, Brawler, Archer, Lancer)
   - Battleground : Removed Fraywind Canyon
   - **New Battleground : Shore Hold**
-  - **New PVP gear : Disciplinary**
-  - **New PVP gear : Harmonic**
-  - **New PVP gear : Impregnable**
+  - **New PVP gear : Disciplinary, Harmonic, Impregnable**
   - **New feature : Gear damage system (PVP gear only)**
   - Open world : Changed Rally Quest locations
 
@@ -279,24 +206,12 @@ weight = 1
   - Class balance (Mystic)
 
 - v79.02.01
-  - Dungeon : Reopened Shadow Sanguinary
-  - Dungeon : Reopened Shadow Sanguinary (hard)
-  - Dungeon : Reopened Velik's Sanctuary
-  - Dungeon : Reopened Velik's Sanctuary (hard)
+  - Dungeon : Reopened Shadow Sanguinary, Shadow Sanguinary (hard), Velik's Sanctuary, Velik's Sanctuary (hard)
   - Battleground : Updated equalized gear to Chroas' gear
-  - Class balance (Mystic)
-  - Class balance (Priest)
-  - Class balance (Gunner)
+  - Class balance (Mystic, Priest, Gunner)
 
 - v79.03
-  - Class balance (Mystic)
-  - Class balance (Slayer)
-  - Class balance (Reaper)
-  - Class balance (Gunner)
-  - Class balance (Valkyrie)
-  - Class balance (Brawler)
-  - Class balance (Sorcerer)
-  - Class balance (Berserker)
+  - Class balance (Mystic, Slayer, Reaper, Gunner, Valkyrie, Brawler, Sorcerer, Berserker)
 
 - v79.03.01
 
@@ -315,24 +230,12 @@ weight = 1
   - **New dungeon : Dark Reach Citadel (hard) (7-Person)**
   - **New dungeon : Antaroth's Abyss (hard) (7-Person)**
   - **New dungeon :  Grotto of Lost Souls (hard) (7-Person)**
-  - Dungeon : Removed Sabex Armory
-  - Dungeon : Removed Macellarius Catacombs
+  - Dungeon : Removed Sabex Armory, Macellarius Catacombs
   - **New dungeon : Lilith's Trial**
   - **New open world : Field Boss Monster (Ortan, Hazard, Cerrus)**
-  - Class balance (Slayer)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Brawler)
-  - Class balance (Valkyrie)
-  - Class balance (Berserker)
-  - Class balance (Reaper)
-  - Class balance (Warrior)
-  - Class balance (Gunner)
-  - Class balance (Mystic)
-  - Class balance (priest)
+  - Class balance (Slayer, Sorcerer, Archer, Brawler, Valkyrie, Berserker, Reaper, Warrior, Gunner, Mystic, Priest)
   - **New feature : Infusion system**
-  - **New equipment : Halidom**
-  - **New equipment : Relic**
+  - **New equipment : Halidom, Relic**
   - Accessory : Weapon, armor Crystals no longer break upon death
 
 - v80.01

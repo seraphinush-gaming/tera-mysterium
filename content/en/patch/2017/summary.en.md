@@ -14,16 +14,7 @@ weight = 1
 
 - v55.01
   - **New dungeon : Velik's Hold**
-  - Dungeon : Removed Harrowhold
-  - Dungeon : Removed Ruinous Manor (hard)
-  - Dungeon : Removed Ruinous Manor
-  - Dungeon : Removed Broken Prison
-  - Dungeon : Removed Lilith's Keep (hard)
-  - Dungeon : Removed Lilith's Keep
-  - Dungeon : Removed Shadow Sanguinary (hard)
-  - Dungeon : Removed Shadow Sanguinary
-  - Dungeon : Removed Sky Cruiser Endeavor (hard)
-  - Dungeon : Removed Vault of Kaprima
+  - Dungeon : Removed Harrowhold, Ruinous Manor, Ruinous Manor (hard), Broken Prison, Lilith's Keep, Lilith's Keep (hard), Shadow Sanguinary, Shadow Sanguinary (hard), Sky Cruiser Endeavor (hard), Vault of Kaprima
   - Island of Dawn : Revised monster stats
   - Vanguard Initiative : UI revision
   - **New gear : Deathwrack (VM9)**
@@ -31,14 +22,7 @@ weight = 1
   - **New accessory : Godly**
   - Item : Changed Hurricane on Flawless gear to no longer stack
   - Item : Changed to synchronize cooldown of all Goddess Blessing variants
-  - Class balance (Slayer)
-  - Class balance (Priest)
-  - Class balance (Mystic)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Berserker)
-  - Class balance (Brawler)
-  - Class balance (Valkyrie)
+  - Class balance (Slayer, Priest, Mystic, Sorcerer, Archer, Berserker, Brawler, Valkyrie)
 
 - v55.01.01
   - Battleground : Increased HP of gates in Corsairs' Stronghold
@@ -64,9 +48,7 @@ weight = 1
 
 - v57.01
   - **New feature : Dual-option**
-  - Dungeon : Reopened Harrowhold as a 20-Person raid
-  - Dungeon : Reopened Bathysmal Rise (hard)
-  - Dungeon : Reopened Akeron's Inferno (hard)
+  - Dungeon : Reopened Harrowhold (20-Person), Bathysmal Rise (hard), Akeron's Inferno (hard)
   
 - v57.01.01
   - Dungeon : Adjusted Harrowhold balance
@@ -80,15 +62,7 @@ weight = 1
 
 - v58.01
   - Dungeon : Reopened Manglemire
-  - Class balance (Slayer)
-  - Class balance (Berserker)
-  - Class balance (Mystic)
-  - Class balance (Archer)
-  - Class balance (Ninja)
-  - Class balance (Reaper)
-  - Class balance (Gunner)
-  - Class balance (Warrior)
-  - Class balance (Valkyrie)
+  - Class balance (Slayer, Berserker, Mystic, Archer, Ninja, Reaper, Gunner, Warrior, Valkyrie)
   - Class balance : Changed to apply cooldown on Backstab-type skills when failed to target
   - Item : Increased duration of Uncommon Noctenium Elixir from 10 minutes to 15 minutes
 
@@ -113,11 +87,8 @@ weight = 1
 - v59.02.01
 
 - v60.01
-  - Dungeon : Reopened Kalivan's Dreadnaught (hard)
-  - Dungeon : Reopened Forsaken Island
-  - Dungeon : Reopened Forsaken Island (hard)
-  - Dungeon : Removed Bathysmal Rise (hard)
-  - Dungeon : Removed Akeron's Inferno (hard)
+  - Dungeon : Reopened Kalivan's Dreadnaught (hard), Forsaken Island, Forsaken Island (hard)
+  - Dungeon : Removed Bathysmal Rise (hard), Akeron's Inferno (hard)
 
 ## June
 
@@ -138,8 +109,7 @@ weight = 1
 
 - v61.01
   - **Gear progression revamp**
-  - Gear : Removed Masterwork system
-  - Gear : Removed Awakening system
+  - Gear : Removed Masterwork system, Awakening system
   - **New gear : Guardian**
   - **New gear : Twistshard**
   - **New gear : Frostmetal**
@@ -150,19 +120,7 @@ weight = 1
   - **New accessory : Entropy**
   - **New dungeon : Thaumetal Refinery**
   - **New dungeon : Kalivan's Challenge**
-  - Dungeon : Removed Channelworks
-  - Dungeon : Removed Abscess (7-Person)
-  - Dungeon : Removed Bathysmal Rise
-  - Dungeon : Removed Forsaken Island
-  - Dungeon : Removed Forsaken Island (hard)
-  - Dungeon : Removed Demokron Factory
-  - Dungeon : Removed Velik's Hold
-  - Dungeon : Removed Velik's Hold (hard)
-  - Dungeon : Removed Velik's Sanctuary
-  - Dungeon : Removed Velik's Sanctuary (hard)
-  - Dungeon : Removed Demon's Wheel
-  - Dungeon : Removed Kalivan's Dreadnaught (hard)
-  - Dungeon : Removed Harrowhold (temporary)
+  - Dungeon : Removed Channelworks, Abscess (7-Person), Bathysmal Rise, Forsaken Island, Forsaken Island (hard), Demokron Factory, Velik's Hold, Velik's Hold (hard), Velik's Sanctuary, Velik's Sanctuary (hard), Demon's Wheel, Kalivan's Dreadnaught (hard), Harrowhold (temporary)
   - Open world : Increased damage, respawn rate, reward of select named monsters
   - Battleground (Fraywind Canyon) : Changed to be able to use personal gear at and above ilvl 448
 
@@ -175,25 +133,13 @@ weight = 1
 - v61.02
   - **New dungeon : RK-9 Kennel**
   - **New dungeon : Thaumetal Refinery (hard)**
-  - Class balance (Valkyrie)
-  - Class balance (Warrior)
-  - Class balance (Reaper)
-  - Class balance (Lancer)
-  - Class balance (Berserker)
-  - Class balance (Slayer)
-  - Class balance (Mystic)
-  - Class balance (Priest)
-  - Class balance (Ninja)
-  - Class balance (Gunner)
-  - Class balance (Brawler)
+  - Class balance (Valkyrie, Warrior, Reaper, Lancer, Berserker, Slayer, Mystic, Priest, Ninja, Gunner, Brawler)
 
 ## August
 
 - v61.02.01
   - Item : Changed Entropic / Metamorphic Emblem Shop cost
-  - Class balance (Gunner)
-  - Class balance (Slayer)
-  - Class balance (Berserker)
+  - Class balance (Gunner, Slayer, Berserker)
 
 - v62.01
   - **New dungeon : RK-9 Kennel (hard)**
@@ -227,11 +173,7 @@ weight = 1
 
 - v64.01
   - **New open world : Guardian Legion**
-  - Class balance (Slayer)
-  - Class balance (Priest)
-  - Class balance (Mystic)
-  - Class balance (Brawler)
-  - Class balance (Warrior)
+  - Class balance (Slayer, Priest, Mystic, Brawler, Warrior)
   - Dungeon : Revised dungeon reward distribution
 
 ## October
@@ -244,10 +186,8 @@ weight = 1
 - v64.02.01
 
 - v65.01
-  - Dungeon : Reopened Ruinous Manor
-  - Dungeon : Reopened Ruinous Manor (hard)
-  - Battleground : Removed Corsairs' Stronghold (team)
-  - Battleground : Removed Fraywind Canyon (team)
+  - Dungeon : Reopened Ruinous Manor, Ruinous Manor (hard)
+  - Battleground : Removed Corsairs' Stronghold (team), Fraywind Canyon (team)
   - Class balance (Warrior)
   - Guild : Readded Rally quest
 

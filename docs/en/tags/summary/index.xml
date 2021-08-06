@@ -51,7 +51,7 @@
       
       <guid>https://tera-mysterium.com/en/patch/2018/summary/</guid>
       <description>January   v68.01
- New dungeon : Red Refuge New dungeon : Red Refuge (hard) New equipment : Mask New accessory : Onset Mask New accessory : Infinity Mask Class balance (Berserker) Class balance (Priest) Class balance (Lancer) New open world : Essence of Life (Island of Dawn)    v68.01.01
+ New dungeon : Red Refuge New dungeon : Red Refuge (hard) New equipment : Mask New accessory : Onset Mask, Infinity Mask Class balance (Berserker, Priest, Lancer) New open world : Essence of Life (Island of Dawn)    v68.01.01
   v69.01
  New dungeon : Antaroth&amp;rsquo;s Abyss New dungeon : Antaroth&amp;rsquo;s Abyss (hard) New feature : Leaderboard New gear : Heroic Oath New battleground : Gridiron Class balance (Valkyrie) Account : Max character slot expansion (19 -&amp;gt; 20)    v69.</description>
     </item>
@@ -64,7 +64,7 @@
       <guid>https://tera-mysterium.com/en/patch/2017/summary/</guid>
       <description>January   v54.01.02
  Level progression : Decreased difficulty of Saleron&amp;rsquo;s Sky Garden Open world : Decreased level progression difficulty    v55.01
- New dungeon : Velik&amp;rsquo;s Hold Dungeon : Removed Harrowhold Dungeon : Removed Ruinous Manor (hard) Dungeon : Removed Ruinous Manor Dungeon : Removed Broken Prison Dungeon : Removed Lilith&amp;rsquo;s Keep (hard) Dungeon : Removed Lilith&amp;rsquo;s Keep Dungeon : Removed Shadow Sanguinary (hard) Dungeon : Removed Shadow Sanguinary Dungeon : Removed Sky Cruiser Endeavor (hard) Dungeon : Removed Vault of Kaprima Island of Dawn : Revised monster stats Vanguard Initiative : UI revision New gear : Deathwrack (VM9) New gear : Misery New accessory : Godly Item : Changed Hurricane on Flawless gear to no longer stack Item : Changed to synchronize cooldown of all Goddess Blessing variants Class balance (Slayer) Class balance (Priest) Class balance (Mystic) Class balance (Sorcerer) Class balance (Archer) Class balance (Berserker) Class balance (Brawler) Class balance (Valkyrie)    v55.</description>
+ New dungeon : Velik&amp;rsquo;s Hold Dungeon : Removed Harrowhold, Ruinous Manor, Ruinous Manor (hard), Broken Prison, Lilith&amp;rsquo;s Keep, Lilith&amp;rsquo;s Keep (hard), Shadow Sanguinary, Shadow Sanguinary (hard), Sky Cruiser Endeavor (hard), Vault of Kaprima Island of Dawn : Revised monster stats Vanguard Initiative : UI revision New gear : Deathwrack (VM9) New gear : Misery New accessory : Godly Item : Changed Hurricane on Flawless gear to no longer stack Item : Changed to synchronize cooldown of all Goddess Blessing variants Class balance (Slayer, Priest, Mystic, Sorcerer, Archer, Berserker, Brawler, Valkyrie)    v55.</description>
     </item>
     
     <item>
@@ -74,7 +74,7 @@
       
       <guid>https://tera-mysterium.com/en/patch/2016/summary/</guid>
       <description>January   v42.01
- New class : Ninja New feature : Flight system New dungeon : Demokron Factory New dungeon : Celestial Arena Dungeon : Reopened Wonderholme Dungeon : Reopened Abscess (hard) Dungeon : Reopened Abscess Dungeon : Removed select solo instances Dungeon : Removed Dreadspire Dungeon : Removed Timescape (hard) Dungeon : Removed Kalivan&amp;rsquo;s Dreadnaught Dungeon : Removed Forsaken Island (hard) Dungeon : Removed Bathysmal Rise Dungeon : Removed Bathysmal Rise (hard) Dungeon : Removed Sky Cruiser Endeavor (hard) Open world : Level progression revision Class balance (Archer) : CHanged to hide trap effect to enemies    v42.</description>
+ New class : Ninja New feature : Flight system New dungeon : Demokron Factory New dungeon : Celestial Arena Dungeon : Reopened Wonderholme, Abscess, Abscess (hard) Dungeon : Removed select solo instances Dungeon : Removed Dreadspire, Timescape (hard), Kalivan&amp;rsquo;s Dreadnaught, Forsaken Island (hard), Bathysmal Rise, Bathysmal Rise (hard), Sky Cruiser Endeavor (hard) Open world : Level progression revision Class balance (Archer) : CHanged to hide trap effect to enemies    v42.</description>
     </item>
     
   </channel>

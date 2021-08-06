@@ -14,17 +14,9 @@ weight = 1
   - **New feature : Flight system**
   - **New dungeon : Demokron Factory**
   - **New dungeon : Celestial Arena**
-  - Dungeon : Reopened Wonderholme
-  - Dungeon : Reopened Abscess (hard)
-  - Dungeon : Reopened Abscess
+  - Dungeon : Reopened Wonderholme, Abscess, Abscess (hard)
   - Dungeon : Removed select solo instances
-  - Dungeon : Removed Dreadspire
-  - Dungeon : Removed Timescape (hard)
-  - Dungeon : Removed Kalivan's Dreadnaught
-  - Dungeon : Removed Forsaken Island (hard)
-  - Dungeon : Removed Bathysmal Rise
-  - Dungeon : Removed Bathysmal Rise (hard)
-  - Dungeon : Removed Sky Cruiser Endeavor (hard)
+  - Dungeon : Removed Dreadspire, Timescape (hard), Kalivan's Dreadnaught, Forsaken Island (hard), Bathysmal Rise, Bathysmal Rise (hard), Sky Cruiser Endeavor (hard)
   - Open world : Level progression revision
   - Class balance (Archer) : CHanged to hide trap effect to enemies
 
@@ -54,26 +46,19 @@ weight = 1
 - v43.01
   - **Dungeon : Reopened Dreadspire**
   - Dungeon : Reopened Ace Dungeons
-  - Class balance (Brawler)
-  - Class balance (Priest)
-  - Class balance (Mystic)
+  - Class balance (Brawler, Priest, Mystic)
 
 - v43.01.01
-  - Class balance (Berserker)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
+  - Class balance (Berserker, Sorcerer, Archer)
 
 - v43.02
-  - Class balance (Ninja)
-  - Class balance (Warrior)
+  - Class balance (Ninja, Warrior)
   - Class balance (Slayer) : EP
 
 - v44.01
   - **New dungeon : Manglemire**
   - Dungeon : Removed Dreadspire
-  - Class balance (Archer)
-  - Class balance (Lancer)
-  - Class balance (Brawler)
+  - Class balance (Archer, Lancer, Brawler)
 
 ## April
 
@@ -87,12 +72,7 @@ weight = 1
 - v45.01.01
 
 - v45.02
-  - Class balance (Lancer)
-  - Class balance (Warrior)
-  - Class balance (Slayer)
-  - Class balance (Sorcerer)
-  - Class balance (Archer)
-  - Class balance (Reaper)
+  - Class balance (Lancer, Warrior, Slayer, Sorcerer, Archer, Reaper)
   - Open world : Increase flight-able zones
 
 ## May
@@ -120,8 +100,7 @@ weight = 1
 - v47.01
   - **New Guild content : Velika: Civil Unrest**
   - **New Guild system**
-  - Guild : Removed Alliance
-  - Guild : Removed Crusade
+  - Guild : Removed Alliance, Crusade
 
 ## July
 
@@ -131,28 +110,19 @@ weight = 1
 
 - v48.01
   - **Class balance : Sorcerer revamp**
-  - Class balance (Priest)
-  - Class balance (Mystic)
+  - Class balance (Priest, Mystic)
   - **New dungeon : Lilith's Keep**
-  - Dungeon : Reopened Sky Cruiser Endeavor (hard)
-  - Dungeon : Reopened Vault of Kaprima
+  - Dungeon : Reopened Sky Cruiser Endeavor (hard, Vault of Kaprima
   - Feature : Removed Stamina system
-  - Item : Removed Stamina-related items
-  - Item : Removed Charms
+  - Item : Removed Stamina-related items, Charms, Bandages, Heaven's Elixir
   - Item : Added Battle Solution
-  - Item : Removed Bandages
-  - Item : Removed Heaven's Elixir
   - Dungeon : Removed level progression solo dungeons
   - Battleground : Reopened Iron Battleground
   - **New gear : Guile**
   - **New gear : Ambush** (ie. Visionmaker 8 or VM8)
   - **New accessory : Manor**
   - **New accessory : Bluebred** (PVP)
-  - Dungeon : Removed Abscess
-  - Dungeon : Removed Kalivan's Dreadnaught (hard)
-  - Dungeon : Removed Forsaken Island
-  - Dungeon : Removed Wonderholme
-  - Dungeon : Removed Abscess (hard)
+  - Dungeon : Removed Abscess, Abscess (hard), Kalivan's Dreadnaught (hard), Forsaken Island, Wonderholme
   - Achievement : Simplified Encounters and Exploration achievements
 
 - v48.02
@@ -166,8 +136,7 @@ weight = 1
 - v48.02.01
 
 - v48.03
-  - Class balance (Berserker)
-  - Class balance (Sorcerer)
+  - Class balance (Berserker, Sorcerer)
   - **New dungeon : Ruinous Manor (hard)**
   - Battleground : Added Inner Armor to equalized gear
 
@@ -176,13 +145,7 @@ weight = 1
 - v49.01
   - **New dungeon : Harrowhold**
   - **New gear : Behemoth** (ie. Visionmake 8.5 or VM8.5)
-  - Class balance (Archer)
-  - Class balance (Lancer)
-  - Class balance (Warrior)
-  - Class balance (Berserker)
-  - Class balance (Priest)
-  - Class balance (Mystic)
-  - Class balance (Slayer)
+  - Class balance (Archer, Lancer, Warrior, Berserker, Priest, Mystic, Slayer)
   - Guild : Added feature to obtain Guild XP by leveling
   - Battleground (Champions' Skyring) : Changed to allow usage of Noctenium Infusion
   - Raid : Changed raid limit from 20 members to 30 members
@@ -195,11 +158,7 @@ weight = 1
 
 - v50.01
   - **Class balance : Archer revamp**
-  - Class balance (Berserker)
-  - Class balance (Reaper)
-  - Class balance (Gunner)
-  - Class balance (Priest)
-  - Class balance (Mystic)
+  - Class balance (Berserker, Reaper, Gunner, Priest, Mystic)
   - **New feature : Guild vs. Guild system**
 
 - v50.01.01
@@ -240,18 +199,11 @@ weight = 1
 ## December
 
 - v53.01
-  - Class balance (Berserker)
-  - Class balance (Slayer)
-  - Class balance (Reaper)
-  - Class balance (Gunner)
-  - Class balance (Lancer)
-  - Class balance (Mystic)
+  - Class balance (Berserker, Slayer, Reaper, Gunner, Lancer, Mystic)
   - Battleground : Changed to remove effects from Noctenium Elixir, Battle Dishes, Battle Nostrum, Bravery Potion, and Blessing of Arun, and other item and skill effects
 
 - v53.01.01
-  - Class balance (Berserker)
-  - Class balance (Slayer)
-  - Class balance (Lancer)
+  - Class balance (Berserker, Slayer, Lancer)
 
 - v53.02
 
@@ -260,14 +212,7 @@ weight = 1
   - Open world : Level progression open world difficulty revision
   - Open world : Level progression dungeon difficulty revision
   - Open world : Level progression Vanguard Request reward revision
-  - Class balance (Lancer)
-  - Class balance (Sorcerer)
-  - Class balance (Priest)
-  - Class balance (Warrior)
-  - Class balance (Archer)
-  - Class balance (Reaper)
-  - Class balance (Berserker)
-  - Class balance (Slayer)
+  - Class balance (Lancer, Sorcerer, Priest, Warrior, Archer, Reaper, Berserker, Slayer)
 
 - v54.01.01
   - Open world : Level progression dungeon difficulty revision
