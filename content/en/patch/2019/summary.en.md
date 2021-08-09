@@ -15,7 +15,7 @@ weight = 1
 
 - v80.03
   - Dungeon : Changed level progression dungeons from 5-Person to 3-Person
-  - Account : Min character slot expansion (3 -> 6)
+  - Account : Minimum character slot expansion (3 -> 6)
 
 - v81.01
   - **New feature : Companion system**
@@ -33,7 +33,7 @@ weight = 1
 
 - v82.02
   - **Class expansion : Added race Popori to Brawler**
-  - Account : Max character slot expansion (21 -> 22)
+  - Account : Maximum character slot expansion (21 -> 22)
   - **New dungeon : Gossamer Vault (hard)**
   - **New accessory : Radiant (ring / earring)**
 
@@ -114,7 +114,7 @@ weight = 1
   - Class balance (Priest, Mystic)
   - **New fishery : Exodor**
   - **New item : Steamed Kirash**
-  - **New field boss monster : Maknakh, [TL: Murderwing Monarch]**
+  - **New field boss monster : Maknakh, [TL : Murderwing Monarch]**
   - **New item : Annihilation Belt, Dark Light Belt**
   - **New gear : Master's Duranium, Flawless Duranium gear**
   - **New gear : Dauntless Azart, Manaforce Azart gear**
@@ -166,6 +166,39 @@ weight = 1
 
 - v88.03
 
+- v89.01
+  - **New dungeon : Sea of Honor**
+
 ## November
 
+- v89.02
+  - Class balance (Priest, Mystic, Valkyrie, Gunner)
+  - Account : Updated Returning Player system
+
+- v89.03
+
+- v90.01
+  - **Class expansion : Added race Elin to Valkyrie**
+  - Account : Minimum character slot expansion (6 -> 7)
+  - Account : Maximum character slot expansion (22 -> 23)
+  - Account : Changed starting Enhancement Points to 300
+  - **New feature : Valderon Token system**
+  - Guild : Added Guild Quest to defeat Field Boss Monsters
+
 ## December
+
+- v90.02
+
+- v90.03
+
+- v91.01
+  - Class balance (Priest)
+  - Dungeon : Removed Forsaken Island, Forsaken island (hard)
+  - **New dungeon : Forbidden Arena**
+  - **New dungeon : Corrupted Skynest**
+  - **New dungeon : Corrupted Skynest (hard)**
+  - **New gear : Kaia's gear**
+  - **New gear : Eternal Annihilation / Dark Light gear**
+  - Guild : Removed Guild Quest to defeat Field Boss Monsters
+
+- v91.01.01

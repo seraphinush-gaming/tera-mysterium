@@ -202,7 +202,7 @@ weight = 1
 
 - v66.01
   - **Class expansion : Added race Human Male to Brawler**
-  - Account : Max character slot expansion (17 -> 18)
+  - Account : Maximum character slot expansion (17 -> 18)
 
 - v66.01.01
 

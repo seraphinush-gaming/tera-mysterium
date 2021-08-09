@@ -26,7 +26,7 @@ weight = 1
   - **New gear : Heroic Oath**
   - **New battleground : Gridiron**
   - Class balance (Valkyrie)
-  - Account : Max character slot expansion (19 -> 20)
+  - Account : Maximum character slot expansion (19 -> 20)
 
 - v69.01.01
   - Class balance (Lancer, Warrior, Berserker, Slayer, Sorcerer, Gunner, Ninja, Priest, Mystic)
@@ -140,7 +140,7 @@ weight = 1
 
 - v76.01
   - **Class expansion : Added race Elin to Brawler**
-  - Account : Max character slot expansion (20 -> 21)
+  - Account : Maximum character slot expansion (20 -> 21)
   - Class balance (Valkyrie, Sorcerer, Gunner, Ninja, Reaper, Mystic)
 
 ## August

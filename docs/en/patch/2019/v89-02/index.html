@@ -187,7 +187,8 @@
       
     </div>
     
-    <h3 id="1-balance">1. Balance</h3>
+    <h2 id="update">Update</h2>
+<h3 id="1-balance"><strong>1.</strong> Balance</h3>
 <ul>
 <li>Priest
 <ul>
@@ -223,6 +224,15 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 힐러 클래스의 특성 중 [낙인] 효과의 지속시간이 다소 짧은 관계로 지속시간을 조정하여, 디버프를 관리하는 조작의 번거로움을 줄이고, 다른 스킬을 더 자주 사용할 수 있도록 개선되었습니다.
+- 사제의 경우, 심판의 주문 스킬과 신의 숨결, 찬란한 섬광의 스킬 구조 상, 두 스킬의 재사용 대기시간을 확인하고 심판의 주문을 사용해야만 효율적이었습니다.
+- 이번 변경을 통해 사제가 원하는 타이밍에 심판의 주문을 사용할 수 있도록 변경하고자 합니다.
+- 정령사의 경우, 정령화 스킬에서 MP가 지속적으로 소모되던 부분을 제거하여, 전투 전반의 MP 관리가 수월하도록 개선하였습니다.
+- 강력한 버프를 주는 정령 소환 스킬의 추가 MP 소모 부분은, 높은 효과에 대한 리스크 부여 형식으로 유지될 예정입니다.
+</code></pre><ul>
 <li>Valkyrie
 <ul>
 <li>Godsfall
@@ -250,6 +260,11 @@
 </li>
 </ul>
 </li>
+</ul>
+<pre><code>Developer comment
+
+- 개전 스킬을 더 자주 사용하실 수 있도록 재사용 시간을 감소하였습니다. 월광폭 스킬의 활용성을 위해 특성의 효과를 변경합니다.
+</code></pre><ul>
 <li>Gunner
 <ul>
 <li>Revised Arcane Splash and damage skills
@@ -285,13 +300,16 @@
 </ul>
 </li>
 </ul>
-<h3 id="2-wayfarer-map-instance">2. Wayfarer Map (instance)</h3>
+<pre><code>Developer comment
+
+- 아케인 파편과 관련된 스킬들을 변경하여, 생성과 파괴의 매커니즘을 보다 명확하게 체험할 수 있도록 변경됩니다. 큰 공격 범위를 갖는 스킬들이 파괴 스킬로 변경되면서 파편 파괴가 수월하도록 개선됩니다.
+</code></pre><h3 id="2-sea-of-honor"><strong>2.</strong> Sea of Honor</h3>
 <ul>
 <li>Decreased HP of monsters in the Sea of Honor</li>
 <li>Additionally decreased HP of certain monsters (해적 졸개, 싸움꾼, 베테랑)</li>
 <li>Decreased attack speed of hammer throwing by Dixie Pincher</li>
 </ul>
-<h3 id="3-civil-unrest">3. Civil Unrest</h3>
+<h3 id="3-civil-unrest"><strong>3.</strong> Civil Unrest</h3>
 <ul>
 <li>Increased minimum distance between Guild Towers from 10m to 30m</li>
 <li>Added increase movement speed by 35 buff during Tower Guard buff</li>
@@ -307,116 +325,143 @@
 </ul>
 </li>
 </ul>
-<h3 id="4-quest">4. Quest</h3>
+<pre><code>Developer comment (Added 11/13)
+
+- 특정 어뷰징 행위를 방지하기 위하여 전초기지간 설치 간격을 조정하였습니다.
+- 또한, 전초기지가 너무 쉽게 파괴되지 않도록 최근 캐릭터의 수준에 맞추어 HP를 상향 조정하고, 전초기지 수성에 유리하도록 전투 이동속도 증가 효과와 부활 무적이 추가되었습니다.
+  - (단, 죽었을 때의 리스크를 위해 부활시간 감소 효과는 제거됩니다.)
+- 길드대전 컨텐츠는 앞으로도 지속적으로 조정해 나갈 예정입니다.
+</code></pre><h3 id="4-quest"><strong>4.</strong> Quest</h3>
 <ul>
-<li>Changed the following 4 daily quests on Verrak Fortress, Exodor :
-<ul>
-<li>(Generally decreased number of monsters to kill)</li>
-<li>퀘스트명 | 변경 전 조건 | 변경 후 조건
-<ul>
-<li>배신자 처단 I | 나가 집행관 10마리 처치, 나가 신관 10마리 처치 | 독 주머니 5개 수집 (습곡 포식자 처치로 획득 가능)</li>
-<li>배신자 처단 II | 나가 형벌자 10마리 처치, 나가 암살자 10마리 처치 | 나가 형벌자 5마리 처치, 나가 암살자 5마리 처치</li>
-<li>내부 공작 I | 하이드래곤 강습자 10마리 처치 | 하이드래곤 격멸자 8마리 처치</li>
-<li>내부 공작 II | 하이드래곤 전술 지원가 7마리 처치, 하이드래곤 감시자 5마리 처치 | 하이드래곤 감시자 6마리 처치</li>
+<li>Changed the following 4 daily quests on Verrak Fortress, Exodor (TL : Generally decreased number of monsters to kill) :</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-<h3 id="5-returning-player-system-added-1113">5. Returning Player System (added 11/13)</h3>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Quest</th>
+<th align="center">Requirement before</th>
+<th align="center">Requirement after</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">배신자 처단 I</td>
+<td align="center">나가 집행관 10마리 처치, 나가 신관 10마리 처치</td>
+<td align="center">독 주머니 5개 수집 (습곡 포식자 처치로 획득 가능)</td>
+</tr>
+<tr>
+<td align="center">배신자 처단 II</td>
+<td align="center">나가 형벌자 10마리 처치, 나가 암살자 10마리 처치</td>
+<td align="center">나가 형벌자 5마리 처치, 나가 암살자 5마리 처치</td>
+</tr>
+<tr>
+<td align="center">내부 공작 I</td>
+<td align="center">하이드래곤 강습자 10마리 처치</td>
+<td align="center">하이드래곤 격멸자 8마리 처치</td>
+</tr>
+<tr>
+<td align="center">내부 공작 II</td>
+<td align="center">하이드래곤 전술 지원가 7마리 처치, 하이드래곤 감시자 5마리 처치</td>
+<td align="center">하이드래곤 감시자 6마리 처치</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="5-returning-player-system-added-1113"><strong>5.</strong> Returning Player system (added 11/13)</h3>
 <ul>
-<li>Increased applicable level to between level 65 to level 70</li>
-<li>Adjusted to significantly increase Returning Player reward</li>
-<li>Player will now receive Stomcry gear, Azart gear, Relic/Halidom, Skill Advance/Option Scroll, and other necessary items to progress from the Returning Player box
+<li>(Added 11/21) Returning Player support is eligible on 1 character and box appropriate to the character level is distributed</li>
+<li>Increased applicable level 65 -&gt; 70</li>
+<li>(Fixed 11/15) Adjusted to significantly increase Returning Player reward
 <ul>
+<li>(Added 11/15) Returning Player benefit for character level 64 and below remains the same</li>
+<li>Player will now receive Stomcry gear, Azart gear, Relic / Halidom, Skill Advancement / Optimization Scroll, and other necessary items to progress from the Returning Player box</li>
 <li>Items received from each level-specific box is the following :
 <ul>
 <li>Level 65 :
 <ul>
 <li>Level 65 Returning Player box
 <ul>
-<li>2,500x Dawnstorm Token</li>
+<li>Dawnstorm Token x 2,500</li>
 <li>Combat consumables</li>
-<li>50% Federation Hero XP Boost (15 days)</li>
-<li>100% EP Boost 100 (14 days)</li>
-<li>15% Skill Advancement Boost (1 day)</li>
-<li>Quest Scroll - Macellarius Catacombs I</li>
-<li>Arborean Guardian Gear box</li>
-<li>Level 66 Returning Player box</li>
+<li>Federation Hero 50% (15 Days)</li>
+<li>100% EP Boost (14 Days)</li>
+<li>Skill Advancement 15% (1 Day)</li>
+<li>[Request Document] Clean up Macellarius Catacombs I</li>
+<li>Guardian Gear Box</li>
+<li>[Lvl.66] Guardian Support Box</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>Level 66 :
 <ul>
-<li>Level 66 Returning Player box
+<li>[Lvl.66] Guardian Support Box
 <ul>
 <li>Karas&rsquo; Halidom II</li>
 <li>Dagon&rsquo;s Halidom II</li>
 <li>Elinu&rsquo;s Relic II</li>
 <li>Tithus&rsquo; Relic II</li>
-<li>3x Weapon Enchanting Scroll [Stormcry]</li>
-<li>12x Armor Enchanting Scroll [Stormcry]</li>
-<li>Swift XP Boost (200%-400%)</li>
-<li>Quest Scroll - Azart Hatchery I</li>
-<li>Level 67 Returning Player box</li>
+<li>Weapon Enchanting Scroll [Stormcry] x 3</li>
+<li>Armor Enchanting Scroll [Stormcry] x 12</li>
+<li>Super Speed Potion (200%-400%)</li>
+<li>[Request Document] Clean up Azart Hatchery I</li>
+<li>[Lvl.67] Guardian Support Box</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>Level 67 :
 <ul>
-<li>Level 67 Returning Player box
+<li>[Lvl.67] Guardian Support Box
 <ul>
-<li>4x Weapon Enchanting Scroll [Stormcry]</li>
-<li>20x Armor Enchanting Scroll [Stormcry]</li>
-<li>Quest Scroll - Macellarius Catacombs II</li>
-<li>Quest Scroll - Azart Hatchery II</li>
-<li>Swift XP Boost (200%-400%)</li>
-<li>Level 68 Returning Player box</li>
+<li>Weapon Enchanting Scroll [Stormcry] x 3</li>
+<li>Armor Enchanting Scroll [Stormcry] x 20</li>
+<li>[Request Document] Clean up Macellarius Catacombs II</li>
+<li>[Request Document] Clean up Azart Hatchery II</li>
+<li>Super Speed Potion (200%-400%)</li>
+<li>[Lvl.68] Guardian Support Box</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>Level 68 :
 <ul>
-<li>Level 68 Returning Player box
+<li>[Lvl.68] Guardian Support Box
 <ul>
 <li>Azart Weapon Box</li>
 <li>Azart Armor Box</li>
 <li>Azart Glove Box</li>
 <li>Azart Boot Box</li>
-<li>10x Dark Shard Weapon Feedstock</li>
-<li>30x Dark Shard Armor Feedstock</li>
-<li>Quest Scroll - Macellarius Catacombs III</li>
-<li>Quest Scroll - Azart Hatchery III</li>
-<li>Swift XP Boost (200%-400%)</li>
-<li>Level 69 Returning Player box</li>
+<li>Dark Shard Weapon Feedstock x 10</li>
+<li>Dark Shard Armor Feedstock x 30</li>
+<li>[Request Document] Clean up Macellarius Catacombs III</li>
+<li>[Request Document] Clean up Azart Hatchery III</li>
+<li>Super Speed Potion (200%-400%)</li>
+<li>[Lvl.69] Guardian Support Box</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>Level 69 :
 <ul>
-<li>Level 69 Returning Player box
+<li>[Lvl.69] Guardian Support Box
 <ul>
-<li>10x Dark Shard Weapon Feedstock</li>
-<li>30x Dark Shard Armor Feedstock</li>
-<li>Quest Scroll - Macellarius Catacombs IV</li>
-<li>Quest Scroll - Azart Hatchery IV</li>
-<li>2x Swift XP Boost (200%-400%)</li>
-<li>Level 70 Returning Player box</li>
+<li>Dark Shard Weapon Feedstock x 10</li>
+<li>Dark Shard Armor Feedstock x 30</li>
+<li>[Request Document] Clean up Macellarius Catacombs IV</li>
+<li>[Request Document] Clean up Azart Hatchery IV</li>
+<li>Super Speed Potion (200%-400%) x 2</li>
+<li>[Lvl.70] Guardian Support Box</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>Level 70 :
 <ul>
-<li>Level 70 Returning Player box
+<li>[Lvl.70] Guardian Support Box
 <ul>
-<li>100x Skill Advance III Scroll</li>
-<li>20x Dark Shard Weapon Feedstock</li>
-<li>60x Dark Shard Armor Feedstock</li>
+<li>Skill Advancement Scroll III x 100</li>
+<li>Dark Shard Weapon Feedstock x 20</li>
+<li>Dark Shard Armor Feedstock x 60</li>
 </ul>
 </li>
 </ul>
@@ -442,9 +487,16 @@
 <li>Fixed issue where players could not enter a 7-man instance as a raid occasionally</li>
 <li>Fixed issue where 2 unnecessary slots existed in Profile -&gt; Costuming UI</li>
 </ul>
-<hr>
-<p>source : <a href="http://tera.nexon.com/news/update/view.aspx?n4articlesn=416">TERA 테라 | NEXON</a></p>
 
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2019/v89-02">TERA KR patch archive | seraphinush-gaming</a></li>
+        
+      </ul>
+    </div>
     
   </div>
 

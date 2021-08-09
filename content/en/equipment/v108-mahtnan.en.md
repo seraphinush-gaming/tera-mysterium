@@ -26,7 +26,7 @@ There is no upgrade to Mahtnan gear, but the newly added Transfer system allows 
 Mahtnan gear has 3 types of options : Basic options, Random options, and Support options.
 
 ## Random options
-Random options are inherited from Kaia's Soul gear and operates similarly. 
+Random options are inherited from Kaia's Soul gear and operates similarly.
 
 ## Support options
 Support options are new additions to gear options. Support options are further divided into Unique option and Support Random option. Different from regular Random options, Support options cannot be changed. Support Random options also have relatively higher values than regular Random options.
@@ -34,7 +34,7 @@ Support options are new additions to gear options. Support options are further d
 ### Unique option
 Unique options are divided into tier I to tier V, and effect values vary appropriately.
 
-Possible Unique options and effects are the following :
+(Updated v109.01) Possible Unique options and effects are the following :
 
 #### Weapon
 
@@ -50,6 +50,14 @@ Possible Unique options and effects are the following :
 | Blood Oath | Decrease healing received by (10/20/30/40/50)%, increase skill damage and effect of healing skills by (2/4/6/8/10)% |
 | Hymn of Courage | Increase Magical and Physical Amplification of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
 
+```
+Recommendation :
+
+- DPS : Rage Suppressor
+- TANK : Cruel Curse
+- HEAL : Hymn of Courage
+```
+
 #### Armor
 
 | Option | Description |
@@ -63,6 +71,14 @@ Possible Unique options and effects are the following :
 | Optimized Reflexes | Increase Crit Resist Factor by (20/30/40/50/60) |
 | Crisis Manager | Recover (2/2.5/3/3.5/4)% of HP every 2 seconds when HP is below 30% |
 | Hymn of Faith | Increase Physical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
+
+```
+Recommendation :
+
+- DPS : Perfection
+- TANK : Perfection
+- HEAL : Hymn of Faith
+```
 
 #### Hand Armor
 
@@ -78,6 +94,14 @@ Possible Unique options and effects are the following :
 | Reckless Grit | Increase skill damage and effect of healing skills by (7/9/11/13/15)% when HP is below 60% |
 | War Drums | Increase Physical and Magical Piercing of self and nearby allies by (667/833/1000/1167/1335), within 15m range |
 
+```
+Recommendation :
+
+- DPS : Combat Essence
+- TANK : Death Sentence
+- HEAL : War Drums
+```
+
 #### Foot Armor
 
 | Option | Description |
@@ -92,7 +116,13 @@ Possible Unique options and effects are the following :
 | Last Stand | Apply a barrier that can absorb up to (80k/110k/140k/170k/200k) damage for 10 seconds upon hit when HP is below 40%, 60 second cooldown |
 | Mage Song | Increase Magical Resistance of self and nearby allies by (2/2.5/3/3.5/4)%, within 15m range |
 
-- Updated v109.01
+```
+Recommendation :
+
+- DPS : Phantom Veil
+- TANK : Phantom Veil
+- HEAL : Mage Song
+```
 
 ## Enchanting (wip)
 
