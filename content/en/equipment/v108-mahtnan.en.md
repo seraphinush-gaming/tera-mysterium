@@ -19,22 +19,19 @@ Mahtnan gear is the new gear set added v108, as part of a new season of TERA, na
 
 Mahtnan gear differentiates itself from the previous Kaia's Soul gear set by removing damage on enchant, and Infusion options. This makes it one of the easiest gear set to enchant due to the removal of artificial enchanting difficulty, but other factors have been added to make Mahtnan gear just as problematic as it was before.
 
-Mahtnan gear is divided into 3 rarities : Rare, Superior, and Mythic, and enchantment is available up to +12.
+Mahtnan gear is divided into 3 rarities : **Rare**, **Superior**, and **Mythical**, and enchantment is available up to +12.
 
-There is no upgrade to Mahtnan gear, but the newly added Transfer system allows players to transfer enchantment level, random options, and Etching from one gear to another.
+There is no upgrade to Mahtnan gear, but the newly added Transfer system allows players to transfer enchantment level, Random Options, and Etching from one gear to another.
 
-Mahtnan gear has 3 types of options : Basic options, Random options, and Support options.
+Mahtnan gear has 3 types of options : Standard Option, Random Option, and **Support Option**.
 
-## Random options
-Random options are inherited from Kaia's Soul gear and operates similarly.
+## Support Option
+Support Option are new additions to gear options. Support Option is further divided into **Unique Option** and **Support Random Option**. Different from regular Random Option, Support Option cannot be changed. Support Random Options also have relatively higher values than regular Random Options.
 
-## Support options
-Support options are new additions to gear options. Support options are further divided into Unique option and Support Random option. Different from regular Random options, Support options cannot be changed. Support Random options also have relatively higher values than regular Random options.
+### Unique Option
+Unique Options are divided into **tier I to tier V**, and effect values vary appropriately.
 
-### Unique option
-Unique options are divided into tier I to tier V, and effect values vary appropriately.
-
-(Updated v109.01) Possible Unique options and effects are the following :
+(Updated v109.01) Possible Unique Options and effects are the following :
 
 #### Weapon
 
@@ -124,10 +121,53 @@ Recommendation :
 - HEAL : Mage Song
 ```
 
+### Support Random Option (wip)
+Support Random Options are similar to existing Random Options, except as Support Option cannot be changed, Support Random Options cannot be changed as well. Values are relatively higher than regular Random Options.
+
+| Option | Tier I | Tier II | Tier III | Tier IV | Tier V |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Physical Amplification | 3075 | 3514 | 4393 | 5271 | **6150** |
+| Magical Amplification | 3075 | 3514 | 4393 | 5271 | **6150** |
+| Physical Piercing | 614 | 701 | 807 | 1052 | **1228** |
+| Magical Piercing | 614 | 701 | 807 | 1052 | **1228** |
+| Ignore Physical Resistance | 982 | 1122 | 1402 | 1683 | **1964** |
+| Ignore Magical Resistance | 982 | 1122 | 1402 | 1683 | **1964** |
+| Physical Crit Power | 0.03 | 0.034 | 0.042 | 0.051 | **0.06** |
+| Magical Crit Power | 0.03 | 0.034 | 0.042 | 0.051 | **0.06** |
+| Crit Factor | 7 | 9 | 11 | 13 | **15** |
+| Physical Resistance | 1538 | 1757 | 2197 | 2636 | **2636** |
+| Magical Resistance | 1538 | 1757 | 2197 | 2636 | **2636** |
+| Increase Max HP | 7380 | 8433 | 10543 | 12650 | **14760** |
+| Increase Max MP | 738 | 843 | 1054 | 1265 | **1476** |
+| MP Recovery (Every 5 Seconds) | 120  | 137 | 171 | 205 | **240** |
+| Increased Healing | 1.04 | 1.045 | 1.05 | 1.055 | **1.06** |
+| Reduced Crit Damage | 0.02 | 0.025 | 0.03 | 0.035 | **0.04** |
+| Fixed Damage Reduction | -500 | -571 | -714 | -857 | **-1000** |
+| Increased Crit Resist Factor | 28 | 28 | 35 | 42 | **50** |
+
+## Random Option
+Random Options are inherited from Kaia's Soul gear and operates similarly.
+
+| Option | Tier I | Tier II | Tier III | Tier IV | Tier V |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Physical Amplification | 683 | 780 | 975 | 1170 | **1366** |
+| Magical Amplification | 683 | 780 | 975 | 1170 | **1366** |
+| Physical Piercing | 136 | 156 | 195 | 234 | **273** |
+| Magical Piercing | 136 | 156 | 195 | 234 | **273** |
+| Ignore Physical Resistance | 273 | 312 | 390 | 468 | **546** |
+| Ignore Magical Resistance | 273 | 312 | 390 | 468 | **546** |
+| Physical Crit Power | 0.01 | 0.012 | 0.014 | 0.017 | **0.02** |
+| Magical Crit Power | 0.01 | 0.012 | 0.014 | 0.017 | **0.02** |
+| Crit Factor | 3 | 4 | 5 | 6 | **7** |
+| Physical Resistance | 342 | 390 | 489 | 586 | **684** |
+| Magical Resistance | 342 | 390 | 489 | 586 | **684** |
+| Increase Max HP | 1640 | 1874 | 2342 | 2811 | **3280** |
+| Increase Max MP | 164 | 187 | 234 | 281 | **328** |
+
 ## Enchanting (wip)
 
 ## Transfer system
-Once you reach a certain enchantment level on a piece of gear, you can transfer the enchantment level, random options, and etching to another gear of the same part. this requires a Mahtnan Jewel of Magic Transference.
+Once you reach a certain enchantment level on a piece of gear, you can transfer the enchantment level, Random Options, and etching to another gear of the same part. this requires a **Mahtnan Jewel of Magic Transference**.
 
 ## Crafting
-Mahtnan gear can be crafted. Crafting designs for Rare and Superior Mahtnan gear can be purchased from Crafting NPCs in major cities, whereas Mythic Mahtnan gear crafting design can be obtained as a dungeon drop, event reward, or cash shop depending on region.
+Mahtnan gear can be crafted. Crafting designs for Rare and Superior Mahtnan gear can be purchased from Crafting NPCs in major cities, whereas Mythical Mahtnan gear crafting design can be obtained as a dungeon drop, event reward, or cash shop depending on region.

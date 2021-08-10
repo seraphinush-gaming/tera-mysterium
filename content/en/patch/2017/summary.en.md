@@ -110,14 +110,8 @@ weight = 1
 - v61.01
   - **Gear progression revamp**
   - Gear : Removed Masterwork system, Awakening system
-  - **New gear : Guardian**
-  - **New gear : Twistshard**
-  - **New gear : Frostmetal**
-  - **New gear : Stormcry**
-  - **New accessory : Prospect**
-  - **New accessory : Bellum**
-  - **New accessory : Daylight**
-  - **New accessory : Entropy**
+  - **New gear : Guardian, Twistshard, Frostmetal, Stormcry**
+  - **New accessory : Prospect, Bellum, Daylight, Entropy**
   - **New dungeon : Thaumetal Refinery**
   - **New dungeon : Kalivan's Challenge**
   - Dungeon : Removed Channelworks, Abscess (7-Person), Bathysmal Rise, Forsaken Island, Forsaken Island (hard), Demokron Factory, Velik's Hold, Velik's Hold (hard), Velik's Sanctuary, Velik's Sanctuary (hard), Demon's Wheel, Kalivan's Dreadnaught (hard), Harrowhold (temporary)
@@ -213,13 +207,7 @@ weight = 1
 - v66.02.01
 
 - v67.01
-  - **Class awakening : Lancer**
-  - **Class awakening : Brawler**
-  - **Class awakening : Warrior**
-  - **Class awakening : Berserker**
-  - **Class awakening : Slayer**
-  - **Class awakening : Mystic**
-  - **Class awakening : Priest**
+  - **Class awakening : Lancer, Brawler, Warrior, Berserker, Slayer, Mystic, Priest**
   - Class balance (Archer)
   - Class balance : Added Dormant Power passive to non-Awakening classes
   - Guardian Legion : Adjusted point distribution for Mystic, Priest, Brawler, Gunner, Sorcerer, Archer

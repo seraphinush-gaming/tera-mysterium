@@ -1,6 +1,6 @@
 +++
 date = "2021-01-01"
-lastmod = "2021-04-07"
+lastmod = "2021-08-09"
 title = "2021 patch summary"
 categories = ["patch notes"]
 tags = ["2021", "summary"]
@@ -10,7 +10,8 @@ weight = 1
 ## January
 
 - v103.01
-  - **New dungeon : Killing Grounds, Killing Grounds (hard), Catalepticon Trial**
+  - **New dungeon : Killing Grounds, Killing Grounds (hard)**
+  - **New dungeon : Catalepticon Trial**
   - Leaderboard : Removed Forbidden Arena
   - Exodor : Removed restriction from using flight and jump platform
   - Quest : Added quest skip function
@@ -166,8 +167,8 @@ weight = 1
 - v108.02.01
   - Gear : Adjusted to increase item level of Superior / Mythic Mahtnan gear
 
-- v108.03
-  - **New region : Baldera**
+- v109.01
+  - **New region : Baldera (pl.)**
   - Dungeon : Reopened Catalepticon, Sky Cruiser Endeavor (hard)
   - **New dungeon : Rogash's Trial**
   - Gear : Adjusted select Mahtnan gear Unique options
@@ -177,6 +178,8 @@ weight = 1
   - Feature : Added missions (pl.) to TERA Pass
 
 ## August
+
+- v109.01.01
 
 ## September
 

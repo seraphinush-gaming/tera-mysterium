@@ -120,8 +120,7 @@ weight = 1
   - Battleground : Reopened Iron Battleground
   - **New gear : Guile**
   - **New gear : Ambush** (ie. Visionmaker 8 or VM8)
-  - **New accessory : Manor**
-  - **New accessory : Bluebred** (PVP)
+  - **New accessory : Manor, Bluebred (PVP)**
   - Dungeon : Removed Abscess, Abscess (hard), Kalivan's Dreadnaught (hard), Forsaken Island, Wonderholme
   - Achievement : Simplified Encounters and Exploration achievements
 
@@ -144,7 +143,7 @@ weight = 1
 
 - v49.01
   - **New dungeon : Harrowhold**
-  - **New gear : Behemoth** (ie. Visionmake 8.5 or VM8.5)
+  - **New gear : Behemoth** (ie. Visionmaker 8.5 or VM8.5)
   - Class balance (Archer, Lancer, Warrior, Berserker, Priest, Mystic, Slayer)
   - Guild : Added feature to obtain Guild XP by leveling
   - Battleground (Champions' Skyring) : Changed to allow usage of Noctenium Infusion

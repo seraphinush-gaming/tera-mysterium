@@ -3,7 +3,7 @@ date = "2019-12-19"
 lastmod = "2021-06-13"
 title = "v91 : Kaia's Gear"
 categories = ["equipment"]
-tags = ["v91", "mythic", "kaia"]
+tags = ["v91", "kaia"]
 sources = [
   "[2019.12.19 patch notes (v91.01) | TERA KR](/en/patch/2019/v91-01/)",
   "[2020.12.17 patch notes (v102.01) | TERA KR](/en/patch/2020/v102-01/)"
@@ -14,20 +14,20 @@ sources = [
 
 ![1]
 
-Kaia's gear is the **retool** for Annihilation / Dark Light gear, added v91. It is the first of the Mythic rarity gear, which therefore termed itself to be generally known as Mythical gear. It is available at all enchantment levels of Annihilation / Dark Light gear, and enchanting is still available after upgrading to Mythical gear.
+Kaia's gear is the **retool** for Annihilation / Dark Light gear, added v91. It is the first of the Mythical rarity gear, which therefore termed itself to be generally known as Mythical gear. It is available at all enchantment levels of Annihilation / Dark Light gear, and enchanting is still available after upgrading to Mythical gear.
 
 One **core equipment** is necessary to retool superior Exodor gear into Mythical gear, which can be either a **Black Core Essence**, or Heroic Oath gear. ~~Black Core Essence is available from Muhrak's Workshop by exchanging 10 Black Core Nodules. Using the latter option decreases the amount of materials and gold necessary. Any Heroic Oath gear can be used as long as its for the same location. For example, Heroic Oath Sleeves can be used as core equipment to upgrade Annihilation Gloves into Kaia's Fury Gloves. Upgrading is guaranteed.~~
 
 Future update made it much easier to upgrade to Kaia's gear, requiring only an Improved Dark Shard Feedstock.
 
-Upgrading to Mythical gear transfers over the enchantment level and random options, but Infused options and Etchings will dissolve.
+Upgrading to Mythical gear transfers over the enchantment level and Random Options, but Infused options and Etchings will dissolve.
 
 In place of Azart Mark, Mythical gear has **Kaia's Judgement** which decreases Crit Resistance by 25 and Physical, Magical Resistance by 2,000. Kaia's Judgement does not stack with Azart Mark.
 
-## Mythic skills
-Mythic weapons have special Mythic skills depending on its class and class type :
+## Mythical skills
+Mythical weapons have special Mythical skills depending on its class and class type :
 
-| Weapon type | Mythic skill | Description |
+| Weapon type | Mythical skill | Description |
 | :-: | :-: | - |
 | Lance | Kaia's Will | Increases damage to enraged monsters by 5% and aggro by 50%. |
 | Powerfist | Kaia's Will | Increases damage to enraged monsters by 5% and aggro by 50%. Aggro does not increase while Growing Fury (Anomalous) is active |
@@ -36,7 +36,7 @@ Mythic weapons have special Mythic skills depending on its class and class type 
 | Staff, Scepter | Kaia's Blessing | Increases damage to enraged monsters by 5% and HP recovery of healing skills by 20% while HP is 40% or below | 
 
 ## Progression
-Kaia's Soul gear was added v102.01. Players can upgrade Mythical gear to Kaia's Soul gear with either **Lumikan's Wing Fragment** for Weapon and Armor, or **Tyrant's Belt** for Hand Armor and Foot Armor.
+Kaia's Soul gear was added v102.01. Players can upgrade Mythical gear to Kaia's Soul gear with **Lumikan's Wing Fragment** for Weapon and Armor, and **Tyrant's Belt** for Hand Armor and Foot Armor.
 
 ## Upgrading
 

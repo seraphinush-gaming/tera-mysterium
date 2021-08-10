@@ -6,10 +6,20 @@
     <description>Recent content in translation on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.08.04 patch notes (v190.01.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v109-01-01/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v109-01-01/</guid>
+      <description>Update 1. Service stabilization  서버 렉 현상 완화를 위한 안정화 작업이 진행되었습니다.  2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+Bug fixes  Fixed issue where &amp;lsquo;Lucidity&amp;rsquo; Unique Option on Mahtnan gear does not apply Fixed issue where Reaper&amp;rsquo;s Shadow Reaping Glyph and Skill Option effect does not apply Fixed issue where dungeon boss monster&amp;rsquo;s damage range and system damage range does not match Fixed issue where graphics downgrade in select location in Spring Valley Fixed issue where Vanguard Request for Sky Cruiser Endeavor (hard) is available at lower item level Fixed issue where unachievable Achievement is in Achievements Fixed issue where leaving Ace Dungeons after entering in Baldera (pl.</description>
+    </item>
     
     <item>
       <title>2021.07.28 patch notes (v109.01) | TERA KR</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v109-01/</guid>
-      <description>Update 공명 던전 업데이트가 시스템의 안정성 확보를 위해 8월 11일로 연기되었습니다. 더욱 원활한 플레이 환경과 완성된 모습으로 선보일 수 있도록 노력하겠습니다. 1. Open world  Opened Undiscovered region - Baldera  Baldera can be accessed through &amp;lsquo;Ruinweald&amp;rsquo; located North of Arcadia &amp;gt; Oblivion Woods       Activity level is set to level 71 in Baldera and level 70 is recommended A town called Balderon (pl.) exists in Baldera, and new achievements, adventure, and story can begin       Baldera              Balderon (pl.</description>
+      <description>Update 공명 던전 업데이트가 시스템의 안정성 확보를 위해 8월 11일로 연기되었습니다. 더욱 원활한 플레이 환경과 완성된 모습으로 선보일 수 있도록 노력하겠습니다. 1. Open world  Opened Undiscovered region - Baldera (pl.)  Baldera (pl.) can be accessed through &amp;lsquo;Ruinweald&amp;rsquo; located North of Arcadia &amp;gt; Oblivion Woods       Activity level is set to level 71 in Baldera (pl.) and level 70 is recommended A town called Balderon (pl.</description>
     </item>
     
     <item>
@@ -467,7 +477,7 @@
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2020/v98-01/</guid>
-      <description>1. July class balance  Gunner  Decreased MP cost of Detonate and Mana Missile Changed to apply Attack Speed on Burst Fire and Targeted Burst Fire    2. Dungeon  [Training] Bahaar&amp;rsquo;s Sanctum  Can enter upon reaching level 70, as 1-5 person party Entrance is via Training Ground Master NPC Whurloc located in Highwatch Ressurecting inside the instance relocates player at the start of the instance Entering as a 5-man party does not spawn Shielding Pylon and Divine Pylon Decreased Priest NPC attack damage, relatively decreased mechanic difficulty Added 2 achievements  Achievement  내가 바로 던전 마스터!</description>
+      <description>1. July class balance  Gunner  Decreased MP cost of Detonate and Mana Missile Changed to apply Attack Speed on Burst Fire and Targeted Burst Fire    2. Dungeon  [Training] Bahaar&amp;rsquo;s Sanctum  Can enter upon reaching level 70, as 1-5 person party Entrance is via Training Ground Master NPC Whurloc located in Highwatch Ressurecting inside the instance relocates player at the start of the instance Entering as a 5-Person party does not spawn Shielding Pylon and Divine Pylon Decreased Priest NPC attack damage, relatively decreased mechanic difficulty Added 2 achievements  Achievement  내가 바로 던전 마스터!</description>
     </item>
     
     <item>
@@ -557,7 +567,7 @@
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2020/v95-01-01/</guid>
-      <description>Bug fixes  Fixed issue where Archer&amp;rsquo;s Wind Walk / Penetrating Arrow / Radiant Arrow skill damages were altered (was stealth nerfed) Fixed issue where players could not interact with Segretto&amp;rsquo;s shop Fixed issue where values for random options Physical/Magical Pierce and Ignore Factor for Kaia&amp;rsquo;s Spirit accessories were switched   source : TERA 테라 | NEXON</description>
+      <description>Bug fixes  Fixed issue where Archer&amp;rsquo;s Wind Walk / Penetrating Arrow / Radiant Arrow skill damages were altered (was stealth nerfed) Fixed issue where players could not interact with Segretto&amp;rsquo;s shop Fixed issue where values for Random Options Physical/Magical Pierce and Ignore Factor for Kaia&amp;rsquo;s Spirit accessories were switched   source : TERA 테라 | NEXON</description>
     </item>
     
     <item>
@@ -886,7 +896,7 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v86-02/</guid>
-      <description>Update 1. Azart Hatchery  Increased spawn rate of Caiman Wanderers and Dimensional Portal  2. Field boss monster  Reinforced criteria for earning wnd rank participation reward  3. Quest  Changed Card Index completion progress reward  Removed progression stage reward for completing Grazing Noruk card set    Bug fixes  Fixed issue where Skill Advance points and Skill Advance state reset (to zero) Fixed issue where sorting inventory occasionally causes client to crash Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) Fixed issue where Slayer&amp;rsquo;s Measured Slice was coded as magical damage Fixed issue where Ninja&amp;rsquo;s Boomerang Shuriken&amp;rsquo;s skill damage was unexpectedly high Fixed issue where recent transactions on trade broker displayed irregular item levels Fixed issue where UI scaling did not affect pop-up UI for purchasing items Fixed issue where changing party or raid while fighting field boss monster resulted in rewarded twice the participation reward (Edited) Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard Fixed issue where Partners occasionally spoke about item level Fixed issue where players could proceed through without being directed by quest NPC Fixed issue where certain NPCs were stacked Fixed issue where Nomadic Merchants could spawn in all channels Fixed issue where players could receive multiple quest items through Etching Crafting tutorial Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank Fixed issue where cracked ground aesthetics for Maknakh combat area seemed like it was floating Fixed issue where returning player items displayed different expire date and stats than intended Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed Fixed issue where summoned Partners displayed a chat upon spawning in each area 완벽한 레어 엘린 의상 상자 툴팁 중, 아이템 리스트에 특정 아이템명이 잘못 기재된 문제 고대 바라카 유적터에서 심연의 성으로 가는 길목이 벽으로 막혀 있는 문제 Fixed issue where using a skill in Velika: Civil Unrest causes self-damage  </description>
+      <description>Update 1. Azart Hatchery  Increased spawn rate of Caiman Wanderers and Dimensional Portal  2. Field boss monster  Reinforced criteria for earning wnd rank participation reward  3. Quest  Changed Card Index completion progress reward  Removed progression stage reward for completing Grazing Noruk card set    Bug fixes  Fixed issue where Skill Advance points and Skill Advance state reset (to zero) Fixed issue where sorting inventory occasionally causes client to crash Fixed issue where using skill that reduce damage caused PC to decrease in defense (fixed Bamarama issue as well) Fixed issue where Slayer&amp;rsquo;s Measured Slice was coded as magical damage Fixed issue where Ninja&amp;rsquo;s Boomerang Shuriken&amp;rsquo;s skill damage was unexpectedly high Fixed issue where recent transactions on trade broker displayed irregular item levels Fixed issue where UI scaling did not affect pop-up UI for purchasing items Fixed issue where changing party or raid while fighting Field Boss Monster resulted in rewarded twice the participation reward (Edited) Fixed issue where participation reward was distributed for defeating Ortan, Cerrus, and Hazard to players who did not participate directly but had party/raid members who did Fixed issue where rewards for a different class was distributed for defeating Ortan, Cerrus, and Hazard Fixed issue where Partners occasionally spoke about item level Fixed issue where players could proceed through without being directed by quest NPC Fixed issue where certain NPCs were stacked Fixed issue where Nomadic Merchants could spawn in all channels Fixed issue where players could receive multiple quest items through Etching Crafting tutorial Fixed issue where items with expire dates had their extended expire dates reset to their issue dates when placed in bank Fixed issue where cracked ground aesthetics for Maknakh combat area seemed like it was floating Fixed issue where returning player items displayed different expire date and stats than intended Fixed issue where Map and Intel pieces in Guild Bank did not disappear event after their expire dates have passed Fixed issue where summoned Partners displayed a chat upon spawning in each area 완벽한 레어 엘린 의상 상자 툴팁 중, 아이템 리스트에 특정 아이템명이 잘못 기재된 문제 고대 바라카 유적터에서 심연의 성으로 가는 길목이 벽으로 막혀 있는 문제 Fixed issue where using a skill in Velika: Civil Unrest causes self-damage  </description>
     </item>
     
     <item>
@@ -967,7 +977,7 @@
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v84-05/</guid>
-      <description>Update 1. Dungeon  Demon&amp;rsquo;s Wheel (5-man)  Open until maintenance on 6/27 Requires level 65, and item level 446 to use instance matching system Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) Teleportal is located at Allemantheia Outskirts Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&amp;rsquo;s Claws, Dragon Skull, and [Event] Demoros&amp;rsquo; Supply Box. Intelligence Report pieces and Naslow&amp;rsquo;s Treasure Map pieces do not drop from event dungeons   Changed all instance requirements to be skilled from 5 clears to 10 clears  Changed Neophyte Resurrection usage from less than 5 clears to less than 10 clears    2.</description>
+      <description>Update 1. Dungeon  Demon&amp;rsquo;s Wheel (5-Person)  Open until maintenance on 6/27 Requires level 65, and item level 446 to use instance matching system Consumes 145 Adventure Coins upon entry, with up to 40 entries per week (80 enrties for VIP) Teleportal is located at Allemantheia Outskirts Loot table includes Gold/Silver Plate, Otherworldly Shard, Archdevan Formula, Scavenged Supplies, Devil&amp;rsquo;s Claws, Dragon Skull, and [Event] Demoros&amp;rsquo; Supply Box. Intelligence Report pieces and Naslow&amp;rsquo;s Treasure Map pieces do not drop from event dungeons   Changed all instance requirements to be skilled from 5 clears to 10 clears  Changed Neophyte Resurrection usage from less than 5 clears to less than 10 clears    2.</description>
     </item>
     
     <item>
@@ -1021,7 +1031,7 @@
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v83-05/</guid>
-      <description>Update 1. Dungeon  Demokron Factory (hard) .. 7-man instance  Level 67 dungeon, requiring ilvl 456 Costs 490 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, upgrade materials for Radiant Necklace / Circlet, and Naslow&amp;rsquo;s Treasure Map: Right Half   Demokron Factory .. 7-man instance  Level 66 dungeon, requiring ilvl 453 Costs 260 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, Devil&amp;rsquo;s Claws, Dragon Skull, and Naslow&amp;rsquo;s Treasure Map: Right Half   Macellarius Catacombs .</description>
+      <description>Update 1. Dungeon  Demokron Factory (hard) .. 7-Person instance  Level 67 dungeon, requiring ilvl 456 Costs 490 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, upgrade materials for Radiant Necklace / Circlet, and Naslow&amp;rsquo;s Treasure Map: Right Half   Demokron Factory .. 7-Person instance  Level 66 dungeon, requiring ilvl 453 Costs 260 Adventure Coins, limited to 40 entries a week (80 for Elite) Teleportal is located at Arx Umbra, Northern Arun Loot table includes Advance Skill XP, Devil&amp;rsquo;s Claws, Dragon Skull, and Naslow&amp;rsquo;s Treasure Map: Right Half   Macellarius Catacombs .</description>
     </item>
     
     <item>
@@ -1129,7 +1139,7 @@
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2019/v80-03/</guid>
-      <description>Update 1. Server merge (TERA KR exclusive)  Merged [아룬의 영광] and [카이아의 가호] servers  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-man to 3-man instances Changed Joy of Partying effect (2-man : 200%, 3-man : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer; changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
+      <description>Update 1. Server merge (TERA KR exclusive)  Merged [아룬의 영광] and [카이아의 가호] servers  2. Dungeon  Level progression dungeon  Instance matching system  Changed from 5-Person to 3-Person instances Changed Joy of Partying effect (2-Person : 200%, 3-Person : 400%) Changed dungeons : Bastion of Lok, Sinistral Manor, Savarash&amp;rsquo;s Ascent, Cultists&amp;rsquo; Refuge, Necromancer&amp;rsquo;s Tomb, Golden Labyrinth, Saleron&amp;rsquo;s Sky Garden, Labyrinth of Terror, Ebon Tower   Adjust dungeon difficulty  Can now be cleared without a healer; changed Instance Matching to be able to match regardless of class Fixed for named monsters to drop health motes      3.</description>
     </item>
     
     <item>
@@ -1525,7 +1535,7 @@
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2018/v71-01/</guid>
-      <description>Update 1. Dungeon  New dungeon : Dreadspire  10 floor 5-man dungeon There is no ilvl requirement, and 1 entry (2 for VIP) per day upon reaching level 65 Dungeon teleportal is located at Tempest Reach The following items are rewarded per floor :       5F 10F 1 ~ 5F 6 ~ 10F     Elemental Essence Veilthroch Dreadspire Helmet Dreadspire Armor   Copper Clasp Copper Clasp &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Pansophic Ash Pansophic Ash &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Archdevan Formula Archdevan Formula &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Carved Ornament Carved Ornament &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Otherworldy Shard Otherworldy Shard &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Gold reward Gold reward &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;       Added Dreadspire to Leaderboard   Reopen Manglemire  5-man dungeon reopen Requires ilvl 439 to use IMS Dungeon teleportal is located at Pora Elinu Can receive rewards of ilvl 439 dungeons   Ace Dungeon  Changed to spawn teleportal to Highwatch upon clear   Pit of Petrax  Added one of the following to be static drops upon clear  Prime Battle Solution Bravery Potion Raw Moonlight Fruit (restores 100 production points) Complete Crystalbind (1 hour) Goldfinger Token Dragonscale   Adjusted to lower Archdevan Archer damage Adjusted timer requirement  Start requirement  (From) Petrax recognizing user by aggro -&amp;gt; (to) approaching a certain distance to Petrax; displays a message of the combat and starts the timer   Pause requirement  Death during combat with Petrax; timer does not reset even though aggro has been reset     Removed Petrax HP recovery mechanic    2.</description>
+      <description>Update 1. Dungeon  New dungeon : Dreadspire  10 floor 5-Person dungeon There is no ilvl requirement, and 1 entry (2 for VIP) per day upon reaching level 65 Dungeon teleportal is located at Tempest Reach The following items are rewarded per floor :       5F 10F 1 ~ 5F 6 ~ 10F     Elemental Essence Veilthroch Dreadspire Helmet Dreadspire Armor   Copper Clasp Copper Clasp &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Pansophic Ash Pansophic Ash &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Archdevan Formula Archdevan Formula &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Carved Ornament Carved Ornament &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Otherworldy Shard Otherworldy Shard &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;   Gold reward Gold reward &amp;rsquo;&amp;rsquo; &amp;rsquo;&amp;rsquo;       Added Dreadspire to Leaderboard   Reopen Manglemire  5-Person dungeon reopen Requires ilvl 439 to use IMS Dungeon teleportal is located at Pora Elinu Can receive rewards of ilvl 439 dungeons   Ace Dungeon  Changed to spawn teleportal to Highwatch upon clear   Pit of Petrax  Added one of the following to be static drops upon clear  Prime Battle Solution Bravery Potion Raw Moonlight Fruit (restores 100 production points) Complete Crystalbind (1 hour) Goldfinger Token Dragonscale   Adjusted to lower Archdevan Archer damage Adjusted timer requirement  Start requirement  (From) Petrax recognizing user by aggro -&amp;gt; (to) approaching a certain distance to Petrax; displays a message of the combat and starts the timer   Pause requirement  Death during combat with Petrax; timer does not reset even though aggro has been reset     Removed Petrax HP recovery mechanic    2.</description>
     </item>
     
     <item>
@@ -1786,7 +1796,7 @@
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v63-01/</guid>
-      <description>Update 1. Dungeon  Reopen Broken Prison 5-man party dungeon, with IMS access from ilvl 439 Teleportal is located in Arcadia High-tier enchantment box, and high-tier enchanting materials can be obtained  2. Vanguard Initiative  Changed login bonus  Changed login bonus requirement from 3 day, 5 day, 7 day to 2 day, 4 day, and 6 day consecutive login    3. Gear upgrade  Changed to disable upgrading gear that is not bound to the character  4.</description>
+      <description>Update 1. Dungeon  Reopen Broken Prison 5-Person party dungeon, with IMS access from ilvl 439 Teleportal is located in Arcadia High-tier enchantment box, and high-tier enchanting materials can be obtained  2. Vanguard Initiative  Changed login bonus  Changed login bonus requirement from 3 day, 5 day, 7 day to 2 day, 4 day, and 6 day consecutive login    3. Gear upgrade  Changed to disable upgrading gear that is not bound to the character  4.</description>
     </item>
     
     <item>
@@ -1858,7 +1868,7 @@
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v61-01-02/</guid>
-      <description>Update 1. Dungeon  Sky Cruiser Endeavor  Decreased the HP of mobs for 1st boss Significantly decreased the HP of 2nd and 3rd boss   Nightmare Lilith&amp;rsquo;s Keep  Significantly decreased the HP of 1st, 2nd, and 3rd boss   Harrowhold  Reoponed 20-man raid Harrowhold Teleportal is located at Velika Outskirts Harrowhold does not support IMS Harrowhold proceeds through 4 phases, rewarding loot per phase (same conditions apply to looting)    Reward change comment Despite our intention for unskilled new and returning players to be self-sufficient through solo contents, it seems as though players were forced to harvest enchanting materials from multiple characters for one character.</description>
+      <description>Update 1. Dungeon  Sky Cruiser Endeavor  Decreased the HP of mobs for 1st boss Significantly decreased the HP of 2nd and 3rd boss   Nightmare Lilith&amp;rsquo;s Keep  Significantly decreased the HP of 1st, 2nd, and 3rd boss   Harrowhold  Reoponed 20-Person raid Harrowhold Teleportal is located at Velika Outskirts Harrowhold does not support IMS Harrowhold proceeds through 4 phases, rewarding loot per phase (same conditions apply to looting)    Reward change comment Despite our intention for unskilled new and returning players to be self-sufficient through solo contents, it seems as though players were forced to harvest enchanting materials from multiple characters for one character.</description>
     </item>
     
     <item>
@@ -1939,7 +1949,7 @@
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v60-01/</guid>
-      <description>Update 1. Dungeon  Reopen Kalivan&amp;rsquo;s Dreadnaught (hard)  5-man instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.   Reopen Forsaken Island  5-man instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.</description>
+      <description>Update 1. Dungeon  Reopen Kalivan&amp;rsquo;s Dreadnaught (hard)  5-Person instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.   Reopen Forsaken Island  5-Person instance, requiring ilvl 423 for IMS Entrance teleport is located at Cutthroat Harbour, Via NPC Reward : Bane accessory, Deathwreck material, Dyad Niveot Structure, Tier 11 Feedstock, Alkahest, Goddess&amp;rsquo;s Tear, Superior Etching Box, etc.</description>
     </item>
     
     <item>
@@ -1975,7 +1985,7 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v59-01/</guid>
-      <description>Update 1. Dungeon  Added new dungeon &amp;lsquo;Demon&amp;rsquo;s Wheel&amp;rsquo;  Level 65, 5-man party dungeon, requiring ilvl 423 to use IMS Teleportal is located near Allemantheia Tier 2 Godly accessories, Visionmaker material (VM9), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork / Extensive Alkahest, Goddess&amp;rsquo; Tear, Goldfinger Token, Gold Ticket, etc can be obtained.   Removed Manglemire  2. Skill  Reaper  Soul Reversal  Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to     Mystic  Volley of Curses (Glyph of Enfeeblement)  Changed endurance debuff from 9% to 10%   Aura of the Merciless  Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
+      <description>Update 1. Dungeon  Added new dungeon &amp;lsquo;Demon&amp;rsquo;s Wheel&amp;rsquo;  Level 65, 5-Person party dungeon, requiring ilvl 423 to use IMS Teleportal is located near Allemantheia Tier 2 Godly accessories, Visionmaker material (VM9), Dyad Niveot Structure, Tier 11 Feedstock, Masterwork / Extensive Alkahest, Goddess&amp;rsquo; Tear, Goldfinger Token, Gold Ticket, etc can be obtained.   Removed Manglemire  2. Skill  Reaper  Soul Reversal  Changed to change location in area behind boss in case there is no optimal distance behind boss to teleport to     Mystic  Volley of Curses (Glyph of Enfeeblement)  Changed endurance debuff from 9% to 10%   Aura of the Merciless  Changed power buff from 40 to 48 and attack speed buff from 6 to 9.</description>
     </item>
     
     <item>
@@ -2092,7 +2102,7 @@
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2017/v55-02/</guid>
-      <description>Update 1. Dungeon  New dungeon: Velik&amp;rsquo;s Sanctuary  Added new dungeon Velik&amp;rsquo;s Sanctuary Playable as a 5-man party Instance matching available at ilvl 423 Tier 2 Godly accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess&amp;rsquo; Tear, etc. can be obtained Entrance or portal can be confirmed through Vanguard Initiative quest details   New dungeon: Velik&amp;rsquo;s Hold (hard)  Added new dungeon Velik&amp;rsquo;s Hold (hard) Playable as a 7-man raid Instance matching available at ilvl 423 Tier 2 Godly accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess&amp;rsquo; Tear, etc.</description>
+      <description>Update 1. Dungeon  New dungeon: Velik&amp;rsquo;s Sanctuary  Added new dungeon Velik&amp;rsquo;s Sanctuary Playable as a 5-Person party Instance matching available at ilvl 423 Tier 2 Godly accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess&amp;rsquo; Tear, etc. can be obtained Entrance or portal can be confirmed through Vanguard Initiative quest details   New dungeon: Velik&amp;rsquo;s Hold (hard)  Added new dungeon Velik&amp;rsquo;s Hold (hard) Playable as a 7-Person raid Instance matching available at ilvl 423 Tier 2 Godly accessories, VM9 material, Niveot Dyad Structure, Tier 11 Feedstock, Masterwork/Personal Masterwork Alkahest, Goddess&amp;rsquo; Tear, etc.</description>
     </item>
     
     <item>

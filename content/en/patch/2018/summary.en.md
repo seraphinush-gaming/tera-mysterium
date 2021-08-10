@@ -10,8 +10,7 @@ weight = 1
 ## January
 
 - v68.01
-  - **New dungeon : Red Refuge**
-  - **New dungeon : Red Refuge (hard)**
+  - **New dungeon : Red Refuge, Red Refuge (hard)**
   - **New equipment : Mask**
   - **New accessory : Onset Mask, Infinity Mask**
   - Class balance (Berserker, Priest, Lancer)
@@ -20,8 +19,7 @@ weight = 1
 - v68.01.01
 
 - v69.01
-  - **New dungeon : Antaroth's Abyss**
-  - **New dungeon : Antaroth's Abyss (hard)**
+  - **New dungeon : Antaroth's Abyss, Antaroth's Abyss (hard)**
   - **New feature : Leaderboard**
   - **New gear : Heroic Oath**
   - **New battleground : Gridiron**
@@ -112,15 +110,9 @@ weight = 1
 - v74.02.01
 
 - v75.01
-  - **Class awakening : Sorcerer**
-  - **Class awakening : Archer**
-  - **Class awakening : Gunner**
-  - **Class awakening : Valkyrie**
-  - **Class awakening : Reaper**
-  - **Class awakening : Ninja**
+  - **Class awakening : Sorcerer, Archer, Gunner, Valkyrie, Reaper, Ninja**
   - Class balance (Berserker, Slayer)
-  - **New dungeon : Dark Reach Citadel**
-  - **New dungeon : Dark Reach Citadel (hard)**
+  - **New dungeon : Dark Reach Citadel, Dark Reach Citadel (hard)**
   - Dungeon : Reopened Channelworks, Velik's Hold
   - Dungeon : Removed Shadow Sanguinary, Shadow Sanguinary (hard)
   - **New item : Accessory Morpher**
@@ -133,8 +125,7 @@ weight = 1
   - Class balance (Gunner)
 
 - v75.02
-  - **New dungeon : Grotto of Lost Souls**
-  - **New dungeon : Grotto of Lost Souls (hard)**
+  - **New dungeon : Grotto of Lost Souls, Grotto of Lost Souls (hard)**
   - New feature : Compliment system 
   - **New accessory : Transcendent Mask**
 
@@ -182,8 +173,7 @@ weight = 1
 
 - v78.01.01
   - Dungeon : Temporarily closed Dreadspire, Harrowhold
-  - **New accessory : Dracoloth Brooch**
-  - **New accessory : Powerful Goddess's Brooch**
+  - **New accessory : Powerful Goddess's Brooch, Dracoloth Brooch**
 
 - v78.02
   - **New item : Bahaar's Amplifier**
@@ -227,9 +217,7 @@ weight = 1
   - **New feature : Increased level cap from 65 to 70**
   - **New feature : Skill Advancement system**
   - **New feature : Adventure Coin system**
-  - **New dungeon : Dark Reach Citadel (hard) (7-Person)**
-  - **New dungeon : Antaroth's Abyss (hard) (7-Person)**
-  - **New dungeon :  Grotto of Lost Souls (hard) (7-Person)**
+  - **New dungeon : Dark Reach Citadel (hard) (7-Person), Antaroth's Abyss (hard) (7-Person), Grotto of Lost Souls (hard) (7-Person)**
   - Dungeon : Removed Sabex Armory, Macellarius Catacombs
   - **New dungeon : Lilith's Trial**
   - **New open world : Field Boss Monster (Ortan, Hazard, Cerrus)**

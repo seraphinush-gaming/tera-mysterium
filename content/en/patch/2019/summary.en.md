@@ -1,6 +1,6 @@
 +++
 date = "2019-01-01"
-lastmod = "2021-08-02"
+lastmod = "2021-08-08"
 title = "2019 patch summary"
 categories = ["patch notes"]
 tags = ["2019", "summary"]
@@ -114,7 +114,7 @@ weight = 1
   - Class balance (Priest, Mystic)
   - **New fishery : Exodor**
   - **New item : Steamed Kirash**
-  - **New field boss monster : Maknakh, [TL : Murderwing Monarch]**
+  - **New Field Boss Monster : Maknakh, [TL : Murderwing Monarch]**
   - **New item : Annihilation Belt, Dark Light Belt**
   - **New gear : Master's Duranium, Flawless Duranium gear**
   - **New gear : Dauntless Azart, Manaforce Azart gear**
@@ -128,7 +128,7 @@ weight = 1
 - v86.02
 
 - v86.03
-  - **New field boss monster : LB-1**
+  - **New Field Boss Monster : LB-1**
   - **New item : Annihilation Mask, Dark Light Mask**
   - Class balance (Valkyrie, Slayer)
 
@@ -195,8 +195,7 @@ weight = 1
   - Class balance (Priest)
   - Dungeon : Removed Forsaken Island, Forsaken island (hard)
   - **New dungeon : Forbidden Arena**
-  - **New dungeon : Corrupted Skynest**
-  - **New dungeon : Corrupted Skynest (hard)**
+  - **New dungeon : Corrupted Skynest, Corrupted Skynest (hard)**
   - **New gear : Kaia's gear**
   - **New gear : Eternal Annihilation / Dark Light gear**
   - Guild : Removed Guild Quest to defeat Field Boss Monsters

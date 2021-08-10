@@ -6,10 +6,20 @@
     <description>Recent content in v109 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/v109/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 08월 04일 업데이트 안내 (v109.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v109-01-01/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v109-01-01/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+버그 수정  마흐트난 신발 유니크 옵션 &amp;lsquo;또렷한 정신&amp;rsquo; 효과가 적용되지 않는 문제 비검사의 어둠강림 스킬의 문장과 연마 개방의 효과가 적용되지 않는 문제 던전 보스 몬스터의 시스템 데칼 범위와 실제 피격 범위가 상이한 문제 바라카니아 구릉지 특정 지역의 그래픽이 깨지는 문제 작열하는 엘카라스 호 발키온 지령서가 적정 장비레벨 미만에서 동작하는 문제 업적에서 진행 불가능한 업적이 있는 문제 발데라 특별지구에서 시험의 던전 입장 후 나갈 때 이르카로 이동되는 문제 아룬의샘 중요 퀘스트 중 슈리안 안내자 관련 퀘스트를 여러 명이 동시에 진행할 수 없는 문제 정령사 클래스에서 간헐적으로 스킬, 채팅 등 사용이 불가능한 문제  </description>
+    </item>
     
     <item>
       <title>2021년 07월 28일 업데이트 안내 (v109.01)</title>
