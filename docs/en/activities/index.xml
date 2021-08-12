@@ -24,7 +24,7 @@ City Merchant City Merchants are merchants located specific in the 4 major citie
     <item>
       <title>Fishing</title>
       <link>https://tera-mysterium.com/en/activities/fishing/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/activities/fishing/</guid>
       <description>Fishing is a casual open world activity. In order to catch fish, Bait and Fishing Rod are necessary. Both can be purchased with Gold from a [Fishing Supplies] merchant, and higher grade Fishing Rods and Baits can be exchanged with Angler Tokens from an [Angler Token Vendor].
@@ -34,11 +34,23 @@ Fish caught can be delivered to select NPCs for Gold or goods, or can be dismant
     
     <item>
       <title>Leaderboard</title>
-      <link>https://tera-mysterium.com/en/activities/medal-of-conflict/</link>
+      <link>https://tera-mysterium.com/en/activities/leaderboard/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/activities/medal-of-conflict/</guid>
-      <description>Reward Dungeon    Rank Reward     1 15 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Onset Mask Exchange Ticket, 1 Rank 2 / 3 exclusive title, appropriately   4-10 10 Medal of Conflict   11-20 5 Medal of Conflict   21-50 3 Medal of Conflict    Dungeon : Pit of Petrax    Rank Reward     1 10 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Rank 2 / 3 exclusive title, appropriately   4-10 5 Medal of Conflict   11-20 2 Medal of Conflict   21-50 1 Medal of Conflict    Battleground    Rank Reward     1 10 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Rank 2 / 3 exclusive title, appropriately   4-10 3 Medal of Conflict   11-20 1 Medal of Conflict    </description>
+      <guid>https://tera-mysterium.com/en/activities/leaderboard/</guid>
+      <description>Reward Changelog : Updated v104.01 Dungeon Main instances :
+   Rank Reward     1 15 Medal of Conflict, 1 Infinity Mask Exchange Ticket, 1 Rank 1 exclusive title   2-3 10 Medal of Conflict, 1 Onset Mask Exchange Ticket, 1 Rank 2 / 3 exclusive title, appropriately   4-10 10 Medal of Conflict   11-20 5 Medal of Conflict   21-50 3 Medal of Conflict    Instances : - v71 : Antaroth&#39;s Abyss (hard), Dreadspire - v108 : Fusion Laboratory (hard), Bahaar&#39;s Sanctum, Sky Cruiser Endeavor Pit of Petrax :</description>
+    </item>
+    
+    <item>
+      <title>Rally Quest</title>
+      <link>https://tera-mysterium.com/en/activities/rally-quest/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/activities/rally-quest/</guid>
+      <description>Rally Quest is a once-per-daily Guild Quest associated with Rally boss monsters that spawn throughout Arborea. Players can group up together in a Party or a Raid to defeat Rally monsters to receive rewards based on group-based contribution.
+A global message is announced for the Rally monster that is about to spawn, along with the announcement the Guild Quest becomes available for eligible Guild Members to accept.
+All Guilds can accept [Rally] Guild Quest as long as weekly Valderon Token limit has not been reached.</description>
     </item>
     
   </channel>

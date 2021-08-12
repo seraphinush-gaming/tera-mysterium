@@ -6,7 +6,7 @@
     <description>Recent content in Categories on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,9 @@
     <item>
       <title>patch notes</title>
       <link>https://tera-mysterium.com/ko/categories/patch-notes/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/categories/patch-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>activities</title>
-      <link>https://tera-mysterium.com/ko/categories/activities/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/ko/categories/activities/</guid>
       <description></description>
     </item>
     
@@ -35,6 +26,15 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/categories/character/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>activities</title>
+      <link>https://tera-mysterium.com/ko/categories/activities/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/categories/activities/</guid>
       <description></description>
     </item>
     

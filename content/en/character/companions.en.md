@@ -7,8 +7,8 @@ tags = ["companion", "partner", "pet"]
 sources = [
   "['Introduction to Companions', En Masse Support](https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions)",
   "TERA NA v81 Data Center",
-  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/en/2021/v103-01/)",
-  "[2021.03.10 patch notes (v104.01.02) | TERA KR](/en/patch/en/2021/v104-01-02/)"
+  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/2021/v103-01/)",
+  "[2021.03.10 patch notes (v104.01.02) | TERA KR](/en/patch/2021/v104-01-02/)"
   ]
 +++
 

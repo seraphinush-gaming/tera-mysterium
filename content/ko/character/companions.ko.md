@@ -7,8 +7,8 @@ tags = ["companion", "partner", "pet"]
 sources = [
   "['Introduction to Companions', En Masse Support](https://support.enmasse.com/hc/en-us/articles/360023616753-TERA-PC-Introduction-to-Companions)",
   "TERA NA v81 Data Center",
-  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/en/2021/v103-01/)",
-  "[2021.03.10 patch notes (v104.01.02) | TERA KR](/en/patch/en/2021/v104-01-02/)"
+  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/2021/v103-01/)",
+  "[2021.03.10 patch notes (v104.01.02) | TERA KR](/en/patch/2021/v104-01-02/)"
 ]
 +++
 
@@ -17,6 +17,8 @@ sources = [
 
 [icon_01]: /images/character/companions_partner_icon_01.png
 [icon_02]: /images/character/companions_partner_icon_02.png
+
+[icon_giftedSkill]: /images/character/companions_icon_giftedSkill.png
 
 ![icon_01]
 
@@ -45,7 +47,7 @@ sources = [
 ## 교감도
 교감도로 파트너의 **교감 스킬**의 성능을 판단할 수 있습니다. 파트너 승급을 통해 교감도를 올릴 수 있고, 최대 교감도는 50이며, 승급 시 추가되는 교감도는 재물로 삼은 파트너의 등급에 따라 달라집니다.
 
-(수정 v103.01)파트너 등급의 따라 추가되는 교감도는 다음과 같습니다 :
+(수정 v103.01) 파트너 등급의 따라 추가되는 교감도는 다음과 같습니다 :
 
 | 파트너 등급 | 교감도 수치 |
 | :-: | :-: |
@@ -82,23 +84,23 @@ Please refer to Bracing Force table for the obtained Power and its duration for 
 
 ## 재능 스킬
 
-
+![icon_giftedSkill]
 
 재능 스킬과 설명은 다음과 같습니다 :
 
 | 재능 스킬 | 설명 |
 | :-: | :-: |
-Urgent Recovery I~III | May recover [20,000, 25,000, 30,000] HP per second for [3, 4, 5] seconds |
-Emergency Service I~III | May replenish [500, 750, 1000] MP per second for [3, 4, 5] seconds |
-Barrier I~III | May absorb [50,000, 80,000, 125,000] damage for [9, 12, 15] seconds |
-Fellowship I~III | May increase duration of a Bond Skill by [20%, 40%, 60%] for 10 minutes when entering combat |
-Rapid Growth I~III | May increase hunting XP rewards by [5%, 10%, 15%] for 30 minutes after using your companion's bond skill |
-Rapid Advancement I~III | May increase skill advancement XP rewards by [5%, 10%, 15%] for 30 minutes after using your companion's bond skill |
-Dual Boost I~III | May increase hunting and skill advancement XP rewards by [2.5%, 5%, 7.5%] for 30 minutes after using your companion's bond skill |
-Critical Crafting I~III | May increase critical success chance while crafting by [10%, 15%, 20%] for 5 minutes |
-Backup Fisherman I~III | May increase chance to catch a BAF by [30%, 40%, 50%] for 5 minutes |
-Gathering Support I~III | May decrease gathering time by [10%, 15%, 20%] for 5 minutes |
-Adventure Enhancement I~III | Increases chance for your partner's adventure to be a bug run by [30%, 50%, 100%] |
+| Urgent Recovery I~III | May recover [20,000, 25,000, 30,000] HP per second for [3, 4, 5] seconds |
+| Emergency Service I~III | May replenish [500, 750, 1000] MP per second for [3, 4, 5] seconds |
+| Barrier I~III | May absorb [50,000, 80,000, 125,000] damage for [9, 12, 15] seconds |
+| Fellowship I~III | May increase duration of a Bond Skill by [20%, 40%, 60%] for 10 minutes when entering combat |
+| Rapid Growth I~III | May increase hunting XP rewards by [5%, 10%, 15%] for 30 minutes after using your companion's bond skill |
+| Rapid Advancement I~III | May increase skill advancement XP rewards by [5%, 10%, 15%] for 30 minutes after using your companion's bond skill |
+| Dual Boost I~III | May increase hunting and skill advancement XP rewards by [2.5%, 5%, 7.5%] for 30 minutes after using your companion's bond skill |
+| Critical Crafting I~III | May increase critical success chance while crafting by [10%, 15%, 20%] for 5 minutes |
+| Backup Fisherman I~III | May increase chance to catch a BAF by [30%, 40%, 50%] for 5 minutes |
+| Gathering Support I~III | May decrease gathering time by [10%, 15%, 20%] for 5 minutes |
+| Adventure Enhancement I~III | Increases chance for your partner's adventure to be a bug run by [30%, 50%, 100%] |
 
 파트너 별 획득 가능 재능 스킬은 다음과 같습니다 :
 

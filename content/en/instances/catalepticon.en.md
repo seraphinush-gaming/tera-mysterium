@@ -15,7 +15,13 @@ sources = []
 ## Normal mode
 wip
 
+### Achievements
+wip
+
 ## Hard mode
+wip
+
+### Achievements
 wip
 
 ## Gallery

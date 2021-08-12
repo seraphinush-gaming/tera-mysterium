@@ -6,10 +6,19 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 08월 11일 업데이트 안내 (v109.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v109-02/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v109-02/</guid>
+      <description>* 2021/08/09 16:58 - 던전 공명 업데이트 일정이 조정되었습니다. 업데이트 1. 던전 공명  던전 공명 업데이트가 시스템의 안정성 확보를 위해 8월 25일로 연기되었습니다. 더욱 원활한 플레이 환경과 완성된 모습으로 선보일 수 있도록 노력하겠습니다. 던전 공명 현상이 발데론에서 발생하였습니다.  발데라 특별지구의 발데른 마을에서 공명 게이트를 통해서만 공명화 된 던전에 입장이 가능합니다.       Lv70에 수주할 수 있는 &amp;lsquo;[중요] 던전 공명 현상 탐구&amp;rsquo; 퀘스트 수행을 통해 던전 공명 컨텐츠를 이용하실 수 있습니다.</description>
+    </item>
     
     <item>
       <title>2021년 08월 04일 업데이트 안내 (v109.01.01)</title>
@@ -36,7 +45,7 @@
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/ko/patch/2021/v108-02-01/</guid>
-      <description>업데이트 1. 던전  일부 던전에서 강화 재료 드랍량이 증가합니다.  저주받은 테네브리스 성채  단련의 조각 1개 -&amp;gt; 단련의 조각 2개 드랍   벨리카 지하 관문  힘의 조각 1개 -&amp;gt; 힘의 조각 2개 드랍      2. 업적  일부 업적이 잊혀진 업적으로 분류가 변경됩니다.  잊혀진 업적으로 이동       관련 컨텐츠 업적명 업적 분류     잠식된 테네브리스 망증한이란&amp;hellip; 이런걸까&amp;hellip; 잊혀진 업적   분열하는 코어 융합소 더 짜릿한 빨간맛 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 더 짜릿한 파란맛 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 다른 맛은 없어?</description>
+      <description>업데이트 1. 던전  일부 던전에서 강화 재료 드랍량이 증가합니다.  저주받은 테네브리스 성채  단련의 조각 1개 -&amp;gt; 단련의 조각 2개 드랍   벨리카 지하 관문  힘의 조각 1개 -&amp;gt; 힘의 조각 2개 드랍      2. 업적  일부 업적이 잊혀진 업적으로 분류가 변경됩니다.  잊혀진 업적으로 이동       관련 컨텐츠 업적명 업적 분류     잠식된 테네브리스 망중한이란&amp;hellip; 이런걸까&amp;hellip; 잊혀진 업적   분열하는 코어 융합소 더 짜릿한 빨간맛 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 더 짜릿한 파란맛 &amp;rsquo;&amp;rsquo;   &amp;rsquo;&amp;rsquo; 다른 맛은 없어?</description>
     </item>
     
     <item>
@@ -604,17 +613,6 @@
       
       <guid>https://tera-mysterium.com/ko/patch/2020/v91-02/</guid>
       <description>1. 순위표  12시즌이 종료되며, 불멸의 켈사이크 은폐지 던전이 순위표에 추가됩니다.  2. 던전  불멸의 켈사이크 은폐지  불멸의 켈사이크 HP 15% 붕괴 패턴 시, 아르곤 기생충 이상상태가 해제되도록 변경됩니다. 일부 화면을 가리는 효과가 완화됩니다.    버그 수정    채팅창 UI 위치가 초기화되는 문제는 1/16(목) 수정될 예정이며, 채팅창 UI 설정이 초기화되는 문제는 현재 확인 중에 있습니다. 가능한 빠르게 수정될 수 있도록 최선을 다하겠습니다. 이용에 불편을 끼쳐드려 죄송합니다.</description>
-    </item>
-    
-    <item>
-      <title>Fishing</title>
-      <link>https://tera-mysterium.com/ko/activities/fishing/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/ko/activities/fishing/</guid>
-      <description>낚시는 여유롭게 즐길 수 있는 오픈 월드 컨텐츠입니다. 물고기를 낚기 위해 미끼 아이템이랑 낚싯대가 필요합니다. 미끼 아이템이랑 낚싯대 모두 [낚시 잡화 상인]에게 골드로 구매할 수 있으며, 높은 등급의 낚싯대나 미끼 아이템의 경우 [낚시 증표 상인]에게 낚시꾼의 증표로 구매할 수 있습니다.
-[낚시 잡화 상인], [낚시 증표 상인]은 낚시터및 대도시에 위치하고 있습니다.
-낚은 물고기를 특정 NPC에게 납품하여 골드나 아이템을 획득 수 있으며, 분해 시 요리 제작에 사용할 수 있는 생선 살 (아르보레아 물고기)이나 키라쉬 살코기 (엑소도르 물고기)를 획득 수 있습니다.</description>
     </item>
     
     <item>
@@ -1201,6 +1199,17 @@
       
       <guid>https://tera-mysterium.com/ko/patch/2018/v77-01/</guid>
       <description>업데이트 1. 낚시  낚시 가이드 퀘스트 &amp;lsquo;낚시! 좋아하세요?&amp;rsquo; 가 추가됩니다.  65레벨 달성 후 이르카의 제레미 웨잉 NPC를 통해 퀘스트를 진행할 수 있습니다. 발키온 지령서 “낚시는 즐거워!” 가 추가되며, 지령서 완료 보상은 아래와 같습니다.  500골드 발키온 평판 포인트 50 특성 경험치 500 낚시꾼의 증표 20개 최하급 지렁이 5개 채집 재료 상자 1개         채집 재료 상자에서 획득할 수 있는 재료     질긴 잡초   옥수수   당근   주황 버섯   늙은 호박   사과   석재   코발트 원석   셀레시움 원석   테라리움 원석   미스릴 원석   갈보른 원석   정기 에너지   적색 정기 결정   녹색 정기 결정   청색 정기 결정   백색 정기 결정   흑색 정기 결정       낚시터 물가에서 낚싯대와 미끼를 이용하여 낚시를 진행할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>낚시</title>
+      <link>https://tera-mysterium.com/ko/activities/fishing/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/activities/fishing/</guid>
+      <description>낚시는 여유롭게 즐길 수 있는 오픈 월드 컨텐츠입니다. 물고기를 낚기 위해 미끼 아이템이랑 낚싯대가 필요합니다. 미끼 아이템이랑 낚싯대 모두 [낚시 잡화 상인]에게 골드로 구매할 수 있으며, 높은 등급의 낚싯대나 미끼 아이템의 경우 [낚시 증표 상인]에게 낚시꾼의 증표로 구매할 수 있습니다.
+[낚시 잡화 상인], [낚시 증표 상인]은 낚시터및 대도시에 위치하고 있습니다.
+낚은 물고기를 특정 NPC에게 납품하여 골드나 아이템을 획득 수 있으며, 분해 시 요리 제작에 사용할 수 있는 생선 살 (아르보레아 물고기)이나 키라쉬 살코기 (엑소도르 물고기)를 획득 수 있습니다.</description>
     </item>
     
     <item>

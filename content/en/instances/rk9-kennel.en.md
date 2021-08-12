@@ -17,10 +17,19 @@ sources = []
 ## Normal mode
 wip
 
+### Achievements
+wip
+
 ## Hard mode
 wip
 
+### Achievements
+wip
+
 ## Rampaging RK-9 Kennel
+wip
+
+### Achievements
 wip
 
 ## Gallery

@@ -7,11 +7,13 @@ tags = ["v108", "mahtnan"]
 sources = [
   "[[개발자노트] 신규 장비: 마흐트난 | TERA KR](https://playtera.co.kr/news/devnotes/411)",
   "[2021.06.30 patch notes (v108.01) | TERA KR](/en/patch/2021/v108-01)",
-  "[2021.07.28 patch notes (v108.03) | TERA KR](/en/patch/2021/v109-01)"
+  "[2021.07.28 patch notes (v108.03) | TERA KR](/en/patch/2021/v109-01)",
+  "TERA NA v108 Data Center"
 ]
 +++
 
 [icon]: /images/equipment/108_icon.png
+[icon_magicTransference]: /images/equipment/108_magicTransference.png
 
 ![icon]
 
@@ -121,8 +123,10 @@ Recommendation :
 - HEAL : Mage Song
 ```
 
-### Support Random Option (wip)
+### Support Random Option
 Support Random Options are similar to existing Random Options, except as Support Option cannot be changed, Support Random Options cannot be changed as well. Values are relatively higher than regular Random Options.
+
+#### Weapon / Hand Armor
 
 | Option | Tier I | Tier II | Tier III | Tier IV | Tier V |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -135,6 +139,11 @@ Support Random Options are similar to existing Random Options, except as Support
 | Physical Crit Power | 0.03 | 0.034 | 0.042 | 0.051 | **0.06** |
 | Magical Crit Power | 0.03 | 0.034 | 0.042 | 0.051 | **0.06** |
 | Crit Factor | 7 | 9 | 11 | 13 | **15** |
+
+#### Armor / Foot Armor
+
+| Option | Tier I | Tier II | Tier III | Tier IV | Tier V |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Physical Resistance | 1538 | 1757 | 2197 | 2636 | **2636** |
 | Magical Resistance | 1538 | 1757 | 2197 | 2636 | **2636** |
 | Increase Max HP | 7380 | 8433 | 10543 | 12650 | **14760** |
@@ -164,9 +173,13 @@ Random Options are inherited from Kaia's Soul gear and operates similarly.
 | Increase Max HP | 1640 | 1874 | 2342 | 2811 | **3280** |
 | Increase Max MP | 164 | 187 | 234 | 281 | **328** |
 
-## Enchanting (wip)
+## Enchanting
+wip
 
 ## Transfer system
+
+![icon_magicTransference]
+
 Once you reach a certain enchantment level on a piece of gear, you can transfer the enchantment level, Random Options, and etching to another gear of the same part. this requires a **Mahtnan Jewel of Magic Transference**.
 
 ## Crafting

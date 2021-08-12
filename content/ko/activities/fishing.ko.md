@@ -1,12 +1,13 @@
 +++
-date = "2020-01-01"
-lastmod = "2021-06-14"
-title = "Fishing"
+date = "2018-09-13"
+lastmod = "2021-08-12"
+title = "낚시"
 categories = ["activities"]
 tags = ["fishing"]
 sources = [
   "[낚시, TERA 테라 | BHS](https://playtera.co.kr/guide/beginner/243)",
-  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/en/2021/v103-01/)",
+  "[2018.09.13 patch notes (v77.01) | TERA KR](/en/patch/2018/v77-01/)",
+  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/2021/v103-01/)",
   "TERA NA v106 Data Center",
 ]
 +++
@@ -33,6 +34,8 @@ sources = [
 [낚시 잡화 상인], [낚시 증표 상인]은 낚시터및 대도시에 위치하고 있습니다.
 
 낚은 물고기를 특정 NPC에게 납품하여 골드나 아이템을 획득 수 있으며, 분해 시 요리 제작에 사용할 수 있는 생선 살 (아르보레아 물고기)이나 키라쉬 살코기 (엑소도르 물고기)를 획득 수 있습니다.
+
+낚은 물고기를 거래 할 수 없습니다.
 
 **낚시는 PVE나 PVP에 아무런 영향을 미치지 않습니다.**
 
@@ -152,7 +155,22 @@ Players are limited to 60 크램 떡밥 to hold in Inventory.
 
 낚시꾼의 수염 장식은  can be crafted through the Processing profession.
 
-## Delivery
+### 낚시꾼의 수염 장식 : 승급
+
+| 단계 | 수염 장식 재료 | 희미하게 진동하는 정수 | 골드 | 승급 확률 |
+| II | I | 2 | 1,000 | 10% |
+| III | II | 4 | 2,000 | 95% |
+| IV | III | 6 | 3,000 | 90% |
+| V | IV | 8 | 4,000 | 85% |
+| VI | V | 10 | 5,000 | 80% |
+| VII | VI | 14 | 7,000 | 75% |
+| VIII | VII | 20 | 10,000 | 70% |
+| IX | VIII | 30 | 15,000 | 65% |
+| X | IX | 40 | 20,000 | 60% |
+| 합계 | - | 134 | 67,000 | - |
+
+## 납품
+
 물고기 and select related items can be delivered to NPCs for Gold or goods. A limited number of select 물고기 and select related items can be delivered, and limit resets daily.
 
 ### 납품 : 물고기 납품
@@ -169,7 +187,7 @@ Players are limited to 60 크램 떡밥 to hold in Inventory.
 
 Designs for 생선 납품 상자 can be exchanged from an [낚시 증표 상인] for 낚시꾼의 증표. Designs for Exodor 생선 납품 상자 specifically can be purchased from NPC on 엑소도르 낚시터.
 
-### 낚시꾼의 증표
+## 낚시꾼의 증표
 
 ![icon_anglerToken]
 

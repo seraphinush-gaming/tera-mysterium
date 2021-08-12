@@ -6,10 +6,23 @@
     <description>Recent content in Instance guides on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/instances/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fusion Laboratory</title>
+      <link>https://tera-mysterium.com/en/instances/fusion-laboratory/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/instances/fusion-laboratory/</guid>
+      <description>Normal mode wip
+Achievements wip
+Hard mode wip
+Achievements wip
+Gallery </description>
+    </item>
     
     <item>
       <title>Catalepticon</title>
@@ -18,7 +31,9 @@
       
       <guid>https://tera-mysterium.com/en/instances/catalepticon/</guid>
       <description>Normal mode wip
+Achievements wip
 Hard mode wip
+Achievements wip
 Gallery </description>
     </item>
     
@@ -29,7 +44,9 @@ Gallery </description>
       
       <guid>https://tera-mysterium.com/en/instances/corrupted-skynest/</guid>
       <description>Normal mode wip
+Achievements wip
 Hard mode wip
+Achievements wip
 Gallery </description>
     </item>
     
@@ -40,7 +57,9 @@ Gallery </description>
       
       <guid>https://tera-mysterium.com/en/instances/killing-grounds/</guid>
       <description>Normal mode wip
+Achievements wip
 Hard mode wip
+Achievements wip
 Gallery </description>
     </item>
     
@@ -51,8 +70,11 @@ Gallery </description>
       
       <guid>https://tera-mysterium.com/en/instances/rk9-kennel/</guid>
       <description>Normal mode wip
+Achievements wip
 Hard mode wip
+Achievements wip
 Rampaging RK-9 Kennel wip
+Achievements wip
 Gallery </description>
     </item>
     

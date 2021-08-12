@@ -1,12 +1,13 @@
 +++
-date = "2020-01-01"
-lastmod = "2021-06-14"
+date = "2018-09-13"
+lastmod = "2021-08-12"
 title = "Fishing"
 categories = ["activities"]
 tags = ["fishing"]
 sources = [
   "[낚시, TERA 테라 | BHS](https://playtera.co.kr/guide/beginner/243)",
-  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/en/2021/v103-01/)",
+  "[2018.09.13 patch notes (v77.01) | TERA KR](/en/patch/2018/v77-01/)",
+  "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/2021/v103-01/)",
   "TERA NA v106 Data Center",
 ]
 +++
@@ -33,6 +34,8 @@ Fishing is a casual open world activity. In order to catch fish, **Bait** and **
 [Fishing Supplies] merchant and [Angler Token Vendor] are located at fisheries and major cities.
 
 Fish caught can be delivered to select NPCs for Gold or goods, or can be dismantled to obtain Fish Filet (Arborean Fish) or Kirash Filet (Exodor Fish) which can be used as Cooking materials.
+
+Fish caught cannot be traded.
 
 **Fishing does not impact PvE or PvP.**
 
@@ -120,9 +123,9 @@ Upgrading Xermetal, Ash Sapling, and Fairywing Rod requires many Angler Tokens :
 
 ![icon_bait]
 
-Bait I can be purchased from a [Fishing Supplies] merchant with Gold.
+Bait I can be purchased from a [Fishing Supplies] merchant with **Gold**.
 
-Bait II-V can only be crafted through the Processing profession.
+Bait II-V can only be **crafted** through the Processing profession.
 
 Bait I~V and Angleworm I-V cannot be used at Exodor fisheries
 
@@ -152,7 +155,22 @@ Angler's Whiskers is an Armor: Mask slot item to help decrease waiting time on f
 
 Angler's Whiskers can be crafted through the Processing profession.
 
+### Angler's Whiskers : Upgrading
+
+| Tier | Whisker material | Pulsating Essence | Gold | Success chance |
+| II | Tier I | 2 | 1,000 | 10% |
+| III | Tier II | 4 | 2,000 | 95% |
+| IV | Tier III | 6 | 3,000 | 90% |
+| V | Tier IV | 8 | 4,000 | 85% |
+| VI | Tier V | 10 | 5,000 | 80% |
+| VII | Tier VI | 14 | 7,000 | 75% |
+| VIII | Tier VII | 20 | 10,000 | 70% |
+| IX | Tier VIII | 30 | 15,000 | 65% |
+| X | Tier IX | 40 | 20,000 | 60% |
+| Total | - | 134 | 67,000 | - |
+
 ## Delivery
+
 Fish and select related items can be delivered to NPCs for Gold or goods. A limited number of select Fish and select related items can be delivered, and limit resets daily.
 
 ### Delivery : Fish
@@ -169,7 +187,7 @@ Fish Crates are crafted items that can be delivered to a Federation Resource Man
 
 Designs for Fish Crates can be exchanged from an Angler Token Vendor for Angler Tokens. Designs for Exodor Fish Crates specifically can be purchased from NPC on Exodor fisheries.
 
-### Angler Token
+## Angler Token
 
 ![icon_anglerToken]
 

@@ -6,10 +6,20 @@
     <description>Recent content in southern arun on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/southern-arun/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discover the Ancient Demonic Scroll</title>
+      <link>https://tera-mysterium.com/en/achievements/dungeons/2215/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/achievements/dungeons/2215/</guid>
+      <description>Info    Key Value     Id 2215   Name Discover the Ancient Demonic Scroll   Point 20   Description Discover the Ancient Demonic Scroll by the Stormed Citadel portal.   Detail Discover the Ancient Demonic Scroll on the steps to the destroyed portal.    Conditions(s) Discover the Ancient Demonic Scroll.
+Tips  Spawns randomly after defeating Harnovog in Stormed Citadel  </description>
+    </item>
     
     <item>
       <title>Sisterly Love</title>
@@ -17,7 +27,7 @@
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/achievements/tours/155001/</guid>
-      <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Objective(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
+      <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Conditions(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
     </item>
