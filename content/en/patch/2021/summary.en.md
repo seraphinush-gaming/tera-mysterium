@@ -181,6 +181,10 @@ weight = 1
 
 - v109.01.01
 
+- v109.02
+  - **New content : Dungeon Resonance (pl.)**
+  - Battleground : Adjusted balance of vehicles in Corsairs' Stronghold
+
 ## September
 
 ## October

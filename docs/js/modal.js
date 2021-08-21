@@ -42,12 +42,13 @@ window.addEventListener('load', function () {
       document.body.style.top = '-' + window.scrollY + 'px';
       document.body.style.overflowY = 'hidden';
       // prevent pull-down-to-refresh
-      document.body.style.overscrollBehaviorY = 'contain';
+      document.body.style.overscrollBehaviorY = 'none';
     }
   }
 
   // desktop events
   let modalActive = false;
+  modalContainer.addEventListener('click', () => { closeModal(); });
   modalCloseButton.addEventListener('click', () => { closeModal(); });
   document.addEventListener("click", (e) => { openModal(e); });
 

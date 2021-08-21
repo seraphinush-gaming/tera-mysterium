@@ -52,7 +52,7 @@ Unique Options are divided into **tier I to tier V**, and effect values vary app
 ```
 Recommendation :
 
-- DPS : Rage Suppressor
+- DPS : Magic Storm, Rage Suppressor, Heavy Blow, Blood Oath 
 - TANK : Cruel Curse
 - HEAL : Hymn of Courage
 ```
