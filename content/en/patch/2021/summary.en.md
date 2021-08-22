@@ -185,6 +185,9 @@ weight = 1
   - **New content : Dungeon Resonance (pl.)**
   - Battleground : Adjusted balance of vehicles in Corsairs' Stronghold
 
+- v109.02.01
+  - Gear : Decreased Murky Mahtnan Powder cost of enchanting Mahtnan weapon
+
 ## September
 
 ## October

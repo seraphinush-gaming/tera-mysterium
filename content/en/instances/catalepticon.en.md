@@ -2,7 +2,7 @@
 date = "2020-06-13"
 lastmod = "2021-06-13"
 title = "Catalepticon"
-categories = ["instance"]
+categories = ["instances"]
 tags = ["catalepticon"]
 sources = []
 +++

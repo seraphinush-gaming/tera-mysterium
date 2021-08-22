@@ -6,35 +6,35 @@
     <description>Recent content in Categories on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>articles</title>
-      <link>https://tera-mysterium.com/en/categories/articles/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/categories/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>patch notes</title>
       <link>https://tera-mysterium.com/en/categories/patch-notes/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/categories/patch-notes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>instance</title>
-      <link>https://tera-mysterium.com/en/categories/instance/</link>
+      <title>suggestions</title>
+      <link>https://tera-mysterium.com/en/categories/suggestions/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/categories/suggestions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instances</title>
+      <link>https://tera-mysterium.com/en/categories/instances/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tera-mysterium.com/en/categories/instance/</guid>
+      <guid>https://tera-mysterium.com/en/categories/instances/</guid>
       <description></description>
     </item>
     

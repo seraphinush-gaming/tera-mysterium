@@ -6,10 +6,19 @@
     <description>Recent content in v109 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/v109/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 08월 18일 업데이트 안내 (v109.02.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v109-02-01/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v109-02-01/</guid>
+      <description>업데이트 1. 던전  저주받은 테네브리스 성채 보스 몬스터 처치 시 단련의 조각 드랍량 1.5배 증가합니다. 벨리카 지하 관문 보스 몬스터 처치 시 힘의 조각 드랍량이 1.5배 증가합니다.  2. 발키온 연합 지령서  일부 던전의 발키온 연합 지령서 완료 시 AWAKE 토큰 지급량이 변경됩니다.     대상 지령서 AWAKE 토큰 (기존) AWAKE 토큰 (변경)     바하르의 분노 해방 17 25   분열하는 코어 융합소 17 25   작열하는 에카라스 호 17 25   잠식된 테네브리스 성채 토벌 9 10   코어 융합소 토벌 9 10   왜곡된 리안의 지하 전당 토벌 9 10   루크미아의 환몽 토벌 9 4   사령관의 수련장 토벌 5 4   저주받은 테네브리스 성채 토벌 3 4   벨리카 지하 관문 토벌 3 4    3.</description>
+    </item>
     
     <item>
       <title>2021년 08월 04일 업데이트 안내 (v109.01.01)</title>

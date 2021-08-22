@@ -1,7 +1,7 @@
 +++
 date = "2020-01-01"
 title = "Dungeon crit resist values"
-categories = ["instance"]
+categories = ["instances"]
 tags = ["theorycrafting", "data"]
 sources = ["['We Hate Math' theorycrafting discord](https://discord.gg/zY7bbFp)"]
 +++

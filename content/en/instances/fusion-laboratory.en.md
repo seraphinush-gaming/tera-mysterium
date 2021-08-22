@@ -2,8 +2,8 @@
 date = "2021-06-30"
 lastmod = "2021-08-10"
 title = "Fusion Laboratory"
-categories = ["instance"]
-tags = ["fusion laboratory"]
+categories = ["instances"]
+tags = ["v108", "fusion laboratory"]
 sources = []
 +++
 

@@ -2,8 +2,8 @@
 date = "2020-06-13"
 lastmod = "2021-06-13"
 title = "RK-9 Kennel"
-categories = ["instance"]
-tags = ["rk-9 kennel"]
+categories = ["instances"]
+tags = ["v61", "rk-9 kennel"]
 sources = []
 +++
 
