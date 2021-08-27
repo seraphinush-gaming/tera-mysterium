@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Class base stat values</title>
-      <link>https://tera-mysterium.com/en/character/class-base-stats/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/character/class-base-stats/</guid>
-      <description>Class Base Power Base Attack Base Crit Factor Base Attack Speed Damage Modifier     Archer 72 5 60 120 1   Berserker 75 5 58 90 1   Brawler 60 4 50 90 0.85 ?   Gunner 60 4 47 90 1.08   Lancer 50 4 50 100 1   Mystic 35 4 35 105 ????   Ninja 50 4 54 100 1   Priest 35 4 33 105 ?</description>
-    </item>
-    
-    <item>
       <title>Dungeon crit resist values</title>
       <link>https://tera-mysterium.com/en/instances/crit-resist/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archer on mysterium</title>
+    <link>https://tera-mysterium.com/en/tags/archer/</link>
+    <description>Recent content in archer on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/en/tags/archer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archer : Overview</title>
+      <link>https://tera-mysterium.com/en/character/archer/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/character/archer/</guid>
+      <description>Info    Key Value     Class 5    Base stat values    Stat Value     HP 1587   MP 1300   Power 72   Endurance 80   Crit Factor 60   Crit Resist 53   Crit Power 2.00   Physical Crit Power 2.00   Magical Crit Power 2.00   Physical Piercing 0   Magical Piercing 0   Ignoring Physical Resistance 0   Ignoring Magical Resistance 0   Attack Speed 120   Run Speed 110   Walk Speed 50   Impact Factor 50   Balance Factor 30   Run Speed Bonus 60   Attack 5   Defense 2   Resist Weakening 50   Resist Periodic 50   Resist Stun 50   Damage Modifier 1.</description>
+    </item>
+    
+  </channel>
+</rss>

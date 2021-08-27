@@ -9,7 +9,7 @@ sources = [
   "TERA NA v81 Data Center",
   "[2021.01.27 patch notes (v103.01) | TERA KR](/en/patch/2021/v103-01/)",
   "[2021.03.10 patch notes (v104.01.02) | TERA KR](/en/patch/2021/v104-01-02/)"
-  ]
+]
 +++
 
 [1]: /images/character/companions_power.png

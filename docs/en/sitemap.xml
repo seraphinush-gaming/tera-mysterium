@@ -80,7 +80,7 @@
   
   <url>
     <loc>https://tera-mysterium.com/en/character/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -265,6 +265,156 @@
                 hreflang="en"
                 href="https://tera-mysterium.com/en/tags/v110/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/archer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/archer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/berserker/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/berserker/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/brawler/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/brawler/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/categories/character/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/categories/character/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/categories/character/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/class/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/gunner/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/gunner/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/lancer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/lancer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/mystic/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/mystic/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/ninja/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/ninja/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/priest/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/priest/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/reaper/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/reaper/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/slayer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/slayer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/sorcerer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/sorcerer/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/valkyrie/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/valkyrie/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/warrior/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/character/warrior/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1850,26 +2000,6 @@
                 hreflang="en"
                 href="https://tera-mysterium.com/en/patch/2020/v91-02/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/categories/character/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://tera-mysterium.com/ko/categories/character/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tera-mysterium.com/en/categories/character/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tera-mysterium.com/en/character/class-base-stats/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
