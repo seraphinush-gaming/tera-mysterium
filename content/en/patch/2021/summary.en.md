@@ -168,14 +168,14 @@ weight = 1
   - Gear : Adjusted to increase item level of Superior / Mythic Mahtnan gear
 
 - v109.01
-  - **New region : Baldera (pl.)**
+  - **New region : Baldera**
   - Dungeon : Reopened Catalepticon, Sky Cruiser Endeavor (hard)
   - **New dungeon : Rogash's Trial**
   - Gear : Adjusted select Mahtnan gear Unique options
   - Feature : Added 5 new iris types to Elin
   - Civil Unrest : Increased HP of Guild Tower
   - Open world : Removed select, outdated daily / reputation quests
-  - Feature : Added missions (pl.) to TERA Pass
+  - Feature : Added TERA Pass missions
 
 ## August
 
