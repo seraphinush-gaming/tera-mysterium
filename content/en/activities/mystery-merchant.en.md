@@ -55,8 +55,8 @@ City Merchants are merchants located specific in the 4 major cities : Velika, Al
 ```
 Changelog :
 
-- v106.02 : Changed to spawns in all channels
 - v108.02 : Changed to spawns in channel 1 only
+- v106.02 : Changed to spawns in all channels
 ```
 
 ### Wandering Merchant
@@ -91,8 +91,8 @@ Wandering Merchants do not appear on Stepstone Isle and in Exodor.
 ```
 Changelog :
 
-- v106.02 : Changed to spawns in all channels
 - v108.02 : Changed to spawns in channel 1 only
+- v106.02 : Changed to spawns in all channels
 ```
 
 ### Mystery Merchant : Starc
@@ -101,8 +101,9 @@ Starc is a special Wandering Merchant that sells Mystery Merchant Coins. Starc s
 ```
 Changelog :
 
-- v106.02 : Changed to spawns in all channels
+- v109.02 : Starc now spawns in channel 1
 - v108.02 : Starc no longer spawns
+- v106.02 : Changed to spawns in all channels
 ```
 
 ### Mystery Merchant Coin

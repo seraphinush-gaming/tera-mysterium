@@ -14,7 +14,7 @@ sources = [
 ```
 Changelog :
 
-Updated v104.01
+- Updated v104.01
 ```
 
 ### Dungeon
@@ -81,5 +81,5 @@ Champions' Skyring :
 ```
 Changelog :
 
-Updated v108.01
+- Updated v108.01
 ```
