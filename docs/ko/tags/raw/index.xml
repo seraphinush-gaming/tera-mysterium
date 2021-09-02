@@ -6,10 +6,20 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 09월 01일 업데이트 안내 (v110.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v110-01-01/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v110-01-01/</guid>
+      <description>업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 던전 공명  반격의 대미지 반사 량이 하향 조정됩니다. 불멸의 켈사이크 은폐지의 아르곤 병사에게 반격 효과가 적용되지 않도록 수정됩니다. 불멸의 켈사이크 은폐지 31단계 이상 효과 적용 시 일부 패턴이 비정상적으로 동작하는 문제가 수정됩니다.  3. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+ 5월 27일 출시된 ‘[랜덤] 2021 마시멜룽의 포근포근 홈웨어 속옷 상자’ 명칭이 ‘[랜덤] 과거의 마시멜룽의 포근포근 홈웨어 속옷 상자’로 변경됩니다.</description>
+    </item>
     
     <item>
       <title>2021년 08월 25일 업데이트 안내 (v110.01)</title>

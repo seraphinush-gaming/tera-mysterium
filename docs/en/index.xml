@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -130,6 +130,15 @@ Tips  Spawns randomly after defeating Harnovog in Stormed Citadel  </description
       <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Conditions(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
+      <title>2021.09.01 patch notes (v110.01.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v110-01-01/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v110-01-01/</guid>
+      <description>Update 1. Service stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Dungeon Resonance  Adjusted to decrease reflect damage amount Fixed to no longer apply reflect effect on Argon Solder in Corrupted Skynest (hard) Fixed issue where select mechanics activate abnormally when level 31 and above effect is applied in Corrupted Skynest (hard)  3. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available</description>
     </item>
     
     <item>
