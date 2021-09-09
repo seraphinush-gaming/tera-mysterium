@@ -41,4 +41,4 @@ Defense | 2
 Resist Weakening | 66
 Resist Periodic | 66
 Resist Stun | 66
-Damage Modifier | ?
+Damage Modifier | ????

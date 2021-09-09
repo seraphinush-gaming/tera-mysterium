@@ -41,4 +41,4 @@ Defense | 2
 Resist Weakening | 45
 Resist Periodic | 45
 Resist Stun | 45
-Damage Modifier | 0.85 ?
+Damage Modifier | 0.85 ????

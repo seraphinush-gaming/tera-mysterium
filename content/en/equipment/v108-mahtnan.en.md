@@ -13,7 +13,18 @@ sources = [
 +++
 
 [icon]: /images/equipment/108_icon.png
-[icon_magicTransference]: /images/equipment/108_magicTransference.png
+[icon_4801]: /images/equipment/icon_4801_forgeFragment.png
+[icon_4802]: /images/equipment/icon_4802_powerFragment.png
+[icon_4803]: /images/equipment/icon_4803_blacksmithsToken.png
+[icon_4804]: /images/equipment/icon_4804_toughNutToken.png
+[icon_4805]: /images/equipment/icon_4805_tokenOfVigour.png
+[icon_4806]: /images/equipment/icon_4806_forgeCrystal.png
+[icon_4807]: /images/equipment/icon_4807_herosCrystal.png
+[icon_4808]: /images/equipment/icon_4808_murkyMahtnanPowder.png
+[icon_4809]: /images/equipment/icon_4809_gleamingMahtnanPowder.png
+[icon_4810]: /images/equipment/icon_4810_sparklingMahtnanPowder.png
+[icon_4920]: /images/equipment/icon_4920_mahtnanJewelOfMagicTransference.png
+[icon_4923]: /images/equipment/icon_4923_mahtnanAsh.png
 
 ![icon]
 
@@ -31,9 +42,16 @@ Mahtnan gear has 3 types of options : Standard Option, Random Option, and **Supp
 Support Option are new additions to gear options. Support Option is further divided into **Unique Option** and **Support Random Option**. Different from regular Random Option, Support Option cannot be changed. Support Random Options also have relatively higher values than regular Random Options.
 
 ### Unique Option
+
+```
+Changelog :
+
+- v109.01 : Revised select Unique Option on Mahtnan gear
+```
+
 Unique Options are divided into **tier I to tier V**, and effect values vary appropriately.
 
-(Updated v109.01) Possible Unique Options and effects are the following :
+Possible Unique Options and effects are the following :
 
 #### Weapon
 
@@ -144,8 +162,8 @@ Support Random Options are similar to existing Random Options, except as Support
 
 | Option | Tier I | Tier II | Tier III | Tier IV | Tier V |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Physical Resistance | 1538 | 1757 | 2197 | 2636 | **2636** |
-| Magical Resistance | 1538 | 1757 | 2197 | 2636 | **2636** |
+| Physical Resistance | 1538 | 1757 | 2197 | 2636 | **3075** |
+| Magical Resistance | 1538 | 1757 | 2197 | 2636 | **3075** |
 | Increase Max HP | 7380 | 8433 | 10543 | 12650 | **14760** |
 | Increase Max MP | 738 | 843 | 1054 | 1265 | **1476** |
 | MP Recovery (Every 5 Seconds) | 120  | 137 | 171 | 205 | **240** |
@@ -176,9 +194,97 @@ Random Options are inherited from Kaia's Soul gear and operates similarly.
 ## Enchanting
 wip
 
+### Materials
+
+| Icon | Name | Source(s) |
+| :-: | :-: | :-: |
+| ![icon_4801] | Forge Fragment | Damned Citadel |
+| ![icon_4802] | Power Fragment | Velik's Hold |
+| ![icon_4803] | Blacksmith's Token | Stormed Citadel |
+| ![icon_4804] | Tough Nut Token | Stormed Citadel |
+| ![icon_4805] | Token of Vigour | Grotto of Lost Souls (hard) |
+| ![icon_4806] | Forge Crystal | Bahaar's Sanctum |
+| ![icon_4807] | Hero's Crystal | Fusion Laboratory (hard) |
+| ![icon_4808] | Murky Mahtnan Powder | - |
+| ![icon_4809] | Gleaming Mahtnan Powder | - |
+| ![icon_4810] | Sparkling Mahtnan Powder | - |
+| ![icon_4923] | Mahtnan Ash | - |
+
+### Weapon
+
+| Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Murky Mahtnan Powder     | 10 |  ? |  ? | 25 |  ? |  ? |  ? |  ? |  ? |  ? |  ? |  ? |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  - |
+| Mahtnan Ash              |  1 |  ? |  ? |  5 |
+| Forge Fragment           |  - |  - |  - |  8 |
+| Power Fragment           |  - |  - |  - |  8 |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |
+| Gold | 600 |  ? |  ? |  6,600 |
+| Base success chance (%)  |
+
+### Armor
+
+| Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Murky Mahtnan Powder     |  6 |  ? |  ? | 14 |  ? | 24 | 23 |  ? | 29 |  ? |  ? |  ? |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  3 |  ? |  4 |  ? |  ? |  ? |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Mahtnan Ash              |  1 |  ? |  ? |  5 |  ? |  9 | 12 |  ? | 15 |  ? |  ? |  ? |
+| Forge Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
+| Power Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  2 |  ? |  3 |  - |  - |  - |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  2 |  ? |  3 |  - |  - |  - |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |  2 |  ? |  3 |  - |  - |  - |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Gold | 300 |  ? |  ? | 3,300 |  ? | 5,900 | 4,800 |  ? | 6,000 |  ? |  ? |  ? |
+| Base success chance (%)  |
+
+### Hand Armor
+
+| Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Murky Mahtnan Powder     |  7 |  ? |  ? |  ? | 22 | 30 | 29 |  ? |  ? |  ? |  ? |  ? |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  4 |  ? |  ? |  ? |  ? |  ? |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Mahtnan Ash              |  1 |  ? |  ? |  ? |  6 |  9 | 12 |  ? |  ? |  ? |  ? |  ? |
+| Forge Fragment           |  - |  - |  - |  ? |  6 |  9 |  - |  - |  - |  - |  - |  - |
+| Power Fragment           |  - |  - |  - |  ? |  6 |  9 |  - |  - |  - |  - |  - |  - |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  3 |  ? |  ? |  - |  - |  - |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  3 |  ? |  ? |  - |  - |  - |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |  3 |  ? |  ? |  - |  - |  - |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Gold | 400 | ? | ? | ? | 5,300 | 7,400| 6,000 | ? | ? | ? | ? | ? |
+| Base success chance (%)  |
+
+### Foot Armor
+
+| Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Murky Mahtnan Powder     |  6 |  ? |  ? | 14 |  ? | 24 | 23 | 26 | 29 |  ? |  ? |  ? |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  3 |  4 |  4 |  ? |  ? |  ? |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Mahtnan Ash              |  1 |  ? |  ? |  5 |  ? |  9 | 12 | 14 | 15 |  ? |  ? |  ? |
+| Forge Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
+| Power Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
+| Gold | 300 | ? | ? | 3,300 | ? | 5,900 | 4,800 | ? | 6,000 | ? | ? | ? |
+| Base success chance (%)  |
+
 ## Transfer system
 
-![icon_magicTransference]
+![icon_4920]
 
 Once you reach a certain enchantment level on a piece of gear, you can transfer the enchantment level, Random Options, and etching to another gear of the same part. this requires a **Mahtnan Jewel of Magic Transference**.
 

@@ -26,6 +26,7 @@ Kaia's Ferocity and Kaia's Sanity gear cannot be upgraded to Kaia's Soul gear.
 In v105.02, **Kaia's Soul Gear Box** was added. 
 
 ## Random options
+
 Unstable Soul Option Change Scroll can be used to randomly add 0 to 3 lines of Random options.
 
 Soul Option Change Scroll can be used to randomly reroll existing Random options. This scroll does not change the number of lines of Random options.
@@ -35,9 +36,11 @@ Soul Option Change Scroll can be used to randomly reroll existing Random options
 **Inspired Option Boost Scroll** can be used to add one Random option line to the applied equipment.
 
 ## Kaia's Soul Cryolite
+
 Kaia's Soul Cryolite can be obtained by **dismantling** Kaia's Soul gear, or purchased from the Triumph Token Collector with **Triumph Tokens**.
 
 ## Enchanting
+
 For Weapon and Armor, Lumikan's Wing Fragment and Magic Alloy is required up to +6. From +6 to +9, Magic Ingot replaces Magic Alloy and Lumikan's Horn Piece is additionally required.
 
 For Hand Armor and Foot Armor, Tyrant's Belt and Magic Alloy is required up to +6. From +6 to +9, Magic Ingot replaces Magic Alloy and Tyrant's Soul is additionally required.

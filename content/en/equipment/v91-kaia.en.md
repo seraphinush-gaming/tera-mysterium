@@ -25,6 +25,7 @@ Upgrading to Mythical gear transfers over the enchantment level and Random Optio
 In place of Azart Mark, Mythical gear has **Kaia's Judgement** which decreases Crit Resistance by 25 and Physical, Magical Resistance by 2,000. Kaia's Judgement does not stack with Azart Mark.
 
 ## Mythical skills
+
 Mythical weapons have special Mythical skills depending on its class and class type :
 
 | Weapon type | Mythical skill | Description |
@@ -36,6 +37,7 @@ Mythical weapons have special Mythical skills depending on its class and class t
 | Staff, Scepter | Kaia's Blessing | Increases damage to enraged monsters by 5% and HP recovery of healing skills by 20% while HP is 40% or below | 
 
 ## Progression
+
 Kaia's Soul gear was added v102.01. Players can upgrade Mythical gear to Kaia's Soul gear with **Lumikan's Wing Fragment** for Weapon and Armor, and **Tyrant's Belt** for Hand Armor and Foot Armor.
 
 ## Upgrading
