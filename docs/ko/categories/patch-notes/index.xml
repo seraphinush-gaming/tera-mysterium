@@ -6,10 +6,19 @@
     <description>Recent content in patch notes on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/categories/patch-notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 09월 08일 업데이트 안내 (v110.01.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v110-01-02/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v110-01-02/</guid>
+      <description>*09/06 15:30 - 버그 수정 사항이 업데이트 되었습니다. 업데이트 1. 서비스 안정화  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.     아이템명 가격(블루) 판매 시작일 판매 종료일     [랜덤] 이세계의 퇴마사 의상 상자 40 2021-09-08 점검 후 2021-09-29 점검 전    버그 수정  [테라패스] 시즌 중 미수령 보상이 시즌이 종료된 후 우편으로 지급되지 않는 문제 이상상태관리창을 연 상태로 로그아웃시 이상상태 관리 내용이 초기화되는 문제 공명 던전에서 시간 내에 촉수감옥을 파괴하였으나 데미지를 입는 문제  </description>
+    </item>
     
     <item>
       <title>2021년 09월 01일 업데이트 안내 (v110.01.01)</title>

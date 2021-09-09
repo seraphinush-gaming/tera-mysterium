@@ -1,6 +1,6 @@
 +++
 date = "2021-01-01"
-lastmod = "2021-08-09"
+lastmod = "2021-09-09"
 title = "2021 patch summary"
 categories = ["patch notes"]
 tags = ["2021", "summary"]
@@ -100,7 +100,7 @@ weight = 1
   - **New dungeon : Harnovog's Trial**
   - DPS meter : Update
   - Open world : Added named monsters to Exodor
-  - Vanguard : Adjusted to increase Vanguard Initiative credit obtained from Vanguard Request
+  - Vanguard Initiative : Adjusted to increase Vanguard Initiative credit obtained from Vanguard Request
   - Shop (Vanguard Initiative Credit Shop) : Adjusted to increase enchanting materials cost
   - Shop (Exodor Justicar Credit Shop) : Adjusted to increase enchanting materials cost
   - Shop (Free Exodor Credit Shop) : Adjusted to increase enchanting materials cost
@@ -182,13 +182,30 @@ weight = 1
 - v109.01.01
 
 - v109.02
-  - **New content : Dungeon Resonance (pl.)**
+  - ~~New content : Resonance Dungeon~~
   - Battleground : Adjusted balance of vehicles in Corsairs' Stronghold
 
 - v109.02.01
   - Gear : Decreased Murky Mahtnan Powder cost of enchanting Mahtnan weapon
 
+- v110.01
+
 ## September
+
+- v110.01.01
+  - **New content : Resonance Dungeon**
+  - Leaderbaord : Added Resonance Dungeon ranking
+  - **New dungeon : Desolarus' Proving Ground**
+  - Vanguard Initiative : Updated Vanguard Request reward
+  - **New Battleground : Beach Battleground (pl.)**
+  - Shop : Updated Triumph Token Exchange Shop listing
+  - **New accessory : Cast Starlight (pl.) (ring, earring, necklace circlet)**
+  - **New accessory : Cast Stellar (pl.) (ring, earring, necklace circlet)**
+  - Class balance : Revised Piercing factor in damage equation
+  - Class balance (Tank, Healer, Reaper, Warrior, Mystic, Brawler, Gunner)
+  - Ghillieglade : Changed to one entry per account
+
+- v110.01.02
 
 ## October
 
