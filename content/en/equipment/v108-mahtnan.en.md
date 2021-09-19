@@ -192,7 +192,6 @@ Random Options are inherited from Kaia's Soul gear and operates similarly.
 | Increase Max MP | 164 | 187 | 234 | 281 | **328** |
 
 ## Enchanting
-wip
 
 ### Materials
 
@@ -214,73 +213,55 @@ wip
 
 | Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Murky Mahtnan Powder     | 10 |  ? |  ? | 25 |  ? |  ? |  ? |  ? |  ? |  ? |  ? |  ? |
-| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |
-| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  - |
-| Mahtnan Ash              |  1 |  ? |  ? |  5 |
-| Forge Fragment           |  - |  - |  - |  8 |
-| Power Fragment           |  - |  - |  - |  8 |
-| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |
-| Tough Nut Token          |  - |  - |  - |  - |  - |  - |
-| Token of Vigour          |  - |  - |  - |  - |  - |  - |
-| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |
-| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |
-| Gold | 600 |  ? |  ? |  6,600 |
-| Base success chance (%)  |
+| Murky Mahtnan Powder     | 10 | 14 | 23 | 25 | 29 | 38 | 40 | 42 | 46 | 48 | 49 | 58 | 422 |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  5 |  6 |  6 |  5 |  5 |  6 |  33 |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  - |  3 |  4 |   7 |
+| Mahtnan Ash              |  1 |  2 |  4 |  5 |  6 |  9 | 12 | 14 | 15 | 13 | 14 | 16 | 111 |
+| Forge Fragment           |  - |  - |  - |  8 | 10 | 14 |  - |  - |  - |  - |  - |  - |  32 |
+| Power Fragment           |  - |  - |  - |  8 | 10 | 14 |  - |  - |  - |  - |  - |  - |  32 |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  4 |  5 |  5 |  - |  - |  - |  14 |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  4 |  5 |  5 |  - |  - |  - |  14 |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |  4 |  5 |  5 |  - |  - |  - |  14 |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  2 |  2 |  2 |   6 |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  2 |  2 |  2 |   6 |
+| Gold | 600 | 900 | 1,600 | 6,600 | 8,500 | 11,800 | 9,700 | 10,900 | 12,100 | 10,900 | 11,300 | 13,600 | 98,500 |
+| Base success chance (%)  | 40.00 | 40.00 | 40.00 | 35.00 | 30.00 | 25.00 | 20.00 | 15.00 | 10.00 | 8.00 | 5.00 | 2.00 | - |
 
-### Armor
+### Armor / Foot Armor
 
 | Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Murky Mahtnan Powder     |  6 |  ? |  ? | 14 |  ? | 24 | 23 |  ? | 29 |  ? |  ? |  ? |
-| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  3 |  ? |  4 |  ? |  ? |  ? |
-| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Mahtnan Ash              |  1 |  ? |  ? |  5 |  ? |  9 | 12 |  ? | 15 |  ? |  ? |  ? |
-| Forge Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
-| Power Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
-| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  2 |  ? |  3 |  - |  - |  - |
-| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  2 |  ? |  3 |  - |  - |  - |
-| Token of Vigour          |  - |  - |  - |  - |  - |  - |  2 |  ? |  3 |  - |  - |  - |
-| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Gold | 300 |  ? |  ? | 3,300 |  ? | 5,900 | 4,800 |  ? | 6,000 |  ? |  ? |  ? |
-| Base success chance (%)  |
+| Murky Mahtnan Powder     |  6 |  9 | 14 | 14 | 18 | 24 | 23 | 26 | 29 | 28 | 29 | 35 | 255 |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  3 |  4 |  4 |  3 |  3 |  4 |  21 |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  2 |  2 |  3 |   7 |
+| Mahtnan Ash              |  1 |  2 |  4 |  5 |  6 |  9 | 12 | 14 | 15 | 13 | 14 | 16 | 111 |
+| Forge Fragment           |  - |  - |  - |  4 |  5 |  7 |  - |  - |  - |  - |  - |  - |  16 |
+| Power Fragment           |  - |  - |  - |  4 |  5 |  7 |  - |  - |  - |  - |  - |  - |  16 |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |   8 |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |   8 |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |   8 |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  1 |  1 |  1 |   3 |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  1 |  1 |  1 |   3 |
+| Gold | 300 | 500 | 800 | 3,300 | 4,300 | 5,900 | 4,800 | 5,400 | 6,000 | 5,400 | 5,700 | 6,800 | 49,200 |
+| Base success chance (%)  | 40.00 | 40.00 | 40.00 | 35.00 | 30.00 | 25.00 | 20.00 | 15.00 | 10.00 | 8.00 | 5.00 | 2.00 | - |
 
 ### Hand Armor
 
 | Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Murky Mahtnan Powder     |  7 |  ? |  ? |  ? | 22 | 30 | 29 |  ? |  ? |  ? |  ? |  ? |
-| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  4 |  ? |  ? |  ? |  ? |  ? |
-| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Mahtnan Ash              |  1 |  ? |  ? |  ? |  6 |  9 | 12 |  ? |  ? |  ? |  ? |  ? |
-| Forge Fragment           |  - |  - |  - |  ? |  6 |  9 |  - |  - |  - |  - |  - |  - |
-| Power Fragment           |  - |  - |  - |  ? |  6 |  9 |  - |  - |  - |  - |  - |  - |
-| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  3 |  ? |  ? |  - |  - |  - |
-| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  3 |  ? |  ? |  - |  - |  - |
-| Token of Vigour          |  - |  - |  - |  - |  - |  - |  3 |  ? |  ? |  - |  - |  - |
-| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Gold | 400 | ? | ? | ? | 5,300 | 7,400| 6,000 | ? | ? | ? | ? | ? |
-| Base success chance (%)  |
-
-### Foot Armor
-
-| Enchantment | -> 1 | -> 2 | -> 3 | -> 4 | -> 5 | -> 6 | -> 7 | -> 8 | -> 9 | -> 10 | -> 11 |-> 12 | Total |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Murky Mahtnan Powder     |  6 |  ? |  ? | 14 |  ? | 24 | 23 | 26 | 29 |  ? |  ? |  ? |
-| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  3 |  4 |  4 |  ? |  ? |  ? |
-| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Mahtnan Ash              |  1 |  ? |  ? |  5 |  ? |  9 | 12 | 14 | 15 |  ? |  ? |  ? |
-| Forge Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
-| Power Fragment           |  - |  - |  - |  4 |  ? |  7 |  - |  - |  - |  - |  - |  - |
-| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |
-| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |
-| Token of Vigour          |  - |  - |  - |  - |  - |  - |  2 |  3 |  3 |  - |  - |  - |
-| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  ? |  ? |  ? |
-| Gold | 300 | ? | ? | 3,300 | ? | 5,900 | 4,800 | ? | 6,000 | ? | ? | ? |
-| Base success chance (%)  |
+| Murky Mahtnan Powder     |  7 | 11 | 18 | 17 | 22 | 30 | 29 | 32 | 36 | 34 | 36 | 43 | 315 |
+| Gleaming Mahtnan Powder  |  - |  - |  - |  - |  - |  - |  4 |  5 |  5 |  4 |  4 |  5 |  27 |
+| Sparkling Mahtnan Powder |  - |  - |  - |  - |  - |  - |  - |  - |  - |  3 |  3 |  3 |   9 |
+| Mahtnan Ash              |  1 |  2 |  4 |  5 |  6 |  9 | 12 | 14 | 15 | 13 | 14 | 16 | 111 |
+| Forge Fragment           |  - |  - |  - |  5 |  6 |  9 |  - |  - |  - |  - |  - |  - |  20 |
+| Power Fragment           |  - |  - |  - |  5 |  6 |  9 |  - |  - |  - |  - |  - |  - |  20 |
+| Blacksmith's Token       |  - |  - |  - |  - |  - |  - |  3 |  3 |  3 |  - |  - |  - |   9 |
+| Tough Nut Token          |  - |  - |  - |  - |  - |  - |  3 |  3 |  3 |  - |  - |  - |   9 |
+| Token of Vigour          |  - |  - |  - |  - |  - |  - |  3 |  3 |  3 |  - |  - |  - |   9 |
+| Forge Crystal            |  - |  - |  - |  - |  - |  - |  - |  - |  - |  1 |  1 |  2 |   4 |
+| Hero's Crystal           |  - |  - |  - |  - |  - |  - |  - |  - |  - |  1 |  1 |  2 |   4 |
+| Gold | 400 | 600 | 1,000 | 4,100 | 5,300 | 7,400| 6,000 | 6,800 | 7,500 | 6,800 | 7,100 | 8,500 | 60,700 |
+| Base success chance (%)  | 40.00 | 40.00 | 40.00 | 35.00 | 30.00 | 25.00 | 20.00 | 15.00 | 10.00 | 8.00 | 5.00 | 2.00 | - |
 
 ## Transfer system
 
