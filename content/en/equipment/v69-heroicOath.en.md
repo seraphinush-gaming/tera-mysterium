@@ -1,7 +1,7 @@
 +++
 date = "2018-01-18"
-lastmod = "2021-09-14"
-title = "v68 : Heroic Oath Gear (wip)"
+lastmod = "2021-09-19"
+title = "v68 : Heroic Oath Gear"
 categories = ["equipment"]
 tags = ["v68", "heroic oath"]
 sources = [
