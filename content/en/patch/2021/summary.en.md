@@ -195,12 +195,12 @@ weight = 1
 - v110.01.01
   - **New content : Resonance Dungeon**
   - Leaderbaord : Added Resonance Dungeon ranking
-  - **New dungeon : Desolarus' Proving Ground**
+  - **New dungeon : Desolarus Testing Ground**
   - Vanguard Initiative : Updated Vanguard Request reward
   - **New Battleground : Beach Battleground (pl.)**
   - Shop : Updated Triumph Token Exchange Shop listing
-  - **New accessory : Cast Starlight (pl.) (ring, earring, necklace circlet)**
-  - **New accessory : Cast Stellar (pl.) (ring, earring, necklace circlet)**
+  - **New accessory : Starshimmer (ring, earring, necklace circlet)**
+  - **New accessory : Starglimmer (ring, earring, necklace circlet)**
   - Class balance : Revised Piercing factor in damage equation
   - Class balance (Tank, Healer, Reaper, Warrior, Mystic, Brawler, Gunner)
   - Ghillieglade : Changed to one entry per account

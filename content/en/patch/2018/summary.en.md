@@ -163,7 +163,7 @@ weight = 1
   - **New crafting profession : Cooking**
 
 - v77.02
-  - Class balance (Slayer, Archer, Ninja, Mystic, (Warrior, Valkyrie, Sorcerer, Berserker)
+  - Class balance (Slayer, Archer, Ninja, Mystic, Warrior, Valkyrie, Sorcerer, Berserker)
   - Fishing : Added Delivery option
 
 ## October

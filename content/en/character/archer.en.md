@@ -42,3 +42,65 @@ Resist Weakening | 50
 Resist Periodic | 50
 Resist Stun | 50
 Damage Modifier | 1.00
+
+## Passive
+
+### Crack Shot
+Increase skill damage
+
+```
+Increase all skill damage by 10% and grants additional 8% damage when attacking monsters.
+Increase the chance to crit by 5% when attacking monsters from the side or rear.
+```
+
+### Shrieking Arrow
+Increase Physical Piercing
+
+```
+Increase Physical Piercing and Overcharge Damage of skills based on your Physical Crit Power.
+- Physical Piercing increased by $calcValue(multiple,1005,5000,3).
+- Overcharge damage of Radiant Arrow and Penetrating Arrow increased by $calcValue(multiple,1005,1,5).
+```
+
+### Safe Distance
+Increase skill damage
+
+```
+Increase your Focus and skill damage of all attack skills to monsters by 15% when no enemies are within 5m radius.
+```
+
+### Seasoned
+Decrease RE cost, RE recovery
+
+```
+Decrease the RE cost of Backstep by 30, and recovers 10 RE after every successful hit of a Focus Generation skill.
+```
+
+## Formula
+
+### Overcharge damage
+
+```
+(12.5% * charge level) + (passive effect / 2)
+```
+
+### Shrieking Arrow (majorPatchVersion <= 110)
+
+Physical Piercing : 
+```
+25 Physical Piercing / 0.01 Physical Crit Power
+```
+
+Overcharge Damage :
+```
+0.5% Overcharge Damage / 0.01 Physical Crit Power
+```
+
+```
+Changelog :
+
+- v111.01
+  - Shrieking Arrow
+    - Decreased Overcharge Damage increase based on Physical Crit Power by half
+    - Decreased Physical Piercing increase based on Physical Crit Power by half
+```
