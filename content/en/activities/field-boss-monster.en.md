@@ -44,10 +44,10 @@ Rewards are distributed based on **individual contribution**. Participants recei
 
 | Contribution | Chest |
 | :-: | :-: |
-| Low contribution | [Ortan | Hazard | Cerrus] Raid Chest |
-| High Contribution | [Ortan | Hazard | Cerrus] Raid Silver Chest |
-| Last hit | [Ortan | Hazard | Cerrus] Raid Golden Chest |
-| Random jackpot | [Ortan | Hazard | Cerrus] Treasure Chest |
+| Low contribution | [Ortan, Hazard, Cerrus] Raid Chest |
+| High Contribution | [Ortan, Hazard, Cerrus] Raid Silver Chest |
+| Last hit | [Ortan, Hazard, Cerrus] Raid Golden Chest |
+| Random jackpot | [Ortan, Hazard, Cerrus] Treasure Chest |
 
 | Field Boss Monster | Raid Chest | Treasure Chest |
 | :-: | :-: | :-: |

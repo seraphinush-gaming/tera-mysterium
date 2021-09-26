@@ -6,10 +6,19 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 09월 29일 업데이트 안내 (v111.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v111-01/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v111-01/</guid>
+      <description>업데이트 1. 사냥터  발데라 특별지구  [중요] 아르곤 2차 침공 퀘스트가 추가됩니다. 일부 몬스터 배치와 밸런스가 조정됩니다.    2. 던전  시험의 던전: 코어 융합소  로가쉬의 &amp;lsquo;미약한 전류&amp;rsquo; 디버프의 HP 감소 효과를 하향 조정하였습니다.    3. 던전 공명  공명의 제단이 던전 이용 유저 전원의 강화 잔여 횟수를 소진 시 디스폰 되도록 개선됩니다.  일부 유저가 던전 이탈을 한 상태라면 던전에 남아 있는 유저들의 강화 잔여 횟수만 체크합니다.</description>
+    </item>
     
     <item>
       <title>2021년 09월 15일 업데이트 안내 (v110.02)</title>

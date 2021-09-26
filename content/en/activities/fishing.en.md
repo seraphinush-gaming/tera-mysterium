@@ -91,7 +91,7 @@ There are several things that can increase the chance to catch a BAF :
 Other than the Old Fishing Rod, there are 3 different types of Fishing Rods : Xermetal, Ash Sapling, Fairywing Rod. These Fishing Rods have special effects that affect fishing and can be upgraded up to tier VIII.
 
 | Fishing Rod | Effect |
-| :-: | :-: |
+| :-: | - |
 | Old Fishing Rod | - |
 | **Xermetal Rod** | Increase the chance to catch a high-grade fish, decrease wait time |
 | **Ash Sapling Rod** | Increase the chance to catch a Big-A*s Fish |
@@ -158,6 +158,7 @@ Angler's Whiskers can be crafted through the Processing profession.
 ### Angler's Whiskers : Upgrading
 
 | Tier | Whisker material | Pulsating Essence | Gold | Success chance |
+| :-: | :-: | :-: | :-: | :-: |
 | II | Tier I | 2 | 1,000 | 10% |
 | III | Tier II | 4 | 2,000 | 95% |
 | IV | Tier III | 6 | 3,000 | 90% |

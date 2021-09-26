@@ -63,6 +63,10 @@ p code, li code, table code {
   border-radius: 3px;
 }
 
+p {
+  line-height: 1.8em;
+}
+
 .frontmatter {
   margin-bottom: 25px;
 }

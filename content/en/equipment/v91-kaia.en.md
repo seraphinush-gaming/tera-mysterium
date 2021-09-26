@@ -22,7 +22,7 @@ Future update made it much easier to upgrade to Kaia's gear, requiring only an I
 
 Upgrading to Mythical gear transfers over the enchantment level and Random Options, but Infused options and Etchings will dissolve.
 
-In place of Azart Mark, Mythical gear has **Kaia's Judgement** which decreases Crit Resistance by 25 and Physical, Magical Resistance by 2,000. Kaia's Judgement does not stack with Azart Mark.
+In place of Azart Mark, Mythical gear has **Kaia's Judgement** which decreases Crit Resistance by 25 and Physical, Magical Resistance by 2,000. Kaia's Judgement does not stack with **Azart Mark**.
 
 ## Mythical skills
 

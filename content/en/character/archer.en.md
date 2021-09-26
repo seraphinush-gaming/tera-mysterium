@@ -43,7 +43,14 @@ Resist Periodic | 50
 Resist Stun | 50
 Damage Modifier | 1.00
 
-## Passive
+## Skills
+wip
+
+### Active
+wip
+
+### Passive
+wip
 
 ### Crack Shot
 Increase skill damage

@@ -70,7 +70,7 @@ Possible Unique Options and effects are the following :
 ```
 Recommendation :
 
-- DPS : Magic Storm, Rage Suppressor, Heavy Blow, Blood Oath 
+- DPS : Heavy Blow, Rage Suppressor, Blood Oath
 - TANK : Cruel Curse
 - HEAL : Hymn of Courage
 ```
@@ -114,7 +114,7 @@ Recommendation :
 ```
 Recommendation :
 
-- DPS : Combat Essence
+- DPS : Combat Essence, Opportunist
 - TANK : Death Sentence
 - HEAL : War Drums
 ```
@@ -190,6 +190,9 @@ Random Options are inherited from Kaia's Soul gear and operates similarly.
 | Magical Resistance | 342 | 390 | 489 | 586 | **684** |
 | Increase Max HP | 1640 | 1874 | 2342 | 2811 | **3280** |
 | Increase Max MP | 164 | 187 | 234 | 281 | **328** |
+
+## Resonance Etching
+wip
 
 ## Enchanting
 

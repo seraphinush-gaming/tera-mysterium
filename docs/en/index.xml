@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -116,7 +116,7 @@ Tips  Spawns randomly after defeating Harnovog in Stormed Citadel  </description
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/achievements/encounters/20031/</guid>
-      <description>Info    Key Value     Id 20031   Name Exodor goes BAM!   Point 30   Description Defeated a BAM in Exodor.   Detail Defeated a BAM.    Conditions(s) Defeat Defeat Geiran in Rogash&amp;rsquo;s Garden.
+      <description>Info    Key Value     Id 20031   Name Exodor goes BAM!   Point 30   Description Defeated a BAM in Exodor.   Detail Defeated a BAM.    Conditions(s) Defeat Geiran in Rogash&amp;rsquo;s Garden.
  Chance to spawn upon defeating Jewel Beetle in Rogash&amp;rsquo;s Garden  Defeat Cordi on the Exodor Farmlands.
  Chance to spawn upon defeating Jewel Lizard at Beast Farm, Exodor Farmlands  Defeat Rimu on the Exodor Farmlands.</description>
     </item>
@@ -130,6 +130,15 @@ Tips  Spawns randomly after defeating Harnovog in Stormed Citadel  </description
       <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Conditions(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
+      <title>2021.09.29 patch notes (v111.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v111-01/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v111-01/</guid>
+      <description>Update 1. Open world  Baldera  Added [중요] 아르곤 2차 침공 quest Adjusted monster placement and balance    2. Dungeon  Ace Dungeon : Fusion Laboratory  Adjusted to decrease Rogash&amp;rsquo;s &amp;lsquo;미약한 전류&amp;rsquo; debuff&amp;rsquo;s HP decay effect    3. Dungeon Resonance  Revised to despawn Resonance Altar upon depleting all attempts by players  If select party members have left the instance already then checks remaining attempts of the remaining players inside the instance   Adjusted reward probability based on Dungeon Resonance level Added Otherwordly Shard gear etching stat  Added Physical Resistance / Magical Resistance    4.</description>
     </item>
     
     <item>
