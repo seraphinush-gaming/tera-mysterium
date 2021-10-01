@@ -197,7 +197,7 @@ weight = 1
   - Leaderbaord : Added Resonance Dungeon ranking
   - **New dungeon : Desolarus Testing Ground**
   - Vanguard Initiative : Updated Vanguard Request reward
-  - **New Battleground : Beach Battleground (pl.)**
+  - **New Battleground : Coastal Battleground**
   - Shop : Updated Triumph Token Exchange Shop listing
   - **New accessory : Starshimmer (ring, earring, necklace circlet)**
   - **New accessory : Starglimmer (ring, earring, necklace circlet)**

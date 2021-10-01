@@ -3,7 +3,7 @@ Support seraph via paypal donations, thanks in advance !
 ```
 
 # mysterium [![](https://img.shields.io/badge/paypal-donate-333333.svg?colorA=0070BA&colorB=333333)](https://www.paypal.me/seraphinush)
-Blog repository for TERA blog by seraphinush-gaming
+Repository for blog about TERA, generated with Hugo
 
 Visit blog at : [https://tera-mysterium.com/](https://tera-mysterium.com)
 
