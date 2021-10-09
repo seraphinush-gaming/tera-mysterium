@@ -1,6 +1,6 @@
 +++
 date = "2020-01-01"
-lastmod = "2021-06-14"
+lastmod = "2021-10-09"
 title = "Companions"
 categories = ["character"]
 tags = ["companion", "partner", "pet"]
@@ -25,7 +25,7 @@ sources = [
 **Pets** and **Partners** together are called Companions, and are support creatures players can summon to help you with your gameplay. In the past, Companions were simply Pets that you can summon from your Skill UI. From v81 with the addition of Partners and onward, both are accessed from the Companion UI. Pets that have special **Abilities** can perform tedious tasks such as looting drop items, looting gold, gathering resources, or providing extra storage. Pet Skills and their description is of the following :
 
 | Ability | Description |
-| :-: | :-: |
+| :-: | - |
 | Auto-Caring | Use a pet food or present when your pet's Energy / Stamina drops below the percentage indicated. Use the Auto-Caring % button in the Companion List to adjust your pet's settings |
 | Auto-Gather | Gathers all gathering objects around you. Consumes 20% fewer production points. RIncreases gathering speed |
 | Auto-Gold-Loot | Loots all gold around you |
@@ -89,7 +89,7 @@ Please refer to Bracing Force table for the obtained Power and its duration for 
 Gifted Skills are secondary support skills specific to Partners, and provide auxillary support in or out of combat. Gifted Skills and their description is of the following :
 
 | Gifted skill | Description |
-| :-: | :-: |
+| :-: | - |
 | Urgent Recovery I~III | May recover [20,000, 25,000, 30,000] HP per second for [3, 4, 5] seconds |
 | Emergency Service I~III | May replenish [500, 750, 1000] MP per second for [3, 4, 5] seconds |
 | Barrier I~III | May absorb [50,000, 80,000, 125,000] damage for [9, 12, 15] seconds |

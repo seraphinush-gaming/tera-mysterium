@@ -6,10 +6,20 @@
     <description>Recent content in patch notes on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/categories/patch-notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 10월 06일 업데이트 안내 (v111.01.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v111-01-01/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v111-01-01/</guid>
+      <description>*10/05 14:55 - 버그 수정 사항이 업데이트 되었습니다. 업데이트 1. 던전  번스타인 시험대  번스타인 시험대 보스 몬스터 처치 시 &amp;lsquo;허리띠 각인서&#39;가 확률적으로 드랍됩니다.   바하르의 신전  바하르의 신전 보스 몬스터 처치 시 &amp;lsquo;반지 각인서&#39;가 확률적으로 드랍됩니다.   공명 던전  일반 공명 2~4단계의 일부 효과가 하향 조정됩니다.    2. 부가서비스  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+버그 수정  9/29일 업데이트 후 황금 신체 비율 캔디 지속 시간이 접속 종료 후에도 차감되는 문제 권술사 날아차기 연마 효과 툴팁이 실제 위력과 상이하게 기재된 문제  </description>
+    </item>
     
     <item>
       <title>2021년 09월 29일 업데이트 안내 (v111.01)</title>
