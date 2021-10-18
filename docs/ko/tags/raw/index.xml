@@ -6,10 +6,19 @@
     <description>Recent content in raw on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/raw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 10월 13일 업데이트 안내 (v111.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v111-02/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v111-02/</guid>
+      <description>업데이트 1. 전장  투지의 전장  PVP대미지와 힐량 보정치가 조정됩니다.    2. 던전공명  불멸의 켈사이크 은폐지 공명 업적 달성 조건이 완화됩니다.  후딱 해치워 버리자  8분 -&amp;gt; 10분 클리어   따라올테면 따라와봐  6분 -&amp;gt; 8분 클리어      3. 기타  연합 보급품: 갈색 군마 소환 I 아이템이 파괴 가능으로 변경됩니다.  4. 부가서비스  테라샵에 아래의 아이템이 판매됩니다.  Image not available</description>
+    </item>
     
     <item>
       <title>2021년 10월 06일 업데이트 안내 (v111.01.01)</title>
