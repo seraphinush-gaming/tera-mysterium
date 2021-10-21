@@ -6,10 +6,29 @@
     <description>Recent content in suggestions on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/categories/suggestions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 September suggestions review result | TERA KR</title>
+      <link>https://tera-mysterium.com/en/suggestions/2021/09/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/suggestions/2021/09/</guid>
+      <description>+ : Suggestion accepted / in progress in the same or alternative form ? : Suggestion in review - : Suggestion rejected Item + Suggestion to fix Summon: Bay Gelding item distributed via event to be destroyable 10/13 패치로 ‘연합 보급품: 갈색 군마 소환 I’ 아이템이 파괴 가능으로 변경되었습니다.
++ Suggestion to change item properties of Murky Powder obtained from Ghillieglade to be able to store in Storage 11월까지는 적용 완료되는 것을 목표로 창고 보관 가능으로 변경하겠습니다.</description>
+    </item>
+    
+    <item>
+      <title>2021 August suggestions review result | TERA KR</title>
+      <link>https://tera-mysterium.com/en/suggestions/2021/08/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/suggestions/2021/08/</guid>
+      <description>+ : Suggestion accepted / in progress in the same or alternative form ? : Suggestion in review - : Suggestion rejected System / UI - Suggestion to exclude play record via cross-server Instance Matching on Leaderboard 서버 교차 매칭 플레이 기록은 리더보드에서 제외하는 방향으로 내부 확인을 하였습니다만, 시스템적으로 리더보드를 등록 못하게 되면, 서버간 매칭 자체에도 문제가 생길 여지가 있어서 해당 건의 사항 대응은 진행을 보류하였습니다. 양해 부탁드립니다. While we did confirm internally in the direction of excluding cross-server Instance Matching play record from Leaderboard, there is a chance it might cause issues to the cross-server Instance Matching system itself if we systematically disable recording on Leaderboard so we have decided to withhold further progress.</description>
+    </item>
     
     <item>
       <title>2021 July suggestions review result | TERA KR</title>
