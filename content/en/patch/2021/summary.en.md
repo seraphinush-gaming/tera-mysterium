@@ -171,7 +171,7 @@ weight = 1
   - **New region : Baldera**
   - Dungeon : Reopened Catalepticon, Sky Cruiser Endeavor (hard)
   - **New dungeon : Rogash's Trial**
-  - Gear : Adjusted select Mahtnan gear Unique options
+  - Gear : Adjusted select Unique Options on Mahtnan gear
   - Feature : Added 5 new iris types to Elin
   - Civil Unrest : Increased HP of Guild Tower
   - Open world : Removed select, outdated daily / reputation quests
@@ -207,7 +207,25 @@ weight = 1
 
 - v110.01.02
 
+- v110.02
+  - Open world : Increased HP and Defense of Guild Rally Quest monsters
+  - Open world : Increased Defense of Field Boss monsters
+
+- v111.01
+  - Dungeon Resonance : Added Physical Resistance / Magical Resistance to Otherworldly Shard
+  - Class balance (Archer) : Decreased Shrieking Arrow passive effect
+  - Class balance (Brawler, Slayer, Sorcerer, Mystic, Warrior, Ninja)
+  - Gear : Adjusted select Unique Options on Mahtnan gear
+  - **New feature** : Added feature to transfer Random Options
+  - Gear : Changed to be unable to swap weapon in certain conditions
+
 ## October
+
+- v111.01.01
+
+- v111.02
+
+- v111.02.01
 
 ## November
 

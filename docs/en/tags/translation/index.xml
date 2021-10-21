@@ -6,10 +6,19 @@
     <description>Recent content in translation on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.10.20 patch notes (v111.02.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v111-02-01/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v111-02-01/</guid>
+      <description>Update 1. Service stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Event (TERA KR exclusive)  던전 부스트 이벤트가 진행될 예정입니다.  이벤트 기간: 2021년 10월 20일 정기점검 이후 ~ 2021년 10월 26일 23:59분까지 이벤트 내용  던전 드랍 1.5배 증가 던전 지령서 AWAKE 토큰 1.5배 증가 65레벨 이상 던전 모험의 주화 30% 감소      3. Services (TERA KR exclusive)  테라샵에 아래의 아이템이 판매됩니다.</description>
+    </item>
     
     <item>
       <title>2021.10.13 patch notes (v111.02) | TERA KR</title>

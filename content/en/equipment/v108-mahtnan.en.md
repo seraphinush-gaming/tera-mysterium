@@ -46,7 +46,8 @@ Support Option are new additions to gear options. Support Option is further divi
 ```
 Changelog :
 
-- v109.01 : Revised select Unique Option on Mahtnan gear
+- v109.01 : Adjusted select Unique Options on Mahtnan gear
+- v111.01 : Adjusted select Unique Options on Mahtnan gear
 ```
 
 Unique Options are divided into **tier I to tier V**, and effect values vary appropriately.
@@ -101,7 +102,7 @@ Recommendation :
 
 | Option | Description |
 | :-: | - |
-| Focused Magic | Increase skill damage and effect of healing skills by (6/7.5/9/10.5/12)% when HP is below 50% |
+| Focused Magic | Increase skill damage and effect of healing skills by (6/7.5/9/10.5/12)% when HP is below 65% |
 | Mahtnan's Power | Increase Power by 1 every 5 seconds after combat starts. can stack up to (10/20/30/40/50) times |
 | Roar of the Fabled Creature | Increase duration of passives with 'increase Crit Power' by (1/1.25/1.5/1.75/2) seconds |
 | Death Sentence | Apply effect to decrease Crit Resist Factor by 30, Physical and Magical Resistance by 5,000 of target for 20 seconds upon successful hit, (60/50/40/30/20) second cooldown |
