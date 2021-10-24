@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v122 on mysterium</title>
+    <link>https://tera-mysterium.com/en/tags/v122/</link>
+    <description>Recent content in v122 on mysterium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tera-mysterium.com/en/tags/v122/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021.10.25 patch notes (v112.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v112-01/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v112-01/</guid>
+      <description>Update 1. Guild Conquest Tournament (pl.)  Added &amp;lsquo;Call of the Guild (pl.)&amp;rsquo; tab to Guild UI, with Guild Conquest Tournament (pl.) event information   Guild Conquest Tournament can be entered via &amp;lsquo;Donaruld (pl.)&amp;rsquo; NPC in Velika, Highwatch, Balderon  Entry is limited from 1 Guild Member up to player limit stated on Guild Conquest Tournament information  Guild Conquest Tournament is separated into Guild ranking and individual ranking, and reward is distributed to guild and individuals depending on rank  Guild ranking is based on the sum of all guild members&amp;rsquo; highest points Individual ranking is based on individual highest point        2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,7 +20,7 @@ sources = [
 [loc_hazard]: /images/activities/fieldBoss_loc_hazard.png
 [loc_cerrus]: /images/activities/fieldBoss_loc_cerrus.png
 
-Field Boss Monsters are large monsters in Open World. Currently there are 3 Field Boss Monsters - **Ortan**, **Hazard**, and **Cerrus** - all three spawn on **Arborea**.
+Field Boss Monsters are large monsters in open world. Currently there are 3 Field Boss Monsters - **Ortan**, **Hazard**, and **Cerrus** - all three spawn on **Arborea**.
 
 In patch v86.01, Field Boss Monsters **Maknakh** and **Murderwing Monarch** was added. In patch v87.02, Maknakh and Murderwing Monarch was removed due to lag issues. In patch v96.01, Maknakh returned as part of Commander's Residence (20-Person) raid instance.
 

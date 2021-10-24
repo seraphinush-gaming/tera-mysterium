@@ -1,0 +1,658 @@
+<!doctype html>
+<html>
+<title>mysterium</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content='TERA blog by seraphinush'>
+<link rel="icon" type="image/png" href='/favicon.png'>
+
+
+<link rel="stylesheet" href='/css/main.css' />
+<link rel="stylesheet" href='/css/header.css' />
+<link rel="stylesheet" href='/css/footer.css' />
+<link rel="stylesheet" href='/css/article.css' />
+<link rel="stylesheet" href='/css/modal.css' />
+
+
+<script type="text/javascript" src='/js/main.js'></script>
+<script type="text/javascript" src='/js/modal.js'></script>
+
+
+<link rel="stylesheet" href='/css/dark-theme.css' />
+<link rel="stylesheet" href='/css/light-theme.css' />
+<script type="text/javascript" src='/js/theme.js'></script>
+
+<script>
+  const theme = !!localStorage.getItem('darkTheme');
+  if (theme) document.documentElement.classList.add('dark-theme')
+</script>
+
+
+<script type="text/javascript" src='/custom.js'></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66500356-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66500356-2');
+  console.log('loaded google analytics');
+</script>
+
+
+
+
+<script data-ad-client="ca-pub-3598595244893452" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<body>
+  <div class="wrapper flex  flex-column">
+    
+<div class="nav flex flex-row">
+  
+  <a href='/'>
+    <img class="nav-logo" src='/logo.png' alt="" />
+  </a>
+  
+
+  <div class="links">
+    
+    <a class="link" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        Discord
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        Youtube
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Twitch
+      </span>
+    </a>
+    
+    <a class="link" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        Patreon
+      </span>
+    </a>
+    
+    <a class="link" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        Feedback
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="desktop-theme flex-row">
+    <div class="separator-desktop"></div>
+    
+    <span class="link">Appearance :</span>
+    
+    <div id="desktop-theme" class="button">
+      <div id="desktop-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+
+
+<div class="burgers">
+  <div class="burger"></div>
+</div>
+
+<div class="nav-mobile flex flex-column">
+  <div class="links-mobile flex flex-column">
+    
+    <a class="link-mobile" href='https://discord.gg/A64RcA5'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Discord</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Youtube</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.twitch.tv/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Twitch</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://www.patreon.com/seraphinush'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Patreon</h2>
+      </span>
+    </a>
+    
+    <a class="link-mobile" href='https://github.com/seraphinush-gaming/mysterium/issues'>
+      <span class="line-wrap"><span class="line"></span>
+        <h2>Feedback</h2>
+      </span>
+    </a>
+    
+  </div>
+
+  <div class="separator-mobile"></div>
+
+  <div class="mobile-theme flex flex-row">
+    
+    <h2>Appearance :</h2>
+    
+    <div id="mobile-theme" class="button">
+      <div id="mobile-theme-toggle" class="button-toggle"></div>
+    </div>
+  </div>
+</div>
+    <div id="modal-container">
+  <span id="modal-close-button">&times;</span>
+  <span style="display: inline-block; height: 50%;"></span>
+  <img id="modal-image" />
+</div>
+    <div class="content flex flex-column">
+      
+
+
+
+<div class="paths">
+  
+  
+  <a class="path" href="https://tera-mysterium.com/en/">mysterium</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/patch/">Patch notes</a> / 
+  <a class="path" href="https://tera-mysterium.com/en/patch/2021/">2021</a>
+</div>
+
+
+<h1 class="items-title">2021.10.25 patch notes (v112.01) | TERA KR</h1>
+
+<div class="items">
+
+  <div class="post">
+    <div class="frontmatter">
+      
+      <p>Published : Oct 25, 2021 </p>
+      
+      
+    </div>
+    
+    <h2 id="update">Update</h2>
+<h3 id="1-guild-conquest-tournament-pl"><strong>1.</strong> Guild Conquest Tournament (pl.)</h3>
+<ul>
+<li>Added &lsquo;Call of the Guild (pl.)&rsquo; tab to Guild UI, with Guild Conquest Tournament (pl.) event information</li>
+</ul>
+<p><img src="/images/patch/v112-01_01.png" alt="1"></p>
+<ul>
+<li>Guild Conquest Tournament can be entered via &lsquo;Donaruld (pl.)&rsquo; NPC in Velika, Highwatch, Balderon
+<ul>
+<li>Entry is limited from 1 Guild Member up to player limit stated on Guild Conquest Tournament information
+<ul>
+<li>Guild Conquest Tournament is separated into Guild ranking and individual ranking, and reward is distributed to guild and individuals depending on rank
+<ul>
+<li>Guild ranking is based on the sum of all guild members&rsquo; highest points</li>
+<li>Individual ranking is based on individual highest point</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-dungeon-resonance"><strong>2.</strong> Dungeon Resonance</h3>
+<ul>
+<li>Dimension Master Statue per class for Corrupted Skynest (hard) of Dungeon Resonance Season 1 will be displayed in Balderon</li>
+</ul>
+<p><img src="/images/patch/v112-01_02.png" alt="2"></p>
+<h3 id="3-battleground"><strong>3.</strong> Battleground</h3>
+<ul>
+<li>Adjusted Sunday Battleground schedule (TERA KR exclusive)</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">시간</th>
+<th align="center">운영 전장</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">20시</td>
+<td align="center">해안 점령지 (3시간)</td>
+</tr>
+<tr>
+<td align="center">21시</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">22시</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">23시</td>
+<td align="center">명예의 전장 (3시간)</td>
+</tr>
+<tr>
+<td align="center">24시</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">25시 (새벽 1시)</td>
+<td align="center">'&rsquo;</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>Champions&rsquo; Skyring
+<ul>
+<li>Changed team matching -&gt; solo matching</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-class-balance"><strong>4.</strong> Class balance</h3>
+<ul>
+<li>Reaper
+<ul>
+<li>Grim Strike
+<ul>
+<li>스킬 위력 5% 증가</li>
+<li>마법 계수 138% -&gt; 152%</li>
+<li>기본 치명타 확률 향상</li>
+</ul>
+</li>
+<li>Dark Harvest
+<ul>
+<li>스킬 위력 10% 증가</li>
+<li>마법 계수 132% -&gt; 151%</li>
+</ul>
+</li>
+<li>Recall Scythe
+<ul>
+<li>스킬 위력 20% 증가</li>
+<li>기본 치명타 확률 향상</li>
+</ul>
+</li>
+<li>Double Shear
+<ul>
+<li>스킬 위력 10% 증가</li>
+<li>마법 계수 125% -&gt; 158%</li>
+<li>기본 치명타 확률 향상</li>
+</ul>
+</li>
+<li>Death Spiral
+<ul>
+<li>스킬 위력 15% 증가</li>
+<li>마법 계수 140% -&gt; 162%</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<pre><code>개발자 코멘트
+
+비검사는 무사와 유사한 구조의 패시브 스킬을 지닌 클래스입니다.
+따라서, 공식 개선 이전에는 마법 저항 무시 능력치를 통해 부족한 DPS 성능을 보완하던 클래스이기에 9월 밸런스 패치에서 무사와 함께 밸런스 조정을 진행하고자 하였습니다. 다만, 밸런스를 검토할 데이터 표본의 모수가 적어 신규 액세서리 업데이트 이후, 데이터 집계 기간을 조금 더 확보하고자 업데이트 일정을 변경하였습니다.
+비검사는 어둠강림 상태에서의 단순한 스킬 사이클과 각성 스킬의 강화 효과, 어둠숨기 : 암살 패시브 스킬 등으로 인하여, 특정 스킬에 피해량 지분이 집중된 클래스입니다.
+따라서, 비검 최후의 일격과 같은 핵심 스킬을 상향할 경우, 던전 클리어 타임이 짧아질수록 시간에 대한 밸런스 편차가 크게 변동됩니다.
+이에 특정 핵심 스킬을 제외한 다양한 스킬을 고루 상향하여 안정적인 성능을 발휘할 수 있도록 스킬위력과 마법 계수를 조정하고자 합니다.
+또한, 기본 치명타 확률이 낮아 사용 기대치가 낮은 스킬의 경우, 적정 수준으로 보정하였습니다.
+</code></pre><ul>
+<li>Sorcerer
+<ul>
+<li>Ice Lances
+<ul>
+<li>스킬 위력 20% 감소</li>
+<li>기본 치명타 확률 증가</li>
+</ul>
+</li>
+<li>Arcane Pulse
+<ul>
+<li>스킬 위력 14% 감소</li>
+<li>마력 강화 상태에서의 폭렬구 스킬 위력 22.7% 증가</li>
+<li>기본 치명타 확률 증가</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<pre><code>개발자 코멘트
+
+마법사의 주력 스킬 중 몇개의 스킬은 기본적인 치명타 확률 보정이 없었기에 치명타 유발 의존도가 높은 클래스 중 하나였습니다.
+치명타 확률이 낮을수록 성능 편차가 크게 벌어지는 상황으로 인하여, 실제 게임 플레이에서 치명타가 거의 발생하지 않으면 DPS가 현저히 낮게 책정되고, 운에 따라 치명타가 자주 발생할 경우 강력한 성능을 보여주기도 했습니다.
+하지만, 이러한 내용이 주력 스킬에 적용되어 있다보니 캐릭터 성장 체감을 흐리거나, 리더보드 경쟁에서 자신의 실력보다 운의 의존도가 높아지는 경향이 발생하였습니다. 따라서 적절한 확률 보정을 추가하여 평균적으로 준수한 성능을 낼 수 있도록 개선하고자 합니다.
+단순히 치명타 확률을 보정할 경우, 오버 밸런스가 되기 때문에 기본 스킬 위력을 감소하였습니다.
+폭렬구 스킬의 경우, 기본 상태와 마력강화 상태에서 폭렬구 스킬의 피해량이 서로 달랐습니다. 이번 밸런스 조정을 통해 각 구체당 위력을 서로 동일한 값으로 조정하였습니다.
+기존에는 최대 발사체가 2발에서 4발로 늘어나더라도, 각 발사체 당 피해량이 감소하여 약 1.4배의 공격력으로 책정되어있었으나, 패치 이후에는 기본 폭렬구 대비 2발에서 4발로 늘어난 만큼 직관적으로 2배의 성능을 낼 수 있습니다.
+현재 던전 클리어 타임이 다소 짧아진 관계로, '짧은 시간동안 강력한 성능을 내야하는 것'이 최근의 전투 메타입니다. 따라서, 마력 강화 상태에서 조금 더 강한 화력을 낼 수 있도록 조정하고자 합니다.
+</code></pre><ul>
+<li>Warrior
+<ul>
+<li>Defensive Stance
+<ul>
+<li>Traverse Cut
+<ul>
+<li>Changed to end Traverse Cut applied to party members upon using Assault Stance</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<pre><code>개발자 코멘트
+
+검투사 오버밸런스 관련 검토를 위해 최상위권 유저의 파티 버프 목록을 확인하는 과정에서, 강철의 결의 상태에서 아군을 지원하는 공격속도 증가 효과를 권술사 탱커와 함께 파티에서 사전에 사용한 후, 칼날의 결의로 전환하여 전투를 진행하는 방식으로 활용하는 사례를 확인하여 칼날의 결의를 사용할 때 파티원에게 적용된 공격속도 증가 효과도 함께 종료되도록 변경합니다.
+최근 권술사 태풍연타의 '내상' 밸런스 조정과 함께 시너지 효과를 나타내면서, 강력한 성능을 보이게 된 검투사에 클래스에 대해서는 지속적으로 면밀히 살펴보고자 합니다.
+</code></pre><h3 id="5-item"><strong>5.</strong> Item</h3>
+<ul>
+<li>Added back accessory etching</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Item</th>
+<th align="center">Etching effect 1</th>
+<th align="center">Etching effect 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">[Style] Back Costume Etching - Wings of Dawn (pl.)</td>
+<td align="center">Increase Flight Acceleration efficiency by 20%</td>
+<td align="center">Power / Endurance 2 ~ 7</td>
+</tr>
+<tr>
+<td align="center">[Style] Back Costume Etching - Brilliant Wings of Dawn (pl.)</td>
+<td align="center">Increase Flight Acceleration efficiency by 30%</td>
+<td align="center">Power / Endurance 2 ~ 7</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>&lsquo;Design: Wings of Dawn Etching Box (pl.)&rsquo; can be purchased from Etching Materials NPC Irumm in major cities
+<ul>
+<li>Crafting materials Primordial Breath (pl.), Sacred Essence (pl.), Feather of Dawn (pl.) can be obtained by dismantling Etching - Wings of Dawn (pl.) and as a chance to drop by defeating Island of Dawn monsters</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Monster</th>
+<th align="center">Drop item</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">병든 Basilisk</td>
+<td align="center">Primordial Breath (pl.)</td>
+</tr>
+<tr>
+<td align="center">병든 기가니아</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">병든 아라크네아</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 Basilisk</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 기가니아</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 아라크네아</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 Blood Golem</td>
+<td align="center">Sacred Essence (pl.)</td>
+</tr>
+<tr>
+<td align="center">흉포한 다크리퍼</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 지옥불 괴수</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 Naga Battlemaster</td>
+<td align="center">Feather of Dawn (pl.)</td>
+</tr>
+<tr>
+<td align="center">흉포한 Giant</td>
+<td align="center">'&rsquo;</td>
+</tr>
+<tr>
+<td align="center">흉포한 어둠의 화신</td>
+<td align="center">'&rsquo;</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>Wings of Dawn Etching Box (Uncommon) (pl.) or Wings of Dawn Etching Box (Rare) (pl.) as critical crafting can be obtained by crafting said design
+<ul>
+<li>Temporary item [Style] Back Costume Etching - Wings of Dawn (pl.) or permanent item [Style] Back Costume Etching - Brilliant Wings of Dawn (pl.) can be obtained from each box</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-baldera"><strong>6.</strong> Baldera</h3>
+<ul>
+<li>Changed to be able to utilize 5 solo-content NPCs from Highwatch in Balderon</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">NPC title</th>
+<th align="center">NPC name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">이벤트 던전 입장 관리인</td>
+<td align="center">뭉개구름 바락</td>
+</tr>
+<tr>
+<td align="center">기억의 석판 관리인</td>
+<td align="center">낮은바람 나딘</td>
+</tr>
+<tr>
+<td align="center">경기장 안내인</td>
+<td align="center">나데롱</td>
+</tr>
+<tr>
+<td align="center">수호자 훈련소 교관</td>
+<td align="center">청명한하늘 다람</td>
+</tr>
+<tr>
+<td align="center">시험의 던전 교관</td>
+<td align="center">쉥크</td>
+</tr>
+</tbody>
+</table> </div>
+<p><img src="/images/patch/v112-01_03.png" alt="3"></p>
+<h3 id="7-open-world"><strong>7.</strong> Open world</h3>
+<ul>
+<li>Island of Dawn
+<ul>
+<li>Adjusted medium monster balance
+<ul>
+<li>Removed the following Vanguard Requests :</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Vanguard Request</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">흉포한 바실리스크 (하) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 기가니아 (하) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 아라크네아 (하) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 블러드 골렘 (중) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 다크리퍼 (중) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 지옥불 괴수 (중) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 비늘 전사 (상) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 강철 거인 (상) 토벌 요청!</td>
+</tr>
+<tr>
+<td align="center">흉포한 어둠의 화신 (상) 토벌 요청!</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>Replaced Vanguard Requests with the following daily quests
+<ul>
+<li>Recommended item level for daily quest is ilv 498</li>
+<li>Quest can be accepted from &lsquo;여명의 정원 선착장'의 &lsquo;세나&rsquo; NPC로부터 수주할 수 있습니다.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class=table-wrapper> <table>
+<thead>
+<tr>
+<th align="center">Quest name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">여명의 정원 소탕 (입문)</td>
+</tr>
+<tr>
+<td align="center">여명의 정원 소탕 (하)</td>
+</tr>
+<tr>
+<td align="center">여명의 정원 소탕 (중)</td>
+</tr>
+<tr>
+<td align="center">여명의 정원 소탕 (상)</td>
+</tr>
+</tbody>
+</table> </div>
+<ul>
+<li>
+<ul>
+<li>Revised monster drop item
+<ul>
+<li>Key drop item
+<ul>
+<li>Mahtnan gear enchanting materials such as Murky Mahtnan Powder, Glimmering Mahtnan Powder, Sparkling Mahtnan Powder, Legacy Essence, Hero&rsquo;s Crystal</li>
+<li>Wings of Dawn Etching Box (pl.) crafting materials such as Primordial Essence (pl.), Sacred Essence (pl.), Feather of Dawn (pl.)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Added NPC &lsquo;Transparent Wing Bareum&rsquo; in Highwatch and Balderon to teleport to Island of Dawn 선착장</li>
+</ul>
+</li>
+<li>Revised drop item of existing gear materials from open world monsters</li>
+</ul>
+<h3 id="8-other"><strong>8.</strong> Other</h3>
+<ul>
+<li>Changed to be able to store [Not Tradeable] Murky Mahtnan Powder dropped from Ghillieglade in Bank</li>
+<li>Changed spawn location upon quitting after clearing instance to the previous location before entering instance</li>
+<li>Changed to disable Star Lotus Aura and Moon Lotus Aura effect in all Battleground</li>
+</ul>
+<h2 id="bug-fixes">Bug fixes</h2>
+<ul>
+<li>soontm</li>
+</ul>
+
+    
+    <div class="sources">
+      <p>Source(s) : </p>
+      <ul>
+        
+        <li><a href="/ko/patch/2021/v122-01">TERA KR patch archive | tera-mysterium</a></li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+</div>
+
+
+      
+
+
+<br />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3598595244893452"
+     data-ad-slot="9853832383"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    </div>
+    <div class="footer flex flex-column">
+
+  <h4 class="focus">mysterium</h4>
+  <p>TERA blog by seraphinush</p>
+
+  <div class="socials flex flex-column">
+      
+  </div>
+
+</div>
+  </div>
+</body>
+
+</html>

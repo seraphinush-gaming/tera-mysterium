@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -130,6 +130,15 @@ Tips  Spawns randomly after defeating Harnovog in Stormed Citadel  </description
       <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Conditions(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
+      <title>2021.10.25 patch notes (v112.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v112-01/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v112-01/</guid>
+      <description>Update 1. Guild Conquest Tournament (pl.)  Added &amp;lsquo;Call of the Guild (pl.)&amp;rsquo; tab to Guild UI, with Guild Conquest Tournament (pl.) event information   Guild Conquest Tournament can be entered via &amp;lsquo;Donaruld (pl.)&amp;rsquo; NPC in Velika, Highwatch, Balderon  Entry is limited from 1 Guild Member up to player limit stated on Guild Conquest Tournament information  Guild Conquest Tournament is separated into Guild ranking and individual ranking, and reward is distributed to guild and individuals depending on rank  Guild ranking is based on the sum of all guild members&amp;rsquo; highest points Individual ranking is based on individual highest point        2.</description>
     </item>
     
     <item>
@@ -1726,7 +1735,7 @@ One core equipment is necessary to retool superior Exodor gear into Mythical gea
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/activities/field-boss-monster/</guid>
-      <description>Field Boss Monsters are large monsters in Open World. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
+      <description>Field Boss Monsters are large monsters in open world. Currently there are 3 Field Boss Monsters - Ortan, Hazard, and Cerrus - all three spawn on Arborea.
 In patch v86.01, Field Boss Monsters Maknakh and Murderwing Monarch was added. In patch v87.02, Maknakh and Murderwing Monarch was removed due to lag issues. In patch v96.01, Maknakh returned as part of Commander&amp;rsquo;s Residence (20-Person) raid instance.
 In patch v86.03, Field Boss Monster LB-1 was added.</description>
     </item>
