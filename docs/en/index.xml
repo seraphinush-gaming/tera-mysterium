@@ -6,23 +6,10 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Notice : Discord for RSS</title>
-      <link>https://tera-mysterium.com/en/discord-rss/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://tera-mysterium.com/en/discord-rss/</guid>
-      <description>Using Discord for RSS-based update notification RSS is available via https://tera-mysterium.com/en/index.xml.
-For non-technical users, feel free to join this Discord server for tera-mysterium update notifications:
-In the #public-bot text channel, type .iam tera-mysterium to self-assign the said role through a Discord bot &amp;ndash; the text channel for tera-mysterium website update will then become visible.
-The text channel can be followed to be updated in other Discord servers.
-Discord server link : https://discord.</description>
-    </item>
     
     <item>
       <title>2021 patch summary</title>
@@ -130,6 +117,15 @@ Tips  Spawns randomly after defeating Harnovog in Stormed Citadel  </description
       <description>Achievement info    Key Value     Id 155001   Name Sisterly Love   Point 10   Description Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;   Detail Completed &amp;ldquo;Sibling Rivalry.&amp;rdquo;    Conditions(s) Complete &amp;ldquo;Sibling Rivalry&amp;rdquo;.
 Notable reward Title Family Mediator
 Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Tale of Two Tails   Region Poporia   Starting Location Pora Elinu   Starting NPC Arin    Summary You gave Arin&amp;rsquo;s draught to Rida, but her sister&amp;rsquo;s attempt at manipulation angered her.</description>
+    </item>
+    
+    <item>
+      <title>2021.11.03 patch notes (v112.01.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v112-01-01/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v112-01-01/</guid>
+      <description>Update 1. Dungeon Resonance  Changed title distributed for Dungeon Resonance season 1 to the following :  Rank 1 title : 차원 저 너머에 도달한 Rank 2~3 title : 차원 저 너머를 바라본    2. Event (TERA KR exclusive)  9월 15일(수) 진행된 익스프레스 점핑 타임! 이벤트 전용 아이템 및 퀘스트가 삭제됩니다.  3. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available</description>
     </item>
     
     <item>
