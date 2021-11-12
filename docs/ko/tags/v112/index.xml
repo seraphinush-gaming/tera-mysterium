@@ -6,10 +6,19 @@
     <description>Recent content in v112 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/v112/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 11월 10일 업데이트 안내 (v112.02)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v112-02/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v112-02/</guid>
+      <description>업데이트 1. 던전공명  공명 던전으로 저주받은 안타로스의 심연 던전이 오픈됩니다.  입장 방법  발데라 특별지구&amp;gt;발데론에 있는 피로 물든 공명 게이트로만 입장이 가능합니다.  피로 물든 공명 게이트로 입장 시 불멸의 켈사이크 은폐지와 저주받은 안타로스의 심연 중 한 가지 던전으로 랜덤하게 입장 됩니다. (추후 업데이트를 통해 선택하여 입장하는 방식으로 개선 예정입니다.) 입장하기 위해서는 AWAKE 공명석이 1개 필요합니다.(파티원 개별 소모)           저주받은 안타로스의 심연      입장 레벨 70   장비 레벨 510       공명 효과  저주받은 안타로스의 심연에 적용되는 공명 효과는 다음과 같습니다.</description>
+    </item>
     
     <item>
       <title>2021년 11월 03일 업데이트 안내 (v112.01.01)</title>
