@@ -1,6 +1,6 @@
 +++
 date = "2021-01-01"
-lastmod = "2021-09-09"
+lastmod = "2021-11-24"
 title = "2021 patch summary"
 categories = ["patch notes"]
 tags = ["2021", "summary"]
@@ -194,6 +194,7 @@ weight = 1
 
 - v110.01.01
   - **New content : Resonance Dungeon**
+  - **New dungeon : Corrupted Skynest (hard) Dungeon Resonance**
   - Leaderbaord : Added Resonance Dungeon ranking
   - **New dungeon : Desolarus Testing Ground**
   - Vanguard Initiative : Updated Vanguard Request reward
@@ -227,6 +228,21 @@ weight = 1
 
 - v111.02.01
 
+- v112.01
+  - **New content** : Guild Conquest Tournament (pl.)
+  - Class balance (Reaper, Sorcerer, Warrior)
+  - **New item** : Back accessory etching
+  - Open world : Updated Island of Dawn
+
 ## November
+
+- v112.01.01
+
+- v112.02
+  - **New dungeon : Antaroth's Abyss (hard) Dungeon Resonance**
+
+- v112.02.01
+
+- v113.01
 
 ## December
