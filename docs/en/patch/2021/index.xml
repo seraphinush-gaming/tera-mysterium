@@ -6,7 +6,7 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/patch/2021/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,16 @@
       <guid>https://tera-mysterium.com/en/patch/2021/summary/</guid>
       <description>January   v103.01
  New dungeon : Killing Grounds, Killing Grounds (hard) New dungeon : Catalepticon Trial Leaderboard : Removed Forbidden Arena Exodor : Removed restriction from using flight and jump platform Quest : Added quest skip function Partner : Revised to guarantee (100%) obtaining a Partner upon using an Evolution Core Partner : Revised Partner Fellowship increase rate and amount Battleground : Revised Gridiron Card Collection : Increase Card Fragment drop rate in all instances Card Collection : Decreased cost of Card Fragment Boxes in Specialty Merchant Card Collection : Significantly increased Selective Card Fusion rate Vanguard Initiative : Added level 70 [Daily] Vanguard Request Item : Added +9 passive effect to Kaia&amp;rsquo;s Soul Armor / Hand Armor / Foot Armor Item : Changed Frost Monarch dragon-type mount active skill    v103.</description>
+    </item>
+    
+    <item>
+      <title>2021.11.17 patch notes (v) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v112-02-01/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v112-02-01/</guid>
+      <description>Update 1. Service stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+Bug fixes  Fixed issue in Antaroth&amp;rsquo;s Abyss (hard) Dungeon Resonance where Priests can pull players outside of the combat area after combat starts Fixed issue in Antaroth&amp;rsquo;s Abyss (hard) Dungeon Resonance where multiple orbs can be destroyed at a distance during orb pattern Fixed issue where Adventure Coin for Ace Dungeons is consumed at different times Fixed issue in Antaroth&amp;rsquo;s Abyss (hard) Dungeon Resonance where mana burst Resonance Effect does not apply Fixed issue in Antaroth&amp;rsquo;s Abyss (hard) Dungeon Resonance where damage from clones is low Fixed issue where Corsairs&amp;rsquo; Stronghold event reward chance is not applied correctly Fixed issue where Serghetto event NPC continues to spawn after event has ended Fixed issue where tooltip for [Untradable] Murky Mahtnan Powder, [Untradable] Gleaming Mahtnan Powder, [Untradable] Sparkling Mahtnan Powder notes that they can be used for crafting  </description>
     </item>
     
     <item>
