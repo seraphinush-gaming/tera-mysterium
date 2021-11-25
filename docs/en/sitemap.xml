@@ -168,17 +168,17 @@
   </url>
   
   <url>
-    <loc>https://tera-mysterium.com/en/patch/2021/v112-02-01/</loc>
-    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+    <loc>https://tera-mysterium.com/en/patch/2021/v113-01/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://tera-mysterium.com/ko/patch/2021/v112-02-01/"
+                href="https://tera-mysterium.com/ko/patch/2021/v113-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tera-mysterium.com/en/patch/2021/v112-02-01/"
+                href="https://tera-mysterium.com/en/patch/2021/v113-01/"
                 />
   </url>
   
@@ -244,7 +244,37 @@
   
   <url>
     <loc>https://tera-mysterium.com/en/tags/translation/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/tags/v113/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/tags/v113/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/tags/v113/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tera-mysterium.com/en/patch/2021/v112-02-01/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://tera-mysterium.com/ko/patch/2021/v112-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tera-mysterium.com/en/patch/2021/v112-02-01/"
+                />
   </url>
   
   <url>

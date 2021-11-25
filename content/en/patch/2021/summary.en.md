@@ -145,7 +145,7 @@ weight = 1
   - **New item : Campfire**
   - Battleground : Fraywind Canyon balance update
   - **New feature : Cross-server LFG and Instance Matching system**
-  - **New feature : Character Customization Gallery (pl.)**
+  - **New feature : Character Customization Gallery (placeholder)**
 
 ## July
 

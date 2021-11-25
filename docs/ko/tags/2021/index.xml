@@ -6,10 +6,19 @@
     <description>Recent content in 2021 on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/ko/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021년 11월 24일 업데이트 안내 (v113.01)</title>
+      <link>https://tera-mysterium.com/ko/patch/2021/v113-01/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/ko/patch/2021/v113-01/</guid>
+      <description>업데이트 1. 던전 공명  청명한 공명 게이트가 새로 추가됩니다.     입장방법  발데라 특별지구&amp;gt;발데론에 있는 청명한 공명 게이트로만 입장이 가능합니다.  입장하기 위해서는 열화된 AWAKE 공명석이 1개 필요합니다.(파티원 개별 소모)           청명한 공명 게이트      입장 레벨 70   장비 레벨 504           해당 게이트에 입장하면 잠식된 테네브리스의 성채, 코어 융합소, 왜곡된 리안의 전당 공명 던전 중 1가지 던전으로 랜덤하게 입장 됩니다.</description>
+    </item>
     
     <item>
       <title>2021년 11월 17일 업데이트 안내 (v112.02.01)</title>

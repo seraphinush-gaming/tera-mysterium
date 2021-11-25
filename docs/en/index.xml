@@ -6,7 +6,7 @@
     <description>Recent content on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -120,6 +120,15 @@ Quest info    Key Value     Id 155800   Name Sibling Rivalry   Prerequisite A Ta
     </item>
     
     <item>
+      <title>2021.11.24 patch notes (v113.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v113-01/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v113-01/</guid>
+      <description>Update 1. Dungeon Resonance  Added Lucid Resonance Gate (pl.)     Entry  Entry is available through Lucid Resonance Gate (pl.) located in Baldera &amp;gt; Balderon  Entry requires Weak AWAKE Resonance Stone (pl.) (consumed per party member)           Lucid Resonance Gate (pl.)      Entry level 70   Item level 504           Either Stormed Citadel, Fusion Laboratory, or Grotto of Lost Souls (hard) is chosen automatically upon entering Lucid Resonance Gate (pl.</description>
+    </item>
+    
+    <item>
       <title>2021.11.17 patch notes (v112.02.01) | TERA KR</title>
       <link>https://tera-mysterium.com/en/patch/2021/v112-02-01/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
@@ -208,7 +217,7 @@ Bug fixes  Fixed issue in Antaroth&amp;rsquo;s Abyss (hard) Dungeon Resonance wh
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v110-02/</guid>
-      <description>*9/10 15:55 - 던전 항목이 업데이트 되었습니다. *9/10 14:29 - 길드대전 항목이 업데이트 되었습니다. Update 1. Dungeon  Increased Sky Cruiser Endeavor (hard) reward  Added 정제된 돌 재료 상자 (pl.) as additional reward  1 Essence is guaranteed with full Joy of Partying buff, and additional can be obtained at chance The following items can be obtained from 정제된 돌 재료 상자 (pl.) with equal chance         Listing Amount     Solar Essence 1   Lava Essence 1   Glacial Essence 1   Frost Essence 1   Lightning Essence 1    2.</description>
+      <description>*9/10 15:55 - 던전 항목이 업데이트 되었습니다. *9/10 14:29 - 길드대전 항목이 업데이트 되었습니다. Update 1. Dungeon  Increased Sky Cruiser Endeavor (hard) reward  Added Refined Stone Essence Chest as additional reward  1 Essence is guaranteed with full Joy of Partying buff, and additional can be obtained at chance The following items can be obtained from Refined Stone Essence Chest with equal chance         Listing Amount     Solar Essence 1   Lava Essence 1   Glacial Essence 1   Frost Essence 1   Lightning Essence 1    2.</description>
     </item>
     
     <item>
