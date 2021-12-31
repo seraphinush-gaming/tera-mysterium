@@ -6,10 +6,38 @@
     <description>Recent content in translation on mysterium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tera-mysterium.com/en/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.12.23 patch notes (v114.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v114-01/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v114-01/</guid>
+      <description>*12/23 23:05 - 부가서비스, 버그 수정 항목이 업데이트 되었습니다.*12/23 15:50 - 장비, 기타 항목이 업데이트 되었습니다.* 12/23 10:27 - 버그 수정 항목이 업데이트 되었습니다.* 12/22 02:00 - 업데이트 일정 변경에 대한 내용이 업데이트 되었습니다.* 12/20 18:23 - 카드합성, 부가서비스 항목이 업데이트 되었습니다.* 12/20 14:28 - 클래스, 스킬 교본, 장비, 부가서비스 항목이 업데이트 되었습니다.Update 1. Dungeon  Added new dungeon : Frozen Throne (pl.) (5-Person)     Frozen Throne (pl.</description>
+    </item>
+    
+    <item>
+      <title>2021.12.15 patch notes (v113.02.01) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v113-02-01/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v113-02-01/</guid>
+      <description>Update 1. Service stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  Bug fixes  Fixed issue where Bandit Santa Caiman spawn in Wintera Snowfield event battleground  </description>
+    </item>
+    
+    <item>
+      <title>2021.12.08 patch notes (v113.02) | TERA KR</title>
+      <link>https://tera-mysterium.com/en/patch/2021/v113-02/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tera-mysterium.com/en/patch/2021/v113-02/</guid>
+      <description>Update 1. Service stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+Bug fixes  Fixed issue where 태고의 유적지 on Island of Dawn (old) is displayed as 로크 추종자 기지 Fixed issue where HP bar does not display for select NPCs in combat on Island of Dawn (old) Fixed issue where Supernatural Power effect does not apply upon learning Mighty Empyrean Gryphon (rare, legendary) Fixed issue where pop-up upon death does not display properly on Island of Dawn (old) Fixed issue in Corsairs&amp;rsquo; Stronghold where logging out while capturing pyre maintains capturing process Fixed issue where NPC Agrakan dialogue is awkward  </description>
+    </item>
     
     <item>
       <title>2021.12.01 patch notes (v113.01.01) | TERA KR</title>

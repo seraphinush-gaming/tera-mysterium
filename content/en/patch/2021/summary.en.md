@@ -246,3 +246,25 @@ weight = 1
 - v113.01
 
 ## December
+
+- v113.01.01
+
+- v113.02
+
+- v113.02.01
+
+- v114.01
+  - **New dungeon : Frozen Throne (pl.)**
+  - **New dungeon : Frozen Throne (hard) (pl.)**
+  - **New dungeon : Frozen Throne (pl.) (1-Person)**
+  - **New dungeon : Revived Manaya's Core (pl.)**
+  - **New dungeon : Revived Manaya's Core (pl.) (1-Person)**
+  - Dungeon : Reopened Antaroth's Abyss (hard), Shadow Sanguinary (hard), Thaumetal Refinery, Macellarius Catacombs, Forbidden Arena [Hagufna]
+  - Dungeon : Removed Akalath Quarantine, Bahaar's Sanctum, Damned Citadel, Desolarus Testing Ground, Fusion Laboratory, Fusion Laboratory (hard), Stormed Citadel, Velik's Hold, Abscess, Grotto of Lost Souls, Draakon Arena, Catalepticon
+  - **New content : FROZEN season**
+  - Content : Ended AWAKE season
+  - **New content : Class Mastery (pl.) (Slayer, Archer)**
+  - Class balance (Warrior, Brawler, Archer, Mystic)
+  - **New gear : Frostblossom (pl.) gear**
+  - **New item : Rare and superior Crystals**
+  - **New card : Superior Cards (4)**
