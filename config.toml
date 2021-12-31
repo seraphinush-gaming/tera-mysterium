@@ -26,9 +26,6 @@ inArticleSlot = "9853832383"
   weight = 0
   contentDir = "content/en"
   [[Languages.en.params.nav]]
-    title = "Discord"
-    url = "https://discord.gg/A64RcA5"
-  [[Languages.en.params.nav]]
     title = "Youtube"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
   [[Languages.en.params.nav]]
@@ -44,9 +41,6 @@ inArticleSlot = "9853832383"
 [Languages.ko]
   weight = 1
   contentDir = "content/ko"
-  [[Languages.ko.params.nav]]
-    title = "디스코드"
-    url = "https://discord.gg/A64RcA5"
   [[Languages.ko.params.nav]]
     title = "유튜브"
     url = "https://www.youtube.com/c/seraphinush-gaming?sub_confirmation=1"
