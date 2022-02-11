@@ -17,7 +17,7 @@
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v114-01/</guid>
-      <description>*12/23 23:05 - 부가서비스, 버그 수정 항목이 업데이트 되었습니다.*12/23 15:50 - 장비, 기타 항목이 업데이트 되었습니다.* 12/23 10:27 - 버그 수정 항목이 업데이트 되었습니다.* 12/22 02:00 - 업데이트 일정 변경에 대한 내용이 업데이트 되었습니다.* 12/20 18:23 - 카드합성, 부가서비스 항목이 업데이트 되었습니다.* 12/20 14:28 - 클래스, 스킬 교본, 장비, 부가서비스 항목이 업데이트 되었습니다.Update 1. Dungeon  Added new dungeon : Frozen Throne (pl.) (5-Person)     Frozen Throne (pl.</description>
+      <description>*12/23 23:05 - 부가서비스, 버그 수정 항목이 업데이트 되었습니다.*12/23 15:50 - 장비, 기타 항목이 업데이트 되었습니다.* 12/23 10:27 - 버그 수정 항목이 업데이트 되었습니다.* 12/22 02:00 - 업데이트 일정 변경에 대한 내용이 업데이트 되었습니다.* 12/20 18:23 - 카드합성, 부가서비스 항목이 업데이트 되었습니다.* 12/20 14:28 - 클래스, 스킬 교본, 장비, 부가서비스 항목이 업데이트 되었습니다.Update 1. Dungeon  Added new dungeon : Ice Throne (5-Person)     Ice Throne      Entry limit None   Adventure Coin 260   Entry level 70   Item level 522       Ice Throne (hard)      Entry limit None   Adventure Coin 265   Entry level 70   Item level 525       Entry method  웨스토니아 가드&amp;gt;얼음평원에 위치하고 있으며, 명품관의 이동 주문서, 발키온 연합 지령서의 순간 이동, 던전 매칭 등을 이용하여 입장할 수 있습니다.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       
       <guid>https://tera-mysterium.com/en/patch/2021/v113-02/</guid>
       <description>Update 1. Service stabilization  서버 불안정 현상 최소화를 위해, 전반적인 인프라 안정화 작업을 진행합니다.  2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
-Bug fixes  Fixed issue where 태고의 유적지 on Island of Dawn (old) is displayed as 로크 추종자 기지 Fixed issue where HP bar does not display for select NPCs in combat on Island of Dawn (old) Fixed issue where Supernatural Power effect does not apply upon learning Mighty Empyrean Gryphon (rare, legendary) Fixed issue where pop-up upon death does not display properly on Island of Dawn (old) Fixed issue in Corsairs&amp;rsquo; Stronghold where logging out while capturing pyre maintains capturing process Fixed issue where NPC Agrakan dialogue is awkward  </description>
+Bug fixes  Fixed issue where 태고의 유적지 on Island of Glowing Dawn is displayed as 로크 추종자 기지 Fixed issue where HP bar does not display for select NPCs in combat on Island of Glowing Dawn Fixed issue where Supernatural Power effect does not apply upon learning Mighty Empyrean Gryphon (rare, legendary) Fixed issue where pop-up upon death does not display properly on Island of Glowing Dawn Fixed issue in Corsairs&amp;rsquo; Stronghold where logging out while capturing pyre maintains capturing process Fixed issue where NPC Agrakan dialogue is awkward  </description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ Bug fixes  Fixed issue where 태고의 유적지 on Island of Dawn (old) is disp
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v113-01-01/</guid>
-      <description>Update 1. Open world  Island of Dawn (old)  Changed to be able to teleport to Island of Dawn (old) through NPC Transparent Wing Bareum at North Dock  Removed &amp;lsquo;Teleportal Scroll: Lucid Island of Dawn (pl.)&amp;rsquo; from Island of Dawn North Dock;s merchant      2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
+      <description>Update 1. Open world  Island of Glowing Dawn  Changed to be able to teleport to Island of Glowing Dawn through NPC Barem at North Dock  Removed &amp;lsquo;Island of Glowing Dawn Teleportal Scroll&amp;rsquo; from Island of Dawn North Dock&amp;rsquo;s merchant      2. Services (TERA KR exclusive)  테라샵에서 아래의 아이템이 판매됩니다.  Image not available
 3. Event (TERA KR exclusive)  다음의 이벤트 아이템이 제거됩니다.</description>
     </item>
     
@@ -55,7 +55,7 @@ Bug fixes  Fixed issue where 태고의 유적지 on Island of Dawn (old) is disp
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v113-01/</guid>
-      <description>Update 1. Dungeon Resonance  Added Lucid Resonance Gate (pl.)     Entry  Entry is available through Lucid Resonance Gate (pl.) located in Baldera &amp;gt; Balderon  Entry requires Weak AWAKE Resonance Stone (pl.) (consumed per party member)           Lucid Resonance Gate (pl.)      Entry level 70   Item level 504           Either Stormed Citadel, Fusion Laboratory, or Grotto of Lost Souls (hard) is chosen automatically upon entering Lucid Resonance Gate (pl.</description>
+      <description>Update 1. Dungeon Resonance  Added Pure Resonance Gate     Entry  Entry is available through Pure Resonance Gate located in Baldera &amp;gt; Balderon  Entry requires Weak AWAKE Resonance Stone (consumed per party member)           Pure Resonance Gate      Entry level 70   Item level 504           Either Stormed Citadel, Fusion Laboratory, or Grotto of Lost Souls (hard) is chosen automatically upon entering Pure Resonance Gate  Highest resonance level of each dungeon is level 1         Antaroth&amp;rsquo;s Abyss (hard)  Changed unleash time limit to 20 minutes Changed orb mechanic method to be the same as before, and changed to be able to destroy by close range attacks Increased damage of pulse mechanic   Reward  Added Adventure Coin reward upon clearing Dungeon Resonance       Dungeon Resonance Reward     Pure Resonance Gate Adventure Coin (50, 1 Day)   Resonance Gate &amp;rsquo;&amp;rsquo;   Bloody Resonance Gate Adventure Coin (150, 1 Day)       Adventure Coin obtained from Dungeon Resonance is of equal distribution and is distributed to all party members    2.</description>
     </item>
     
     <item>
@@ -92,7 +92,7 @@ Bug fixes  Fixed issue in Antaroth&amp;rsquo;s Abyss (hard) Dungeon Resonance wh
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tera-mysterium.com/en/patch/2021/v112-01/</guid>
-      <description>Update 1. Guild Conquest Tournament (pl.)  Added &amp;lsquo;Call of the Guild (pl.)&amp;rsquo; tab to Guild UI, with Guild Conquest Tournament (pl.) event information   Guild Conquest Tournament can be entered via &amp;lsquo;Donaruld (pl.)&amp;rsquo; NPC in Velika, Highwatch, Balderon  Entry is limited from 1 Guild Member up to player limit stated on Guild Conquest Tournament information  Guild Conquest Tournament is separated into Guild ranking and individual ranking, and reward is distributed to guild and individuals depending on rank  Guild ranking is based on the sum of all guild members&amp;rsquo; highest points Individual ranking is based on individual highest point        2.</description>
+      <description>Update 1. Guild Conquest Ranked Battle  Added &amp;lsquo;Guild Call&amp;rsquo; tab to Guild UI, with Guild Conquest Ranked Battle event information   Guild Conquest Tournament can be entered via &amp;lsquo;Donard&amp;rsquo; NPC in Velika, Highwatch, Balderon  Entry is limited from 1 Guild Member up to player limit stated on Guild Conquest Tournament information  Guild Conquest Tournament is separated into Guild ranking and individual ranking, and reward is distributed to guild and individuals depending on rank  Guild ranking is based on the sum of all guild members&amp;rsquo; highest points Individual ranking is based on individual highest point        2.</description>
     </item>
     
     <item>

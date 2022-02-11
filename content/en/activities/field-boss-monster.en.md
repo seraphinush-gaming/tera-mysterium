@@ -1,7 +1,7 @@
 +++
 date = "2018-12-20"
-lastmod = "2021-09-21"
-title = "Field Boss Monster"
+lastmod = "2022-02-10"
+title = "Field Boss Monster (legacy)"
 categories = ["activities"]
 tags = ["field boss monster"]
 sources = [
@@ -29,6 +29,8 @@ In patch v86.03, Field Boss Monster **LB-1** was added. In patch v87.02, LB-1 wa
 In patch v86.05, Field Boss Monster **Azkan** was to be added but was indefinitely delayed to due lag issues.
 
 In patch v90.01, **Rally Quest** to defeat Field Boss Monsters was added. In patch v91.01, Rally Quest to defeat Field Boss Monsters was changed back to previously existing Rally Quest to defeat named monsters.
+
+**In patch v114.01, Field Boss Monsters were removed.**
 
 ## Lag issues
 

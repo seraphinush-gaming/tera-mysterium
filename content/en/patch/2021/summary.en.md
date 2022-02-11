@@ -229,7 +229,7 @@ weight = 1
 - v111.02.01
 
 - v112.01
-  - **New content** : Guild Conquest Tournament (pl.)
+  - **New content** : Guild Conquest Ranked Battle
   - Class balance (Reaper, Sorcerer, Warrior)
   - **New item** : Back accessory etching
   - Open world : Updated Island of Dawn
@@ -254,17 +254,17 @@ weight = 1
 - v113.02.01
 
 - v114.01
-  - **New dungeon : Frozen Throne (pl.)**
-  - **New dungeon : Frozen Throne (hard) (pl.)**
-  - **New dungeon : Frozen Throne (pl.) (1-Person)**
-  - **New dungeon : Revived Manaya's Core (pl.)**
-  - **New dungeon : Revived Manaya's Core (pl.) (1-Person)**
+  - **New dungeon : Ice Throne**
+  - **New dungeon : Ice Throne (hard)**
+  - **New dungeon : Ice Throne (1-Person)**
+  - **New dungeon : Hall of the Argon Queen (hard)**
+  - **New dungeon : Hall of the Argon Queen (hard) (1-Person)**
   - Dungeon : Reopened Antaroth's Abyss (hard), Shadow Sanguinary (hard), Thaumetal Refinery, Macellarius Catacombs, Forbidden Arena [Hagufna]
   - Dungeon : Removed Akalath Quarantine, Bahaar's Sanctum, Damned Citadel, Desolarus Testing Ground, Fusion Laboratory, Fusion Laboratory (hard), Stormed Citadel, Velik's Hold, Abscess, Grotto of Lost Souls, Draakon Arena, Catalepticon
   - **New content : FROZEN season**
   - Content : Ended AWAKE season
-  - **New content : Class Mastery (pl.) (Slayer, Archer)**
+  - **New content : Class Change (Slayer, Archer)**
   - Class balance (Warrior, Brawler, Archer, Mystic)
-  - **New gear : Frostblossom (pl.) gear**
+  - **New gear : Frost Flower gear**
   - **New item : Rare and superior Crystals**
   - **New card : Superior Cards (4)**
