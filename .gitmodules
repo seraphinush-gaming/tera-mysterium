@@ -1,0 +1,3 @@
+[submodule "themes/hugo-mysterium"]
+	path = themes/hugo-mysterium
+	url = https://github.com/seraphinush/hugo-mysterium
