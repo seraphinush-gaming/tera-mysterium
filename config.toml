@@ -1,5 +1,5 @@
 title = "mysterium"
-baseURL = "https://tera-mysterium.com"
+baseURL = "https://seraphinush-gaming.github.io/mysterium"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-mysterium"
@@ -15,11 +15,8 @@ favicon = true
 logo = true
 
 [params.analytics]
-client = "UA-66500356-2"
 
 [params.adsense]
-client = "ca-pub-3598595244893452"
-inArticleSlot = "9853832383"
 
 [Languages]
 [Languages.en]
@@ -31,9 +28,6 @@ inArticleSlot = "9853832383"
   [[Languages.en.params.nav]]
     title = "Twitch"
     url = "https://www.twitch.tv/seraphinush"
-  [[Languages.en.params.nav]]
-    title = "Patreon"
-    url = "https://www.patreon.com/seraphinush"
   [[Languages.en.params.nav]]
     title = "Feedback"
     url = "https://github.com/seraphinush-gaming/mysterium/issues"
@@ -47,9 +41,6 @@ inArticleSlot = "9853832383"
   [[Languages.ko.params.nav]]
     title = "트위치"
     url = "https://www.twitch.tv/seraphinush"
-  [[Languages.ko.params.nav]]
-    title = "페이트리온"
-    url = "https://www.patreon.com/seraphinush"
   [[Languages.ko.params.nav]]
     title = "피드백"
     url = "https://github.com/seraphinush-gaming/mysterium/issues"

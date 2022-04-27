@@ -32,11 +32,3 @@ Visit blog at : [https://tera-mysterium.com/](https://tera-mysterium.com)
       - 2021
 
 </details>
-
-## Misc
-
-RSS link
-
-```
-https://tera-mysterium.com/en/index.xml
-```
