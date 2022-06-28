@@ -1,6 +1,6 @@
 title = "mysterium"
-baseURL = "https://seraphinush-gaming.github.io/mysterium"
-publishDir = "docs"
+baseURL = "https://seraphinush-gaming.github.io/tera-mysterium"
+publishDir = "public"
 languageCode = "en-us"
 theme = "hugo-mysterium"
 defaultContentLanguage = "en"
