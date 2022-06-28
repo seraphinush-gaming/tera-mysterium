@@ -1,0 +1,167 @@
+/* single */
+
+.post {
+  margin: 10px 25px;
+}
+
+.post img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.table-wrapper {
+  margin-top: 14px;
+  margin-bottom: 14px;
+  overflow-x: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #CCC;
+}
+
+th, td {
+  padding: 4px;
+}
+
+ul {
+  list-style-type: circle;
+  padding-left: 16px;
+}
+
+ol {
+  padding-left: 16px;
+}
+
+code {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+pre {
+  margin: 10px 0;
+  padding: 14px;
+  background-color: var(--color-code) !important;
+}
+
+p code, li code, table code {
+  margin: 2px 2px;
+  padding: 1px 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--color-code-border);
+  border-radius: 3px;
+}
+
+p {
+  line-height: 1.8em;
+}
+
+.frontmatter {
+  margin-bottom: 25px;
+}
+
+.sources {
+  margin-top: 25px;
+}
+
+/* list, section, taxonomy  */
+
+.path {
+  color: var(--color-font-light);
+}
+
+.items-title {
+  color: var(--color-header);
+  margin-bottom: 20px;
+}
+
+.items {
+  background-color: var(--color-bg-bold);
+  border-radius: 10px;
+}
+
+.item {
+  padding: 5px 20px;
+  min-height: 50px;
+}
+
+.item:hover {
+  background-color: var(--color-code);
+}
+
+.item-title {
+  color: var(--color-font);
+}
+
+.tag {
+  margin: 5px 0;
+  color: var(--color-font-light);
+}
+
+/* responsive */
+
+@media screen and (min-width: 0px) {
+  .paths, .path {
+    font-size: 12px;
+  }
+  /* post */
+  .table-wrapper {
+    width: 100%;
+  }
+  /* list, section, taxonomy  */
+  .items {
+    padding: 20px 0;
+  }
+  .item {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .item h4 {
+    margin: 0px;
+  }
+  .tag {
+    margin-right: 10px;
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  /* post */
+  .table-wrapper {
+    max-width: 80% !important;
+  }
+  table {
+    white-space: nowrap;
+  }
+  /* list, section, taxonomy  */
+  .item {
+    flex-direction: row;
+    align-items: center;
+    justify-content: unset;
+  }
+  .tag {
+    margin-left: 10px;
+    margin-right: 0px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .paths, .path {
+    font-size: 16px;
+  }
+  /* list, section, taxonomy  */
+  .tag {
+    font-size: 16px;
+  }
+}
