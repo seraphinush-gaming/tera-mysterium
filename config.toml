@@ -1,4 +1,4 @@
-title = "mysterium"
+title = "tera-mysterium"
 baseURL = "https://seraphinush-gaming.github.io/tera-mysterium"
 publishDir = "public"
 languageCode = "en-us"
@@ -30,7 +30,7 @@ logo = true
     url = "https://www.twitch.tv/seraphinush"
   [[Languages.en.params.nav]]
     title = "Feedback"
-    url = "https://github.com/seraphinush-gaming/mysterium/issues"
+    url = "https://github.com/seraphinush-gaming/tera-mysterium/issues"
 
 [Languages.ko]
   weight = 1
@@ -43,4 +43,4 @@ logo = true
     url = "https://www.twitch.tv/seraphinush"
   [[Languages.ko.params.nav]]
     title = "피드백"
-    url = "https://github.com/seraphinush-gaming/mysterium/issues"
+    url = "https://github.com/seraphinush-gaming/tera-mysterium/issues"
